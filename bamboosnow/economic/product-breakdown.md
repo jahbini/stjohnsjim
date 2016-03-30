@@ -1,25 +1,21 @@
 ---
 debug: ""
-title: 'Product Breakdown'
-slug: product-breakdown
+title: 'Product Possibilites'
+slug: product-possibilities
 created: 2015-12-24T05:26:30.000Z
 lastEdited: '2016-03-17'
 published: '2015-12-31'
 author: 'James A. Hinds (Bamboo Jim)'
-category: economic/products
-categories:
-  - economic
+category: economic
+class: Story
 comments: true
-sourcePath: bamboosnow/_posts/product-breakdown.md
 siteHandle: bamboosnow
 ---
-Product prototypes for your inspiration.
-<!-- excerpt -->
-# product-breakdown
+# Product prototypes for your inspiration.
 
-These are mostly unbranded products, but prototypes for further marketing.  Production and Marketing on Saipan is severly limited by it's remote location and primitive infrastructure.
+These are mostly unbranded products, but prototypes for further marketing.  Production and Marketing on Saipan is severely limited by it's remote location and primitive infrastructure.
 
-# Products listed in increasing manufacturing cost
+## Products listed in increasing manufacturing cost
 
 ### Unprocessed
 * *Composter:* [Odor Free Compost.](/products/raw/compost) Soil amendment, too.

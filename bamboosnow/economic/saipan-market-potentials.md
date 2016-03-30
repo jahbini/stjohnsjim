@@ -2,7 +2,7 @@
 debug: ""
 title: 'Saipan Market Potentials'
 author: 'James A. Hinds'
-category: economic/saipan
+category: economic
 slug: saipan-market-potentials
 categories:
   - economic
@@ -15,7 +15,6 @@ tags:
   - other
   - tourist
 date: 2015-12-23T14:00:00.000Z
-sourcePath: bamboosnow/_drafts/saipan-market.md
 siteHandle: bamboosnow
 ---
 ## Analysis of Saipan Market Potential for Products from Bamboo Snow
