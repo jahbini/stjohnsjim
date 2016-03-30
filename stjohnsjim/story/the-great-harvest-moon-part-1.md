@@ -1,27 +1,22 @@
 ---
-numericId: 7
+debug: ""
 className: Story
 created: '2010-09-28 10:26:39'
 lastEdited: '2010-11-21 11:17:20'
 title: 'The Great Harvest Moon - Part 1'
 published: '2010-11-21 11:17:20'
 category: story
-nextID: 0
-previousID: 0
 slug: the-great-harvest-moon-part-1
-_options:
-  layout: default
-  partials: ""
 snippets:
   'first name': 'first name'
-path: story/the-great-harvest-moon-part-1.md
-sitePath: stjohnsjim
 domain: stjohnsjim.com
 hVersion: 0.1
 memberOf:
   - GUNAS
   - TAROT
   - PDX
+sourcePath: stjohnsjim/story/the-great-harvest-moon-part-1.md
+siteHandle: stjohnsjim
 ---
 &nbsp;The Great Harvest moon is over, it's Tuesday morning and I'm safe, for now, at the James John Cafe.
 

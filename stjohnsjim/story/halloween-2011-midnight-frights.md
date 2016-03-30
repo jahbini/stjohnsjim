@@ -1,27 +1,22 @@
 ---
-numericId: 180
+debug: ""
 className: Story
 created: '2011-10-31 18:38:59'
 lastEdited: '2011-10-31 18:40:40'
 title: 'Halloween 2011 -- Midnight Frights!'
 published: '2011-10-31 18:39:00'
 category: story
-nextID: 0
-previousID: 0
 slug: halloween-2011-midnight-frights
-_options:
-  layout: default
-  partials: ""
 snippets:
   halloeve: halloeve
-path: story/halloween-2011-midnight-frights.md
 handle: Halloend
-sitePath: stjohnsjim
 domain: stjohnsjim.com
 hVersion: 0.1
 memberOf:
   - GUNAS
   - TAROT
+sourcePath: stjohnsjim/story/halloween-2011-midnight-frights.md
+siteHandle: stjohnsjim
 ---
 The Cougar got it all figured out now. Southwick, that goody-goody, had put the final {{{Halloeve:pieces together}}} for her.
 

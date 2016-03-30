@@ -1,5 +1,5 @@
 ---
-numericId: 167
+debug: ""
 className: Story
 created: '2011-09-03 09:47:20'
 lastEdited: '2011-09-03 09:47:20'
@@ -7,20 +7,15 @@ title: 'Death - XIII'
 published: '2011-09-03 09:47:20'
 tagList: 'tarot, death'
 category: tarot
-nextID: 0
-previousID: 0
 slug: death-xiii
-_options:
-  layout: default
-  partials: ""
 snippets: {  }
-path: tarot/death-xiii.md
 handle: death
-sitePath: stjohnsjim
 domain: stjohnsjim.com
 hVersion: 0.1
 memberOf:
   - TAROT
+sourcePath: stjohnsjim/tarot/death-xiii.md
+siteHandle: stjohnsjim
 ---
  _**Snap**_went the shutter at the tent.
 

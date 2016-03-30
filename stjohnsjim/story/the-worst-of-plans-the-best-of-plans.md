@@ -1,27 +1,22 @@
 ---
-numericId: 23
+debug: ""
 className: Story
 created: '2010-10-10 13:22:21'
 lastEdited: '2010-10-24 10:47:55'
 title: 'The Worst of Plans, the Best of Plans.'
 published: '2010-10-24 10:47:55'
 category: story
-nextID: 0
-previousID: 0
 slug: the-worst-of-plans-the-best-of-plans
-_options:
-  layout: default
-  partials: ""
 snippets:
   'first name': 'first name'
-path: story/the-worst-of-plans-the-best-of-plans.md
-sitePath: stjohnsjim
 domain: stjohnsjim.com
 hVersion: 0.1
 memberOf:
   - GUNAS
   - TAROT
   - PDX
+sourcePath: stjohnsjim/story/the-worst-of-plans-the-best-of-plans.md
+siteHandle: stjohnsjim
 ---
  The House at 3 Gunas Lp belongs to Tommy.&nbsp; Actually, it might be called Tommy, OR in honor of of the first citizen.&nbsp; There are lots of these Tommy, OR homes.&nbsp; Mostly, these are old-growth families, pre-60's locals.&nbsp; They have come a long way from their old public behaviors, but the values of the working class of that time rules:&nbsp; &quot;It's my RIGHT to open a chain-saw recreation area!&quot; , and of course, &quot;The river cleans itself.&quot;&nbsp; Fifty years later, it still is there.&nbsp; I remember it.&nbsp; It's in my roots too.&nbsp; Deep change takes time.
 

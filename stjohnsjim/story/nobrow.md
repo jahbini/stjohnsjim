@@ -1,25 +1,20 @@
 ---
-numericId: 156
+debug: ""
 className: Story
 created: '2011-07-10 15:33:31'
 lastEdited: '2011-07-10 15:33:31'
 title: NoBrow
 published: '2011-07-10 15:33:31'
 category: story
-nextID: 0
-previousID: 0
 slug: nobrow
-_options:
-  layout: default
-  partials: ""
 snippets: {  }
-path: story/nobrow.md
-sitePath: stjohnsjim
 domain: stjohnsjim.com
 hVersion: 0.1
 memberOf:
   - TAROT
   - PDX
+sourcePath: stjohnsjim/story/nobrow.md
+siteHandle: stjohnsjim
 ---
 A cheerful guy, for a street person. Cheerful and connected. He looks normal, only tiny bit odd, until you notice that he has no eyebrows at all. Everybody calls him Nobrow.
 

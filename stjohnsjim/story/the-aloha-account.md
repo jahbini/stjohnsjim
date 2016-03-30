@@ -1,25 +1,20 @@
 ---
-numericId: 144
+debug: ""
 className: Story
 created: '2011-05-25 17:55:05'
 lastEdited: '2011-05-25 18:26:37'
 title: 'The Aloha Account'
 published: '2011-05-25 18:26:37'
 category: story
-nextID: 0
-previousID: 0
 slug: the-aloha-account
-_options:
-  layout: default
-  partials: ""
 snippets:
   'first name': 'first name'
-path: story/the-aloha-account.md
-sitePath: stjohnsjim
 domain: stjohnsjim.com
 hVersion: 0.1
 memberOf:
   - TAROT
+sourcePath: stjohnsjim/story/the-aloha-account.md
+siteHandle: stjohnsjim
 ---
 I have run into lean times lately: until I get my Honorary Ph.D. in Literature from CRUD University and have my best selling novels carry me into economic bliss, I have to deal with limited income and OMG debts.
 

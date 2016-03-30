@@ -1,20 +1,19 @@
 ---
-numericId: 146
+debug: ""
 className: Story
 created: '2011-05-30 17:02:47'
 lastEdited: '2011-05-30 21:03:21'
 title: 'Bouncy Boom Gets Her Skates'
 published: '2011-05-30 21:03:21'
 category: roller-derby
-nextID: 0
-previousID: 0
 slug: bouncy-boom-gets-her-skates
 snippets: {  }
-sitePath: stjohnsjim
 domain: stjohnsjim.com
 hVersion: 0.1
 memberOf:
   - TAROT
+sourcePath: stjohnsjim/roller-derby/bouncy-boom-gets-her-skates.md
+siteHandle: stjohnsjim
 ---
 Every great industry has a folk hero: Paul Bunyan, John Henry, Pecos Bill all represent mainstream working class archetypes. All men. &nbsp;Roller Derby is bigger than all of those old industries: Logging, Railroading or Cattle. &nbsp;Roller Derby is too much for mere men. &nbsp;Only the finest amazons allowed, you know.
 

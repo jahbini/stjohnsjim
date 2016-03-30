@@ -1,25 +1,20 @@
 ---
-numericId: 106
+debug: ""
 className: Story
 created: '2010-12-27 08:51:21'
 lastEdited: '2010-12-27 12:02:34'
 title: 'Boxing day'
 published: '2010-12-27 12:02:34'
 category: story
-nextID: 0
-previousID: 0
 slug: boxing-day
-_options:
-  layout: default
-  partials: ""
 snippets: {  }
-path: story/boxing-day.md
-sitePath: stjohnsjim
 domain: stjohnsjim.com
 hVersion: 0.1
 memberOf:
   - GUNAS
   - TAROT
+sourcePath: stjohnsjim/story/boxing-day.md
+siteHandle: stjohnsjim
 ---
 I woke up under the bridge: my Christmas present is new lodgings on Portland&rsquo;s rustic Malibu. The lodgings are more convenient, more congenial and more spacious. I give up easy access to Pier Park, but gain a garden. It offers a great view, but the whole thing might fall into the water.
 

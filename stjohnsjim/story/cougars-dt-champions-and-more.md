@@ -1,27 +1,22 @@
 ---
-numericId: 30
+debug: ""
 className: Story
 created: '2010-10-19 13:20:45'
 lastEdited: '2010-10-22 13:39:51'
 title: 'Cougars, DT Champions, and more'
 published: '2010-10-19 14:17:58'
 category: story
-nextID: 0
-previousID: 0
 slug: cougars-dt-champions-and-more
-_options:
-  layout: default
-  partials: ""
 snippets:
   'first name': 'first name'
-path: story/cougars-dt-champions-and-more.md
-sitePath: stjohnsjim
 domain: stjohnsjim.com
 hVersion: 0.1
 memberOf:
   - GUNAS
   - TAROT
   - PDX
+sourcePath: stjohnsjim/story/cougars-dt-champions-and-more.md
+siteHandle: stjohnsjim
 ---
 Rate the Pubs Department:
 

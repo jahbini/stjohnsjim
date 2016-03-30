@@ -1,24 +1,19 @@
 ---
-numericId: 56
+debug: ""
 className: Story
 created: '2010-11-12 16:53:25'
 lastEdited: '2010-11-12 18:04:12'
 title: 'Deadwood?'
 published: '2010-11-12 18:04:12'
 category: story
-nextID: 0
-previousID: 0
 slug: deadwood
-_options:
-  layout: default
-  partials: ""
 snippets: {  }
-path: story/deadwood.md
-sitePath: stjohnsjim
 domain: stjohnsjim.com
 hVersion: 0.1
 memberOf:
   - TAROT
+sourcePath: stjohnsjim/story/deadwood.md
+siteHandle: stjohnsjim
 ---
 _Wet, Cold, Biting: harsh reality. &nbsp; Maybe why I&rsquo;m writing on exactly the opposite.&nbsp; This is a fictional backstory for something out of the old west. &nbsp;Situations, motivations and facts have been made up (ha, ha, that's fiction.) But I think it will make a good bit of fun to reach the end. &nbsp;And even then, the facts don't fit, that only adds to the fun the_[_anal_][0]_really have with this kind of fiction!_
 

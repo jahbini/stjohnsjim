@@ -1,27 +1,22 @@
 ---
-numericId: 24
+debug: ""
 className: Story
 created: '2010-10-13 11:34:24'
 lastEdited: '2010-10-13 12:40:30'
 title: 'Simple Scientific Reality'
 published: '2010-10-13 12:40:30'
 category: story
-nextID: 0
-previousID: 0
 slug: simple-scientific-reality
-_options:
-  layout: default
-  partials: ""
 snippets:
   'first name': 'first name'
-path: story/simple-scientific-reality.md
-sitePath: stjohnsjim
 domain: stjohnsjim.com
 hVersion: 0.1
 memberOf:
   - GUNAS
   - TAROT
   - PDX
+sourcePath: stjohnsjim/story/simple-scientific-reality.md
+siteHandle: stjohnsjim
 ---
  I had another dentist appointment.&nbsp; It took about two hours for them to find the right anasthetic.&nbsp; As the third round of injections kicked in I had enough time to read the National Scientific magazine.&nbsp; In there it mentioned that Science now believes [time is an illusion][0].
 

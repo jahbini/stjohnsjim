@@ -1,27 +1,22 @@
 ---
-numericId: 55
+debug: ""
 className: Story
 created: '2010-11-11 16:04:08'
 lastEdited: '2010-11-11 17:34:53'
 title: 'Dishwasher to the Prickly Tickly'
 published: '2010-11-11 17:34:53'
 category: story
-nextID: 0
-previousID: 0
 slug: dishwasher-to-the-prickly-tickly
-_options:
-  layout: default
-  partials: ""
 snippets:
   'first name': 'first name'
-path: story/dishwasher-to-the-prickly-tickly.md
-sitePath: stjohnsjim
 domain: stjohnsjim.com
 hVersion: 0.1
 memberOf:
   - GUNAS
   - TAROT
   - PDX
+sourcePath: stjohnsjim/story/dishwasher-to-the-prickly-tickly.md
+siteHandle: stjohnsjim
 ---
 Veterans Day, 2010:&nbsp; Mark your calendars &mdash; this is the day the Portland starts wearing longjohns 24/7 &mdash; Whizzing has just gotten astronomically more difficult.
 

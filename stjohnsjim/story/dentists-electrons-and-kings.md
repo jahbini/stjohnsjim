@@ -1,27 +1,22 @@
 ---
-numericId: 22
+debug: ""
 className: Story
 created: '2010-10-09 12:35:36'
 lastEdited: '2010-10-09 14:58:44'
 title: 'Dentists, Electrons and Kings'
 published: '2010-10-09 14:58:44'
 category: story
-nextID: 0
-previousID: 0
 slug: dentists-electrons-and-kings
-_options:
-  layout: default
-  partials: ""
 snippets:
   'first name': 'first name'
-path: story/dentists-electrons-and-kings.md
-sitePath: stjohnsjim
 domain: stjohnsjim.com
 hVersion: 0.1
 memberOf:
   - GUNAS
   - TAROT
   - PDX
+sourcePath: stjohnsjim/story/dentists-electrons-and-kings.md
+siteHandle: stjohnsjim
 ---
  Hi, {{{First Name}}},&nbsp;I had asked Southwick to send out yesterday's story, I hope it got through to you: it had the wrong return address.&nbsp; Xin Loi Bah.&nbsp; I had to go across town to the Dental School:&nbsp; I get to help a student learn his craft.&nbsp; My tooth might get a diamond inlay.&nbsp; More likely my tooth gets a root canal.
 

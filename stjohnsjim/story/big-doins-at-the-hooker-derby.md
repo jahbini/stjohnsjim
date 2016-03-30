@@ -1,26 +1,21 @@
 ---
-numericId: 131
+debug: ""
 className: Story
 created: '2011-03-23 17:30:57'
 lastEdited: '2011-09-10 12:56:35'
 title: 'Big Doin''s at the Hooker Derby'
 published: '2011-03-23 18:04:24'
 category: story
-nextID: 0
-previousID: 0
 slug: big-doins-at-the-hooker-derby
-_options:
-  layout: default
-  partials: ""
 snippets:
   wheelwho: wheelwho
-path: story/big-doins-at-the-hooker-derby.md
-sitePath: stjohnsjim
 domain: stjohnsjim.com
 hVersion: 0.1
 memberOf:
   - GUNAS
   - TAROT
+sourcePath: stjohnsjim/story/big-doins-at-the-hooker-derby.md
+siteHandle: stjohnsjim
 ---
 The street people are coming back! Sandy, the winner of the Oregon Filth Flee Range Delerium Tremens for three years running is back and bubbling with new stories and news from the street.
 

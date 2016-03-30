@@ -1,24 +1,19 @@
 ---
-numericId: 128
+debug: ""
 className: Story
 created: '2011-03-04 20:22:41'
 lastEdited: '2011-03-04 20:34:01'
 title: 'Fugue State'
 published: '2011-03-04 20:34:01'
 category: story
-nextID: 0
-previousID: 0
 slug: fugue-state
-_options:
-  layout: default
-  partials: ""
 snippets: {  }
-path: story/fugue-state.md
-sitePath: stjohnsjim
 domain: stjohnsjim.com
 hVersion: 0.1
 memberOf:
   - TAROT
+sourcePath: stjohnsjim/story/fugue-state.md
+siteHandle: stjohnsjim
 ---
 I ran into a man in a fugue state yesterday. Not me this time, but him. And seriously. He seemed happy, open and eager and intelligent and wanted one of my &ldquo;Bliss Quest&rdquo; sessions. I explained what it is and what it is intended to do.
 

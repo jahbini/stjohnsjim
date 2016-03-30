@@ -1,5 +1,5 @@
 ---
-numericId: 187
+debug: ""
 className: Story
 created: '2012-05-17 15:20:15'
 lastEdited: '2012-06-01 19:59:47'
@@ -7,21 +7,16 @@ title: 'Dateline: St. John''s! Breaking News!'
 published: '2012-05-17 15:20:15'
 tagList: 'st johns, news'
 category: story
-nextID: 0
-previousID: 0
 slug: dateline-st-johns-breaking-news
-_options:
-  layout: default
-  partials: ""
 snippets: {  }
-path: story/dateline-st-johns-breaking-news.md
-sitePath: stjohnsjim
 domain: stjohnsjim.com
 hVersion: 0.1
 memberOf:
   - GUNAS
   - TAROT
   - PDX
+sourcePath: stjohnsjim/story/dateline-st-johns-breaking-news.md
+siteHandle: stjohnsjim
 ---
 It is a spring day in St. John's - Dehydration for everybody! No matter where you are in St. Johns, You can't see all of the glorious bridge! Slim's has run out of Pabst again! Dog fights at Cathedral Park! Kinks songs still not playing at the James John Cafe.
 

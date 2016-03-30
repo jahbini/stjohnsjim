@@ -1,27 +1,22 @@
 ---
-numericId: 21
+debug: ""
 className: Story
 created: '2010-10-08 12:18:46'
 lastEdited: '2010-11-13 14:53:19'
 title: 'Southwick''s report on Al''s Crotch-Rocket'
 published: '2010-10-08 12:37:00'
 category: story
-nextID: 0
-previousID: 0
 slug: southwicks-report-on-als-crotch-rocket
-_options:
-  layout: default
-  partials: ""
 snippets:
   'first name': 'first name'
-path: story/southwicks-report-on-als-crotch-rocket.md
-sitePath: stjohnsjim
 domain: stjohnsjim.com
 hVersion: 0.1
 memberOf:
   - GUNAS
   - TAROT
   - PDX
+sourcePath: stjohnsjim/story/southwicks-report-on-als-crotch-rocket.md
+siteHandle: stjohnsjim
 ---
 Hi, this is Southwick. &nbsp;St. John's Jim had to leave the James John Cafe early to get to a dental appointment. &nbsp;Since the Cafe is at a secret location, it takes quite a while to escort him blindfolded out. &nbsp;He asked me to fill in.
 

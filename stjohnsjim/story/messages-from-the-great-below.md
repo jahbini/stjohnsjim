@@ -1,24 +1,19 @@
 ---
-numericId: 125
+debug: ""
 className: Story
 created: '2011-02-11 19:33:55'
 lastEdited: '2011-02-11 20:22:04'
 title: 'Messages from the Great Below'
 published: '2011-02-11 20:22:04'
 category: story
-nextID: 0
-previousID: 0
 slug: messages-from-the-great-below
-_options:
-  layout: default
-  partials: ""
 snippets: {  }
-path: story/messages-from-the-great-below.md
-sitePath: stjohnsjim
 domain: stjohnsjim.com
 hVersion: 0.1
 memberOf:
   - GUNAS
+sourcePath: stjohnsjim/story/messages-from-the-great-below.md
+siteHandle: stjohnsjim
 ---
 I woke up this morning with this cryptic note on my computer. I have no explanation except that Southwick has been telling me too many alien abduction stories lately. &nbsp;I think one of them has caught up with me - as I read it I wondered if I am I an alien that has abducted myself?
 

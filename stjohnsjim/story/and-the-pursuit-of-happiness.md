@@ -1,27 +1,22 @@
 ---
-numericId: 58
+debug: ""
 className: Story
 created: '2010-11-14 14:34:03'
 lastEdited: '2010-11-14 16:02:17'
 title: 'And the Pursuit of Happiness'
 published: '2010-11-14 16:02:17'
 category: story
-nextID: 0
-previousID: 0
 slug: and-the-pursuit-of-happiness
-_options:
-  layout: default
-  partials: ""
 snippets:
   'first name': 'first name'
-path: story/and-the-pursuit-of-happiness.md
-sitePath: stjohnsjim
 domain: stjohnsjim.com
 hVersion: 0.1
 memberOf:
   - GUNAS
   - TAROT
   - PDX
+sourcePath: stjohnsjim/story/and-the-pursuit-of-happiness.md
+siteHandle: stjohnsjim
 ---
 {{{First Name}}}, my closest friends have lamented that I&rsquo;m not telling MY story.&nbsp; What&rsquo;s happening in Jim&rsquo;s life?&nbsp; While the details are incredibly boring, Not Safe For Work (NSFW), and would simply be indiscrete to mention here, I can give you a pretty accurate view of &ldquo;whassup!?&rdquo; &nbsp;So while _The St. John's Lighthouse_ is me telling the story of St. John's, I thought I'd mention what St. John's most famous citizen (me) is up to.
 

@@ -1,23 +1,18 @@
 ---
-numericId: 110
+debug: ""
 className: Story
 created: '2011-01-01 18:16:10'
 lastEdited: '2011-01-01 18:35:30'
 title: 'The Big Rock Candy New Year'
 published: '2011-01-01 18:35:30'
 category: story
-nextID: 0
-previousID: 0
 slug: the-big-rock-candy-new-year
-_options:
-  layout: default
-  partials: ""
 snippets: {  }
-path: story/the-big-rock-candy-new-year.md
-sitePath: stjohnsjim
 domain: stjohnsjim.com
 hVersion: 0.1
 memberOf: []
+sourcePath: stjohnsjim/story/the-big-rock-candy-new-year.md
+siteHandle: stjohnsjim
 ---
 I&rsquo;m starting this year as if everything will be fabulous. Screw the resolutions, Let&rsquo;s go for end-times perfection. Hey, let&rsquo;s plan big in 2011.
 

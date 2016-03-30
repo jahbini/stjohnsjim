@@ -1,17 +1,12 @@
 ---
-numericId: 181
+debug: ""
 className: Story
 created: '2011-11-12 12:20:40'
 lastEdited: '2011-11-13 13:07:14'
 title: 'Maslow and Celarien Tarot'
 published: '2011-11-12 12:20:40'
 category: tarot
-nextID: 0
-previousID: 0
 slug: maslow-and-celarien-tarot
-_options:
-  layout: default
-  partials: ""
 snippets:
   'sw#k': 'sw#k'
   'sw#1': 'sw#1'
@@ -25,12 +20,12 @@ snippets:
   'sw#9': 'sw#9'
   'sw#10': 'sw#10'
   kp: kp
-path: tarot/maslow-and-celarien-tarot.md
-sitePath: stjohnsjim
 domain: stjohnsjim.com
 hVersion: 0.1
 memberOf:
   - TAROT
+sourcePath: stjohnsjim/tarot/maslow-and-celarien-tarot.md
+siteHandle: stjohnsjim
 ---
 The Tarot is a set of 72 archetypes. There are archetypes that describe roles (e.g. High Priestess, Heirophant), situations (e.g. The tower, most of the Minor Arcana), and achievements: (e.g. the star, the sun) -- (the Tarot does not address the change of situations as the I Ching does)
 

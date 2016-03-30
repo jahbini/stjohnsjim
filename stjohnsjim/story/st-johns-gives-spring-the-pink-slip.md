@@ -1,25 +1,20 @@
 ---
-numericId: 129
+debug: ""
 className: Story
 created: '2011-03-10 21:32:47'
 lastEdited: '2011-03-10 21:52:38'
 title: 'St. John''s Gives Spring the Pink Slip'
 published: '2011-03-10 21:52:38'
 category: story
-nextID: 0
-previousID: 0
 slug: st-johns-gives-spring-the-pink-slip
-_options:
-  layout: default
-  partials: ""
 snippets:
   'first name': 'first name'
-path: story/st-johns-gives-spring-the-pink-slip.md
-sitePath: stjohnsjim
 domain: stjohnsjim.com
 hVersion: 0.1
 memberOf:
   - TAROT
+sourcePath: stjohnsjim/story/st-johns-gives-spring-the-pink-slip.md
+siteHandle: stjohnsjim
 ---
 I&rsquo;m walking up into St. John&rsquo;s early. It&rsquo;s a little after 8AM. It&rsquo;s the breezy part of March. Wayne is cutting hair. People are in front of Slim&rsquo;s enjoying the weather and watching the passing parade. I walk on to Starbuck&rsquo;s. The thought hits me: &ldquo;Enjoying the Weather.&rdquo;
 

@@ -1,21 +1,22 @@
 ---
+debug: ""
 className: category
-created: 'now'
-lastEdited: 'now'
+created: now
+lastEdited: now
 title: 'Backstories of the stories'
-published: 'now'
-tagList: ''
+published: now
+tagList: ""
 category: backstory
-slug: 'index'
-path: backstory/index.md
-sitePath: stjohnsjim
+slug: index
 headlines:
- - "Strange, but not so true..."
- - "All the best rumors about the characters"
- - "Hidden secrets of the idiots"
- - "Fun rumors"
- - "Conjecture, but still good. Maybe."
+  - 'Strange, but not so true...'
+  - 'All the best rumors about the characters'
+  - 'Hidden secrets of the idiots'
+  - 'Fun rumors'
+  - 'Conjecture, but still good. Maybe.'
 domain: stjohnsjim.com
 hVersion: 0.1
+sourcePath: stjohnsjim/backstory/index.md
+siteHandle: stjohnsjim
 ---
 &nbsp;

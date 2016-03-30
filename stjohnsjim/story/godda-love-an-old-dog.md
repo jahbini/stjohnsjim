@@ -1,26 +1,21 @@
 ---
-numericId: 32
+debug: ""
 className: Story
 created: '2010-10-21 13:09:50'
 lastEdited: '2010-10-23 16:56:07'
 title: 'Godda Love an Old Dog'
 published: '2010-10-23 16:56:07'
 category: story
-nextID: 0
-previousID: 0
 slug: godda-love-an-old-dog
-_options:
-  layout: default
-  partials: ""
 snippets:
   'first name': 'first name'
-path: story/godda-love-an-old-dog.md
-sitePath: stjohnsjim
 domain: stjohnsjim.com
 hVersion: 0.1
 memberOf:
   - TAROT
   - PDX
+sourcePath: stjohnsjim/story/godda-love-an-old-dog.md
+siteHandle: stjohnsjim
 ---
 &nbsp;I'm walking into town, it's cold and I'm thinking the crema on James John Cafe espresso is thicker than the blankets in Honolulu.&nbsp; Maybe some St. John's blankets, too.
 

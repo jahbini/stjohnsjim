@@ -1,26 +1,21 @@
 ---
-numericId: 88
+debug: ""
 className: Story
 created: '2010-12-09 16:29:33'
 lastEdited: '2010-12-09 17:20:23'
 title: 'Tommy Starts A Bed and Breakfast'
 published: '2010-12-09 17:20:23'
 category: story
-nextID: 0
-previousID: 0
 slug: tommy-starts-a-bed-and-breakfast
-_options:
-  layout: default
-  partials: ""
 snippets:
   'first name': 'first name'
-path: story/tommy-starts-a-bed-and-breakfast.md
-sitePath: stjohnsjim
 domain: stjohnsjim.com
 hVersion: 0.1
 memberOf:
   - GUNAS
   - TAROT
+sourcePath: stjohnsjim/story/tommy-starts-a-bed-and-breakfast.md
+siteHandle: stjohnsjim
 ---
 {{{First Name}}}, Every so often one of you give me a reply that gives me hope for humanity. And gives me a great image.&nbsp; I hope you recognize it below and approve.
 

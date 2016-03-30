@@ -1,5 +1,5 @@
 ---
-numericId: 186
+debug: ""
 className: Story
 created: '2012-04-03 15:30:27'
 lastEdited: '2012-04-03 15:30:40'
@@ -7,19 +7,14 @@ title: 'Anna Played Piana'
 published: '2012-04-03 15:30:27'
 tagList: 'liberace, homosexuality, marylin monroe,'
 category: story
-nextID: 0
-previousID: 0
 slug: anna-played-piana
-_options:
-  layout: default
-  partials: ""
 snippets: {  }
-path: story/anna-played-piana.md
-sitePath: stjohnsjim
 domain: stjohnsjim.com
 hVersion: 0.1
 memberOf:
   - TAROT
+sourcePath: stjohnsjim/story/anna-played-piana.md
+siteHandle: stjohnsjim
 ---
 "_My Anna played Piana in a bar in Singapore, till one day a sailor man from turkey-stan came knocking at the door._" -- **Walt Kelly**
 

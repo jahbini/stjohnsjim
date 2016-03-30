@@ -1,24 +1,19 @@
 ---
-numericId: 141
+debug: ""
 className: Story
 created: '2011-04-30 16:45:38'
 lastEdited: '2011-04-30 19:27:38'
 title: 'Earth and Sky'
 published: '2011-04-30 16:51:45'
 category: story
-nextID: 0
-previousID: 0
 slug: earth-and-sky
-_options:
-  layout: default
-  partials: ""
 snippets: {  }
-path: story/earth-and-sky.md
-sitePath: stjohnsjim
 domain: stjohnsjim.com
 hVersion: 0.1
 memberOf:
   - TAROT
+sourcePath: stjohnsjim/story/earth-and-sky.md
+siteHandle: stjohnsjim
 ---
 have two children: Lightning and Cloud. They live near me on the bluffs of St. John&rsquo;s exclusive Malibu district.
 

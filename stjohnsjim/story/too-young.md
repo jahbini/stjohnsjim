@@ -1,23 +1,18 @@
 ---
-numericId: 152
+debug: ""
 className: Story
 created: '2011-06-14 17:02:44'
 lastEdited: '2011-06-14 17:17:02'
 title: 'Too Young?'
 published: '2011-06-14 17:17:02'
 category: story
-nextID: 0
-previousID: 0
 slug: too-young
-_options:
-  layout: default
-  partials: ""
 snippets: {  }
-path: story/too-young.md
-sitePath: stjohnsjim
 domain: stjohnsjim.com
 hVersion: 0.1
 memberOf: []
+sourcePath: stjohnsjim/story/too-young.md
+siteHandle: stjohnsjim
 ---
 I saw a performance by a Jackie Evancho, a truly gifted child with a fabulous voice. It is the kind of voice that inspires any well-connected agent to call God directly and schedule her try-out for the voice that announces the Second Coming of Christ. In song, she carries the Gravitas of Morgan Freeman, The World-Wise qualities of Nelson Mandela and the resonance of Kate Smith. She is equally at ease in duets with Barbra Streisand or Susan Boyle.
 

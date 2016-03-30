@@ -1,24 +1,19 @@
 ---
-numericId: 107
+debug: ""
 className: Story
 created: '2010-12-28 21:35:15'
 lastEdited: '2011-11-09 10:24:21'
 title: 'The Norse Psychologist Files on Thor'
 published: '2010-12-28 22:08:13'
 category: story
-nextID: 0
-previousID: 0
 slug: the-norse-psychologist-files-on-thor
-_options:
-  layout: default
-  partials: ""
 snippets: {  }
-path: story/the-norse-psychologist-files-on-thor.md
-sitePath: stjohnsjim
 domain: stjohnsjim.com
 hVersion: 0.1
 memberOf:
   - TAROT
+sourcePath: stjohnsjim/story/the-norse-psychologist-files-on-thor.md
+siteHandle: stjohnsjim
 ---
 Thor came to the writer's office shortly after the third lesser ice age. Initial presenting symptom was depression on a societal level.
 

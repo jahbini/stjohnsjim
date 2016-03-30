@@ -1,27 +1,22 @@
 ---
-numericId: 67
+debug: ""
 className: Story
 created: '2010-11-20 17:55:37'
 lastEdited: '2011-08-08 13:58:42'
 title: 'November Stretch'
 published: '2010-11-20 18:57:43'
 category: story
-nextID: 0
-previousID: 0
 slug: november-stretch
-_options:
-  layout: default
-  partials: ""
 snippets:
   'first name': 'first name'
-path: story/november-stretch.md
-sitePath: stjohnsjim
 domain: stjohnsjim.com
 hVersion: 0.1
 memberOf:
   - GUNAS
   - TAROT
   - PDX
+sourcePath: stjohnsjim/story/november-stretch.md
+siteHandle: stjohnsjim
 ---
 (Author's note, I have some subscribers who wish to read on their handheld. This is OK, and I hope you are able to follow. Some formatting is lost in text-only mode, and I will attempt to make your reading easy. Thanks for your patience.)
 

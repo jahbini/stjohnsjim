@@ -1,25 +1,20 @@
 ---
-numericId: 148
+debug: ""
 className: Story
 created: '2011-06-07 13:42:29'
 lastEdited: '2011-06-07 17:17:07'
 title: 'Coala: Harbor Cat'
 published: '2011-06-07 17:17:07'
 category: story
-nextID: 0
-previousID: 0
 slug: coala-harbor-cat
-_options:
-  layout: default
-  partials: ""
 snippets: {  }
-path: story/coala-harbor-cat.md
-sitePath: stjohnsjim
 domain: stjohnsjim.com
 hVersion: 0.1
 memberOf:
   - GUNAS
   - TAROT
+sourcePath: stjohnsjim/story/coala-harbor-cat.md
+siteHandle: stjohnsjim
 ---
 I had two cats, Cobbee and Coala, when I lived on my boat in Santa Barbara Harbor.
 

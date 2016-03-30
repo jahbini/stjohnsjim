@@ -1,25 +1,20 @@
 ---
-numericId: 5
+debug: ""
 className: Story
 created: '2010-09-26 13:55:40'
 lastEdited: '2010-10-24 10:47:53'
 title: 'Rainy September Sunday'
 published: '2010-10-24 10:47:53'
 category: story
-nextID: 0
-previousID: 0
 slug: rainy-september-sunday
-_options:
-  layout: default
-  partials: ""
 snippets: {  }
-path: story/rainy-september-sunday.md
-sitePath: stjohnsjim
 domain: stjohnsjim.com
 hVersion: 0.1
 memberOf:
   - GUNAS
   - TAROT
+sourcePath: stjohnsjim/story/rainy-september-sunday.md
+siteHandle: stjohnsjim
 ---
  (Jim's note: &nbsp;I got a big backlog of stories, and hope to get this distribution thing working with as few surprises as possible. &nbsp;Thanks for your patience as I get all the subscribe/unsubscribe HTML links in place and under control)
 

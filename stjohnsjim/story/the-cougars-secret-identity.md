@@ -1,5 +1,5 @@
 ---
-numericId: 172
+debug: ""
 className: Story
 created: '2011-10-10 13:47:35'
 lastEdited: '2011-10-11 15:59:52'
@@ -7,23 +7,18 @@ title: 'The Cougar''s Secret Identity'
 published: '2011-10-10 13:47:35'
 tagList: 'the cougar, holloween, pier park, forest park, portland'
 category: story
-nextID: 0
-previousID: 0
 slug: the-cougars-secret-identity
-_options:
-  layout: default
-  partials: ""
 snippets:
   'first name': 'first name'
   fbgender: fbgender
   tcreturn: tcreturn
-path: story/the-cougars-secret-identity.md
 handle: TCtalks
-sitePath: stjohnsjim
 domain: stjohnsjim.com
 hVersion: 0.1
 memberOf:
   - TAROT
+sourcePath: stjohnsjim/story/the-cougars-secret-identity.md
+siteHandle: stjohnsjim
 ---
 The lecture hall is small, maybe 70 seats, but the audience of high-level decision makers is riveted to Thereasa as she speaks.
 

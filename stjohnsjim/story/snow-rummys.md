@@ -1,26 +1,21 @@
 ---
-numericId: 78
+debug: ""
 className: Story
 created: '2010-11-30 15:07:52'
 lastEdited: '2010-11-30 17:40:19'
 title: 'Snow Rummys'
 published: '2010-11-30 17:40:19'
 category: story
-nextID: 0
-previousID: 0
 slug: snow-rummys
-_options:
-  layout: default
-  partials: ""
 snippets:
   'first name': 'first name'
-path: story/snow-rummys.md
-sitePath: stjohnsjim
 domain: stjohnsjim.com
 hVersion: 0.1
 memberOf:
   - GUNAS
   - TAROT
+sourcePath: stjohnsjim/story/snow-rummys.md
+siteHandle: stjohnsjim
 ---
 One of my best dumpster diving correspondents on the street has gone missing.&nbsp; No one has seen Ulysses for about a month, and I am wondering if he is one of those fabled &ldquo;Snow Rummys,&rdquo;&nbsp; You know, bums who can go south for the winter and north for the summer. &nbsp; He was pretty active, and always had his hand out, along with the same well recited lines.
 

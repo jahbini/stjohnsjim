@@ -1,26 +1,21 @@
 ---
-numericId: 139
+debug: ""
 className: Story
 created: '2011-04-24 08:38:19'
 lastEdited: '2011-04-25 22:38:53'
 title: 'Easter... Psych!!'
 published: '2011-04-25 22:38:53'
 category: story
-nextID: 0
-previousID: 0
 slug: easter-psych
-_options:
-  layout: default
-  partials: ""
 snippets: {  }
-path: story/easter-psych.md
-sitePath: stjohnsjim
 domain: stjohnsjim.com
 hVersion: 0.1
 memberOf:
   - GUNAS
   - TAROT
   - PDX
+sourcePath: stjohnsjim/story/easter-psych.md
+siteHandle: stjohnsjim
 ---
 Easter Weekend. &nbsp;What a bust. &nbsp;Friday and Saturday were ablaze with hope and fury. &nbsp;It seemed like Easter would be a fabulous day, and St John's city council could be happy about our purely business decision of dumping Spring in favor of Summer.
 

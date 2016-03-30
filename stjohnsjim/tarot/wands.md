@@ -1,25 +1,20 @@
 ---
-numericId: 184
+debug: ""
 className: Story
 created: '2011-11-13 13:59:27'
 lastEdited: '2011-11-13 13:59:28'
 title: Wands
 published: '2011-11-13 13:59:28'
 category: tarot
-nextID: 0
-previousID: 0
 slug: wands
-_options:
-  layout: default
-  partials: ""
 snippets: {  }
-path: tarot/wands.md
 handle: W
-sitePath: stjohnsjim
 domain: stjohnsjim.com
 hVersion: 0.1
 memberOf:
   - TAROT
+sourcePath: stjohnsjim/tarot/wands.md
+siteHandle: stjohnsjim
 ---
  Wands -- The Necessity of Invention.
 

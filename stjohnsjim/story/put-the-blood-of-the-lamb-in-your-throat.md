@@ -1,27 +1,22 @@
 ---
-numericId: 33
+debug: ""
 className: Story
 created: '2010-10-22 12:07:31'
 lastEdited: '2010-10-22 12:53:09'
 title: 'Put the Blood of the Lamb in Your Throat'
 published: '2010-10-22 12:53:09'
 category: story
-nextID: 0
-previousID: 0
 slug: put-the-blood-of-the-lamb-in-your-throat
-_options:
-  layout: default
-  partials: ""
 snippets:
   'first name': 'first name'
-path: story/put-the-blood-of-the-lamb-in-your-throat.md
-sitePath: stjohnsjim
 domain: stjohnsjim.com
 hVersion: 0.1
 memberOf:
   - GUNAS
   - TAROT
   - PDX
+sourcePath: stjohnsjim/story/put-the-blood-of-the-lamb-in-your-throat.md
+siteHandle: stjohnsjim
 ---
 &nbsp;I have held off ordering the Pork Chops, Grits and Eggs at the James John Cafe for about five or six days.&nbsp; Friends:&nbsp; This is the combination of tastes, aromas and textures that turns your mouth into a concert hall.&nbsp; I, St. John's Jim have so declared.
 

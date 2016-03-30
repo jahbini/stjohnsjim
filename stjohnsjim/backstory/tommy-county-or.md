@@ -1,26 +1,21 @@
 ---
-numericId: 171
+debug: ""
 className: Story
 created: '2011-10-03 11:53:50'
 lastEdited: '2011-10-03 12:24:21'
 title: 'Tommy County, OR'
 published: '2011-10-03 11:53:50'
 category: backstory
-nextID: 0
-previousID: 0
 slug: tommy-county-or
-_options:
-  layout: default
-  partials: ""
 snippets:
   3gunas: 3gunas
-path: backstory/tommy-county-or.md
 handle: TommyOR
-sitePath: stjohnsjim
 domain: stjohnsjim.com
 hVersion: 0.1
 memberOf:
   - GUNAS
+sourcePath: stjohnsjim/backstory/tommy-county-or.md
+siteHandle: stjohnsjim
 ---
 > Tommy County, OR is redneck. Workers and out of work workers. Ingenious out of necessity. Amoral out of necessity. Nature is to be driven back, hidden and conquered. Get the Job Done. Mechanics, carpenters, teamsters, longshoremen, ironworkers, loggers, landscapers. And do anything to make a buck to buy gas to make it to the next job.
 

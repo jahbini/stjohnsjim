@@ -1,26 +1,21 @@
 ---
-numericId: 69
+debug: ""
 className: Story
 created: '2010-11-22 17:18:44'
 lastEdited: '2011-07-20 13:11:01'
 title: 'Grand Feng Shui Station'
 published: '2010-11-22 18:05:40'
 category: story
-nextID: 0
-previousID: 0
 slug: grand-feng-shui-station
-_options:
-  layout: default
-  partials: ""
 snippets: {  }
-path: story/grand-feng-shui-station.md
-sitePath: stjohnsjim
 domain: stjohnsjim.com
 hVersion: 0.1
 memberOf:
   - GUNAS
   - TAROT
   - PDX
+sourcePath: stjohnsjim/story/grand-feng-shui-station.md
+siteHandle: stjohnsjim
 ---
 I’m at Slim’s — Grand Fung Shui station — It’s got good energy all through the day. A good mix of active and passive zones.
 

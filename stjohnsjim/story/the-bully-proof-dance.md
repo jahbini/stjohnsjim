@@ -1,27 +1,22 @@
 ---
-numericId: 45
+debug: ""
 className: Story
 created: '2010-11-02 17:05:17'
 lastEdited: '2010-11-02 17:29:19'
 title: 'The Bully Proof Dance'
 published: '2010-11-02 17:29:19'
 category: story
-nextID: 0
-previousID: 0
 slug: the-bully-proof-dance
-_options:
-  layout: default
-  partials: ""
 snippets:
   'first name': 'first name'
-path: story/the-bully-proof-dance.md
-sitePath: stjohnsjim
 domain: stjohnsjim.com
 hVersion: 0.1
 memberOf:
   - GUNAS
   - TAROT
   - PDX
+sourcePath: stjohnsjim/story/the-bully-proof-dance.md
+siteHandle: stjohnsjim
 ---
 Ladies! Men! {{{First Name}}}, Do you like to dance?&nbsp; Would you like to dance with some of the hunkiest partners around?&nbsp;&nbsp;Twice a week or more?&nbsp;The best of these dancers are humble, wise, fabulous with kids, all around great companions, lead or follow. They even have special festivals for members to gather respect for their skills.
 

@@ -1,27 +1,22 @@
 ---
-numericId: 76
+debug: ""
 className: Story
 created: '2010-11-28 16:01:40'
 lastEdited: '2010-11-28 17:00:47'
 title: 'The Toy Store that Kills'
 published: '2010-11-28 17:00:47'
 category: story
-nextID: 0
-previousID: 0
 slug: the-toy-store-that-kills
-_options:
-  layout: default
-  partials: ""
 snippets:
   'first name': 'first name'
-path: story/the-toy-store-that-kills.md
-sitePath: stjohnsjim
 domain: stjohnsjim.com
 hVersion: 0.1
 memberOf:
   - GUNAS
   - TAROT
   - PDX
+sourcePath: stjohnsjim/story/the-toy-store-that-kills.md
+siteHandle: stjohnsjim
 ---
 {{{First Name}}}, the City Council had their annual Parade of the Passions to kick off the holiday celebrations.&nbsp; Yup, already, the &ldquo;Passion Partners&rdquo; are presiding over meetings to make Christmas decorations all over St. John&rsquo;s.&nbsp; Maxine Power, wearing a button reading: &ldquo;consensus uber alles,&rdquo; said &ldquo;Passion Partners are certified in [enhanced persuasion][0] techniques such as Political Correctness Boarding.&rdquo;
 

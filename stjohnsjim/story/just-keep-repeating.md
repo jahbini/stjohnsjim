@@ -1,24 +1,19 @@
 ---
-numericId: 34
+debug: ""
 className: Story
 created: '2010-10-23 16:40:50'
 lastEdited: '2010-10-23 16:55:21'
 title: 'Just keep repeating...'
 published: '2010-10-23 16:55:21'
 category: story
-nextID: 0
-previousID: 0
 slug: just-keep-repeating
-_options:
-  layout: default
-  partials: ""
 snippets: {  }
-path: story/just-keep-repeating.md
-sitePath: stjohnsjim
 domain: stjohnsjim.com
 hVersion: 0.1
 memberOf:
   - TAROT
+sourcePath: stjohnsjim/story/just-keep-repeating.md
+siteHandle: stjohnsjim
 ---
 &nbsp;We are running into scary season.&nbsp;&nbsp;Halloween?&nbsp;&nbsp;Giant Spiders for Jesus?&nbsp;&nbsp;Icky stuff at the bottom of the pipe?&nbsp;&nbsp;NO, dad gum it, Elections!&nbsp;&nbsp;The time we have to choose the person to screw us: Sophie had it easy.&nbsp;&nbsp;&nbsp;That's scary.
 

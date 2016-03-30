@@ -1,25 +1,20 @@
 ---
-numericId: 62
+debug: ""
 className: Story
 created: '2010-11-18 16:05:56'
 lastEdited: '2010-11-18 17:43:10'
 title: 'What''s Across the Bridge -- #1'
 published: '2010-11-18 17:25:20'
 category: story
-nextID: 0
-previousID: 0
 slug: whats-across-the-bridge-1
-_options:
-  layout: default
-  partials: ""
 snippets: {  }
-path: story/whats-across-the-bridge-1.md
-sitePath: stjohnsjim
 domain: stjohnsjim.com
 hVersion: 0.1
 memberOf:
   - GUNAS
   - TAROT
+sourcePath: stjohnsjim/story/whats-across-the-bridge-1.md
+siteHandle: stjohnsjim
 ---
 &nbsp;Last night, the Oregon rain reached the millisecond 100% saturation point:&nbsp; Everything instantly wet, through and through.&nbsp; Even my backpack.&nbsp; That&rsquo;s pretty amazing.
 

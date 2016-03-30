@@ -1,23 +1,18 @@
 ---
-numericId: 111
+debug: ""
 className: Story
 created: '2011-01-03 18:56:07'
 lastEdited: '2011-01-03 19:24:54'
 title: 'When I Get Stubbed, I Want to be a Big Ash'
 published: '2011-01-03 19:24:54'
 category: story
-nextID: 0
-previousID: 0
 slug: when-i-get-stubbed-i-want-to-be-a-big-ash
-_options:
-  layout: default
-  partials: ""
 snippets: {  }
-path: story/when-i-get-stubbed-i-want-to-be-a-big-ash.md
-sitePath: stjohnsjim
 domain: stjohnsjim.com
 hVersion: 0.1
 memberOf: []
+sourcePath: stjohnsjim/story/when-i-get-stubbed-i-want-to-be-a-big-ash.md
+siteHandle: stjohnsjim
 ---
 People used to smoke. &nbsp;Lots. &nbsp;Many still do, I'm not ag'in it. &nbsp;People are vegetarians now. &nbsp;I'm not ag'in it.
 

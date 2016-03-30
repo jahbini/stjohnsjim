@@ -1,27 +1,22 @@
 ---
-numericId: 44
+debug: ""
 className: Story
 created: '2010-11-01 14:15:27'
 lastEdited: '2010-11-01 18:01:14'
 title: 'Drizzly November, Grizzly Spinners and Steinbeck'
 published: '2010-11-01 18:01:14'
 category: story
-nextID: 0
-previousID: 0
 slug: drizzly-november-grizzly-spinners-and-steinbeck
-_options:
-  layout: default
-  partials: ""
 snippets:
   'first name': 'first name'
-path: story/drizzly-november-grizzly-spinners-and-steinbeck.md
-sitePath: stjohnsjim
 domain: stjohnsjim.com
 hVersion: 0.1
 memberOf:
   - GUNAS
   - TAROT
   - PDX
+sourcePath: stjohnsjim/story/drizzly-november-grizzly-spinners-and-steinbeck.md
+siteHandle: stjohnsjim
 ---
 Monday.&nbsp; November.&nbsp; Pacific NorthWest Patented All Day Twilight. &nbsp;Perfect for portrait photography.&nbsp; Soft everywhere. Up, Down, Sideways &mdash; Soft light.&nbsp; Lots of bare branches in the trees.&nbsp; Mama is getting ready for bed.&nbsp; She is rolling down her oak-leaf [L&rsquo;Eggs][0], showering the summer away, tucking in the nuts and seeds in secret hiding places, and turning down the lamp.&nbsp; She&rsquo;ll hang out the **Do Not Disturb** sign and bed herself down.&nbsp; Mama NorthWest likes her sex when she awakens, you know:&nbsp; Then she&rsquo;s a productivity Empress that has no peer.
 

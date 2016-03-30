@@ -1,24 +1,19 @@
 ---
-numericId: 100
+debug: ""
 className: Story
 created: '2010-12-19 15:17:11'
 lastEdited: '2010-12-19 16:45:50'
 title: 'Incredible Advancement In Human Culture'
 published: '2010-12-19 16:45:50'
 category: story
-nextID: 0
-previousID: 0
 slug: incredible-advancement-in-human-culture
-_options:
-  layout: default
-  partials: ""
 snippets:
   'first name': 'first name'
-path: story/incredible-advancement-in-human-culture.md
-sitePath: stjohnsjim
 domain: stjohnsjim.com
 hVersion: 0.1
 memberOf: []
+sourcePath: stjohnsjim/story/incredible-advancement-in-human-culture.md
+siteHandle: stjohnsjim
 ---
 Yes, and when I have a major announcement, I do it here first, {{{First Name}}}.
 

@@ -1,27 +1,22 @@
 ---
-numericId: 142
+debug: ""
 className: Story
 created: '2011-05-09 14:04:51'
 lastEdited: '2011-05-09 14:46:45'
 title: 'Mother''s Day and the Parade of the Johns'
 published: '2011-05-09 14:46:45'
 category: story
-nextID: 0
-previousID: 0
 slug: mothers-day-and-the-parade-of-the-johns
-_options:
-  layout: default
-  partials: ""
 snippets:
   'first name': 'first name'
-path: story/mothers-day-and-the-parade-of-the-johns.md
-sitePath: stjohnsjim
 domain: stjohnsjim.com
 hVersion: 0.1
 memberOf:
   - GUNAS
   - TAROT
   - PDX
+sourcePath: stjohnsjim/story/mothers-day-and-the-parade-of-the-johns.md
+siteHandle: stjohnsjim
 ---
 {{{First Name}}}, Mother&rsquo;s Day celebrates the efforts of moms to endure discomfort and toil endlessly to nurture the family. A mom&rsquo;s efforts dwarf those of Hercules. You want an example? Keep reading about what happened to Glynnis during the Parade of the Johns.
 

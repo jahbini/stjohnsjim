@@ -1,26 +1,21 @@
 ---
-numericId: 86
+debug: ""
 className: Story
 created: '2010-12-07 18:05:15'
 lastEdited: '2010-12-07 19:56:49'
 title: 'Wrestling with Memes Again'
 published: '2010-12-07 19:56:49'
 category: story
-nextID: 0
-previousID: 0
 slug: wrestling-with-memes-again
-_options:
-  layout: default
-  partials: ""
 snippets:
   'first name': 'first name'
-path: story/wrestling-with-memes-again.md
-sitePath: stjohnsjim
 domain: stjohnsjim.com
 hVersion: 0.1
 memberOf:
   - GUNAS
   - TAROT
+sourcePath: stjohnsjim/story/wrestling-with-memes-again.md
+siteHandle: stjohnsjim
 ---
 The local Aikido fountainhead at L'ecole de Budo send me an email inviting me to an intense exercise weekend of swimming upstream with salmon. &nbsp;Make sure your wear your bear repellent.
 

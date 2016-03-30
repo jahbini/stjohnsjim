@@ -1,5 +1,5 @@
 ---
-numericId: 158
+debug: ""
 className: Story
 created: '2011-08-05 18:38:57'
 lastEdited: '2011-08-05 18:54:38'
@@ -7,20 +7,15 @@ title: 'The Great Aerial Tram Station'
 published: '2011-08-05 18:54:38'
 tagList: 'Pathy, Winnie, Daough Sisters, aerial tram, portland, st. john''s, Leo, Station, Portland''s Malibu'
 category: story
-nextID: 0
-previousID: 0
 slug: the-great-aerial-tram-station
-_options:
-  layout: default
-  partials: ""
 snippets: {  }
-path: story/the-great-aerial-tram-station.md
-sitePath: stjohnsjim
 domain: stjohnsjim.com
 hVersion: 0.1
 memberOf:
   - TAO
   - TAROT
+sourcePath: stjohnsjim/story/the-great-aerial-tram-station.md
+siteHandle: stjohnsjim
 ---
 Just a few days ago Pathy and Winnie Daough were sitting at the table sharing their day: Pathy has just submitted her haiku for the Bus System. The bus system puts up poems on placards and pay $500 for a winning submission. “The young boy stretches - upward to knowwhere - Final Fantasy gets funky”. Winnie calmly mentions that Pathy has all the wrong syllables in the wrong lines. Pathy sighs: “I didn’t think it was very good either, but I’m my worst critic. Anyway, I entered it in the pre-teen category.”
 

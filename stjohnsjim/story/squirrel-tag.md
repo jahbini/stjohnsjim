@@ -1,24 +1,19 @@
 ---
-numericId: 147
+debug: ""
 className: Story
 created: '2011-06-05 21:12:18'
 lastEdited: '2011-06-05 21:26:04'
 title: 'Squirrel Tag'
 published: '2011-06-05 21:26:04'
 category: story
-nextID: 0
-previousID: 0
 slug: squirrel-tag
-_options:
-  layout: default
-  partials: ""
 snippets: {  }
-path: story/squirrel-tag.md
-sitePath: stjohnsjim
 domain: stjohnsjim.com
 hVersion: 0.1
 memberOf:
   - TAROT
+sourcePath: stjohnsjim/story/squirrel-tag.md
+siteHandle: stjohnsjim
 ---
 This year is the year of the rodent. &nbsp;The squirrel, that is. &nbsp;We got more squirrels than working cars in St. John's. &nbsp;As rodents go, they got at least one thing going for 'em -- the tail.
 

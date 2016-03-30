@@ -1,31 +1,26 @@
 ---
-numericId: 136
+debug: ""
 className: Story
 created: '2011-04-12 17:57:12'
 lastEdited: '2011-11-09 10:17:55'
 title: 'The St. John''s Excuse-My-Reuse Warehouse'
 published: '2011-04-12 18:26:36'
 category: story
-nextID: 0
-previousID: 0
 slug: the-st-johns-excuse-my-reuse-warehouse
-_options:
-  layout: default
-  partials: ""
 snippets:
   'first name': 'first name'
   rogerobt: rogerobt
   'comment,soto': 'comment,soto'
   'comment,voce': 'comment,voce'
   author: author
-path: story/the-st-johns-excuse-my-reuse-warehouse.md
-sitePath: stjohnsjim
 domain: stjohnsjim.com
 hVersion: 0.1
 memberOf:
   - TAO
   - GUNAS
   - TAROT
+sourcePath: stjohnsjim/story/the-st-johns-excuse-my-reuse-warehouse.md
+siteHandle: stjohnsjim
 ---
 {{{First Name}}}, You may remember Winnie Daough. She runs the St. John’s Recycle Warehouse. It’s a volunteer thing. She runs it out of her basement. If she has it somewhere, she’ll let you borrow it or use it.
 

@@ -1,25 +1,20 @@
 ---
-numericId: 182
+debug: ""
 className: Story
 created: '2011-11-13 12:24:20'
 lastEdited: '2011-11-13 13:10:34'
 title: Swords
 published: '2011-11-13 12:24:20'
 category: tarot
-nextID: 0
-previousID: 0
 slug: swords
-_options:
-  layout: default
-  partials: ""
 snippets: {  }
-path: tarot/swords.md
 handle: SW
-sitePath: stjohnsjim
 domain: stjohnsjim.com
 hVersion: 0.1
 memberOf:
   - TAROT
+sourcePath: stjohnsjim/tarot/swords.md
+siteHandle: stjohnsjim
 ---
 \section{suit of swords}
 

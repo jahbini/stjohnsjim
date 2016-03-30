@@ -1,20 +1,13 @@
 ---
-numericId: 149
+debug: ""
 className: Story
 created: '2011-06-11 13:47:40'
 lastEdited: '2011-06-11 14:27:21'
 title: 'Shanghai Tunnel Tales - Part 1'
 published: '2011-06-11 14:27:21'
 category: story
-nextID: 0
-previousID: 0
 slug: shanghai-tunnel-tales-part-1
-_options:
-  layout: default
-  partials: ""
 snippets: {  }
-path: story/shanghai-tunnel-tales-part-1.md
-sitePath: stjohnsjim
 domain: stjohnsjim.com
 hVersion: 0.1
 memberOf:
@@ -22,6 +15,8 @@ memberOf:
   - GUNAS
   - TAROT
   - PDX
+sourcePath: stjohnsjim/story/shanghai-tunnel-tales-part-1.md
+siteHandle: stjohnsjim
 ---
 They have tried to suppress the rumors for a very long time. Every time I ask about the Shanghai Tunnels under the James John Cafe, the owners kind of put their eyes skyward and say they don&rsquo;t know anything about it. In fact, nobody in St. John&rsquo;s is talking. Obviously a conspiracy to hide the truth.
 

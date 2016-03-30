@@ -1,26 +1,21 @@
 ---
-numericId: 46
+debug: ""
 className: Story
 created: '2010-11-03 14:42:07'
 lastEdited: '2010-11-03 15:13:34'
 title: 'Jim Reads Tarot'
 published: '2010-11-03 15:13:34'
 category: story
-nextID: 0
-previousID: 0
 slug: jim-reads-tarot
-_options:
-  layout: default
-  partials: ""
 snippets:
   'first name': 'first name'
-path: story/jim-reads-tarot.md
-sitePath: stjohnsjim
 domain: stjohnsjim.com
 hVersion: 0.1
 memberOf:
   - TAROT
   - PDX
+sourcePath: stjohnsjim/story/jim-reads-tarot.md
+siteHandle: stjohnsjim
 ---
 Free -- Just keep reading. &nbsp;Chaos time.&nbsp; crap.&nbsp; The James John Cafe is closed this week. &nbsp; Throws every damn thing off.&nbsp; If I control the chaos, then it&rsquo;s no longer chaos.&nbsp; And believe me, I can&rsquo;t control the requirements of the JJC to take their well deserved holiday, nor the butterfly effect consequences.
 

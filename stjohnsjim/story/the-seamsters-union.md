@@ -1,23 +1,18 @@
 ---
-numericId: 4
+debug: ""
 className: Story
 created: '2010-09-25 15:04:45'
 lastEdited: '2010-11-16 17:10:36'
 title: 'The Seamster''s Union'
 published: '2010-11-16 17:10:36'
 category: story
-nextID: 0
-previousID: 0
 slug: the-seamsters-union
-_options:
-  layout: default
-  partials: ""
 snippets: {  }
-path: story/the-seamsters-union.md
-sitePath: stjohnsjim
 domain: stjohnsjim.com
 hVersion: 0.1
 memberOf: []
+sourcePath: stjohnsjim/story/the-seamsters-union.md
+siteHandle: stjohnsjim
 ---
 Seamstress.&nbsp; A woman who sews.&nbsp; Not a man who sews.&nbsp; But try as I might, there is no unisex term that I know of.&nbsp; The word would be seamster.&nbsp; But seamster isn't a word.&nbsp; You have never heard it in use. ipso facto, Tempus Fugit, Notary Sojak, _IT AINT A WORD_!
 

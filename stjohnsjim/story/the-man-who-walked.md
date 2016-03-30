@@ -1,24 +1,19 @@
 ---
-numericId: 189
+debug: ""
 className: Story
 created: '2012-12-12 21:00:20'
 lastEdited: '2012-12-12 21:00:20'
 title: 'The Man Who Walked'
 published: '2012-12-12 21:00:20'
 category: story
-nextID: 0
-previousID: 0
 slug: the-man-who-walked
-_options:
-  layout: default
-  partials: ""
 snippets: {  }
-path: story/the-man-who-walked.md
-sitePath: stjohnsjim
 domain: stjohnsjim.com
 hVersion: 0.1
 memberOf:
   - TAROT
+sourcePath: stjohnsjim/story/the-man-who-walked.md
+siteHandle: stjohnsjim
 ---
 The man who walked did exactly that: Walk. A whole lot. And he wore shoes. And the shoes died.
 

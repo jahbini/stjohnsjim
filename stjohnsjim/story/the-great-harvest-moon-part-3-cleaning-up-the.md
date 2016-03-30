@@ -1,27 +1,22 @@
 ---
-numericId: 11
+debug: ""
 className: Story
 created: '2010-10-01 13:57:08'
 lastEdited: '2010-11-21 11:17:38'
 title: 'The Great Harvest Moon - Part 3 -- cleaning up the'
 published: '2010-11-21 11:17:38'
 category: story
-nextID: 0
-previousID: 0
 slug: the-great-harvest-moon-part-3-cleaning-up-the
-_options:
-  layout: default
-  partials: ""
 snippets:
   'first name': 'first name'
-path: story/the-great-harvest-moon-part-3-cleaning-up-the.md
-sitePath: stjohnsjim
 domain: stjohnsjim.com
 hVersion: 0.1
 memberOf:
   - GUNAS
   - TAROT
   - PDX
+sourcePath: stjohnsjim/story/the-great-harvest-moon-part-3-cleaning-up-the.md
+siteHandle: stjohnsjim
 ---
 I'm safe again at my favorite haunt. &nbsp;{{{First Name}}}, if you were here, we could share a bowl of the chickpea and ham soup.&nbsp; It's as fabulous as the rich foam on the espresso.&nbsp; But I'm forgetting: The location of the [James John Cafe][0] is a secret.
 

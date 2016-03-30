@@ -1,25 +1,20 @@
 ---
-numericId: 105
+debug: ""
 className: Story
 created: '2010-12-24 15:55:10'
 lastEdited: '2010-12-24 16:17:49'
 title: 'National Exhale Week'
 published: '2010-12-24 16:17:49'
 category: story
-nextID: 0
-previousID: 0
 slug: national-exhale-week
-_options:
-  layout: default
-  partials: ""
 snippets:
   'first name': 'first name'
-path: story/national-exhale-week.md
-sitePath: stjohnsjim
 domain: stjohnsjim.com
 hVersion: 0.1
 memberOf:
   - TAROT
+sourcePath: stjohnsjim/story/national-exhale-week.md
+siteHandle: stjohnsjim
 ---
 &nbsp;By the time you read this, the nation is exhaling the Christmas of 2010. Right now, though, it is a mad dash to Christmas Eve.
 

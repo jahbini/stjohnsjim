@@ -1,25 +1,20 @@
 ---
-numericId: 174
+debug: ""
 className: Story
 created: '2011-10-16 12:11:34'
 lastEdited: '2011-10-16 12:12:41'
 title: 'Stan and Valerie'
 published: '2011-10-16 12:11:34'
 category: story
-nextID: 0
-previousID: 0
 slug: stan-and-valerie
-_options:
-  layout: default
-  partials: ""
 snippets: {  }
-path: story/stan-and-valerie.md
 handle: SVTower
-sitePath: stjohnsjim
 domain: stjohnsjim.com
 hVersion: 0.1
 memberOf:
   - TAROT
+sourcePath: stjohnsjim/story/stan-and-valerie.md
+siteHandle: stjohnsjim
 ---
 Stan performed on the streets of Portland — Valerie kept Stan alive emotionally so he could scrape together only enough for one. They split the one 50-50.
 

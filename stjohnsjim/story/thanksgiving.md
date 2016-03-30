@@ -1,26 +1,21 @@
 ---
-numericId: 72
+debug: ""
 className: Story
 created: '2010-11-25 14:27:56'
 lastEdited: '2010-11-25 17:11:21'
 title: Thanksgiving
 published: '2010-11-25 17:11:21'
 category: story
-nextID: 0
-previousID: 0
 slug: thanksgiving
-_options:
-  layout: default
-  partials: ""
 snippets: {  }
-path: story/thanksgiving.md
-sitePath: stjohnsjim
 domain: stjohnsjim.com
 hVersion: 0.1
 memberOf:
   - GUNAS
   - TAROT
   - PDX
+sourcePath: stjohnsjim/story/thanksgiving.md
+siteHandle: stjohnsjim
 ---
 OK.&nbsp; Let&rsquo;s start giving thanks.&nbsp; You&rsquo;ve been doing it all day. &nbsp; I'm thankful the James John Cafe has the most fabulous food, and that Slim's has such great fung shui.
 

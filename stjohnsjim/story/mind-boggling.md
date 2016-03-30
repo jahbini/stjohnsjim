@@ -1,24 +1,19 @@
 ---
-numericId: 99
+debug: ""
 className: Story
 created: '2010-12-18 18:37:05'
 lastEdited: '2010-12-18 19:03:40'
 title: 'Mind Boggling'
 published: '2010-12-18 19:03:40'
 category: story
-nextID: 0
-previousID: 0
 slug: mind-boggling
-_options:
-  layout: default
-  partials: ""
 snippets: {  }
-path: story/mind-boggling.md
-sitePath: stjohnsjim
 domain: stjohnsjim.com
 hVersion: 0.1
 memberOf:
   - TAROT
+sourcePath: stjohnsjim/story/mind-boggling.md
+siteHandle: stjohnsjim
 ---
 OK, my Dancing Water Amiga from Niagara Falls, I accept your mind-boggling challenge to make this offering funny. &nbsp;Well, at least I tried. &nbsp;(to my other readers, I do accept challenges. ) BTW, this is one of those interleaved stories, &nbsp;a bit harder to read without HTML, but, well, it's less cryptic than the Bible.
 

@@ -1,26 +1,21 @@
 ---
-numericId: 87
+debug: ""
 className: Story
 created: '2010-12-08 18:01:29'
 lastEdited: '2010-12-08 18:42:10'
 title: 'Guru City!'
 published: '2010-12-08 18:42:10'
 category: story
-nextID: 0
-previousID: 0
 slug: guru-city
-_options:
-  layout: default
-  partials: ""
 snippets:
   'first name': 'first name'
-path: story/guru-city.md
-sitePath: stjohnsjim
 domain: stjohnsjim.com
 hVersion: 0.1
 memberOf:
   - GUNAS
   - TAROT
+sourcePath: stjohnsjim/story/guru-city.md
+siteHandle: stjohnsjim
 ---
 I apologize for the uneven nature of yesterdays &quot;wrestling with memes&quot; -- There is a good story there someplace, but... &nbsp;I hope this, smaller piece is better.
 

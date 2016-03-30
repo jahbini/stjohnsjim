@@ -1,25 +1,20 @@
 ---
-numericId: 42
+debug: ""
 className: Story
 created: '2010-10-30 16:05:10'
 lastEdited: '2010-10-30 17:18:41'
 title: 'In Nature, All Colors Go Together'
 published: '2010-10-30 17:18:41'
 category: story
-nextID: 0
-previousID: 0
 slug: in-nature-all-colors-go-together
-_options:
-  layout: default
-  partials: ""
 snippets:
   'first name': 'first name'
-path: story/in-nature-all-colors-go-together.md
-sitePath: stjohnsjim
 domain: stjohnsjim.com
 hVersion: 0.1
 memberOf:
   - TAROT
+sourcePath: stjohnsjim/story/in-nature-all-colors-go-together.md
+siteHandle: stjohnsjim
 ---
 Color.&nbsp; I see color.&nbsp; The Oregon rain has washed away the city from the green.&nbsp; Actually gold, red, unguent orchid poop too.&nbsp; All these shades in all combinations.&nbsp; _In nature all colors go together well_.
 

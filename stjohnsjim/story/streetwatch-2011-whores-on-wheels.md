@@ -1,28 +1,23 @@
 ---
-numericId: 112
+debug: ""
 className: Story
 created: '2011-01-04 21:45:14'
 lastEdited: '2011-09-10 13:00:41'
 title: 'Streetwatch 2011: Whores On Wheels'
 published: '2011-01-04 21:45:14'
 category: story
-nextID: 0
-previousID: 0
 slug: streetwatch-2011-whores-on-wheels
-_options:
-  layout: default
-  partials: ""
 snippets:
   'first name': 'first name'
-path: story/streetwatch-2011-whores-on-wheels.md
 handle: wheelwho
-sitePath: stjohnsjim
 domain: stjohnsjim.com
 hVersion: 0.1
 memberOf:
   - GUNAS
   - TAROT
   - PDX
+sourcePath: stjohnsjim/story/streetwatch-2011-whores-on-wheels.md
+siteHandle: stjohnsjim
 ---
 {{{First Name}}}, what did I tell you about St. John’s resiliancy? Huh? You thought I was just talking through my tookus, but I found out the most fabulous bit of new-age, secular WGAF, entrepreneurial, high-tech low-life that you can imagine.
 

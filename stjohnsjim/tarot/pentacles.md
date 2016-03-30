@@ -1,25 +1,20 @@
 ---
-numericId: 183
+debug: ""
 className: Story
 created: '2011-11-13 13:33:34'
 lastEdited: '2011-11-13 13:51:19'
 title: Pentacles
 published: '2011-11-13 13:33:34'
 category: tarot
-nextID: 0
-previousID: 0
 slug: pentacles
-_options:
-  layout: default
-  partials: ""
 snippets: {  }
-path: tarot/pentacles.md
 handle: P
-sitePath: stjohnsjim
 domain: stjohnsjim.com
 hVersion: 0.1
 memberOf:
   - TAROT
+sourcePath: stjohnsjim/tarot/pentacles.md
+siteHandle: stjohnsjim
 ---
 # Pentacles -- Dilligent. Earthy. Prosperity bound.
 

@@ -1,23 +1,18 @@
 ---
-numericId: 135
+debug: ""
 className: Story
 created: '2011-04-10 12:17:44'
 lastEdited: '2011-04-10 12:28:49'
 title: 'Ultimate Protection of the Geyser Shirt of Bliss'
 published: '2011-04-10 12:28:49'
 category: story
-nextID: 0
-previousID: 0
 slug: ultimate-protection-of-the-geyser-shirt-of-bliss
-_options:
-  layout: default
-  partials: ""
 snippets: {  }
-path: story/ultimate-protection-of-the-geyser-shirt-of-bliss.md
-sitePath: stjohnsjim
 domain: stjohnsjim.com
 hVersion: 0.1
 memberOf: []
+sourcePath: stjohnsjim/story/ultimate-protection-of-the-geyser-shirt-of-bliss.md
+siteHandle: stjohnsjim
 ---
 I have a shirt with a leaky pocket. I&rsquo;ve lost thirty something bucks in the last week as they kind of wiggle up and out of the shirt like pollen from a flower. They certainly fertilize someone&rsquo;s nest egg.
 

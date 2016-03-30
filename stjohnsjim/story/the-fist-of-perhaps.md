@@ -1,24 +1,19 @@
 ---
-numericId: 59
+debug: ""
 className: Story
 created: '2010-11-15 15:13:45'
 lastEdited: '2010-11-16 17:10:37'
 title: 'The Fist of Perhaps'
 published: '2010-11-16 17:10:37'
 category: story
-nextID: 0
-previousID: 0
 slug: the-fist-of-perhaps
-_options:
-  layout: default
-  partials: ""
 snippets: {  }
-path: story/the-fist-of-perhaps.md
-sitePath: stjohnsjim
 domain: stjohnsjim.com
 hVersion: 0.1
 memberOf:
   - TAROT
+sourcePath: stjohnsjim/story/the-fist-of-perhaps.md
+siteHandle: stjohnsjim
 ---
 People sometimes use phrases that I can't figure out. Is it slang? Is&nbsp;it English? Something Gov. Paris Palin said? There are lots of&nbsp;subcultures that I miss out on. I heard the headline phrase come out&nbsp;of the Muse's mouth not too long ago. Whassit mean? &quot;The Fist of&nbsp;Perhaps&quot; ---&nbsp;
 

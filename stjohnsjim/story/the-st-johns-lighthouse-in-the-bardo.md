@@ -1,26 +1,21 @@
 ---
-numericId: 1
+debug: ""
 className: Story
 created: '2010-09-25 14:20:18'
 lastEdited: '2010-10-15 14:19:46'
 title: 'The St. John''s Lighthouse in the Bardo'
 published: '2010-10-15 14:19:46'
 category: story
-nextID: 0
-previousID: 0
 slug: the-st-johns-lighthouse-in-the-bardo
-_options:
-  layout: default
-  partials: ""
 snippets:
   'first name': 'first name'
-path: story/the-st-johns-lighthouse-in-the-bardo.md
-sitePath: stjohnsjim
 domain: stjohnsjim.com
 hVersion: 0.1
 memberOf:
   - TAROT
   - PDX
+sourcePath: stjohnsjim/story/the-st-johns-lighthouse-in-the-bardo.md
+siteHandle: stjohnsjim
 ---
 St. John's is lost.&nbsp; It was a vigorous area of Portland with mills, shops, shipping.&nbsp; And now, just the workers remain.&nbsp; Mostly in the bars.
 

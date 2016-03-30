@@ -1,26 +1,21 @@
 ---
-numericId: 70
+debug: ""
 className: Story
 created: '2010-11-23 15:00:14'
 lastEdited: '2010-11-23 16:47:41'
 title: 'Angel Flakes'
 published: '2010-11-23 16:47:41'
 category: story
-nextID: 0
-previousID: 0
 slug: angel-flakes
-_options:
-  layout: default
-  partials: ""
 snippets:
   'first name': 'first name'
-path: story/angel-flakes.md
-sitePath: stjohnsjim
 domain: stjohnsjim.com
 hVersion: 0.1
 memberOf:
   - TAROT
   - PDX
+sourcePath: stjohnsjim/story/angel-flakes.md
+siteHandle: stjohnsjim
 ---
 Mr. Weatherman:
 

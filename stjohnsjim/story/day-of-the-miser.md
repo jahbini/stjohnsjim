@@ -1,25 +1,20 @@
 ---
-numericId: 71
+debug: ""
 className: Story
 created: '2010-11-24 15:26:56'
 lastEdited: '2010-11-24 16:48:34'
 title: 'Day of the miser'
 published: '2010-11-24 16:48:34'
 category: story
-nextID: 0
-previousID: 0
 slug: day-of-the-miser
-_options:
-  layout: default
-  partials: ""
 snippets:
   'first name': 'first name'
-path: story/day-of-the-miser.md
-sitePath: stjohnsjim
 domain: stjohnsjim.com
 hVersion: 0.1
 memberOf:
   - TAROT
+sourcePath: stjohnsjim/story/day-of-the-miser.md
+siteHandle: stjohnsjim
 ---
 Tomorrow is thanksgiving.&nbsp;&nbsp;That makes today is like Mardi-Gras for a miser.&nbsp; Tomorrow the miser must be &ldquo;thankful&rdquo; and oh, so giving. &nbsp;Last opportunity to be stingy.
 

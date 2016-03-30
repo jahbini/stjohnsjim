@@ -1,26 +1,21 @@
 ---
-numericId: 61
+debug: ""
 className: Story
 created: '2010-11-17 15:33:54'
 lastEdited: '2011-07-20 13:08:22'
 title: 'Batten down'
 published: '2010-11-17 17:07:09'
 category: story
-nextID: 0
-previousID: 0
 slug: batten-down
-_options:
-  layout: default
-  partials: ""
 snippets: {  }
-path: story/batten-down.md
-sitePath: stjohnsjim
 domain: stjohnsjim.com
 hVersion: 0.1
 memberOf:
   - GUNAS
   - TAROT
   - PDX
+sourcePath: stjohnsjim/story/batten-down.md
+siteHandle: stjohnsjim
 ---
 _Portland is battened down for the Winter, Sir. Very good, cadet, carry on_.
 

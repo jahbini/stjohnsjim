@@ -1,27 +1,22 @@
 ---
-numericId: 52
+debug: ""
 className: Story
 created: '2010-11-09 18:17:37'
 lastEdited: '2011-07-20 13:07:46'
 title: 'You cant always get what you want'
 published: '2010-11-16 17:10:36'
 category: story
-nextID: 0
-previousID: 0
 slug: you-cant-always-get-what-you-want
-_options:
-  layout: default
-  partials: ""
 snippets:
   'first name': 'first name'
-path: story/you-cant-always-get-what-you-want.md
-sitePath: stjohnsjim
 domain: stjohnsjim.com
 hVersion: 0.1
 memberOf:
   - GUNAS
   - TAROT
   - PDX
+sourcePath: stjohnsjim/story/you-cant-always-get-what-you-want.md
+siteHandle: stjohnsjim
 ---
 I want the chaos to stop. In fact, {{{First Name}}}, it has been so chaotic I may not be able to express what I need to, and if you get lost, just go to the really important section labelled "Bam!" (authors are never supposed to do what I just did: is that _bold_, or what? Fuck you, Mr. Critic.)
 

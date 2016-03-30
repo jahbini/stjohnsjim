@@ -1,27 +1,22 @@
 ---
-numericId: 54
+debug: ""
 className: Story
 created: '2010-11-10 17:13:18'
 lastEdited: '2010-11-16 17:10:37'
 title: 'Ongoing Investigation'
 published: '2010-11-16 17:10:37'
 category: story
-nextID: 0
-previousID: 0
 slug: ongoing-investigation
-_options:
-  layout: default
-  partials: ""
 snippets:
   'first name': 'first name'
-path: story/ongoing-investigation.md
-sitePath: stjohnsjim
 domain: stjohnsjim.com
 hVersion: 0.1
 memberOf:
   - GUNAS
   - TAROT
   - PDX
+sourcePath: stjohnsjim/story/ongoing-investigation.md
+siteHandle: stjohnsjim
 ---
 I&rsquo;m at the James John Cafe, where Seraphim make espresso with a crema so perfect, it puts velvet fog on your tongue.
 

@@ -1,25 +1,20 @@
 ---
-numericId: 17
+debug: ""
 className: Story
 created: '2010-10-07 16:05:13'
 lastEdited: '2010-10-07 16:08:50'
 title: 'St. John''s Jim and the St. John''s Lighthouse'
 published: '2010-10-07 16:08:50'
 category: story
-nextID: 0
-previousID: 0
 slug: st-johns-jim-and-the-st-johns-lighthouse
-_options:
-  layout: default
-  partials: ""
 snippets: {  }
-path: story/st-johns-jim-and-the-st-johns-lighthouse.md
-sitePath: stjohnsjim
 domain: stjohnsjim.com
 hVersion: 0.1
 memberOf:
   - TAROT
   - PDX
+sourcePath: stjohnsjim/story/st-johns-jim-and-the-st-johns-lighthouse.md
+siteHandle: stjohnsjim
 ---
 &nbsp;St. John's has lots of stories,&nbsp; I transcribe the ones that stick to my mind because they are vivid.&nbsp; I try to express that energy in as few words as possible.&nbsp; I''m not wasting anybodies time, you know.&nbsp; Just subscribe and you can get a story like this one in your e-mail.&nbsp; About one a day.&nbsp; Unsubscribe if you want.
 

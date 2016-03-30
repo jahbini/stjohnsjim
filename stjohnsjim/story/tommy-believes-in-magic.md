@@ -1,25 +1,20 @@
 ---
-numericId: 50
+debug: ""
 className: Story
 created: '2010-11-07 16:57:07'
 lastEdited: '2010-11-07 17:36:36'
 title: 'Tommy Believes in Magic'
 published: '2010-11-07 17:36:36'
 category: story
-nextID: 0
-previousID: 0
 slug: tommy-believes-in-magic
-_options:
-  layout: default
-  partials: ""
 snippets: {  }
-path: story/tommy-believes-in-magic.md
-sitePath: stjohnsjim
 domain: stjohnsjim.com
 hVersion: 0.1
 memberOf:
   - GUNAS
   - TAROT
+sourcePath: stjohnsjim/story/tommy-believes-in-magic.md
+siteHandle: stjohnsjim
 ---
 Tommy is a master&nbsp;[magician][0]. &nbsp;He deceives and you believe.&nbsp; And that makes it true.&nbsp; And so it isn&rsquo;t a deception.&nbsp; Until sometime later, maybe never. and then?&nbsp; _Who Gives a Fuck._
 

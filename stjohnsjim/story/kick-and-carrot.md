@@ -1,24 +1,19 @@
 ---
-numericId: 48
+debug: ""
 className: Story
 created: '2010-11-05 15:14:41'
 lastEdited: '2010-11-05 15:27:33'
 title: 'Kick and Carrot'
 published: '2010-11-05 15:27:33'
 category: story
-nextID: 0
-previousID: 0
 slug: kick-and-carrot
-_options:
-  layout: default
-  partials: ""
 snippets: {  }
-path: story/kick-and-carrot.md
-sitePath: stjohnsjim
 domain: stjohnsjim.com
 hVersion: 0.1
 memberOf:
   - TAROT
+sourcePath: stjohnsjim/story/kick-and-carrot.md
+siteHandle: stjohnsjim
 ---
 The trick or treat parade of last week reminded me of this academic trick or treat:
 

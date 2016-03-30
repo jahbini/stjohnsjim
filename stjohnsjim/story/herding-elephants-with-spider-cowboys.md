@@ -1,25 +1,20 @@
 ---
-numericId: 124
+debug: ""
 className: Story
 created: '2011-02-10 20:06:30'
 lastEdited: '2011-02-10 20:43:39'
 title: 'Herding Elephants with Spider Cowboys'
 published: '2011-02-10 20:43:39'
 category: story
-nextID: 0
-previousID: 0
 slug: herding-elephants-with-spider-cowboys
-_options:
-  layout: default
-  partials: ""
 snippets: {  }
-path: story/herding-elephants-with-spider-cowboys.md
-sitePath: stjohnsjim
 domain: stjohnsjim.com
 hVersion: 0.1
 memberOf:
   - GUNAS
   - TAROT
+sourcePath: stjohnsjim/story/herding-elephants-with-spider-cowboys.md
+siteHandle: stjohnsjim
 ---
 I saw Southwick walking over The Bridge into St. John&rsquo;s early this AM. He was covered with spider webs. Last time I saw him come into St. John&rsquo;s in the pre-dawn hours, he had been worked over by the cops.
 

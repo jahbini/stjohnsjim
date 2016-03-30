@@ -1,26 +1,21 @@
 ---
-numericId: 150
+debug: ""
 className: Story
 created: '2011-06-12 17:43:21'
 lastEdited: '2011-06-12 18:26:28'
 title: 'Leo and Station''s healing'
 published: '2011-06-12 18:26:28'
 category: story
-nextID: 0
-previousID: 0
 slug: leo-and-stations-healing
-_options:
-  layout: default
-  partials: ""
 snippets: {  }
-path: story/leo-and-stations-healing.md
-sitePath: stjohnsjim
 domain: stjohnsjim.com
 hVersion: 0.1
 memberOf:
   - TAO
   - TAROT
   - PDX
+sourcePath: stjohnsjim/story/leo-and-stations-healing.md
+siteHandle: stjohnsjim
 ---
 June 12, 2099. St John's. &nbsp;Portland, Oregon. &nbsp;Where the Columbia and the Willamette and the Summer and Spring come together. &nbsp;And get restraining orders.
 

@@ -1,24 +1,19 @@
 ---
-numericId: 140
+debug: ""
 className: Story
 created: '2011-04-29 14:12:39'
 lastEdited: '2011-04-29 17:14:22'
 title: 'Mt. Farina erupts on the Royal Wedding Dress'
 published: '2011-04-29 17:14:22'
 category: story
-nextID: 0
-previousID: 0
 slug: mt-farina-erupts-on-the-royal-wedding-dress
-_options:
-  layout: default
-  partials: ""
 snippets: {  }
-path: story/mt-farina-erupts-on-the-royal-wedding-dress.md
-sitePath: stjohnsjim
 domain: stjohnsjim.com
 hVersion: 0.1
 memberOf:
   - TAROT
+sourcePath: stjohnsjim/story/mt-farina-erupts-on-the-royal-wedding-dress.md
+siteHandle: stjohnsjim
 ---
 I&rsquo;m trying to cook breakfast. &nbsp;I make a layered mini-casserole of it: hot cereal with maca and toasted flax layered with yoghurt and Honey Bunches of Oats and milk. &nbsp;My secret recipe.&nbsp;The TV in the next room is blaring about the Royal Wedding. Both the Huffington Post and the Drudge Report reek of nuptuals. The in-your-face, in your room, in your breakfast&nbsp;excitement rivals the Olympics.
 

@@ -1,26 +1,21 @@
 ---
-numericId: 68
+debug: ""
 className: Story
 created: '2010-11-21 15:22:01'
 lastEdited: '2011-07-20 13:10:34'
 title: 'Calliope Contemplates, Throntle Intimidates'
 published: '2010-11-21 17:12:25'
 category: story
-nextID: 0
-previousID: 0
 slug: calliope-contemplates-throntle-intimidates
-_options:
-  layout: default
-  partials: ""
 snippets: {  }
-path: story/calliope-contemplates-throntle-intimidates.md
-sitePath: stjohnsjim
 domain: stjohnsjim.com
 hVersion: 0.1
 memberOf:
   - GUNAS
   - TAROT
   - PDX
+sourcePath: stjohnsjim/story/calliope-contemplates-throntle-intimidates.md
+siteHandle: stjohnsjim
 ---
 It was very cold last night, leaves and grass hidden in shade crunch a bit in their Indian Winter blanket. Our Overseas weather supplier is shipping early to avoid the holiday rush. Yup, cold to the bone. Followed by rain, rinse, and repeat with clear evening skies. This is fine, handcrafted early winter. Kudo’s to our Overseas supplier: we wish you could have given us the same service with Summer.
 

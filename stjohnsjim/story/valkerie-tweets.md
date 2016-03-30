@@ -1,24 +1,19 @@
 ---
-numericId: 37
+debug: ""
 className: Story
 created: '2010-10-25 15:55:41'
 lastEdited: '2010-10-25 16:24:19'
 title: 'Valkerie Tweets'
 published: '2010-10-25 16:24:19'
 category: story
-nextID: 0
-previousID: 0
 slug: valkerie-tweets
-_options:
-  layout: default
-  partials: ""
 snippets: {  }
-path: story/valkerie-tweets.md
-sitePath: stjohnsjim
 domain: stjohnsjim.com
 hVersion: 0.1
 memberOf:
   - TAROT
+sourcePath: stjohnsjim/story/valkerie-tweets.md
+siteHandle: stjohnsjim
 ---
 Per a reader's request for a story for diary entries about a Valkyrie. &nbsp;I changed the &quot;diary&quot; idea into using tweets instead; more of a challenge.
 

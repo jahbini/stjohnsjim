@@ -1,25 +1,20 @@
 ---
-numericId: 64
+debug: ""
 className: Story
 created: '2010-11-19 16:32:53'
 lastEdited: '2010-11-19 17:37:39'
 title: 'The Mouse and The Elephant'
 published: '2010-11-19 17:37:39'
 category: story
-nextID: 0
-previousID: 0
 slug: the-mouse-and-the-elephant
-_options:
-  layout: default
-  partials: ""
 snippets: {  }
-path: story/the-mouse-and-the-elephant.md
-sitePath: stjohnsjim
 domain: stjohnsjim.com
 hVersion: 0.1
 memberOf:
   - GUNAS
   - TAROT
+sourcePath: stjohnsjim/story/the-mouse-and-the-elephant.md
+siteHandle: stjohnsjim
 ---
 &nbsp;Our houses are under attack! &nbsp;Mice. &nbsp;Well, mouse. &nbsp;It's cold, and wet outside. &nbsp;I'd want to keep warm and dry too.
 

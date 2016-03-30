@@ -1,24 +1,19 @@
 ---
-numericId: 143
+debug: ""
 className: Story
 created: '2011-05-17 15:34:33'
 lastEdited: '2011-05-17 17:48:19'
 title: 'When Kings Clash'
 published: '2011-05-17 17:48:19'
 category: story
-nextID: 0
-previousID: 0
 slug: when-kings-clash
-_options:
-  layout: default
-  partials: ""
 snippets: {  }
-path: story/when-kings-clash.md
-sitePath: stjohnsjim
 domain: stjohnsjim.com
 hVersion: 0.1
 memberOf:
   - TAROT
+sourcePath: stjohnsjim/story/when-kings-clash.md
+siteHandle: stjohnsjim
 ---
 Recent events have inspired some of us to revel in victory, some to take joy in revenge, some to dig in and say &quot;prove it,&quot; and some to say &quot;A trial is needed.&quot;
 

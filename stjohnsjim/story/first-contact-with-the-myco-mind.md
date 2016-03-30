@@ -1,26 +1,21 @@
 ---
-numericId: 102
+debug: ""
 className: Story
 created: '2010-12-21 17:20:02'
 lastEdited: '2010-12-21 17:57:09'
 title: 'First Contact with the Myco Mind'
 published: '2010-12-21 17:57:09'
 category: story
-nextID: 0
-previousID: 0
 slug: first-contact-with-the-myco-mind
-_options:
-  layout: default
-  partials: ""
 snippets:
   'first name': 'first name'
-path: story/first-contact-with-the-myco-mind.md
-sitePath: stjohnsjim
 domain: stjohnsjim.com
 hVersion: 0.1
 memberOf:
   - GUNAS
   - TAROT
+sourcePath: stjohnsjim/story/first-contact-with-the-myco-mind.md
+siteHandle: stjohnsjim
 ---
 {{{First Name}}}, This is BIG! &nbsp;Aliens beneath our feet!
 

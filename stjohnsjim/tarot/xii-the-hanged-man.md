@@ -1,5 +1,5 @@
 ---
-numericId: 159
+debug: ""
 className: Story
 created: '2011-08-17 14:49:59'
 lastEdited: '2011-08-18 13:43:58'
@@ -7,20 +7,15 @@ title: 'XII - The Hanged Man'
 published: '2011-08-18 13:43:58'
 tagList: 'tarot, major arcana, the hanged man, AXII'
 category: tarot
-nextID: 0
-previousID: 0
 slug: xii-the-hanged-man
-_options:
-  layout: default
-  partials: ""
 snippets: {  }
-path: tarot/xii-the-hanged-man.md
 handle: AXII
-sitePath: stjohnsjim
 domain: stjohnsjim.com
 hVersion: 0.1
 memberOf:
   - TAROT
+sourcePath: stjohnsjim/tarot/xii-the-hanged-man.md
+siteHandle: stjohnsjim
 ---
 I walked down the hill to the water flowing below. I was thirsty and this was the freshest water around. Certified by the government, you know. The closest good water to here is 5 days walk south, and it does not taste as good as this. Soon this river will join the sea and it will be worthless. Best to drink it here.
 

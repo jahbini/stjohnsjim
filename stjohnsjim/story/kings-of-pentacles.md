@@ -1,25 +1,20 @@
 ---
-numericId: 47
+debug: ""
 className: Story
 created: '2010-11-04 16:52:32'
 lastEdited: '2010-11-04 18:46:00'
 title: 'Kings of Pentacles'
 published: '2010-11-04 18:46:00'
 category: story
-nextID: 0
-previousID: 0
 slug: kings-of-pentacles
-_options:
-  layout: default
-  partials: ""
 snippets:
   'first name': 'first name'
-path: story/kings-of-pentacles.md
-sitePath: stjohnsjim
 domain: stjohnsjim.com
 hVersion: 0.1
 memberOf:
   - TAROT
+sourcePath: stjohnsjim/story/kings-of-pentacles.md
+siteHandle: stjohnsjim
 ---
 Did you know that the reason you sneeze when you swab your ears?&nbsp; It&rsquo;s because there is a tiny puff of air that comes out of the damn thing: It only goes off in your ear &mdash;&nbsp; amazing microtechnology.
 

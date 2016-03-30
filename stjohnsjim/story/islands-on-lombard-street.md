@@ -1,26 +1,21 @@
 ---
-numericId: 77
+debug: ""
 className: Story
 created: '2010-11-29 17:21:34'
 lastEdited: '2010-11-29 18:57:02'
 title: 'Islands on Lombard Street.'
 published: '2010-11-29 18:57:02'
 category: story
-nextID: 0
-previousID: 0
 slug: islands-on-lombard-street
-_options:
-  layout: default
-  partials: ""
 snippets:
   'first name': 'first name'
-path: story/islands-on-lombard-street.md
-sitePath: stjohnsjim
 domain: stjohnsjim.com
 hVersion: 0.1
 memberOf:
   - GUNAS
   - TAROT
+sourcePath: stjohnsjim/story/islands-on-lombard-street.md
+siteHandle: stjohnsjim
 ---
 I&rsquo;m writing too much, I seem to live to write.&nbsp; (Is this a symptom of mania?&nbsp; Very likely.&nbsp; Shoot me.)&nbsp; But the difficulty is that the more I write, the LESS I am on the streets of St. John&rsquo;s.&nbsp; The less I&rsquo;m on the streets means less inspiration.&nbsp; A big trouble is that Storybook Theatre is closed for the season.&nbsp; You know, Lombard Street's tavern fed, sun-drenched table fests of last summer.&nbsp; Now&nbsp;_there_&nbsp;was inspiration.&nbsp; I must go back to the streets for inspiration.
 

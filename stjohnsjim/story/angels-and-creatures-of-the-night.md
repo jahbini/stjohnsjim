@@ -1,27 +1,22 @@
 ---
-numericId: 31
+debug: ""
 className: Story
 created: '2010-10-20 13:51:37'
 lastEdited: '2010-10-20 14:34:10'
 title: 'Angels and Creatures of the Night'
 published: '2010-10-20 14:34:10'
 category: story
-nextID: 0
-previousID: 0
 slug: angels-and-creatures-of-the-night
-_options:
-  layout: default
-  partials: ""
 snippets:
   'first name': 'first name'
-path: story/angels-and-creatures-of-the-night.md
-sitePath: stjohnsjim
 domain: stjohnsjim.com
 hVersion: 0.1
 memberOf:
   - GUNAS
   - TAROT
   - PDX
+sourcePath: stjohnsjim/story/angels-and-creatures-of-the-night.md
+siteHandle: stjohnsjim
 ---
 The Seraphim of the James John Cafe are exceptional, {{{First Name}}}.&nbsp; Yes, in addition to the fabulous food, my mezzanine table view shows me angels of all sort: Ones you can see, and ones you can't.&nbsp; Writer's territory.&nbsp; I watch sometimes as they let the cherubim out for a walk.&nbsp; Today, I'm sitting with Southwick: He saw Elvis in the ice crystals of his water.
 

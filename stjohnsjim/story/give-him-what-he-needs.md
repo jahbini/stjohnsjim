@@ -1,24 +1,19 @@
 ---
-numericId: 38
+debug: ""
 className: Story
 created: '2010-10-26 14:45:46'
 lastEdited: '2010-10-26 14:56:27'
 title: 'Give Him What He Needs'
 published: '2010-10-26 14:56:27'
 category: story
-nextID: 0
-previousID: 0
 slug: give-him-what-he-needs
-_options:
-  layout: default
-  partials: ""
 snippets:
   'first name': 'first name'
-path: story/give-him-what-he-needs.md
-sitePath: stjohnsjim
 domain: stjohnsjim.com
 hVersion: 0.1
 memberOf: []
+sourcePath: stjohnsjim/story/give-him-what-he-needs.md
+siteHandle: stjohnsjim
 ---
 (Jim's Note: Another one by request. &nbsp;{{{First Name}}}, this one doesn't have any boffo laughs, so I'll have to owe you one. &nbsp;I promise I'll make it up to you. &nbsp;Read this and think what you might want to ask the wise one.)
 

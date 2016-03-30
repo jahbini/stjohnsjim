@@ -1,27 +1,22 @@
 ---
-numericId: 92
+debug: ""
 className: Story
 created: '2010-12-12 16:14:23'
 lastEdited: '2011-11-23 12:14:38'
 title: 'Planning for Pixies.'
 published: '2010-12-12 18:03:03'
 category: story
-nextID: 0
-previousID: 0
 slug: planning-for-pixies
-_options:
-  layout: default
-  partials: ""
 snippets:
   'first name': 'first name'
   'sms,soto': 'sms,soto'
   'sms,voce': 'sms,voce'
-path: story/planning-for-pixies.md
-sitePath: stjohnsjim
 domain: stjohnsjim.com
 hVersion: 0.1
 memberOf:
   - TAROT
+sourcePath: stjohnsjim/story/planning-for-pixies.md
+siteHandle: stjohnsjim
 ---
 Hooray! {{{First Name}}}. I have finally broken through a culture wall in Oregon! There are several sub-cultures that co-exist in St. John’s, and I want to speak to, and speak about all of St. John’s culture groups. You know, it’s that bridge thing. I would love to add St. John’s large latino population, but alas, I speak little spanish, and even less mariachi.
 

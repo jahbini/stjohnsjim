@@ -1,26 +1,21 @@
 ---
-numericId: 74
+debug: ""
 className: Story
 created: '2010-11-27 16:50:25'
 lastEdited: '2010-11-27 17:49:49'
 title: 'The Monk in the Kingdom of Prosperity'
 published: '2010-11-27 17:49:49'
 category: story
-nextID: 0
-previousID: 0
 slug: the-monk-in-the-kingdom-of-prosperity
-_options:
-  layout: default
-  partials: ""
 snippets: {  }
-path: story/the-monk-in-the-kingdom-of-prosperity.md
-sitePath: stjohnsjim
 domain: stjohnsjim.com
 hVersion: 0.1
 memberOf:
   - TAO
   - GUNAS
   - TAROT
+sourcePath: stjohnsjim/story/the-monk-in-the-kingdom-of-prosperity.md
+siteHandle: stjohnsjim
 ---
 The muse popped out of my Tarot deck screaming Get Strength from The King of Pentacles and The Hermit. &nbsp;_Hey, that really was the draw, I'm helpless when the Tarot speaks. &nbsp;The Tarot make me do it._
 

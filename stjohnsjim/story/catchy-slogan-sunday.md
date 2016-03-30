@@ -1,25 +1,20 @@
 ---
-numericId: 14
+debug: ""
 className: Story
 created: '2010-10-03 16:18:48'
 lastEdited: '2010-10-03 17:41:29'
 title: 'Catchy Slogan Sunday'
 published: '2010-10-03 17:41:29'
 category: story
-nextID: 0
-previousID: 0
 slug: catchy-slogan-sunday
-_options:
-  layout: default
-  partials: ""
 snippets: {  }
-path: story/catchy-slogan-sunday.md
-sitePath: stjohnsjim
 domain: stjohnsjim.com
 hVersion: 0.1
 memberOf:
   - GUNAS
   - PDX
+sourcePath: stjohnsjim/story/catchy-slogan-sunday.md
+siteHandle: stjohnsjim
 ---
 The James John Cafe ran out of hollandaise sauce.&nbsp; Rats.&nbsp; The eggs benedict are fit for a pope.&nbsp; Wahh, my stomach cries for comfort food, which is a no-brainer:&nbsp; I order the awesome chops.&nbsp; Mmm, very tasty. &nbsp;It's Sunday in October and the weather in St. John's today has the trademark stamp of San Francisco's bone chilling Summers.&nbsp; This is the kind of day that you think twice about closing a door because the great refrigerator light in the sky might go out.
 

@@ -1,23 +1,18 @@
 ---
-numericId: 175
+debug: ""
 className: Story
 created: '2011-10-17 11:35:40'
 lastEdited: '2011-10-17 11:35:40'
 title: 'The Ghost of GBS walks St. John''s'
 published: '2011-10-17 11:35:40'
 category: story
-nextID: 0
-previousID: 0
 slug: the-ghost-of-gbs-walks-st-johns
-_options:
-  layout: default
-  partials: ""
 snippets: {  }
-path: story/the-ghost-of-gbs-walks-st-johns.md
-sitePath: stjohnsjim
 domain: stjohnsjim.com
 hVersion: 0.1
 memberOf: []
+sourcePath: stjohnsjim/story/the-ghost-of-gbs-walks-st-johns.md
+siteHandle: stjohnsjim
 ---
 Rumors have it that George Bernard Shaw once lived and walked the Streets of St. John’s. As he strolled by, one of the local louts came up and asked if he had any money. GBS said that he did, by golly and was quite happy about that, and wished that the man also had money.
 

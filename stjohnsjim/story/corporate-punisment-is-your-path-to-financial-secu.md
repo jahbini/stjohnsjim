@@ -1,24 +1,19 @@
 ---
-numericId: 79
+debug: ""
 className: Story
 created: '2010-12-01 17:23:35'
 lastEdited: '2010-12-01 18:04:05'
 title: 'Corporate Punisment is Your Path to Financial Secu'
 published: '2010-12-01 18:04:05'
 category: story
-nextID: 0
-previousID: 0
 slug: corporate-punisment-is-your-path-to-financial-secu
-_options:
-  layout: default
-  partials: ""
 snippets: {  }
-path: story/corporate-punisment-is-your-path-to-financial-secu.md
-sitePath: stjohnsjim
 domain: stjohnsjim.com
 hVersion: 0.1
 memberOf:
   - TAROT
+sourcePath: stjohnsjim/story/corporate-punisment-is-your-path-to-financial-secu.md
+siteHandle: stjohnsjim
 ---
 We recently had a Supreme Court decision that allows corporations to have the same rights of freedom of speech as us human citizens.
 

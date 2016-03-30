@@ -1,23 +1,18 @@
 ---
-numericId: 133
+debug: ""
 className: Story
 created: '2011-04-02 10:42:01'
 lastEdited: '2011-04-02 12:49:33'
 title: 'Excuse My Re-Use!'
 published: '2011-04-02 12:49:33'
 category: story
-nextID: 0
-previousID: 0
 slug: excuse-my-re-use
-_options:
-  layout: default
-  partials: ""
 snippets: {  }
-path: story/excuse-my-re-use.md
-sitePath: stjohnsjim
 domain: stjohnsjim.com
 hVersion: 0.1
 memberOf: []
+sourcePath: stjohnsjim/story/excuse-my-re-use.md
+siteHandle: stjohnsjim
 ---
 Attention Deficit Disorder is a great source of humor:
 

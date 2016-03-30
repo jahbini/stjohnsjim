@@ -1,28 +1,23 @@
 ---
-numericId: 12
+debug: ""
 className: Story
 created: '2010-10-02 12:38:52'
 lastEdited: '2011-08-24 13:25:29'
 title: Normalcy
 published: '2010-10-02 16:19:46'
 category: story
-nextID: 0
-previousID: 0
 slug: normalcy
-_options:
-  layout: default
-  partials: ""
 snippets:
   'first name': 'first name'
   roger: roger
-path: story/normalcy.md
-sitePath: stjohnsjim
 domain: stjohnsjim.com
 hVersion: 0.1
 memberOf:
   - GUNAS
   - TAROT
   - PDX
+sourcePath: stjohnsjim/story/normalcy.md
+siteHandle: stjohnsjim
 ---
 Howzit, {{{First Name}}}, let us contemplate the great sea of human energy from our secret haven, the James John Cafe.
 

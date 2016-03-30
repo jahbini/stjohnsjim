@@ -1,5 +1,5 @@
 ---
-numericId: 161
+debug: ""
 className: Story
 created: '2011-08-24 12:52:23'
 lastEdited: '2011-09-03 15:37:17'
@@ -7,21 +7,16 @@ title: 'Roger Dojer'
 published: '2011-09-03 15:37:17'
 tagList: 'Roger Dojer'
 category: backstory
-nextID: 0
-previousID: 0
 slug: roger-dojer
-_options:
-  layout: default
-  partials: ""
 snippets:
   rogerobt: rogerobt
-path: backstory/roger-dojer.md
 handle: Roger
-sitePath: stjohnsjim
 domain: stjohnsjim.com
 hVersion: 0.1
 memberOf:
   - GUNAS
+sourcePath: stjohnsjim/backstory/roger-dojer.md
+siteHandle: stjohnsjim
 ---
 Roger grew up on the Oregon coast during the late 40's and 50's, the heyday of the hopped-up jalopy. Every teen needed a car to tinker with in the 50's -- It was the hobby of choice for guys. Roger's love of mechanics was very useful in his Navy career: he earned a PhD in Preventative Maintenance and was the mechanic of choice for the whole fleet. It was said that one captain pissed off the admiral, and Roger's transfer to another ship was his punishment.
 

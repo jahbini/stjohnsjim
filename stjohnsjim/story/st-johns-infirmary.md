@@ -1,25 +1,20 @@
 ---
-numericId: 51
+debug: ""
 className: Story
 created: '2010-11-08 11:03:20'
 lastEdited: '2011-07-20 13:06:44'
 title: 'St John''s Infirmary'
 published: '2010-11-08 11:41:53'
 category: story
-nextID: 0
-previousID: 0
 slug: st-johns-infirmary
-_options:
-  layout: default
-  partials: ""
 snippets:
   'first name': 'first name'
-path: story/st-johns-infirmary.md
-sitePath: stjohnsjim
 domain: stjohnsjim.com
 hVersion: 0.1
 memberOf:
   - TAROT
+sourcePath: stjohnsjim/story/st-johns-infirmary.md
+siteHandle: stjohnsjim
 ---
  Torquemada, feared Grand Inquisitor, used to commission buildings which were essentially prisons, infirmaries and poorhouses. He had a strong belief that the wandering soul must be goaded to improve. Part of that improvement was the following proviso for his vision of Purgatory on Earth.
 

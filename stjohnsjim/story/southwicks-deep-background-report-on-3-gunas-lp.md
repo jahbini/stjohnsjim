@@ -1,26 +1,21 @@
 ---
-numericId: 57
+debug: ""
 className: Story
 created: '2010-11-13 15:26:15'
 lastEdited: '2011-10-03 12:23:02'
 title: 'Southwick''s Deep Background Report on 3 Gunas Lp'
 published: '2010-11-13 18:15:27'
 category: story
-nextID: 0
-previousID: 0
 slug: southwicks-deep-background-report-on-3-gunas-lp
-_options:
-  layout: default
-  partials: ""
 snippets: {  }
-path: story/southwicks-deep-background-report-on-3-gunas-lp.md
 handle: 3gunas
-sitePath: stjohnsjim
 domain: stjohnsjim.com
 hVersion: 0.1
 memberOf:
   - GUNAS
   - TAROT
+sourcePath: stjohnsjim/story/southwicks-deep-background-report-on-3-gunas-lp.md
+siteHandle: stjohnsjim
 ---
 ### Southwick 
 

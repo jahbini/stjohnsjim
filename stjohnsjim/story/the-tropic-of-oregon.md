@@ -1,27 +1,22 @@
 ---
-numericId: 16
+debug: ""
 className: Story
 created: '2010-10-07 13:30:46'
 lastEdited: '2010-10-11 14:20:37'
 title: 'The Tropic of Oregon'
 published: '2010-10-07 16:38:29'
 category: story
-nextID: 0
-previousID: 0
 slug: the-tropic-of-oregon
-_options:
-  layout: default
-  partials: ""
 snippets:
   'first name': 'first name'
-path: story/the-tropic-of-oregon.md
-sitePath: stjohnsjim
 domain: stjohnsjim.com
 hVersion: 0.1
 memberOf:
   - GUNAS
   - TAROT
   - PDX
+sourcePath: stjohnsjim/story/the-tropic-of-oregon.md
+siteHandle: stjohnsjim
 ---
 Hi, {{{First Name}}} Good news: the hurricane of women over at 3 Gunas Lp may be over.&nbsp; That's what Southwick mentioned to me this morning at the James John Cafe.&nbsp; Seems that Tommy gave one of the ladies a ride on his motorcycle.&nbsp; She burned her ankle on the exhaust pipe.&nbsp; Tommy was very upset: her skin left an imprint on the chrome and he wants her to pay for the re-plating.
 

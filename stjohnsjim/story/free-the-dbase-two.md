@@ -1,25 +1,20 @@
 ---
-numericId: 82
+debug: ""
 className: Story
 created: '2010-12-03 16:48:02'
 lastEdited: '2010-12-03 17:43:38'
 title: 'Free the DBase Two'
 published: '2010-12-03 17:43:38'
 category: story
-nextID: 0
-previousID: 0
 slug: free-the-dbase-two
-_options:
-  layout: default
-  partials: ""
 snippets: {  }
-path: story/free-the-dbase-two.md
-sitePath: stjohnsjim
 domain: stjohnsjim.com
 hVersion: 0.1
 memberOf:
   - GUNAS
   - TAROT
+sourcePath: stjohnsjim/story/free-the-dbase-two.md
+siteHandle: stjohnsjim
 ---
 I don&rsquo;t think Jug lives in Tommy, OR &mdash; He is a very civilized guy, retired bank teller or something. &nbsp;A real detail person, but very outgoing. &nbsp;
 

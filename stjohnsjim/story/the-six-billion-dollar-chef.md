@@ -1,29 +1,23 @@
 ---
 debug: true
-numericId: 113
 className: Story
 created: '2011-01-06 20:29:19'
 lastEdited: '2011-11-08 14:46:37'
 title: 'The Six Billion Dollar Chef'
 published: '2011-01-06 21:24:57'
 category: story
-nextID: 0
-previousID: 0
 slug: the-six-billion-dollar-chef
-_options:
-  layout: default
-  partials: ""
 snippets:
   author: author
   'comment,soto': 'comment,soto'
   'comment,voce': 'comment,voce'
-path: story/the-six-billion-dollar-chef.md
-sitePath: stjohnsjim
 domain: stjohnsjim.com
 hVersion: 0.1
 memberOf:
   - GUNAS
   - TAROT
+sourcePath: stjohnsjim/story/the-six-billion-dollar-chef.md
+siteHandle: stjohnsjim
 ---
 {{{author:This e-mail is for my amigos and amigas at the NeuroBiological Learning Society. The papers in the link might make for an an interesting starting point for a night of inquiry.
 

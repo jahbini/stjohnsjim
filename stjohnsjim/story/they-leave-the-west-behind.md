@@ -1,24 +1,19 @@
 ---
-numericId: 121
+debug: ""
 className: Story
 created: '2011-02-02 12:14:23'
 lastEdited: '2011-02-02 14:10:42'
 title: 'They Leave the West Behind'
 published: '2011-02-02 14:10:42'
 category: story
-nextID: 0
-previousID: 0
 slug: they-leave-the-west-behind
-_options:
-  layout: default
-  partials: ""
 snippets: {  }
-path: story/they-leave-the-west-behind.md
-sitePath: stjohnsjim
 domain: stjohnsjim.com
 hVersion: 0.1
 memberOf:
   - TAROT
+sourcePath: stjohnsjim/story/they-leave-the-west-behind.md
+siteHandle: stjohnsjim
 ---
 All the way the paper bag was on my knee. &mdash; Lennon &amp; McCartney
 

@@ -1,26 +1,21 @@
 ---
-numericId: 123
+debug: ""
 className: Story
 created: '2011-02-09 20:32:42'
 lastEdited: '2011-02-09 20:54:29'
 title: 'Winnie Daough''s Peck-and-Puke Hen Hats'
 published: '2011-02-09 20:54:29'
 category: story
-nextID: 0
-previousID: 0
 slug: winnie-daoughs-peck-and-puke-hen-hats
-_options:
-  layout: default
-  partials: ""
 snippets:
   'first name': 'first name'
-path: story/winnie-daoughs-peck-and-puke-hen-hats.md
-sitePath: stjohnsjim
 domain: stjohnsjim.com
 hVersion: 0.1
 memberOf:
   - TAO
   - TAROT
+sourcePath: stjohnsjim/story/winnie-daoughs-peck-and-puke-hen-hats.md
+siteHandle: stjohnsjim
 ---
 &nbsp;  
 Well, {{{First Name}}}, they are more like helmets, and are really painted on, and she likely should have used the name _Peck-and-Panic_&hellip; But I digress.

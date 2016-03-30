@@ -1,26 +1,21 @@
 ---
-numericId: 122
+debug: ""
 className: Story
 created: '2011-02-04 16:24:15'
 lastEdited: '2011-02-04 16:38:58'
 title: 'The Daough Sister''s Sustainable Cat Lips'
 published: '2011-02-04 16:38:58'
 category: story
-nextID: 0
-previousID: 0
 slug: the-daough-sisters-sustainable-cat-lips
-_options:
-  layout: default
-  partials: ""
 snippets:
   'first name': 'first name'
-path: story/the-daough-sisters-sustainable-cat-lips.md
-sitePath: stjohnsjim
 domain: stjohnsjim.com
 hVersion: 0.1
 memberOf:
   - TAO
   - TAROT
+sourcePath: stjohnsjim/story/the-daough-sisters-sustainable-cat-lips.md
+siteHandle: stjohnsjim
 ---
 {{{First Name}}}, I have noticed some neighborhood cats with red or purple lips. I thought you might want to know more.
 

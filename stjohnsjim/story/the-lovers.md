@@ -1,24 +1,19 @@
 ---
-numericId: 60
+debug: ""
 className: Story
 created: '2010-11-16 20:03:00'
 lastEdited: '2010-11-16 20:26:40'
 title: 'The Lovers'
 published: '2010-11-16 20:26:40'
 category: story
-nextID: 0
-previousID: 0
 slug: the-lovers
-_options:
-  layout: default
-  partials: ""
 snippets: {  }
-path: story/the-lovers.md
-sitePath: stjohnsjim
 domain: stjohnsjim.com
 hVersion: 0.1
 memberOf:
   - TAROT
+sourcePath: stjohnsjim/story/the-lovers.md
+siteHandle: stjohnsjim
 ---
 An interpretation of Tarot 6 -- The lovers.
 

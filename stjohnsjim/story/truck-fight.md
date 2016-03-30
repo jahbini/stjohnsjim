@@ -1,5 +1,5 @@
 ---
-numericId: 188
+debug: ""
 className: Story
 created: '2012-06-01 17:33:14'
 lastEdited: '2012-06-01 19:55:39'
@@ -7,15 +7,8 @@ title: 'Truck Fight'
 published: '2012-06-01 17:33:14'
 tagList: 'Leo,Tommy,Station,Felix,Merton'
 category: story
-nextID: 0
-previousID: 0
 slug: truck-fight
-_options:
-  layout: default
-  partials: ""
 snippets: {  }
-path: story/truck-fight.md
-sitePath: stjohnsjim
 domain: stjohnsjim.com
 hVersion: 0.1
 memberOf:
@@ -23,6 +16,8 @@ memberOf:
   - GUNAS
   - TAROT
   - PDX
+sourcePath: stjohnsjim/story/truck-fight.md
+siteHandle: stjohnsjim
 ---
 Tommy loves truck fights. He got into one just last week.
 

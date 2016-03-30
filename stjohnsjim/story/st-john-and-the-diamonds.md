@@ -1,24 +1,19 @@
 ---
-numericId: 109
+debug: ""
 className: Story
 created: '2010-12-31 11:49:28'
 lastEdited: '2011-01-02 12:25:56'
 title: 'St. John and the Diamonds'
 published: '2011-01-02 12:25:56'
 category: story
-nextID: 0
-previousID: 0
 slug: st-john-and-the-diamonds
-_options:
-  layout: default
-  partials: ""
 snippets: {  }
-path: story/st-john-and-the-diamonds.md
-sitePath: stjohnsjim
 domain: stjohnsjim.com
 hVersion: 0.1
 memberOf:
   - PDX
+sourcePath: stjohnsjim/story/st-john-and-the-diamonds.md
+siteHandle: stjohnsjim
 ---
 >  Nature's first green is gold,&#8232;  
 > Her hardest hue to hold.&#8232;  

@@ -1,26 +1,21 @@
 ---
-numericId: 73
+debug: ""
 className: Story
 created: '2010-11-26 15:00:43'
 lastEdited: '2011-07-20 13:11:30'
 title: 'Enkidu and Dog Tits'
 published: '2010-11-26 18:19:55'
 category: story
-nextID: 0
-previousID: 0
 slug: enkidu-and-dog-tits
-_options:
-  layout: default
-  partials: ""
 snippets:
   'first name': 'first name'
-path: story/enkidu-and-dog-tits.md
-sitePath: stjohnsjim
 domain: stjohnsjim.com
 hVersion: 0.1
 memberOf:
   - GUNAS
   - TAROT
+sourcePath: stjohnsjim/story/enkidu-and-dog-tits.md
+siteHandle: stjohnsjim
 ---
 >  I am getting some friends here that read my stories by cell-phone so I can't send the real HTML version. I will be happy to send a text version instead if you ask. And yes, {{{First Name}}}, I really did say "dog tits."
 

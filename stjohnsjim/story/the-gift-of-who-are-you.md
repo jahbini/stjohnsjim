@@ -1,24 +1,19 @@
 ---
-numericId: 145
+debug: ""
 className: Story
 created: '2011-05-29 16:05:23'
 lastEdited: '2011-05-29 16:52:37'
 title: 'The Gift of "Who Are You?"'
 published: '2011-05-29 16:52:37'
 category: story
-nextID: 0
-previousID: 0
 slug: the-gift-of-who-are-you
-_options:
-  layout: default
-  partials: ""
 snippets: {  }
-path: story/the-gift-of-who-are-you.md
-sitePath: stjohnsjim
 domain: stjohnsjim.com
 hVersion: 0.1
 memberOf:
   - TAROT
+sourcePath: stjohnsjim/story/the-gift-of-who-are-you.md
+siteHandle: stjohnsjim
 ---
 It all started a few days ago over at the House of the [Ten of Cups][0].
 

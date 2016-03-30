@@ -1,5 +1,5 @@
 ---
-numericId: 160
+debug: ""
 className: Story
 created: '2011-08-20 17:19:30'
 lastEdited: '2011-08-20 17:19:30'
@@ -7,21 +7,16 @@ title: 'The Catalyst of August'
 published: '2011-08-20 17:19:30'
 tagList: 'laughter, compassion, family life, cosmic humor'
 category: story
-nextID: 0
-previousID: 0
 slug: the-catalyst-of-august
-_options:
-  layout: default
-  partials: ""
 snippets:
   'first name': 'first name'
-path: story/the-catalyst-of-august.md
-sitePath: stjohnsjim
 domain: stjohnsjim.com
 hVersion: 0.1
 memberOf:
   - TAROT
   - PDX
+sourcePath: stjohnsjim/story/the-catalyst-of-august.md
+siteHandle: stjohnsjim
 ---
 Make things as serious as you want, but never more than they need -- St. John's Jim
 

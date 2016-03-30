@@ -1,25 +1,20 @@
 ---
-numericId: 134
+debug: ""
 className: Story
 created: '2011-04-06 14:55:01'
 lastEdited: '2011-04-06 15:02:53'
 title: 'SonOfABitch Day!'
 published: '2011-04-06 15:02:53'
 category: story
-nextID: 0
-previousID: 0
 slug: sonofabitch-day
-_options:
-  layout: default
-  partials: ""
 snippets: {  }
-path: story/sonofabitch-day.md
-sitePath: stjohnsjim
 domain: stjohnsjim.com
 hVersion: 0.1
 memberOf:
   - GUNAS
   - TAROT
+sourcePath: stjohnsjim/story/sonofabitch-day.md
+siteHandle: stjohnsjim
 ---
 Of course I want you to know that it _IS_ Summer, and I am _NOT_ wearing long underwear today.
 

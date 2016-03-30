@@ -1,27 +1,22 @@
 ---
-numericId: 104
+debug: ""
 className: Story
 created: '2010-12-23 16:14:14'
 lastEdited: '2010-12-23 17:10:49'
 title: 'Big Rocks, Burgers and Birds'
 published: '2010-12-23 17:10:49'
 category: story
-nextID: 0
-previousID: 0
 slug: big-rocks-burgers-and-birds
-_options:
-  layout: default
-  partials: ""
 snippets:
   'first name': 'first name'
-path: story/big-rocks-burgers-and-birds.md
-sitePath: stjohnsjim
 domain: stjohnsjim.com
 hVersion: 0.1
 memberOf:
   - GUNAS
   - TAROT
   - PDX
+sourcePath: stjohnsjim/story/big-rocks-burgers-and-birds.md
+siteHandle: stjohnsjim
 ---
 ### From the Famed GutBuster Institute of The St. John&rsquo;s Infirmary
 

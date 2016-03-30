@@ -1,25 +1,20 @@
 ---
-numericId: 84
+debug: ""
 className: Story
 created: '2010-12-05 16:14:39'
 lastEdited: '2010-12-05 17:00:57'
 title: 'Mooning the Squirrels'
 published: '2010-12-05 17:00:57'
 category: story
-nextID: 0
-previousID: 0
 slug: mooning-the-squirrels
-_options:
-  layout: default
-  partials: ""
 snippets: {  }
-path: story/mooning-the-squirrels.md
-sitePath: stjohnsjim
 domain: stjohnsjim.com
 hVersion: 0.1
 memberOf:
   - GUNAS
   - TAROT
+sourcePath: stjohnsjim/story/mooning-the-squirrels.md
+siteHandle: stjohnsjim
 ---
 Squirrels are moving slower. They are less spooky &mdash; maybe the blue jays have been banished from their realm and squirrels are at peace. They are certainly fatter and climb in spurts. Southwick says they are reading the phase of the moon. As a species, they have had Mama Nature&rsquo;s rewards and punishments drilled into their DNA. And Mother Nature tends to live a very long time. Centuries? Longer? And there is no operating manual for Mother Nature.
 

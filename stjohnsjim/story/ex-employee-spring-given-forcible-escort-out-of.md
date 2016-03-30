@@ -1,26 +1,21 @@
 ---
-numericId: 132
+debug: ""
 className: Story
 created: '2011-03-27 09:57:35'
 lastEdited: '2011-03-27 11:14:43'
 title: 'Ex - Employee Spring Given Forcible Escort Out of '
 published: '2011-03-27 11:14:43'
 category: story
-nextID: 0
-previousID: 0
 slug: ex-employee-spring-given-forcible-escort-out-of
-_options:
-  layout: default
-  partials: ""
 snippets:
   'first name': 'first name'
-path: story/ex-employee-spring-given-forcible-escort-out-of.md
-sitePath: stjohnsjim
 domain: stjohnsjim.com
 hVersion: 0.1
 memberOf:
   - TAROT
   - PDX
+sourcePath: stjohnsjim/story/ex-employee-spring-given-forcible-escort-out-of.md
+siteHandle: stjohnsjim
 ---
 {{{First Name}}}, Don&rsquo;t you hate it when a retired worker keeps coming back to the factory and trying to fit in at the old job?
 

@@ -1,27 +1,22 @@
 ---
-numericId: 26
+debug: ""
 className: Story
 created: '2010-10-14 14:48:48'
 lastEdited: '2010-10-14 15:02:49'
 title: 'Dental Ben gets 86ed'
 published: '2010-10-14 15:02:49'
 category: story
-nextID: 0
-previousID: 0
 slug: dental-ben-gets-86ed
-_options:
-  layout: default
-  partials: ""
 snippets:
   'first name': 'first name'
-path: story/dental-ben-gets-86ed.md
-sitePath: stjohnsjim
 domain: stjohnsjim.com
 hVersion: 0.1
 memberOf:
   - GUNAS
   - TAROT
   - PDX
+sourcePath: stjohnsjim/story/dental-ben-gets-86ed.md
+siteHandle: stjohnsjim
 ---
 I just got to the James John Cafe.&nbsp; I took out my 'puter for a writing session, sat down.&nbsp; I looked up to find someone in a bear costume with a blue t-shirt that says: &quot;Dental Ben.&quot;&nbsp; Ben is dancing to entertain kids.&nbsp; There are no kids.&nbsp; Ben can't see out of the tiny holes in his bear mask and dances anyway.&nbsp; Dancing Bears are not allowed in St. John's.&nbsp; Joe Rilla, the bouncer, tells Ben: &quot;Our speakeasy license won't allow for dancing, come back when you can keep yourself under control.&quot;&nbsp; And then throws Ben into the street in the pouring rain.
 

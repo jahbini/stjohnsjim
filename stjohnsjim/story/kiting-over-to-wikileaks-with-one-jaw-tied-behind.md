@@ -1,25 +1,20 @@
 ---
-numericId: 96
+debug: ""
 className: Story
 created: '2010-12-14 19:51:51'
 lastEdited: '2011-09-25 11:58:57'
 title: 'Kiting over to WikiLeaks with one jaw tied behind '
 published: '2010-12-14 21:38:35'
 category: story
-nextID: 0
-previousID: 0
 slug: kiting-over-to-wikileaks-with-one-jaw-tied-behind
-_options:
-  layout: default
-  partials: ""
 snippets: {  }
-path: story/kiting-over-to-wikileaks-with-one-jaw-tied-behind.md
 handle: dentalki
-sitePath: stjohnsjim
 domain: stjohnsjim.com
 hVersion: 0.1
 memberOf:
   - TAROT
+sourcePath: stjohnsjim/story/kiting-over-to-wikileaks-with-one-jaw-tied-behind.md
+siteHandle: stjohnsjim
 ---
  I had an appointment this day for more dental work. I have heard that dentists are suffering because people’s teeth have fewer cavities nowadays. As a response, dental research has found that the optimum number of teeth is 128 instead of 32. Clone research is very close to a breakthrough on this topic. Economic research says that four times more teeth will boost profit after taxes by 326% — expect more teeth than you ever thought possible coming to a mouth near your tongue.
 

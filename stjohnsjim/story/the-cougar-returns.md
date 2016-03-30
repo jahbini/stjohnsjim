@@ -1,25 +1,20 @@
 ---
-numericId: 173
+debug: ""
 className: Story
 created: '2011-10-11 16:04:31'
 lastEdited: '2011-10-11 16:20:37'
 title: 'The Cougar Returns!'
 published: '2011-10-11 16:04:31'
 category: story
-nextID: 0
-previousID: 0
 slug: the-cougar-returns
-_options:
-  layout: default
-  partials: ""
 snippets: {  }
-path: story/the-cougar-returns.md
 handle: TCreturn
-sitePath: stjohnsjim
 domain: stjohnsjim.com
 hVersion: 0.1
 memberOf:
   - TAROT
+sourcePath: stjohnsjim/story/the-cougar-returns.md
+siteHandle: stjohnsjim
 ---
 Thereasa hangs up the phone and her mind races with possibilities — What happened to her current cub? He was supposed to keep the shop running while she presented her research papers to the secret gathering of NonSaneO and C.I.X. agents. If even one of her “beasties” turned up in the wrong hands, there could be public outrage — rioting in the streets as people realized the dangers of venomous eight legged web-spinning raccoons, bats, and even bears.
 

@@ -1,5 +1,5 @@
 ---
-numericId: 168
+debug: ""
 className: Story
 created: '2011-09-08 14:07:24'
 lastEdited: '2011-09-08 14:42:00'
@@ -7,21 +7,16 @@ title: 'Project Ying Yang Bang Bang'
 published: '2011-09-08 14:42:00'
 tagList: 'haarp,conspiracy,earthquakes,exploding watermelons'
 category: story
-nextID: 0
-previousID: 0
 slug: project-ying-yang-bang-bang
-_options:
-  layout: default
-  partials: ""
 snippets:
   'first name': 'first name'
-path: story/project-ying-yang-bang-bang.md
 handle: YYBB
-sitePath: stjohnsjim
 domain: stjohnsjim.com
 hVersion: 0.1
 memberOf:
   - PDX
+sourcePath: stjohnsjim/story/project-ying-yang-bang-bang.md
+siteHandle: stjohnsjim
 ---
 {{{First Name}}}, here is how I uncovered a world wide conspiracy. You will thank me.
 

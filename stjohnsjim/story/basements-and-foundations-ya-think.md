@@ -1,29 +1,24 @@
 ---
-numericId: 97
+debug: ""
 className: Story
 created: '2010-12-16 17:16:09'
 lastEdited: '2011-11-08 14:08:28'
 title: 'Basements and Foundations, Ya Think?'
 published: '2010-12-16 18:01:51'
 category: story
-nextID: 0
-previousID: 0
 slug: basements-and-foundations-ya-think
-_options:
-  layout: default
-  partials: ""
 snippets:
   'first name': 'first name'
   'sms,soto': 'sms,soto'
   'sms,voce': 'sms,voce'
-path: story/basements-and-foundations-ya-think.md
-sitePath: stjohnsjim
 domain: stjohnsjim.com
 hVersion: 0.1
 memberOf:
   - GUNAS
   - TAROT
   - PDX
+sourcePath: stjohnsjim/story/basements-and-foundations-ya-think.md
+siteHandle: stjohnsjim
 ---
 {{{First Name}}}, Stop The Presses!
 

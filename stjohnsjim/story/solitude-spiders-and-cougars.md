@@ -1,26 +1,21 @@
 ---
-numericId: 40
+debug: ""
 className: Story
 created: '2010-10-28 18:24:23'
 lastEdited: '2010-10-28 18:51:44'
 title: 'Solitude, Spiders, and Cougars'
 published: '2010-10-28 18:51:44'
 category: story
-nextID: 0
-previousID: 0
 slug: solitude-spiders-and-cougars
-_options:
-  layout: default
-  partials: ""
 snippets: {  }
-path: story/solitude-spiders-and-cougars.md
-sitePath: stjohnsjim
 domain: stjohnsjim.com
 hVersion: 0.1
 memberOf:
   - GUNAS
   - TAROT
   - PDX
+sourcePath: stjohnsjim/story/solitude-spiders-and-cougars.md
+siteHandle: stjohnsjim
 ---
 &nbsp;I&rsquo;m writing this from my alternate writing location: The &ldquo;[Fortress of Solitude][0]&rdquo; &mdash; it time shares with the &ldquo;[Castle of Chaos][1].&rdquo;
 

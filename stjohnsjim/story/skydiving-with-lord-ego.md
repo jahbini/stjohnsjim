@@ -1,24 +1,19 @@
 ---
-numericId: 80
+debug: ""
 className: Story
 created: '2010-12-02 17:11:32'
 lastEdited: '2010-12-02 17:56:03'
 title: 'Skydiving with Lord Ego'
 published: '2010-12-02 17:56:03'
 category: story
-nextID: 0
-previousID: 0
 slug: skydiving-with-lord-ego
-_options:
-  layout: default
-  partials: ""
 snippets: {  }
-path: story/skydiving-with-lord-ego.md
-sitePath: stjohnsjim
 domain: stjohnsjim.com
 hVersion: 0.1
 memberOf:
   - TAROT
+sourcePath: stjohnsjim/story/skydiving-with-lord-ego.md
+siteHandle: stjohnsjim
 ---
 The airplane of humanity has the left ailerons voting &quot;up,&quot; and the right ailerons pointing &quot;down&quot;&nbsp;
 

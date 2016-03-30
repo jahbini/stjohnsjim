@@ -1,27 +1,22 @@
 ---
-numericId: 120
+debug: ""
 className: Story
 created: '2011-01-27 20:33:17'
 lastEdited: '2011-01-27 21:28:28'
 title: 'Southwick in the Slammer??!!!'
 published: '2011-01-27 21:28:28'
 category: story
-nextID: 0
-previousID: 0
 slug: southwick-in-the-slammer
-_options:
-  layout: default
-  partials: ""
 snippets:
   'first name': 'first name'
-path: story/southwick-in-the-slammer.md
-sitePath: stjohnsjim
 domain: stjohnsjim.com
 hVersion: 0.1
 memberOf:
   - GUNAS
   - TAROT
   - PDX
+sourcePath: stjohnsjim/story/southwick-in-the-slammer.md
+siteHandle: stjohnsjim
 ---
 I saw Southwick getting off the 75 early this morning. Odd, I had not seen Southwick for a while. He had not showered in several days and had a tired, but agitated look.
 

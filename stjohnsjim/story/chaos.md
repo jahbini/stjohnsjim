@@ -1,28 +1,23 @@
 ---
-numericId: 49
+debug: ""
 className: Story
 created: '2010-11-06 15:01:42'
 lastEdited: '2011-08-23 16:59:26'
 title: Chaos
 published: '2010-11-06 17:49:03'
 category: story
-nextID: 0
-previousID: 0
 slug: chaos
-_options:
-  layout: default
-  partials: ""
 snippets:
   'first name': 'first name'
   axii: axii
-path: story/chaos.md
-sitePath: stjohnsjim
 domain: stjohnsjim.com
 hVersion: 0.1
 memberOf:
   - GUNAS
   - TAROT
   - PDX
+sourcePath: stjohnsjim/story/chaos.md
+siteHandle: stjohnsjim
 ---
 Hi {{{First Name}}}, Here is a delayed announcement (against my better judgement) from Sandy and SouthWick:
 

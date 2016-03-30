@@ -1,25 +1,20 @@
 ---
-numericId: 15
+debug: ""
 className: Story
 created: '2010-10-05 19:00:38'
 lastEdited: '2010-10-11 14:02:08'
 title: 'L O L A -- Lola!'
 published: '2010-10-05 19:12:04'
 category: story
-nextID: 0
-previousID: 0
 slug: l-o-l-a-lola
-_options:
-  layout: default
-  partials: ""
 snippets:
   'first name': 'first name'
-path: story/l-o-l-a-lola.md
-sitePath: stjohnsjim
 domain: stjohnsjim.com
 hVersion: 0.1
 memberOf:
   - GUNAS
+sourcePath: stjohnsjim/story/l-o-l-a-lola.md
+siteHandle: stjohnsjim
 ---
 {{{First Name}}}, s ome of my friends have let me know that they have real problems.&nbsp; Cancer, deportation, addiction, lost loves, and nasty crap like that.&nbsp; I sense that my oath to &quot;90 seconds to belly laugh&quot; promise is a guilty pleasure.&nbsp; Yes, let me remove that guilt slightly, but just remember:&nbsp; You will laugh.&nbsp; Or else.
 

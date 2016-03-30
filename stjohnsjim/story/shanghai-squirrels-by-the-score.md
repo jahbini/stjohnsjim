@@ -1,26 +1,21 @@
 ---
-numericId: 154
+debug: ""
 className: Story
 created: '2011-07-01 16:40:13'
 lastEdited: '2011-07-01 17:59:43'
 title: 'Shanghai Squirrels by the Score'
 published: '2011-07-01 17:59:43'
 category: story
-nextID: 0
-previousID: 0
 slug: shanghai-squirrels-by-the-score
-_options:
-  layout: default
-  partials: ""
 snippets: {  }
-path: story/shanghai-squirrels-by-the-score.md
-sitePath: stjohnsjim
 domain: stjohnsjim.com
 hVersion: 0.1
 memberOf:
   - GUNAS
   - TAROT
   - PDX
+sourcePath: stjohnsjim/story/shanghai-squirrels-by-the-score.md
+siteHandle: stjohnsjim
 ---
  &nbsp;
 

@@ -1,27 +1,22 @@
 ---
-numericId: 127
+debug: ""
 className: Story
 created: '2011-03-02 16:32:35'
 lastEdited: '2011-03-02 17:02:11'
 title: 'Pathy Warps to Plant Speed'
 published: '2011-03-02 17:02:11'
 category: story
-nextID: 0
-previousID: 0
 slug: pathy-warps-to-plant-speed
-_options:
-  layout: default
-  partials: ""
 snippets:
   'first name': 'first name'
-path: story/pathy-warps-to-plant-speed.md
-sitePath: stjohnsjim
 domain: stjohnsjim.com
 hVersion: 0.1
 memberOf:
   - TAO
   - GUNAS
   - TAROT
+sourcePath: stjohnsjim/story/pathy-warps-to-plant-speed.md
+siteHandle: stjohnsjim
 ---
 I am forcing my self to write. &nbsp;It's a strain. &nbsp;But It's a strain **not** to write. &nbsp;Strain is bad for writing. &nbsp;Writing is good for writing. &nbsp;Today, I am ignoring all the &ldquo;reasons&rdquo; to put off my workout on the ultimate mat: the blank page. True success there has lasting value. Kingdoms have fallen. Civilization advances, Yadda-Yadda-Yadda. All have happened because of expert use of the blank page. &nbsp;Or so I'm told.
 

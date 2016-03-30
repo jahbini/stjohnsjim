@@ -1,25 +1,20 @@
 ---
-numericId: 176
+debug: ""
 className: Story
 created: '2011-10-17 14:00:24'
 lastEdited: '2011-11-20 11:22:32'
 title: 'Valerie flees to Confusistan'
 published: '2011-10-17 14:00:24'
 category: story
-nextID: 0
-previousID: 0
 slug: valerie-flees-to-confusistan
-_options:
-  layout: default
-  partials: ""
 snippets:
   svtower: svtower
-path: story/valerie-flees-to-confusistan.md
-sitePath: stjohnsjim
 domain: stjohnsjim.com
 hVersion: 0.1
 memberOf:
   - TAROT
+sourcePath: stjohnsjim/story/valerie-flees-to-confusistan.md
+siteHandle: stjohnsjim
 ---
 _This chapter of the ongoing saga of Stan and Valerie is brought to you by the Six of Swords and The Moon_
 

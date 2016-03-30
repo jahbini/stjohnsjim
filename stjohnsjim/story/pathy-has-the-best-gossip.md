@@ -1,27 +1,22 @@
 ---
-numericId: 153
+debug: ""
 className: Story
 created: '2011-06-19 21:31:51'
 lastEdited: '2011-06-19 22:08:58'
 title: 'Pathy Has the Best Gossip'
 published: '2011-06-19 22:08:58'
 category: story
-nextID: 0
-previousID: 0
 slug: pathy-has-the-best-gossip
-_options:
-  layout: default
-  partials: ""
 snippets:
   'first name': 'first name'
-path: story/pathy-has-the-best-gossip.md
-sitePath: stjohnsjim
 domain: stjohnsjim.com
 hVersion: 0.1
 memberOf:
   - TAO
   - GUNAS
   - TAROT
+sourcePath: stjohnsjim/story/pathy-has-the-best-gossip.md
+siteHandle: stjohnsjim
 ---
 {{{First Name}}}, You have no idea how hard it is to write: &ldquo;right mood&rdquo; (check); &ldquo;flowing emotional ideas&rdquo; (check); time (check, check and megacheck); battery life (check); good ambient feng-shui (che&mdash; Um. what the hell is ambient feng-shui???)
 

@@ -1,24 +1,19 @@
 ---
-numericId: 36
+debug: ""
 className: Story
 created: '2010-10-25 14:43:13'
 lastEdited: '2010-10-30 17:18:40'
 title: 'Tommy, OR Recycles'
 published: '2010-10-30 17:18:40'
 category: story
-nextID: 0
-previousID: 0
 slug: tommy-or-recycles
-_options:
-  layout: default
-  partials: ""
 snippets: {  }
-path: story/tommy-or-recycles.md
-sitePath: stjohnsjim
 domain: stjohnsjim.com
 hVersion: 0.1
 memberOf:
   - GUNAS
+sourcePath: stjohnsjim/story/tommy-or-recycles.md
+siteHandle: stjohnsjim
 ---
 This is a special edition for the Dancing Waitresses of Niagara Falls:
 

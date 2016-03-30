@@ -1,24 +1,19 @@
 ---
-numericId: 118
+debug: ""
 className: Story
 created: '2011-01-25 17:51:08'
 lastEdited: '2011-01-25 18:34:31'
 title: 'Susanna''s Song'
 published: '2011-01-25 18:34:31'
 category: story
-nextID: 0
-previousID: 0
 slug: susannas-song
-_options:
-  layout: default
-  partials: ""
 snippets: {  }
-path: story/susannas-song.md
-sitePath: stjohnsjim
 domain: stjohnsjim.com
 hVersion: 0.1
 memberOf:
   - TAROT
+sourcePath: stjohnsjim/story/susannas-song.md
+siteHandle: stjohnsjim
 ---
 Looking out over the prairie, Susanna fingered her white dress nervously. The thunder storm was quickly getting too close: distant flashes and long kettledrum rolls had changed to sharp cracks. She would get her best dress soaked and her hair drenched up by the time she got to the Kenton place.
 

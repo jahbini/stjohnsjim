@@ -1,25 +1,20 @@
 ---
-numericId: 83
+debug: ""
 className: Story
 created: '2010-12-04 16:18:40'
 lastEdited: '2010-12-04 17:53:07'
 title: 'Neither Forest Nor Trees and, sigh,  Mentors'
 published: '2010-12-04 17:53:07'
 category: story
-nextID: 0
-previousID: 0
 slug: neither-forest-nor-trees-and-sigh-mentors
-_options:
-  layout: default
-  partials: ""
 snippets: {  }
-path: story/neither-forest-nor-trees-and-sigh-mentors.md
-sitePath: stjohnsjim
 domain: stjohnsjim.com
 hVersion: 0.1
 memberOf:
   - GUNAS
   - TAROT
+sourcePath: stjohnsjim/story/neither-forest-nor-trees-and-sigh-mentors.md
+siteHandle: stjohnsjim
 ---
 Late Fraking Blash! The Factory Underground has morphed into a new location above ground at [John's Tavern][0]! &nbsp;All ages welcome!
 

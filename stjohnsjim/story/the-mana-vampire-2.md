@@ -1,26 +1,21 @@
 ---
-numericId: 27
+debug: ""
 className: Story
 created: '2010-10-15 11:59:59'
 lastEdited: '2010-10-15 12:01:45'
 title: 'The Mana Vampire - 2'
 published: '2010-10-15 12:01:45'
 category: story
-nextID: 0
-previousID: 0
 slug: the-mana-vampire-2
-_options:
-  layout: default
-  partials: ""
 snippets:
   'first name': 'first name'
-path: story/the-mana-vampire-2.md
-sitePath: stjohnsjim
 domain: stjohnsjim.com
 hVersion: 0.1
 memberOf:
   - TAROT
   - PDX
+sourcePath: stjohnsjim/story/the-mana-vampire-2.md
+siteHandle: stjohnsjim
 ---
 &nbsp; So I'm walking with my friend,&nbsp;[Enkidu][0]&nbsp;on Lombard Ave one evening in St. Johns. We pause to cross a street, and Humbaba walks up and says: &quot;I can't believe that Tomorrow is the ST JOHN'S PARADE!&quot; Then I said: &quot;And day after that, I can't believe I'll wait a whole year for the next one.&quot; Then he said something quite significant: &quot;For the last three years I've had my&nbsp;_childhood dream_&nbsp;fulfilled... I've been in each St. John's parade&quot; --- Some dream...
 

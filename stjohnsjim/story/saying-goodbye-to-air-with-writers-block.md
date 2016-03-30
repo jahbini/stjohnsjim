@@ -1,23 +1,18 @@
 ---
-numericId: 29
+debug: ""
 className: Story
 created: '2010-10-17 09:22:56'
 lastEdited: '2010-10-22 13:12:20'
 title: 'Saying goodbye to air with writer''s block'
 published: '2010-10-22 13:12:20'
 category: story
-nextID: 0
-previousID: 0
 slug: saying-goodbye-to-air-with-writers-block
-_options:
-  layout: default
-  partials: ""
 snippets: {  }
-path: story/saying-goodbye-to-air-with-writers-block.md
-sitePath: stjohnsjim
 domain: stjohnsjim.com
 hVersion: 0.1
 memberOf: []
+sourcePath: stjohnsjim/story/saying-goodbye-to-air-with-writers-block.md
+siteHandle: stjohnsjim
 ---
 Everybody already has this figured out, but I'll say it again:&nbsp; I notice things here in Portland.&nbsp; Mostly things that contrast with what I've known for the last 20 years in Hawaii.&nbsp; Things that mainlanders take for granted.&nbsp; Things that Kama Aina take for granted.
 

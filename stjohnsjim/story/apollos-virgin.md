@@ -1,26 +1,21 @@
 ---
-numericId: 151
+debug: ""
 className: Story
 created: '2011-06-13 18:11:04'
 lastEdited: '2011-11-19 19:49:45'
 title: 'Apollo''s Virgin'
 published: '2011-06-13 18:41:08'
 category: story
-nextID: 0
-previousID: 0
 slug: apollos-virgin
-_options:
-  layout: default
-  partials: ""
 snippets:
   'first name': 'first name'
   author: author
-path: story/apollos-virgin.md
-sitePath: stjohnsjim
 domain: stjohnsjim.com
 hVersion: 0.1
 memberOf:
   - GUNAS
+sourcePath: stjohnsjim/story/apollos-virgin.md
+siteHandle: stjohnsjim
 ---
 {{{author:My friend Southwick says he channeled this from the Akashic Records -- I think it has a message for our times in here somewhere.}}}
 

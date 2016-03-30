@@ -1,23 +1,18 @@
 ---
-numericId: 126
+debug: ""
 className: Story
 created: '2011-02-28 10:59:02'
 lastEdited: '2011-02-28 11:14:01'
 title: 'Of Gangs and Angels'
 published: '2011-02-28 11:14:01'
 category: story
-nextID: 0
-previousID: 0
 slug: of-gangs-and-angels
-_options:
-  layout: default
-  partials: ""
 snippets: {  }
-path: story/of-gangs-and-angels.md
-sitePath: stjohnsjim
 domain: stjohnsjim.com
 hVersion: 0.1
 memberOf: []
+sourcePath: stjohnsjim/story/of-gangs-and-angels.md
+siteHandle: stjohnsjim
 ---
 I wr &nbsp; ote this piece a few days ago. I tabled it because it didn&rsquo;t flow right. Even though it had the aroma of moth-balls when I scanned it this morning, a few sprinkles of edit-rewrite clorox did the job. &nbsp;The guy on this bus is an old memory: You may know him if you have ever ridden on the Ho &nbsp; nolulu Bus system: He&rsquo;s the guy holding his baggy pants up with one hand, and a plastic foam cup in his other &mdash; he waddles to the rear of the bus, sits down, stands up, moves, sits down. A rather amazing performance. I dedicate this piece to his unknown name.
 

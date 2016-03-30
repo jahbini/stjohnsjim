@@ -1,25 +1,20 @@
 ---
-numericId: 119
+debug: ""
 className: Story
 created: '2011-01-26 17:43:01'
 lastEdited: '2011-09-25 12:01:24'
 title: 'Julian Assange Vs Happy Birthday'
 published: '2011-01-26 17:58:37'
 category: story
-nextID: 0
-previousID: 0
 slug: julian-assange-vs-happy-birthday
-_options:
-  layout: default
-  partials: ""
 snippets:
   'first name': 'first name'
   dentalki: dentalki
-path: story/julian-assange-vs-happy-birthday.md
-sitePath: stjohnsjim
 domain: stjohnsjim.com
 hVersion: 0.1
 memberOf: []
+sourcePath: stjohnsjim/story/julian-assange-vs-happy-birthday.md
+siteHandle: stjohnsjim
 ---
 {{{First Name}}}, you may remember from a {{{dentalki:story last December}}} that I was able to decode the WikiLeaks atom bomb, poison pill, stick a pin-in-your-eye-hope-to-die ultra secret file. I had the key! (I’m sure that just saying that will prompt a visit to my door by some three letter agency.)
 

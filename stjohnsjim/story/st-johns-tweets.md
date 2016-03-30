@@ -1,24 +1,19 @@
 ---
-numericId: 39
+debug: ""
 className: Story
 created: '2010-10-26 16:15:26'
 lastEdited: '2010-10-27 23:55:34'
 title: 'St Johns Tweets'
 published: '2010-10-27 23:55:34'
 category: story
-nextID: 0
-previousID: 0
 slug: st-johns-tweets
-_options:
-  layout: default
-  partials: ""
 snippets: {  }
-path: story/st-johns-tweets.md
-sitePath: stjohnsjim
 domain: stjohnsjim.com
 hVersion: 0.1
 memberOf:
   - PDX
+sourcePath: stjohnsjim/story/st-johns-tweets.md
+siteHandle: stjohnsjim
 ---
 &nbsp;**Follow @StJohnsJim:**
 

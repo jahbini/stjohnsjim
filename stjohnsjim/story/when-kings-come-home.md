@@ -1,24 +1,19 @@
 ---
-numericId: 89
+debug: ""
 className: Story
 created: '2010-12-10 16:50:07'
 lastEdited: '2010-12-10 17:54:37'
 title: 'When Kings Come Home'
 published: '2010-12-10 17:54:37'
 category: story
-nextID: 0
-previousID: 0
 slug: when-kings-come-home
-_options:
-  layout: default
-  partials: ""
 snippets: {  }
-path: story/when-kings-come-home.md
-sitePath: stjohnsjim
 domain: stjohnsjim.com
 hVersion: 0.1
 memberOf:
   - TAROT
+sourcePath: stjohnsjim/story/when-kings-come-home.md
+siteHandle: stjohnsjim
 ---
 New report demonstrates readers of &ldquo;The St. John&rsquo;s LightHouse&rdquo; can add up to 1/4 pound of neurons or more! While it restores bad breath!&mdash; remember, you read it first here.&nbsp;
 

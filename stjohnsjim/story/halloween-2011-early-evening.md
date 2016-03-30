@@ -1,28 +1,23 @@
 ---
-numericId: 179
+debug: ""
 className: Story
 created: '2011-10-31 13:20:01'
 lastEdited: '2011-10-31 18:41:43'
 title: 'Halloween 2011 -- Early Evening'
 published: '2011-10-31 13:20:01'
 category: story
-nextID: 0
-previousID: 0
 slug: halloween-2011-early-evening
-_options:
-  layout: default
-  partials: ""
 snippets:
   halloend: halloend
-path: story/halloween-2011-early-evening.md
 handle: Halloeve
-sitePath: stjohnsjim
 domain: stjohnsjim.com
 hVersion: 0.1
 memberOf:
   - TAO
   - GUNAS
   - TAROT
+sourcePath: stjohnsjim/story/halloween-2011-early-evening.md
+siteHandle: stjohnsjim
 ---
 Halloween night, 2011. It is a new moon and the darkness falls quickly in the Portland Autumn.
 

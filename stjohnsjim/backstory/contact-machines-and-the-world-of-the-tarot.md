@@ -1,5 +1,5 @@
 ---
-numericId: 164
+debug: ""
 className: Story
 created: '2011-08-30 14:25:04'
 lastEdited: '2011-08-30 14:26:13'
@@ -7,20 +7,15 @@ title: 'Contact Machines and the World of the Tarot'
 published: '2011-08-30 14:26:13'
 tagList: 'tarot world, future, contact machine'
 category: backstory
-nextID: 0
-previousID: 0
 slug: contact-machines-and-the-world-of-the-tarot
-_options:
-  layout: default
-  partials: ""
 snippets: {  }
-path: backstory/contact-machines-and-the-world-of-the-tarot.md
 handle: Contact
-sitePath: stjohnsjim
 domain: stjohnsjim.com
 hVersion: 0.1
 memberOf:
   - TAROT
+sourcePath: stjohnsjim/backstory/contact-machines-and-the-world-of-the-tarot.md
+siteHandle: stjohnsjim
 ---
 Our tarot world seems very different than our real world --
 

@@ -1,25 +1,20 @@
 ---
-numericId: 41
+debug: ""
 className: Story
 created: '2010-10-29 18:45:41'
 lastEdited: '2010-10-29 19:49:31'
 title: 'A Hurricane is Brewin'
 published: '2010-10-29 19:49:31'
 category: story
-nextID: 0
-previousID: 0
 slug: a-hurricane-is-brewin
-_options:
-  layout: default
-  partials: ""
 snippets:
   'first name': 'first name'
-path: story/a-hurricane-is-brewin.md
-sitePath: stjohnsjim
 domain: stjohnsjim.com
 hVersion: 0.1
 memberOf:
   - TAROT
+sourcePath: stjohnsjim/story/a-hurricane-is-brewin.md
+siteHandle: stjohnsjim
 ---
 Hurricane Visionary demolished my fortress of solitude today.&nbsp; It is slowly being re-built.&nbsp; Visionary, it seems, is planning a whopping art show in a few days at the North End Gallery.&nbsp; He descended onto stage cool-zero with sweeping glances into the very corners of the hall. &nbsp;Nothing escaped his glance and inclusion into a grand plan: &nbsp;A true&nbsp; [impresario][0] .&nbsp; Planning what will be a great production.&nbsp; I have been blessed. &nbsp; Be there!&nbsp;
 

@@ -1,26 +1,21 @@
 ---
-numericId: 177
+debug: ""
 className: Story
 created: '2011-10-17 17:27:04'
 lastEdited: '2011-10-19 13:19:05'
 title: 'Steven''s Story'
 published: '2011-10-17 17:27:04'
 category: story
-nextID: 0
-previousID: 0
 slug: stevens-story
-_options:
-  layout: default
-  partials: ""
 snippets:
   tmyweb: tmyweb
-path: story/stevens-story.md
-sitePath: stjohnsjim
 domain: stjohnsjim.com
 hVersion: 0.1
 memberOf:
   - GUNAS
   - TAROT
+sourcePath: stjohnsjim/story/stevens-story.md
+siteHandle: stjohnsjim
 ---
 S — “When she goes anyplace the eyes are on her. And she makes sure I know it, and keeps me looking at her. It’s bloody demeaning.
 

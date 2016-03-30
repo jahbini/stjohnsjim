@@ -1,24 +1,19 @@
 ---
-numericId: 101
+debug: ""
 className: Story
 created: '2010-12-20 16:25:21'
 lastEdited: '2011-10-18 12:06:13'
 title: 'Gard Rales here'
 published: '2010-12-20 18:49:49'
 category: story
-nextID: 0
-previousID: 0
 slug: gard-rales-here
-_options:
-  layout: default
-  partials: ""
 snippets: {  }
-path: story/gard-rales-here.md
-sitePath: stjohnsjim
 domain: stjohnsjim.com
 hVersion: 0.1
 memberOf:
   - TAROT
+sourcePath: stjohnsjim/story/gard-rales-here.md
+siteHandle: stjohnsjim
 ---
 > There is a national shortage of metals. Well, not really a shortage, but the cost of copper or aluminum is very high and counties are needing to replace guard rails that have been stolen for the resale value of the metal. This is a look behind the scenes at an amazing sub-culture built up around the guard rail craze of 2010.
 

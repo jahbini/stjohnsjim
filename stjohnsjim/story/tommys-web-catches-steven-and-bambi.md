@@ -1,26 +1,21 @@
 ---
-numericId: 178
+debug: ""
 className: Story
 created: '2011-10-19 13:12:26'
 lastEdited: '2011-10-22 11:38:58'
 title: 'Tommy''s Web Catches Steven and Bambi'
 published: '2011-10-19 13:12:27'
 category: story
-nextID: 0
-previousID: 177
 slug: tommys-web-catches-steven-and-bambi
-_options:
-  layout: default
-  partials: ""
 snippets:
   'first name': 'first name'
-path: story/tommys-web-catches-steven-and-bambi.md
 handle: Tmyweb
-sitePath: stjohnsjim
 domain: stjohnsjim.com
 hVersion: 0.1
 memberOf:
   - GUNAS
+sourcePath: stjohnsjim/story/tommys-web-catches-steven-and-bambi.md
+siteHandle: stjohnsjim
 ---
 {{{First Name}}}, we left off with [Bambi Brew and Steven Boitoi in front of Slim’s][0].
 

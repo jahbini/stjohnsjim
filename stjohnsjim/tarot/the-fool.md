@@ -1,5 +1,5 @@
 ---
-numericId: 163
+debug: ""
 className: Story
 created: '2011-08-30 14:06:31'
 lastEdited: '2011-08-30 14:55:31'
@@ -7,22 +7,17 @@ title: 'The Fool'
 published: '2011-08-30 14:55:31'
 tagList: 'major arcana, the fool'
 category: tarot
-nextID: 0
-previousID: 0
 slug: the-fool
-_options:
-  layout: default
-  partials: ""
 snippets:
   dizzy: dizzy
   contact: contact
-path: tarot/the-fool.md
 handle: A0
-sitePath: stjohnsjim
 domain: stjohnsjim.com
 hVersion: 0.1
 memberOf:
   - TAROT
+sourcePath: stjohnsjim/tarot/the-fool.md
+siteHandle: stjohnsjim
 ---
 ZZZZ--POP! The fool appears. He has a look of surprise and confusion as he sets his {{{Dizzy:dog}}}, down. The pup races around, sniffs nearly everything and dances happily around his feet.
 

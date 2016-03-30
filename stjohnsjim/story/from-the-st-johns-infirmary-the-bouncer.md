@@ -1,5 +1,5 @@
 ---
-numericId: 157
+debug: ""
 className: Story
 created: '2011-07-23 16:32:02'
 lastEdited: '2011-07-23 16:47:06'
@@ -7,20 +7,15 @@ title: 'From the St. John''s Infirmary -- The Bouncer'
 published: '2011-07-23 16:47:06'
 tagList: 'st john''s infirmary, throntle, nobrow'
 category: story
-nextID: 0
-previousID: 0
 slug: from-the-st-johns-infirmary-the-bouncer
-_options:
-  layout: default
-  partials: ""
 snippets: {  }
-path: story/from-the-st-johns-infirmary-the-bouncer.md
-sitePath: stjohnsjim
 domain: stjohnsjim.com
 hVersion: 0.1
 memberOf:
   - GUNAS
   - TAROT
+sourcePath: stjohnsjim/story/from-the-st-johns-infirmary-the-bouncer.md
+siteHandle: stjohnsjim
 ---
 The house lights go down. The stage is a black backdrop where images of trees and streets are projected. We see Nobrow and Southwick talking at the St. John’s town square bus stop. It is early morning, but Lombard is busy.
 

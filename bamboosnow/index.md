@@ -1,19 +1,18 @@
 ---
+debug: ""
 className: Story
 created: '2016-03-11 12:40:04'
 lastEdited: '2016-03-11 14:20:28'
 title: 'Bamboo Snow Starts Here'
 published: '2016-03-11 12:40:04'
-category: "/"
-nextID: 0
-previousID: 0
+category: /
 slug: index
-path: index.md
 siteHandle: bamboosnow
 domain: bamboosnow.com
 hVersion: 0.1
 memberOf: []
 snippets: {  }
+sourcePath: bamboosnow/index.md
 ---
 #### Bamboo Snow is the Multi-Purpose Boon for the World
 

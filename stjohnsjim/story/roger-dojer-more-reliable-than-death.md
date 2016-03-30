@@ -1,5 +1,5 @@
 ---
-numericId: 166
+debug: ""
 className: Story
 created: '2011-09-03 09:37:38'
 lastEdited: '2011-09-03 15:39:25'
@@ -7,23 +7,18 @@ title: 'Roger Dojer -- more reliable than death'
 published: '2011-09-03 15:39:25'
 tagList: death
 category: story
-nextID: 0
-previousID: 0
 slug: roger-dojer-more-reliable-than-death
-_options:
-  layout: default
-  partials: ""
 snippets:
   'first name': 'first name'
   rogerobt: rogerobt
   death: death
-path: story/roger-dojer-more-reliable-than-death.md
 handle: Reliable
-sitePath: stjohnsjim
 domain: stjohnsjim.com
 hVersion: 0.1
 memberOf:
   - GUNAS
+sourcePath: stjohnsjim/story/roger-dojer-more-reliable-than-death.md
+siteHandle: stjohnsjim
 ---
 Roger died, {{{first name}}}. You may remember it from {{{RogerObt}}}
 

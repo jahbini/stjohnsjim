@@ -1,26 +1,21 @@
 ---
-numericId: 137
+debug: ""
 className: Story
 created: '2011-04-13 17:29:02'
 lastEdited: '2011-08-24 13:22:26'
 title: 'Roger Dojer''s Obituary'
 published: '2011-04-13 18:24:09'
 category: story
-nextID: 0
-previousID: 0
 slug: roger-dojers-obituary
-_options:
-  layout: default
-  partials: ""
 snippets:
   'first name': 'first name'
-path: story/roger-dojers-obituary.md
 handle: RogerObt
-sitePath: stjohnsjim
 domain: stjohnsjim.com
 hVersion: 0.1
 memberOf:
   - GUNAS
+sourcePath: stjohnsjim/story/roger-dojers-obituary.md
+siteHandle: stjohnsjim
 ---
 Roger Dojer, Born 2010, Died 2011.  
 Solid as a Rock

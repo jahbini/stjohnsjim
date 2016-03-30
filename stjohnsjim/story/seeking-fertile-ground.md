@@ -1,20 +1,13 @@
 ---
-numericId: 35
+debug: ""
 className: Story
 created: '2010-10-24 14:57:48'
 lastEdited: '2010-10-24 15:14:07'
 title: 'Seeking Fertile Ground'
 published: '2010-10-24 15:14:07'
 category: story
-nextID: 0
-previousID: 0
 slug: seeking-fertile-ground
-_options:
-  layout: default
-  partials: ""
 snippets: {  }
-path: story/seeking-fertile-ground.md
-sitePath: stjohnsjim
 domain: stjohnsjim.com
 hVersion: 0.1
 memberOf:
@@ -22,6 +15,8 @@ memberOf:
   - GUNAS
   - TAROT
   - PDX
+sourcePath: stjohnsjim/story/seeking-fertile-ground.md
+siteHandle: stjohnsjim
 ---
 &nbsp;Rain in St. John's.&nbsp; Sunday.&nbsp; I notice large numbers of kids dragging their parents through the rain to the movie theatre.&nbsp; I look at the Marque.&nbsp; &quot;The Network&quot; and &quot;JackAss 3&quot; -- I get all gooey inside when I think of the kids being interested in either.&nbsp; Of course, I get sympathy pains whenever Johnny Knoxville gets slammed in the nuts.&nbsp; Better him than me, he's a professional, I'm only an amateur jackass.
 

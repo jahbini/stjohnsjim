@@ -1,25 +1,20 @@
 ---
-numericId: 90
+debug: ""
 className: Story
 created: '2010-12-11 17:46:51'
 lastEdited: '2010-12-11 20:04:34'
 title: 'Tastes, Aromas and Earthquakes'
 published: '2010-12-11 20:04:34'
 category: story
-nextID: 0
-previousID: 0
 slug: tastes-aromas-and-earthquakes
-_options:
-  layout: default
-  partials: ""
 snippets: {  }
-path: story/tastes-aromas-and-earthquakes.md
-sitePath: stjohnsjim
 domain: stjohnsjim.com
 hVersion: 0.1
 memberOf:
   - GUNAS
   - TAROT
+sourcePath: stjohnsjim/story/tastes-aromas-and-earthquakes.md
+siteHandle: stjohnsjim
 ---
 (Author's note: &nbsp;This one is more imagery than narrative. &nbsp;A friend asked if I could add one more dimension to the writing, and well, this is my response. &nbsp;The narrative was bent. &nbsp; Sometimes that happens. As a result, the relationships between paragraphs is less structured, I hope you enjoy.)
 

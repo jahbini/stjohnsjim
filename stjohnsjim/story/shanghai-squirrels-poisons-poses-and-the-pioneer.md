@@ -1,25 +1,20 @@
 ---
-numericId: 155
+debug: ""
 className: Story
 created: '2011-07-04 12:35:12'
 lastEdited: '2011-07-04 15:29:40'
 title: 'Shanghai Squirrels: Poison''s Poses and the Pioneer'
 published: '2011-07-04 15:29:40'
 category: story
-nextID: 0
-previousID: 0
 slug: shanghai-squirrels-poisons-poses-and-the-pioneer
-_options:
-  layout: default
-  partials: ""
 snippets: {  }
-path: story/shanghai-squirrels-poisons-poses-and-the-pioneer.md
-sitePath: stjohnsjim
 domain: stjohnsjim.com
 hVersion: 0.1
 memberOf:
   - GUNAS
   - TAROT
+sourcePath: stjohnsjim/story/shanghai-squirrels-poisons-poses-and-the-pioneer.md
+siteHandle: stjohnsjim
 ---
 I want a squirrel tail for my hat. &nbsp;Southwick is taking me on a tour of back-woods St. John's, deep into Tommy County to find out what uses they have found for a permanent Pacific Northwest resource: the common squirrel. &nbsp;The residents there say the county line is 50 feet around the nearest cop.
 

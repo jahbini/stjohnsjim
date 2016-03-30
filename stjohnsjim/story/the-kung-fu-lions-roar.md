@@ -1,23 +1,20 @@
 ---
 debug: snippet
-numericId: 28
 className: Story
 created: '2010-10-16 14:49:56'
 lastEdited: '2011-11-08 14:51:21'
 title: 'The Kung Fu Lion''s Roar'
 published: '2010-10-16 16:47:35'
 category: story
-nextID: 0
-previousID: 0
 slug: the-kung-fu-lions-roar
-path: story/the-kung-fu-lions-roar.md
 handle: roar
-sitePath: stjohnsjim
 domain: stjohnsjim.com
 hVersion: 0.1
 memberOf:
   - PDX
 snippets: {  }
+sourcePath: stjohnsjim/story/the-kung-fu-lions-roar.md
+siteHandle: stjohnsjim
 ---
 (Writers Casebook: OMG! the Roast Vegetable Bread Pudding gave my mouth incredible joy! Thank you, James John Cafe -- may no one ever find out your secret location lest you run out of food. And you put up with my outbursts of laughter as I write.)
 

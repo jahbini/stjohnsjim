@@ -1,25 +1,20 @@
 ---
-numericId: 93
+debug: ""
 className: Story
 created: '2010-12-13 18:24:33'
 lastEdited: '2011-07-20 13:05:47'
 title: 'Scene 3, Nobrow and Throntle'
 published: '2010-12-13 19:59:57'
 category: story
-nextID: 0
-previousID: 0
 slug: scene-3-nobrow-and-throntle
-_options:
-  layout: default
-  partials: ""
 snippets: {  }
-path: story/scene-3-nobrow-and-throntle.md
-sitePath: stjohnsjim
 domain: stjohnsjim.com
 hVersion: 0.1
 memberOf:
   - GUNAS
   - TAROT
+sourcePath: stjohnsjim/story/scene-3-nobrow-and-throntle.md
+siteHandle: stjohnsjim
 ---
 Nobrow is a pretty cool guy. When it comes to hassle, nasty, or emotions, you might say that he does a very good job of keeping upwind.
 

@@ -1,23 +1,18 @@
 ---
-numericId: 130
+debug: ""
 className: Story
 created: '2011-03-18 15:48:28'
 lastEdited: '2011-03-18 16:01:59'
 title: 'Aloha ''Oe to Something'
 published: '2011-03-18 16:01:59'
 category: story
-nextID: 0
-previousID: 0
 slug: aloha-oe-to-something
-_options:
-  layout: default
-  partials: ""
 snippets: {  }
-path: story/aloha-oe-to-something.md
-sitePath: stjohnsjim
 domain: stjohnsjim.com
 hVersion: 0.1
 memberOf: []
+sourcePath: stjohnsjim/story/aloha-oe-to-something.md
+siteHandle: stjohnsjim
 ---
 Once upon a time, I remember the airports in Hawaii used to have blind vendors. Many of the blind had joined an association that gave them employment selling the little trinkets that travelers always need in the last few minutes before the airplane shuts it&rsquo;s doors. That was before. Now it&rsquo;s only a memory of how Hawaii had been in the past.
 

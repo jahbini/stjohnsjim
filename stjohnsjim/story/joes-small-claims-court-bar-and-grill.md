@@ -1,25 +1,20 @@
 ---
-numericId: 117
+debug: ""
 className: Story
 created: '2011-01-24 17:17:15'
 lastEdited: '2011-01-24 17:54:18'
 title: 'Joe''s Small Claims Court / Bar and Grill'
 published: '2011-01-24 17:54:18'
 category: story
-nextID: 0
-previousID: 0
 slug: joes-small-claims-court-bar-and-grill
-_options:
-  layout: default
-  partials: ""
 snippets:
   'first name': 'first name'
-path: story/joes-small-claims-court-bar-and-grill.md
-sitePath: stjohnsjim
 domain: stjohnsjim.com
 hVersion: 0.1
 memberOf:
   - TAROT
+sourcePath: stjohnsjim/story/joes-small-claims-court-bar-and-grill.md
+siteHandle: stjohnsjim
 ---
 {{{First Name}}}, I have been under tremendous psychic pressure. &nbsp;But now, since I know for sure, that I'm not Oprah's sister, the Gates of Literary Creation have opened. &nbsp; How long? &nbsp;Who knows. &nbsp;Literary obsessions come and go like boy bands. &nbsp;Here is Joe:
 

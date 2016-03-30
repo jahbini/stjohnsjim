@@ -1,26 +1,21 @@
 ---
-numericId: 103
+debug: ""
 className: Story
 created: '2010-12-22 16:31:07'
 lastEdited: '2010-12-22 17:05:50'
 title: 'Heard on the Street'
 published: '2010-12-22 17:05:50'
 category: story
-nextID: 0
-previousID: 0
 slug: heard-on-the-street
-_options:
-  layout: default
-  partials: ""
 snippets: {  }
-path: story/heard-on-the-street.md
-sitePath: stjohnsjim
 domain: stjohnsjim.com
 hVersion: 0.1
 memberOf:
   - GUNAS
   - TAROT
   - PDX
+sourcePath: stjohnsjim/story/heard-on-the-street.md
+siteHandle: stjohnsjim
 ---
 &ldquo;They have no lights on their condos.&rdquo; He looked intently at me. &nbsp;He wanted validation and we would be best buddies. I replied: &ldquo;Yes, no lights.&rdquo; Always agree. Simply acknowledge. It&rsquo;s a Ninja Trick when you are confronted with a feeble old grouch. &nbsp;Keep Walking.
 

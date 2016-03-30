@@ -1,26 +1,21 @@
 ---
-numericId: 85
+debug: ""
 className: Story
 created: '2010-12-06 15:39:48'
 lastEdited: '2010-12-06 16:56:56'
 title: 'SeasonsGreetingsFest 2010'
 published: '2010-12-06 16:56:56'
 category: story
-nextID: 0
-previousID: 0
 slug: seasonsgreetingsfest-2010
-_options:
-  layout: default
-  partials: ""
 snippets:
   'first name': 'first name'
-path: story/seasonsgreetingsfest-2010.md
-sitePath: stjohnsjim
 domain: stjohnsjim.com
 hVersion: 0.1
 memberOf:
   - GUNAS
   - TAROT
+sourcePath: stjohnsjim/story/seasonsgreetingsfest-2010.md
+siteHandle: stjohnsjim
 ---
 St. John&rsquo;s has come to life this last weekend &mdash; Parties, Open houses, decorations, carolers in top hats and tiaras. And the red cape, {{{First Name}}}, popped a few eyes. Elegance now comes in Thai-hot.
 

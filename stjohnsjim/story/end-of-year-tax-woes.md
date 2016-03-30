@@ -1,27 +1,22 @@
 ---
-numericId: 108
+debug: ""
 className: Story
 created: '2010-12-30 20:18:54'
 lastEdited: '2011-11-08 14:32:13'
 title: 'End of Year Tax Woes?'
 published: '2010-12-30 21:24:34'
 category: story
-nextID: 0
-previousID: 0
 slug: end-of-year-tax-woes
-_options:
-  layout: default
-  partials: ""
 snippets:
   author: author
   'comment,soto': 'comment,soto'
   'comment,voce': 'comment,voce'
-path: story/end-of-year-tax-woes.md
-sitePath: stjohnsjim
 domain: stjohnsjim.com
 hVersion: 0.1
 memberOf:
   - GUNAS
+sourcePath: stjohnsjim/story/end-of-year-tax-woes.md
+siteHandle: stjohnsjim
 ---
 The last day of the year may be the last day to play limbo-limbo with the Tax people. This is what happened to Southwick.
 

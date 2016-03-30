@@ -1,25 +1,20 @@
 ---
-numericId: 98
+debug: ""
 className: Story
 created: '2010-12-17 16:42:33'
 lastEdited: '2011-07-20 13:12:34'
 title: 'Invoking the Muse'
 published: '2010-12-17 17:41:43'
 category: story
-nextID: 0
-previousID: 0
 slug: invoking-the-muse
-_options:
-  layout: default
-  partials: ""
 snippets:
   'first name': 'first name'
-path: story/invoking-the-muse.md
-sitePath: stjohnsjim
 domain: stjohnsjim.com
 hVersion: 0.1
 memberOf:
   - TAROT
+sourcePath: stjohnsjim/story/invoking-the-muse.md
+siteHandle: stjohnsjim
 ---
 {{{First Name}}}, a tradition in literature reaches back thousands of years, likely longer. It touches on old ideas regarding creativity and deity. The ideas that only a god could be truly creative, and man was only creative when channelling a spirit.
 

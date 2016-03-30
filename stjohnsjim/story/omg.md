@@ -1,27 +1,22 @@
 ---
-numericId: 43
+debug: ""
 className: Story
 created: '2010-10-31 15:51:07'
 lastEdited: '2010-10-31 16:39:16'
 title: OMG
 published: '2010-10-31 16:39:16'
 category: story
-nextID: 0
-previousID: 0
 slug: omg
-_options:
-  layout: default
-  partials: ""
 snippets:
   'first name': 'first name'
-path: story/omg.md
-sitePath: stjohnsjim
 domain: stjohnsjim.com
 hVersion: 0.1
 memberOf:
   - GUNAS
   - TAROT
   - PDX
+sourcePath: stjohnsjim/story/omg.md
+siteHandle: stjohnsjim
 ---
 It&rsquo;s a bright and clear Fall morning.&nbsp; The rain has stopped and the spiders are out again.&nbsp; Spinning webs.&nbsp; Spiderfest 2010 hopeful [Bamboo Willy][0] didn&rsquo;t make it through the torrents of rain recently and was last seen spiraling down the Smith Street drainage system.&nbsp; I suspect that the Willamette River is his address now.
 

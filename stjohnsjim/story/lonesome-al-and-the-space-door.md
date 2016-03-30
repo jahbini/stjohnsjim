@@ -1,27 +1,22 @@
 ---
-numericId: 116
+debug: ""
 className: Story
 created: '2011-01-14 13:29:44'
 lastEdited: '2011-01-14 17:22:28'
 title: 'Lonesome Al and the Space Door'
 published: '2011-01-14 17:22:28'
 category: story
-nextID: 0
-previousID: 0
 slug: lonesome-al-and-the-space-door
-_options:
-  layout: default
-  partials: ""
 snippets:
   'first name': 'first name'
-path: story/lonesome-al-and-the-space-door.md
-sitePath: stjohnsjim
 domain: stjohnsjim.com
 hVersion: 0.1
 memberOf:
   - GUNAS
   - TAROT
   - PDX
+sourcePath: stjohnsjim/story/lonesome-al-and-the-space-door.md
+siteHandle: stjohnsjim
 ---
 {{{First Name}}}, as I&rsquo;m sitting in the James John Cafe this afternoon, I notice a twenty something wearing sweatpants, a hoodie, and a huge feather headdress from a Los Vegas show. It&rsquo;s sea green with shimmering blue sparklies. The ceiling fan makes the feathers swirl around like a dancing shiva and the colored sparklies play fairy games on the walls. &nbsp;Actually, I wouldn&rsquo;t really notice, except she pronounces the state as _ory-gone_.
 
