@@ -7,12 +7,12 @@ created: 2015-12-02T05:26:30.000Z
 lastEdited: '2016-03-17'
 published: '2015-12-31'
 category: products/organic
-categories:
-  - products
-  - organic
 tags:
   - compost
-sourcePath: bamboosnow/_posts/compost.md
+headlines:
+  - "Vermin Free Cmpost"
+  - "Make Your Own Fertilizer"
+  - "Do NOT Throw Your Garbage Away!"
 siteHandle: bamboosnow
 ---
 Raw, dry virgin Bamboo Snow is a perfect composter: you can control the rate of compost production simply by adjust its water content.

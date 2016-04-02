@@ -11,7 +11,9 @@ categories:
 created: 2015-12-02T05:26:30.000Z
 lastEdited: '2016-03-17'
 published: '2015-12-31'
-sourcePath: bamboosnow/_posts/dish-cleaner.md
+headlines:
+ - "Less Water, More Clean"
+ - "Brush dirt and scum away"
 siteHandle: bamboosnow
 images:
   - dirty.jpg

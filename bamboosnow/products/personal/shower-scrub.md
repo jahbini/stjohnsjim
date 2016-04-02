@@ -14,6 +14,12 @@ categories:
   - personal
 autoThumbnailImage: false
 thumbnailImage: shower.jpg
+headlines:
+ - "Two Years of Field Testing!"
+ - "Cleans All the Way Down, and Back Up"
+ - "Gets You Super Clean"
+ - "The Mechanics Wife's Best Friend"
+ - "Cleans Hands, Face and Body"
 sourcePath: bamboosnow/_posts/shower-scrub.md
 siteHandle: bamboosnow
 images:

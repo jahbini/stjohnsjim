@@ -12,10 +12,13 @@ snippets:
 domain: stjohnsjim.com
 hVersion: 0.1
 memberOf:
-  - TAROT
-sourcePath: stjohnsjim/story/a-hurricane-is-brewin.md
+  - PNW
 siteHandle: stjohnsjim
+headlines:
+ - "Why Bar Bets No Longer Work"
+ - "There are 10,000 Bars in St. John's"
 ---
+## Intruder Alert!
 Hurricane Visionary demolished my fortress of solitude today.&nbsp; It is slowly being re-built.&nbsp; Visionary, it seems, is planning a whopping art show in a few days at the North End Gallery.&nbsp; He descended onto stage cool-zero with sweeping glances into the very corners of the hall. &nbsp;Nothing escaped his glance and inclusion into a grand plan: &nbsp;A true&nbsp; [impresario][0] .&nbsp; Planning what will be a great production.&nbsp; I have been blessed. &nbsp; Be there!&nbsp;
 
 And now silence has re-entered the fortress &mdash; We may begin:

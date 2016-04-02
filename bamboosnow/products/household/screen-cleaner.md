@@ -13,7 +13,11 @@ categories:
   - household
 autoThumbnailImage: false
 thumbnailImage: model-t.jpg
-sourcePath: bamboosnow/_posts/screen-cleaner.md
+headlines:
+ - "Cleans Glass, Plastic, Mirrors, Too"
+ - "Bamboo Snow Eats Grease!"
+ - "Keep Your Windshield Clean"
+ - "Great for Waxing Your Car"
 siteHandle: bamboosnow
 images:
   - model.jpg

@@ -17,8 +17,11 @@ memberOf:
   - GUNAS
   - TAROT
   - PDX
-sourcePath: stjohnsjim/story/basements-and-foundations-ya-think.md
 siteHandle: stjohnsjim
+headlines:
+ - Tommy and Roger Prove Southwick is selfish
+ - Wet Weather Plans Extended Stay in Portland Suburb
+ - Will Baltimore Wood Slide into the River?
 ---
 {{{First Name}}}, Stop The Presses!
 
@@ -32,7 +35,7 @@ Thankfully, this December we are only leaking in our basements, and not losing w
 
 Over on St. John’s Malibu, the bluff on our side of the Willamette, the problem is foundations. Some resort to pilings, some have french drains, and some might just go sliding into the river. Could be a new sport. House rafting.
 
-### Let's join the Three Wise Men over at 3 Gunas Loop 
+### Let's join the Three Wise Men over at 3 Gunas Loop
 
 Roger, the PhD in preventative maintenance, said: “Water. It can attack your foundations. It’s persistent. When you live in Portland, you want to keep looking at your most basic things. Foundation, Roof, Walls.”
 

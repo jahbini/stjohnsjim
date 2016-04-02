@@ -14,6 +14,10 @@ categories:
   - products
   - 'soft goods'
 thumbnailImage: vest1-t.jpg
+headlines:
+ - "Absorbs Sweat Instantly"
+ - "Cool When Hot, Warm When Cold"
+ - "Humidity  Buster!"
 sourcePath: bamboosnow/_posts/vest.md
 siteHandle: bamboosnow
 images:

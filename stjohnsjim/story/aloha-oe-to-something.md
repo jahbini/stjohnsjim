@@ -5,14 +5,18 @@ created: '2011-03-18 15:48:28'
 lastEdited: '2011-03-18 16:01:59'
 title: 'Aloha ''Oe to Something'
 published: '2011-03-18 16:01:59'
-category: story
+category: honolulu
 slug: aloha-oe-to-something
 snippets: {  }
 domain: stjohnsjim.com
 hVersion: 0.1
 memberOf: []
-sourcePath: stjohnsjim/story/aloha-oe-to-something.md
 siteHandle: stjohnsjim
+headlines:
+ - "What Have We Lost? Really"
+ - "Did We Ever Get It Right?"
+ - "Memories Are Today's Myth"
+ - "Honolulu Ghosts"
 ---
 Once upon a time, I remember the airports in Hawaii used to have blind vendors. Many of the blind had joined an association that gave them employment selling the little trinkets that travelers always need in the last few minutes before the airplane shuts it&rsquo;s doors. That was before. Now it&rsquo;s only a memory of how Hawaii had been in the past.
 
@@ -37,4 +41,3 @@ These disasters of global proportions slamming the great nations have no &ldquo;
 Maybe even the spin doctors might realize we are not in Kansas anymore, and we have to say Aloha &lsquo;oe to some cherished myths about our cultural superiorities. We are, after all, only human.
 
 Aloha 'Oe, Something, we loved you, we believed in you.&nbsp;
-

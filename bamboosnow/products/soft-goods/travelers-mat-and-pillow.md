@@ -13,7 +13,10 @@ lastEdited: '2016-03-17'
 published: '2015-12-31'
 autoThumbnailImage: false
 thumbnailImage: pillow1-t.jpeg
-sourcePath: bamboosnow/_posts/pillow.md
+headlines:
+ - "Hot and Sweaty Waiting for Take-Off?"
+ - "Absorbant Pillow for those Long Layovers"
+ - "Pillow Topper for Maximum Comfort"
 siteHandle: bamboosnow
 images:
   - pillow2.jpeg

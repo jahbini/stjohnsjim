@@ -13,6 +13,10 @@ tags:
   - 'oil spill'
   - 'floor cleaner'
   - 'sweeping compound'
+headlines:
+  - 'Sweep Away Messes without Water'
+  - 'Tames the Messiest Spills'
+  - 'Clean Up That Garage Floor!'
 sourcePath: bamboosnow/_posts/sweep.md
 siteHandle: bamboosnow
 ---

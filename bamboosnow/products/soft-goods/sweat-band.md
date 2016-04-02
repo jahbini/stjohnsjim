@@ -14,6 +14,10 @@ tags:
   - personal
 autoThumbnailImage: false
 thumbnailImage: sweat-band-t.jpeg
+headlines:
+ - "Keep the Sweat Out of Your Eyes"
+ - "Best!"
+ - "Athletes! Check this Out --"
 sourcePath: bamboosnow/_posts/sweat-band.md
 siteHandle: bamboosnow
 images:

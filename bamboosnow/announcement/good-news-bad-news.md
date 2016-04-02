@@ -13,6 +13,9 @@ priority: 2000
 tags: null
 sourcePath: bamboosnow/announcement/good-news-bad-news.md
 siteHandle: bamboosnow
+headlines:
+ - "Insane Inventor Finds Greatest Boon in Dust"
+ - "Saipan Scientist Proves Everything He Knew was Wrong!"
 ---
 ### The Good News
 I have discovered an abundant, ancient, but **overlooked** natural resource that can reduce water consumption worldwide. It is currently in the environment and has been well tolerated by humans for *millions* of years. It can be used daily by millions of people for personal comfort and cleanliness.  It also can be used in construction, agriculture and sanitation.

@@ -10,6 +10,10 @@ category: economic
 class: Story
 comments: true
 siteHandle: bamboosnow
+headlines:
+ - Easy Starter Business Ideas
+ - "Go Into Business for Pennies!"
+ - "Money Making Opportunities"
 ---
 # Product prototypes for your inspiration.
 

@@ -16,12 +16,16 @@ categories:
 autoThumbnailImage: false
 thumbnailImage: soudelar-t.jpg
 sourcePath: bamboosnow/_posts/body-powder.md
+headlines:
+ - "What To Do When There is NO Water"
+ - "Can't Shower?"
+ - "Dry Skin Beats Prickly Heat"
 siteHandle: bamboosnow
 images:
   - soudelar.jpg
   - soudelar-t.jpg
 ---
-This is on my Must Have list for daily use.
+This is on my Must Have list for daily use Bla bla.
 Without Bamboo Snow, the recovery from Typhoon Soudelar would have been difficult.
 <!-- excerpt -->
 ![Soudelar Damage@soudelar.classes.slap-dash]( @pathToMe/soudelar.jpg "No Power, No Water -- Lots of Sweat")

@@ -13,7 +13,10 @@ categories:
   - 'soft goods'
 autoThumbnailImage: false
 thumbnailImage: interviewee.jpg
-sourcePath: bamboosnow/_posts/sweaty-palm.md
+headlines:
+ - "Worried About that First Impression?"
+ - "Assured: A Dry, Clean Handshake"
+ - "Dry Hands Make the Best Impression"
 siteHandle: bamboosnow
 images:
   - interviewee.jpg

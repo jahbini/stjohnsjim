@@ -15,8 +15,11 @@ memberOf:
   - GUNAS
   - TAROT
   - PDX
-sourcePath: stjohnsjim/story/and-the-pursuit-of-happiness.md
 siteHandle: stjohnsjim
+headlines:
+ - "Bambi Brew sez- All Amoebas are Outlaws!"
+ - "Amoebas Outlawed in St. John's Oregon"
+ - "It's For Your Own Protection"
 ---
 {{{First Name}}}, my closest friends have lamented that I&rsquo;m not telling MY story.&nbsp; What&rsquo;s happening in Jim&rsquo;s life?&nbsp; While the details are incredibly boring, Not Safe For Work (NSFW), and would simply be indiscrete to mention here, I can give you a pretty accurate view of &ldquo;whassup!?&rdquo; &nbsp;So while _The St. John's Lighthouse_ is me telling the story of St. John's, I thought I'd mention what St. John's most famous citizen (me) is up to.
 

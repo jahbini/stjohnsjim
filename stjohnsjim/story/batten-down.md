@@ -5,7 +5,7 @@ created: '2010-11-17 15:33:54'
 lastEdited: '2011-07-20 13:08:22'
 title: 'Batten down'
 published: '2010-11-17 17:07:09'
-category: story
+category: winter
 slug: batten-down
 snippets: {  }
 domain: stjohnsjim.com
@@ -14,8 +14,11 @@ memberOf:
   - GUNAS
   - TAROT
   - PDX
-sourcePath: stjohnsjim/story/batten-down.md
 siteHandle: stjohnsjim
+headlines:
+ - Indian Summer Take-Back
+ - Long Underwear In Short Supply
+ - "St. John's Blocades Amoebas!"
 ---
 _Portland is battened down for the Winter, Sir. Very good, cadet, carry on_.
 
@@ -23,7 +26,7 @@ Yes, the extended warrantee on Summer from our Indian supplier came broken in th
 
 The leaves from the trees had been thick on the ground in St. John’s Park and I loved hearing the crunch-swish as I walked through them. The were all picked up by the park department yesterday. I could have, would have, should have saved them by laying down in front of the machinery, but I had a dental appointment.
 
-> Yup, very good work, Dr. Ohsu Five-Oh. Hire the receptionist with the name Danno, and schedule your patients saying… 
+> Yup, very good work, Dr. Ohsu Five-Oh. Hire the receptionist with the name Danno, and schedule your patients saying…
 
 So, I offer my condolences to those brave crunchy-swishy leaves of Autumn. They are now a memory.
 
