@@ -5,8 +5,11 @@ created: '2010-10-03 16:18:48'
 lastEdited: '2010-10-03 17:41:29'
 title: 'Catchy Slogan Sunday'
 published: '2010-10-03 17:41:29'
+embargo: '2010-10-03 17:41:29'
 category: story
 slug: catchy-slogan-sunday
+headlines:
+ - "Wherin We Meet Bambi Brew"
 snippets: {  }
 domain: stjohnsjim.com
 hVersion: 0.1

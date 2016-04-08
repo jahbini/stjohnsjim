@@ -5,7 +5,9 @@ slug: two-years-with-bamboo-snow
 created: 2015-12-25T00:00:00.000Z
 lastEdited: '2016-03-17'
 published: '2015-12-31'
+embargo: '2015-12-31'
 category: announcement
+headlines: ["The Most Import Announcement in 100,000 Years"]
 categories:
   - announcement
 Tags:
@@ -13,7 +15,6 @@ Tags:
   - 'economic impact'
 priority: 1000
 comments: true
-sourcePath: bamboosnow/announcement/two-year.md
 siteHandle: bamboosnow
 ---
 Being part of the open source documentation project regarding the natural substance: *Bamboo Snow*

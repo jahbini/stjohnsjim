@@ -4,7 +4,7 @@ className: Story
 created: '2016-03-11 12:40:04'
 lastEdited: '2016-03-11 14:20:28'
 title: 'Bamboo Snow Starts Here'
-published: '2016-03-11 12:40:04'
+embargo: '2016-03-11 12:40:04'
 category: /
 slug: index
 siteHandle: bamboosnow

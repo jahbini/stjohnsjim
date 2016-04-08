@@ -3,16 +3,16 @@ debug: ""
 className: Story
 created: '2010-12-01 17:23:35'
 lastEdited: '2010-12-01 18:04:05'
-title: 'Corporate Punisment is Your Path to Financial Secu'
+title: 'Corporate Punisment is Your Path to Financial Security'
 published: '2010-12-01 18:04:05'
+embargo: '2010-12-01 18:04:05'
 category: story
-slug: corporate-punisment-is-your-path-to-financial-secu
+slug: corporate-punisment-is-your-path-to-financial-security
 snippets: {  }
 domain: stjohnsjim.com
 hVersion: 0.1
 memberOf:
   - TAROT
-sourcePath: stjohnsjim/story/corporate-punisment-is-your-path-to-financial-secu.md
 siteHandle: stjohnsjim
 ---
 We recently had a Supreme Court decision that allows corporations to have the same rights of freedom of speech as us human citizens.
@@ -54,4 +54,3 @@ Max: I got another 3 years before I'm out.&nbsp; After that, the high level of m
 Salmon: Max, I gotta hand it to you.
 
 Max: Yea, In fact, if you are willing to get your sentence extended, I can set you up with some sweet corporate deals that will set you up with great &quot;perks&quot; if you know what I mean.
-

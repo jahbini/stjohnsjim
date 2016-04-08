@@ -6,6 +6,7 @@ date: 2015-12-14T05:26:30.000Z
 created: 2015-12-02T05:26:30.000Z
 lastEdited: '2016-03-17'
 published: '2015-12-31'
+embargo: '2015-12-31'
 category: products/household
 tags:
   - putty
@@ -16,6 +17,13 @@ tags:
 categories:
   - products
   - household
+headlines:
+  - Saipan Goes Pozzolonic For Plastic!
+  - "Crafter's Delight"
+  - "This Craft Powder Cleans You Up, When Job is Done!"
+  - "No One Trick Pony, This Powder Is The Crafter's Best Friend"
+  - "Bamboo Snow Tames Glue!"
+  - "Turns Glues Into Putty"
 autoThumbnailImage: false
 thumbnailImage: powder-t.jpeg
 sourcePath: bamboosnow/_posts/craft-powder.md
