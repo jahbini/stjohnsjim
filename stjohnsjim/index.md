@@ -3,8 +3,13 @@ debug: ""
 className: Story
 created: '2016-03-11 12:40:04'
 lastEdited: '2016-03-11 14:20:28'
-title: 'Index to Site!'
+title: "Grand Visions from the 'Puter of St. John's Jim"
 published: '2016-03-11 12:40:04'
+headlines:
+ - "Visions of Beauty Obscured"
+ - "The Most Beautiful Bridge, But?!?!"
+ - "Hookers Hook in the Great Northwest!"
+ - "Tales from Pre-legalization!"
 category: /
 slug: index
 siteHandle: stjohnsjim

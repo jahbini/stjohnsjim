@@ -9,6 +9,11 @@ category: /
 slug: index
 siteHandle: bamboosnow
 domain: bamboosnow.com
+headlines:
+ - "Inventor Discovers Miracle Substance"
+ - "Dust Farmer Tells All"
+ - "Better Hygiene With Bamboo Snow"
+ - "A Discovery that Slept for a Million Years"
 hVersion: 0.1
 memberOf: []
 snippets: {  }

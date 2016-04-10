@@ -3,11 +3,16 @@ debug: ""
 className: Story
 created: '2010-12-01 17:23:35'
 lastEdited: '2010-12-01 18:04:05'
-title: 'Corporate Punisment is Your Path to Financial Security'
+title: 'Corporate Punishment is Your Path to Financial Security'
 published: '2010-12-01 18:04:05'
 embargo: '2010-12-01 18:04:05'
+headlines:
+ - "Good Times in the Slammer!"
+ - "Don't Think of it as Prison, but..."
+ - "Serving Your Employers, Not Just Serving Time"
+ - "We Pay Your Bodyguard Well!"
 category: story
-slug: corporate-punisment-is-your-path-to-financial-security
+slug: corporate-punishment-is-your-path-to-financial-security
 snippets: {  }
 domain: stjohnsjim.com
 hVersion: 0.1

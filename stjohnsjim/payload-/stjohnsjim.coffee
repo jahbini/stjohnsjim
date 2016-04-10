@@ -5,54 +5,75 @@ styling: "Lookand Feel"
 {render,doctype,html,title,meta,base,link,script,body,header,raw,section,p,text,em,ul,li,strong,
  comment,div,a,span,h1,h2,h3,h4,h5,h6,head,renderable,blockquote,nav,form,input,button,aside,br,
  time,tag,article,footer} = require "teacup"
-path = require 'path'
 Backbone = require 'backbone'
-ClassLookAndFeel = require '../../../lib/layouts/default'
+_ = require 'underscore'
 
-module.exports = class StjohnsjimLook extends ClassLookAndFeel
+sampleCategories = [
+  { count: 5, name: "backstory" },
+  { count: 2, name: "draft" },
+  { count: 153, name: "story" },
+  { count: 8, name: "tarot"}
+]
+module.exports = class StjohnsjimLook
+  headerLogoNav: renderable (story)->
+    header "#header", ->
+      div "#banner"
+      div "#header-outer.outer", ->
+        div "#header-title.inner", ->
+          h1 "#logo-wrap", ->
+            a "#logo", href: "/", "St. John's Jim"
+          h2 "#subtitle-wrap", ->
+            a "#subtitle", href: "/", "Stories from the Far End of The Bridge to Nowhere"
+        div "#header-inner.inner", ->
+          nav "#main-nav", ->
+            a "#main-nav-toggle.nav-icon"
+            a ".main-nav-link", href: "/", "Home"
+            a ".main-nav-link", href: "/archives", "Archives"
+          nav "#sub-nav", ->
+            a "#nav-rss-link.nav-icon", href: "/atom.xml", title: "RSS Feed"
+            a "#nav-search-btn.nav-icon", title: "Search"
+          div "#search-form-wrap", ->
+            form ".search-form", action: "//google.com/search", method: "get", "accept-charset": "UTF-8", ->
+              input ".search-form-input", type: "search", name: "q", results: 0, placeholder: "Search"
+              button ".search-form-submit", type: "submit", ""
+              input type: "hidden", name: "sitesearch", value: "http://stjohnsjim.com"
+  groupWidgetList: renderable (title,categories,kind="category") ->
+      div ".widget-wrap", ->
+        h3 ".widget-title", "#{title}"
+        div ".widget", ->
+          ul ".#{kind}-list", ->
+            for cat in categories
+              li ".#{kind}-list-item", ->
+                a ".#{kind}-list-link", href: "/#{kind}/#{cat.name}/", "#{cat.name}"
+                span ".#{kind}-list-count", "#{cat.count}"
+
   formatStory: renderable (story) ->
+    final = story.get 'final'
+    if !final
+      final = story.tmp.cooked
+    if _.isFunction final
+      final = final story
+    gw = @groupWidgetList
+    headMatter=@headerLogoNav story
     options = story.attributes
-    @headMatter story
+    longHref = story.pathToMe()
+    headline = _(story.get "headlines").select(1)
+    slug=story.get "slug"
+    published = story.get "published"
     body ->
       div "#container", ->
         div "#wrap", ->
-          header "#header", ->
-            div "#banner"
-            div "#header-outer.outer", ->
-              div "#header-title.inner", ->
-                h1 "#logo-wrap", ->
-                  a "#logo", href: "/", "St. John's Jim"
-                h2 "#subtitle-wrap", ->
-                  a "#subtitle", href: "/", "Stories from the Far End of The Bridge to Nowhere"
-              div "#header-inner.inner", ->
-                nav "#main-nav", ->
-                  a "#main-nav-toggle.nav-icon"
-                  a ".main-nav-link", href: "/", "Home"
-                  a ".main-nav-link", href: "/archives", "Archives"
-                nav "#sub-nav", ->
-                  a "#nav-rss-link.nav-icon", href: "/atom.xml", title: "RSS Feed"
-                  a "#nav-search-btn.nav-icon", title: "Search"
-                div "#search-form-wrap", ->
-                  form ".search-form", action: "//google.com/search", method: "get", "accept-charset": "UTF-8", ->
-                    input ".search-form-input", type: "search", name: "q", results: 0, placeholder: "Search"
-                    button ".search-form-submit", type: "submit", ""
-                    input type: "hidden", name: "sitesearch", value: "http://stjohnsjim.com"
-          div ".outer", ->
-            section "#main.relative", ->
-              div ".absolute.top-0.with-columns.p3.bg-white.left-0", ->
-                article "#post-SonOfABitch-Day.article.article-type-post", itemscope: "itemscope", itemprop: "blogPost", ->
-                  div ".article-meta.column-span-all", ->
-                    a ".article-date", href: "/story/SonOfABitch-Day/", ->
-                      time datetime: "2011-04-06T04:55:01.000Z", itemprop: "datePublished", "2011-04-06"
-                    div ".article-category.column-span-all", ->
-                      a ".article-category-link", href: "/categories/story/", "story"
+          raw headMatter
+          div "#story.outer", ->
+            section "#main", ->
+                article "#post-#{slug}.article.article-type-post", itemscope: "itemscope", itemprop: "blogPost", ->
                   div ".article-inner", ->
                     header ".article-header", ->
                       h1 ".article-title", itemprop: "name", "#{options.title}"
-                    div ".article-entry", itemprop: "articleBody", ->
-                      raw story.tmp.cooked
+                    div ".article-entry.jah.with-columns", itemprop: "articleBody", ->
+                      raw final
                     footer ".article-footer", ->
-                      a ".article-share-link", "data-url": "http://stjohnsjim.com/story/SonOfABitch-Day/", "data-id": "cik30i1ai005w88ohxnylw27q", "Share"
+                      a ".article-share-link", "data-url": longHref, "data-id": "cik30i1ai005w88ohxnylw27q", "Share"
                       ul ".article-tag-list", ->
                         li ".article-tag-list-item", ->
                           a ".article-tag-list-link", href: "/tags/story/", "story"
@@ -63,39 +84,9 @@ module.exports = class StjohnsjimLook extends ClassLookAndFeel
                     a "#article-nav-older.article-nav-link-wrap", href: "/story/Excuse-My-Re-Use/", ->
                       strong ".article-nav-caption", "Older"
                       div ".article-nav-title", "Excuse My Re-Use!"
-            aside "#sidebar", ->
-              div ".widget-wrap", ->
-                h3 ".widget-title", "Categories"
-                div ".widget", ->
-                  ul ".category-list", ->
-                    li ".category-list-item", ->
-                      a ".category-list-link", href: "/categories/backstory/", "backstory"
-                      span ".category-list-count", "5"
-                    li ".category-list-item", ->
-                      a ".category-list-link", href: "/categories/draft/", "draft"
-                      span ".category-list-count", "2"
-                    li ".category-list-item", ->
-                      a ".category-list-link", href: "/categories/story/", "story"
-                      span ".category-list-count", "153"
-                    li ".category-list-item", ->
-                      a ".category-list-link", href: "/categories/tarot/", "tarot"
-                      span ".category-list-count", "8"
-              div ".widget-wrap", ->
-                h3 ".widget-title", "Tags"
-                div ".widget", ->
-                  ul ".tag-list", ->
-                    li ".tag-list-item", ->
-                      a ".tag-list-link", href: "/tags/backstory/", "backstory"
-                      span ".tag-list-count", "5"
-                    li ".tag-list-item", ->
-                      a ".tag-list-link", href: "/tags/draft/", "draft"
-                      span ".tag-list-count", "2"
-                    li ".tag-list-item", ->
-                      a ".tag-list-link", href: "/tags/story/", "story"
-                      span ".tag-list-count", "153"
-                    li ".tag-list-item", ->
-                      a ".tag-list-link", href: "/tags/tarot/", "tarot"
-                      span ".tag-list-count", "8"
+            aside "#rightbar", ->
+              gw "Categories",sampleCategories
+              gw "Bags",sampleCategories,'tag'
               div ".widget-wrap", ->
                 h3 ".widget-title", "Tag Cloud"
                 div ".widget.tagcloud", ->

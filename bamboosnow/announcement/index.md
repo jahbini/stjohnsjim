@@ -1,6 +1,6 @@
 ---
 debug: ""
-title: 'Timely Public Disclosures'
+title: 'Bamboo Snow Timely Public Disclosures'
 slug: index
 created: Now
 lastEdited: now
