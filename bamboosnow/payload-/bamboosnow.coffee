@@ -1,12 +1,26 @@
 ###
 styling: "Lookand Feel"
 ###
-{render,doctype,html,title,meta,base,link,script,body,header,raw,section,p,text,em,ul,li,strong,
+{normalizeArgs,render,doctype,html,title,meta,base,link,script,body,header,raw,section,p,text,em,ul,li,strong,
  hr,comment,div,a,span,h1,h2,h3,h4,h5,h6,head,renderable,blockquote,nav,form,input,button,aside,br,
  time,tag,article,footer} = require "teacup"
 
 headerLogoNav = require './header-logo-nav'
 module.exports = class BamboosnowLook
+  widgetWrap: ->
+      {attrs,contents} = normalizeArgs arguments
+      id = attrs.id
+      delete attrs.id
+      title = attrs.title
+      delete attrs.title
+      if attrs.class?
+        attrs.class.push "widget-wrap"
+      else
+        attrs.class = [ "widget-wrap"]
+      div attrs , ->
+        h3 ".widget-title", title
+        div ".widget", contents
+
 
   formatStory: renderable (story) ->
     options = story.attributes

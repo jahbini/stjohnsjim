@@ -28,40 +28,10 @@ module.exports = renderable (story) ->
           i '.sidebar-button-icon.fa fa-lg fa-home'
           span '.sidebar-button-desc', 'Home'
       li '.sidebar-button', ->
-        a '.sidebar-button-link.', href: '/all-categories', ->
-          i '.sidebar-button-icon.fa fa-lg fa-bookmark'
-          span '.sidebar-button-desc', 'Categories'
-      li '.sidebar-button', ->
-        a '.sidebar-button-link.', href: '/all-tags', ->
-          i '.sidebar-button-icon.fa fa-lg fa-tags'
-          span '.sidebar-button-desc', 'Tags'
-      li '.sidebar-button', ->
-        a '.sidebar-button-link.', href: '/all-archives', ->
-          i '.sidebar-button-icon.fa fa-lg fa-archive'
-          span '.sidebar-button-desc', 'Archives'
-      li '.sidebar-button', ->
-        a '.sidebar-button-link.st-search-show-outputs', href: '/#search', ->
-          i '.sidebar-button-icon.fa fa-lg fa-search'
-          span '.sidebar-button-desc', 'Search'
-      li '.sidebar-button', ->
         a '.sidebar-button-link.', href: '/#about', ->
           i '.sidebar-button-icon.fa fa-lg fa-question'
           span '.sidebar-button-desc', 'About'
-    ul '.sidebar-buttons', ->
-      li '.sidebar-button', ->
-        a '.sidebar-button-link.', href: 'https://github.com/jahbini', target: '_blank', ->
-          i '.sidebar-button-icon.fa fa-lg fa-github'
-          span '.sidebar-button-desc', 'GitHub'
       li '.sidebar-button', ->
         a '.sidebar-button-link.', href: 'https://facebook.com/BambooCanDo', target: '_blank', ->
           i '.sidebar-button-icon.fa fa-lg fa-facebook'
           span '.sidebar-button-desc', 'Facebook'
-      li '.sidebar-button', ->
-        a '.sidebar-button-link.', href: 'https://www.linkedin.com/in/jimhinds/', target: '_blank', ->
-          i '.sidebar-button-icon.fa fa-lg fa-linkedin'
-          span '.sidebar-button-desc', 'LinkedIn'
-    ul '.sidebar-buttons', ->
-      li '.sidebar-button', ->
-        a '.sidebar-button-link.', href: '/atom.xml', ->
-          i '.sidebar-button-icon.fa fa-lg fa-rss'
-          span '.sidebar-button-desc', 'RSS'

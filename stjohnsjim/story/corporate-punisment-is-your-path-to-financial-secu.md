@@ -45,7 +45,7 @@ Salmon: Hey, I been&nbsp; in high security for too long.&nbsp; Fill me in.
 Max: Ok, Salmon, here's how it works. &nbsp;Back in '13 corporations were forced to give up the rights of citizenship, because they were not &quot;people&quot;. &nbsp;So Fucking what.&nbsp;
 
 Max: The corporations fought back, and won those rights in the &quot;Christmas shopper VS Walmart Greeter&quot; riot. &nbsp;Thing is, &nbsp;they have to do the duties of a naturalized citizen.
-
+<div class="siteInvitation"></div>
 Max: So, Salmon, corporations have to vote in elections, sit on juries, and serve time for criminal acts. &nbsp; And I ain't sitting on any jury.
 
 Salmon: So that means you are serving time for some corporation?
@@ -55,7 +55,7 @@ Max: &nbsp;Yup, that's me,&nbsp; I'm &quot;Mr. Whizzy&quot; Max.&nbsp; When near
 Max: I hired on as Corporate Fall guy and got a 10 to 15 year sentence.&nbsp; That's enough for full retirement from General Efficiency, Inc!&nbsp; Along with housing, health and dental benefits for my wife and kids. &nbsp;_And Grandchildren._
 
 Max: I got another 3 years before I'm out.&nbsp; After that, the high level of my incrceration earns me a place on the fucking Board Of Directors!&nbsp;&nbsp;Today,&nbsp;I may live like a prisoner, but I'm gonna party like a Corporate FatCat for the rest of my life!
-
+<div class="siteInvitation"></div>
 Salmon: Max, I gotta hand it to you.
 
 Max: Yea, In fact, if you are willing to get your sentence extended, I can set you up with some sweet corporate deals that will set you up with great &quot;perks&quot; if you know what I mean.

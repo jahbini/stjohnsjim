@@ -6,7 +6,7 @@ date: 2015-12-14T05:26:30.000Z
 created: 2015-12-02T05:26:30.000Z
 lastEdited: '2016-03-17'
 published: '2015-12-31'
-embargo: '2015-12-31'
+embargo: '2016-12-31'
 category: products/household
 tags:
   - putty

@@ -1,0 +1,47 @@
+---
+debug: ""
+title: 'New Look!'
+slug: 'new-look'
+created: '2016-04-08'
+lastEdited: '2016-04-06'
+published: '2016-04-06'
+embargo: '2016-04-06'
+category: "announcement"
+className: "Story"
+headlines: [ "New Presses Roll on St John's Jim Stories!", "Stories of The Bizarre and Normal: Portland, Saipan and elsewhere" ]
+---
+```
+return T.render () ->
+    T.h2 "wowzers!"
+    T.p ".circle.border", ->
+      T.raw """
+I'm writing this new article without a wysiwig editor: I'm going primitive!
+Everything is now in
+   """
+      T.span ".px1.fa.fa-coffee", " Coffeescript."
+
+    T.p """
+It's kind of like building my own printing press out of electrons and software.
+The big hope is that with the fine control over each pixel on your screen will make
+me become a geek-star.
+   """
+    T.aside ".border.rounded.bg-silver.h4.no-column-break", ->
+      T.pre ".h6",-> '''
+        T.p ".circle.border", ->
+          T.raw """
+I'm writing this new article without a wysiwig editor: I'm going primitive!
+Everything is now in
+       """
+          T.span ".px1.fa.fa-coffee", " Coffeescript."
+    '''
+      T.p "I promise that's the last of Coffeescript you will see on these pages -\
+Otherwise, lets keep it a secret."
+    T.div ".siteInvitation"
+    T.p """
+    Actually, I do hope to revitalize these stories with new looks to introduce the intertwined nature
+    of the stories: How the Daough sisters contrast with the Yucks over in Tommy, OR.  Read on!
+   """
+    T.aside """
+   Baby Steps
+   """
+```
