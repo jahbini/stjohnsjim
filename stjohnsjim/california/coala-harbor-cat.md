@@ -5,25 +5,29 @@ created: '2011-06-07 13:42:29'
 lastEdited: '2011-06-07 17:17:07'
 title: 'Coala: Harbor Cat'
 published: '2011-06-07 17:17:07'
-category: story
+embargo: '2011-06-07 17:17:07'
+headlines:
+ - "Confrontations with Sea Deamons!"
+ - "Cats Adrift!"
+ - "Dead Cat Tells All!"
+category: california
 slug: coala-harbor-cat
 snippets: {  }
 domain: stjohnsjim.com
 hVersion: 0.1
 memberOf:
   - GUNAS
-  - TAROT
 sourcePath: stjohnsjim/story/coala-harbor-cat.md
 siteHandle: stjohnsjim
 ---
-I had two cats, Cobbee and Coala, when I lived on my boat in Santa Barbara Harbor.
+I had two cats, Cobbee and Coala, when I lived on my boat in Santa Barbara Harbor. I'm enlisting my old buddy Southwick from Pier Park -- He runs seances and stuff like that.
 
 Jim: Southwick, here's your assignment. Make a voyage to the akashic bar and grill, where all the fogged memories of mankind are stored, and get Coala&rsquo;s statement.
 
 Southwick: &nbsp;Woo, Woo, Woo, Bookoo Snafoo. &nbsp;Akashic records now I view.
 
 Jim: That's just freaking corny. &nbsp;Are you sure that's how to channel a cat?
-
+<div class="siteInvitation"></div>
 Southwick: Take a back seat, buddy. Let me work here. &nbsp; -- Coala, Coala, make yourself known-la.
 
 Jim: &quot;known-la?&quot; -- give me a break.
@@ -46,7 +50,7 @@ Coala: Yeah, sure! I got to sit in the Santa Barbara sun in the afternoons. Cobb
 
 Southwick: Tricks?
 
-Coala: Yeah, magic stuff, like how to lock doors and move his fingers and shit. Make real deamons! He could turn dead snakes into deamons. Make food appear by magic. Human stuff.
+Coala: Yeah, magic stuff, like how to lock doors and move his fingers and shit. Make real demons! He could turn dead snakes into demons. Make food appear by magic. Human stuff.
 
 Southwick: I got the moving fingers thing, but what about the snakes?
 
@@ -58,11 +62,11 @@ Coala: Rope? Yeah. And boat-lines and yarn snakes too. Lots of &lsquo;em in the 
 
 Southwick: You really know how to have fun.
 
-Coala: You said it buddy! I hung out on the dock most afternoons. I&rsquo;d sleep, or watch the other boats for signs that their dead snake boat-lines would turn into deamons. I would watch the birds. I would keep the gulls off track as I looked for fish heads on the docks. That kind of thing.
+Coala: You said it buddy! I hung out on the dock most afternoons. I&rsquo;d sleep, or watch the other boats for signs that their dead snake boat-lines would turn into demons. I would watch the birds. I would keep the gulls off track as I looked for fish heads on the docks. That kind of thing.
 
 Southwick: What was the craziest thing that happened there?
 
-Coala: Well, sometimes Jim would set sail. That was usually not fun. Cobbee hated it and got real cat-sick to show how much he hated it. &nbsp;Jim lost lots of shirts to Cobbee's puke. &nbsp;Me? I had survived all the sea deamons, so I knew it would be all right.
+Coala: Well, sometimes Jim would set sail. That was usually not fun. Cobbee hated the ocean and got real cat-sick to show how much he hated it. &nbsp;Jim lost lots of shirts to Cobbee's puke. &nbsp;Me? I had survived all the sea demons, so I knew it would be all right.
 
 Southiwick: Sea demons? &nbsp;What were the sea demons like?
 
@@ -96,6 +100,7 @@ Coala: No, sucka! They were sticks with snakes that had nasty teeth!
 
 Southwick: &ldquo;You mean fishing line and hooks?&rdquo;
 
+<div class="siteInvitation"></div>
 Coala: Hey, don&rsquo;t interrupt me. I&rsquo;m just getting to the scary part.
 
 Southwick: MORE scary?
@@ -104,10 +109,11 @@ Coala: So I land on the deck and these guys are freaking out. Anything is better
 
 Would you believe it? These humans had made the dock disappear! They made the whole freaking harbor disappear. All there was was water everywhere. And I was in it! Talk about a demon. Water is the worst. You can kill a snake, but you can&rsquo;t kill water.
 
-I fought hard to keep the water deamon from swallowing me. I don&rsquo;t know how long I fought and I was nearly ready to give up, and a miracle happened! I was lifted out of the water by magic snakes! The humans had trained these snakes to hold hands somehow. I was put back on the deck. Wet.
+I fought hard to keep the water demon from swallowing me. I don&rsquo;t know how long I fought and I was nearly ready to give up, and a miracle happened! I was lifted out of the water by magic snakes! The humans had trained these snakes to hold hands somehow. I was put back on the deck. Wet.
 
 Southwick: Holy, Holy, Hosannahs! By the eyes of the Saints! A Miracle!
 
+<div class="siteInvitation"></div>
 Coala: Yeah, They called it a fishnet, but it wasn&rsquo;t made of fish. Stupid name. They should call it snake nest, if you ask me. I hate snakes. Do you know how humiliating it is to be saved by skinny snakes? &nbsp;And I'm all WET?! That's really insulting. That's the kind of magic that freaks me out. &nbsp;Jeez, humans.
 
 Anyway, I ran down to the lowest part of the boat. It was the farthest from the water that I could get. And nowhere the humans could go.
@@ -122,6 +128,7 @@ And he had dinner ready too. &nbsp;So, Southwick buddy, what about my fish? Are 
 
 Southwick: Well, Er. Um.
 
+<div class="siteInvitation"></div>
 Coala: Hey! What are you? An akashic cosmic welcher? You said I get fish offal! &nbsp;Watch out or I'll pee on your underwear.
 
 Jim: Holy cat piss! Southwick! Mandatory meeting! Give Coala what he wants! It&rsquo;s a good story.
@@ -137,4 +144,3 @@ Coala: Thanks Jim. You&rsquo;re OK too, but your food is pretty boring.
 Jim: Ciao and Miaw for now, Coala, thanks for the story. &nbsp;You can feast all you want here at the Akashic Bar and Grill. &nbsp;It's always afternoon in Santa Barbara for you my good cat. &nbsp;Plenty of fish for you. &nbsp;It's all on my tab: after all, I'm the author.
 
 And that&rsquo;s what harbor life was like for a cat in Santa Barbara, CA. As far as Southwick, I&rsquo;ve asked him to teach ALL of my characters how to channel. &nbsp;My underwear can&rsquo;t afford to be at the mercy of Southwick&rsquo;s Jagged Guru. How come there are no smooth gurus?
-

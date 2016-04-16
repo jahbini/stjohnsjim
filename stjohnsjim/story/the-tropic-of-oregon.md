@@ -5,7 +5,7 @@ created: '2010-10-07 13:30:46'
 lastEdited: '2010-10-11 14:20:37'
 title: 'The Tropic of Oregon'
 published: '2010-10-07 16:38:29'
-category: story
+category: prelegal-times
 slug: the-tropic-of-oregon
 snippets:
   'first name': 'first name'

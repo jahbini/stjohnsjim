@@ -2,11 +2,14 @@
 debug: ""
 className: Story
 created: '2011-03-23 17:30:57'
-lastEdited: '2011-09-10 12:56:35'
+lastEdited: '2016-04-15'
 title: 'Big Doin''s at the Hooker Derby'
 published: '2011-03-23 18:04:24'
-category: story
+category: pier-park
 slug: big-doins-at-the-hooker-derby
+headlines:
+ - "Pier Park at 3AM?"
+ - "PNW Hookers Lament the Late Liz Taylor"
 snippets:
   wheelwho: wheelwho
 domain: stjohnsjim.com
@@ -43,7 +46,11 @@ Throntle yelled: “It’s what I do best!”
 
 Southwick said something about the money involved in prostitution. Throntle kind of sighed and said: “She was the best at the upsell, wasn’t she?”
 
-> Thanks go to Southwick for this perceptive report. As for me, I’m glad the ordeal in Japan is over. The news I get says it is so: Elizabeth Taylor is dead. That means we can forget about Japan and Lybia or Libya or Dubya or whatever was troubling us.
+> Thanks go to Southwick for this perceptive report. As for me, I’m glad the ordeal in Japan is over. The evening news today says it is so: _Elizabeth Taylor is dead_. That means we can forget about Japan and Lybia or Libya or Dubya or whatever was troubling us.
+
+> Actually the ordeal of the tsunami that took out Fukushima's nuclear reactors isn't really over, but..
+
+<div class="siteInvitation"></div>
 
 > That is the way we humans are wired. If you stress us long enough, we forget it is stress, and just accept it. One more earthquake, one more war, one more nuclear event. Always more.
 

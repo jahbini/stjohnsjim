@@ -2,34 +2,45 @@
 debug: ""
 className: Story
 created: '2011-08-05 18:38:57'
-lastEdited: '2011-08-05 18:54:38'
+lastEdited: '2016-04-15'
+embargo: '2016-04-15'
 title: 'The Great Aerial Tram Station'
 published: '2011-08-05 18:54:38'
 tagList: 'Pathy, Winnie, Daough Sisters, aerial tram, portland, st. john''s, Leo, Station, Portland''s Malibu'
-category: story
+category: st-johns/baltimore-wood
 slug: the-great-aerial-tram-station
+headlines:
+ - "Leo and Station's Very Odd Internet School"
+ - "Treetop Transportation from Recycled Materials"
 snippets: {  }
 domain: stjohnsjim.com
 hVersion: 0.1
 memberOf:
   - TAO
-  - TAROT
 sourcePath: stjohnsjim/story/the-great-aerial-tram-station.md
 siteHandle: stjohnsjim
 ---
-Just a few days ago Pathy and Winnie Daough were sitting at the table sharing their day: Pathy has just submitted her haiku for the Bus System. The bus system puts up poems on placards and pay $500 for a winning submission. “The young boy stretches - upward to knowwhere - Final Fantasy gets funky”. Winnie calmly mentions that Pathy has all the wrong syllables in the wrong lines. Pathy sighs: “I didn’t think it was very good either, but I’m my worst critic. Anyway, I entered it in the pre-teen category.”
+The Great Willamette River passes by St. John's, leaving great flat hips and sharp slopes on the land.  That's what Baltimore Wood is: the near useless bluff between the industrial flat hip and the downtown nipples we call the bars of St. John's.  It has the best semi-obstructed view of the gorgeous St. John's Bridge.
+
+If Portland was Los Angeles, Baltimore Wood would be Malibu.  It's where the Daough sisters, Winnie and Pathy live along with Leo and his partner, Station.
+
+Just a few days ago Pathy and Winnie were sitting at the table sharing their day: Pathy has just submitted her haiku for the Bus System. The bus system puts haiku on placards and pays $500 for a winning submission. _“The young boy stretches - upward to knowwhere - Final Fantasy gets funky”_. Winnie calmly mentions that Pathy has all the wrong syllables in the wrong lines. Pathy sighs: “I didn’t think it was very good either, but I’m my worst critic. Anyway, I entered it in the pre-teen category.”
 
 Winnie says: “Knowwhere??? Final Fantasy gets Funky? It doesn’t mean anything.” Pathy replies: “That’s what makes poetry so powerful: it’s so deep.”
 
 Winnie changes the subject: “I got my boarding platform all finished. Clothesline, pulleys, pallets, a couple of tire rims and a treadmill. All out of found materials! All I need to do is run an extension cord out there as soon as I get this old florescent shop light fixed. Then it will be all done!”
 
-Winnie has been working with the Baltimore Woods Tree-Top Tram commission to link up all the pre-WWII kid's tree houses with a Swiss style tram. Very upscale and trendy. Winnie wanted to have it finished before the next big earthquake hits. After that, Baltimore Wood will likely turn into Baltimore Landslide and Sink Hole.
+<div class="siteInvitation"></div>
+
+Winnie has been working with the Baltimore Woods Tree-Top Tram Commission to link up all the pre-WWII kid's tree houses with a Swiss style tram. Very upscale and trendy. Winnie wanted to have it finished before the next big earthquake hits. After that, Baltimore Wood will likely turn into Baltimore Landslide and Sink Hole.
 
 Pathy says: “Oh, good. I was hoping to take it tomorrow: I never liked climbing that giant maple. The sap is too sticky this time of year.”
 
 Just then, there is a knock at the door. Station pops his head in and says: “Winnie, You home?? You won’t believe what I got to tell you! You have to promise never to tell.”
 
 He comes in and acts a bit like he is going to announce the merger of GE, AT&amp;T and Exxon: “I promised Leo that I wouldn’t tell _**anyone.**_" He continues in a hushed tone: "We have had some complaints about our sex-wrestling classes.”
+
+<div class="siteInvitation"></div>
 
 Winnie gets a worried look: “Did someone get hurt?”
 
@@ -55,6 +66,8 @@ Pathy: “But you just finished it! And we don’t even know know if Leo… And 
 
 All through the next five days, Winnie climbs up the tree, hooks her leg around a limb, leans out to take the platform apart, and lowers a piece down to the ground. Every so often she sounds like a Marine as she grunts “Hooo--ahh!” and pops a fart for extra power.
 
+<div class="siteInvitation"></div>
+
 Winnie says: “I’ve got it all figured out. If I move it to the other side of the tree and put up a couple of faucets from the bathroom on the side facing Leo and Stations’ place, it will look like part of the scenery! It will blend right in with the vacant industrial park. Kind of like the ruins of some future civilization.”
 
 Pathy asks: “Will we be able to use the bathroom?”
@@ -64,4 +77,3 @@ Winnie replies: “I got that all figured out. I’ll just run a hose out to the
 Pathy sighs and goes back to composing the perfect haiku: “tornado howls in tongues, quiet spaces grow precious, Future ruins live today.”
 
 Maybe someday Pathy will learn to count syllables. We can only hope.
-

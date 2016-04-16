@@ -5,8 +5,13 @@ created: '2010-12-28 21:35:15'
 lastEdited: '2011-11-09 10:24:21'
 title: 'The Norse Psychologist Files on Thor'
 published: '2010-12-28 22:08:13'
-category: story
+embargo: '2010-12-28 22:08:13'
+category: almost-history
 slug: the-norse-psychologist-files-on-thor
+headlines:
+ - "Could The End Times be This Bizarre?"
+ - "Modern Psychology for the Elder Gods"
+ - "Thor's HIPAA Account Cracked!"
 snippets: {  }
 domain: stjohnsjim.com
 hVersion: 0.1
@@ -23,6 +28,8 @@ Writer: “Well, sir, That’s not my area of psychology, I’m not a social psy
 
 Disposition: Client visibly brighter, Showed interest in hammer throwing.
 
+<div class="siteInvitation"></div>
+
 - - -
 
 Second Office visit: Post mastodon extinction trauma.
@@ -32,6 +39,8 @@ Thor: “My people are much more active now. Great idea, but now I got a differe
 Writer: “Well, sir, I suggest you have them compete with animals instead of hand to hand. We should not harm humans.”
 
 Disposition: Client looking forward to bulking up the population pectorals. Great for hammer throwing.
+
+<div class="siteInvitation"></div>
 
 - - -
 
@@ -49,9 +58,10 @@ Follow up visit, Current times: Confusion, Attention Deficit, Stress overload.
 
 Thor: “That was a real good idea, and worked pretty good for a few thousand years, but now my people are getting weak. We are exporting our best commodity “inhuman mindless rage” to other folks around the world, and now we no longer have a monopoly on “inhuman mindless rage” and we are losing our edge. In fact some tropical countries are even venturing into “inhuman mindless rage” with incredible success. I'm toast, we are all toast! Ahghghhhhhhhh”
 
+<div class="siteInvitation"></div>
+
 Writer: “Well, sir, I told you that I’m not a social psychologist, but you now have real serious problems with how to deal with reality. That’s my specialty, so keep talking. By the way, have you tried Hare Krisna?”
 
-Disposition: 
+Disposition:
 
 > So if you see a Norse God chanting ‘Hari Hari’ down the street, with a Hammer in one hand and shaved head under his viking hat, you know it’s the end of the world.
-
