@@ -16,11 +16,11 @@ try
   allPosts = require "generated/all-posts"
 catch once
   try
-    allPosts = require "../../../app/generated/all-posts"
+    allPosts = require "../../../../app/generated/all-posts"
   catch badBoy
     console.log "Cant find allPosts!",once
     console.log "in stjohns jim",badBoy
-    process.exit(1)
+    allPosts = {}
 
 myArchives = _(allPosts).shuffle().filter (s) ->
   s.siteHandle == 'stjohnsjim'
