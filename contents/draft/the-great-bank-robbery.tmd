@@ -1,15 +1,15 @@
 ---
 debug: ""
-title: 'New Look!'
-slug: 'new-look'
+title: 'The Great Bank Robbery'
+slug: 'the-great-bank-robbery'
 created: '2016-04-08'
 lastEdited: '2016-04-06'
 published: '2016-04-06'
-embargo: '2016-04-06'
-category: "announcement"
+embargo: '2017-04-06'
+category: "almost-history"
 className: "Story"
 siteHandle: 'stjohnsjim'
-headlines: [ "New Presses Roll on St John's Jim Stories!", "Stories of The Bizarre and Normal: Portland, Saipan and elsewhere" ]
+headlines: [ "", "Stories of The Bizarre and Normal: Portland, Saipan and elsewhere" ]
 ---
 ```
 return T.render () ->

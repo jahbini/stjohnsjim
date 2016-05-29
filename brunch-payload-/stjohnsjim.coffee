@@ -6,17 +6,17 @@ styling: "Lookand Feel"
  comment,div,a,span,h1,h2,h3,h4,h5,h6,head,renderable,blockquote,nav,form,input,button,aside,br,
  time,tag,article,footer} = require "teacup"
 Backbone = require 'backbone'
-_ = require 'underscore'
+_= require 'backbone/node_modules/underscore'
 
 bind = (fn, me)->
   return ()->
     return fn.apply(me, arguments)
-
+jRequire = require
 try
-  allPosts = require "generated/all-posts"
+  allPosts = jRequire "generated/all-posts"
 catch once
   try
-    allPosts = require "../../../../app/generated/all-posts"
+    allPosts = jRequire "../../../../app/generated/all-posts"
   catch badBoy
     console.log "Cant find allPosts!",once
     console.log "in stjohns jim",badBoy
@@ -116,7 +116,7 @@ module.exports = class StjohnsjimLook
                     a "#article-nav-older.article-nav-link-wrap", href: "/story/Excuse-My-Re-Use/", ->
                       strong ".article-nav-caption", "Older"
                       div ".article-nav-title", "Excuse My Re-Use!"
-            aside "#rightbar", ->
+            aside "#sidebar", ->
               gw "Categories",myGroups
               gw "Bags",sampleCategories,'tag'
               console.log "Bag end"
