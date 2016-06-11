@@ -30,7 +30,7 @@ Todays word from the Muse is brought to you by&nbsp;[The King of Wands][2], The&
 
 [Thomas Edison][6]&nbsp;is our revered national treasure of creativity. &nbsp;Well earned and well deserved.&nbsp;&nbsp;We all know of his light bulbs and persistence.&nbsp;
 
-But it was more than persistence.&nbsp;&nbsp;He pursued his visions with a steam roller of passion!&nbsp;&nbsp;Hot blooded kill or be killed passion.&nbsp;&nbsp;At least when it came to&nbsp;[publically torturing elephants][7].&nbsp;&nbsp;He protected his ideas and fought his business enemies with&nbsp;[Atilla the Lawye][8]r.
+But it was more than persistence.&nbsp;&nbsp;He pursued his visions with a steam roller of passion!&nbsp;&nbsp;Hot blooded kill or be killed passion.&nbsp;&nbsp;At least when it came to&nbsp;[publically torturing elephants][7].&nbsp;&nbsp;He protected his ideas and fought his business enemies with&nbsp;[Atilla the Lawyer][8].
 
 His enterprise lingers on in modern times: GE a mega corporation that just like Edison&rsquo;s existence: fabulously wealthy, an engine of great worth, but heart and soul? &nbsp;Sorry, that is an after market add-on and voids the warrantee.
 

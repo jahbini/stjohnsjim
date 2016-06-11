@@ -40,9 +40,9 @@ module.exports = class StjohnsjimLook
     title = attrs.title
     delete attrs.title
     if attrs.class?
-      attrs.class.push "widget-wrap"
+      attrs.class+= " widget-wrap"
     else
-      attrs.class = [ "widget-wrap"]
+      attrs.class = "widget-wrap"
     div attrs , ->
       h3 ".widget-title", title
       div ".widget", contents
@@ -99,17 +99,17 @@ module.exports = class StjohnsjimLook
           div "#story.outer", ->
             section "#main", ->
                 article "#post-#{slug}.article.article-type-post", itemscope: "itemscope", itemprop: "blogPost", ->
-                  div ".article-inner", ->
+                  div ".article-inner.pb2", ->
                     header ".article-header", ->
                       h1 ".article-title", itemprop: "name", "#{options.title}"
                     div ".article-entry.jah.with-columns", itemprop: "articleBody", ->
                       raw final
-                    footer ".article-footer", ->
+                    footer ".article-footer.hide", ->
                       a ".article-share-link", "data-url": longHref, "data-id": "cik30i1ai005w88ohxnylw27q", "Share"
                       ul ".article-tag-list", ->
                         li ".article-tag-list-item", ->
                           a ".article-tag-list-link", href: "/tags/story/", "bobo-bado story"
-                  nav "#article-nav", ->
+                  nav "#article-nav.hide", ->
                     a "#article-nav-newer.article-nav-link-wrap", href: "/story/Ultimate-Protection-of-the-Geyser-Shirt-of-Bliss/", ->
                       strong ".article-nav-caption", "Newer"
                       div ".article-nav-title", " Ultimate Protection of the Geyser Shirt of Bliss "
@@ -148,7 +148,7 @@ module.exports = class StjohnsjimLook
                 text " © 2016 James A. Hinds"
                 br()
                 text " Powered by "
-                a href: "http://hexo.io/", target: "_blank", "Hexo"
+                a href: "https://github.com/jahbini/site-master", target: "_blank", "Site Master"
         nav "#mobile-nav", ->
           a ".mobile-nav-link", href: "/", "Home"
           a ".mobile-nav-link", href: "/archives", "Archives"

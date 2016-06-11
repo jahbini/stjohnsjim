@@ -3,15 +3,16 @@ debug: ""
 className: Story
 created: '2011-01-25 17:51:08'
 lastEdited: '2011-01-25 18:34:31'
-title: 'Susanna''s Song'
+title: "Susanna's Song"
 published: '2011-01-25 18:34:31'
-category: story
+embargo: '2011-01-25 18:34:31'
+category: almost-history
 slug: susannas-song
 snippets: {  }
 domain: stjohnsjim.com
+headlines:
+ - Girl Power!
 hVersion: 0.1
-memberOf:
-  - TAROT
 sourcePath: stjohnsjim/story/susannas-song.md
 siteHandle: stjohnsjim
 ---
@@ -23,7 +24,7 @@ Susanna let that phrase bounce in her head: &ldquo;Not if I have anything to say
 
 Susanna said: &ldquo;We won&rsquo;t get back till late, and the chores that we miss now will just be extra work for you when you get back. You can go ahead, I&rsquo;ll do the chores on time, and get myself ready.&rdquo;
 
-Susanna&rsquo;s dad said &ldquo;Smart thinkin&rsquo;, Susanna. &nbsp;Make sure you give the medicine to Lucky when the vet said. &mdash; Ma, you done right good with this one.&rdquo;
+Susanna&rsquo;s dad said &ldquo;Smart thinking&rsquo;, Susanna. &nbsp;Make sure you give the medicine to Lucky when the vet said. &mdash; Ma, you done right good with this one.&rdquo;
 
 So, an hour and a half later, facing the oncoming thunderstorm, Susanna was thinking: &ldquo;I&rsquo;ll get soaked. I&rsquo;ll look terrible&hellip;&rdquo;
 
