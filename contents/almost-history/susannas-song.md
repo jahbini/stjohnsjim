@@ -31,7 +31,7 @@ So, an hour and a half later, facing the oncoming thunderstorm, Susanna was thin
 &quot;Not if I have anything to say about it&quot; her mom's voice echoing in her head. At that she struck out in a trot toward the Indian rocks only a couple of miles away. When she got there, she had thistles all over her socks and dress. But the rocks did offer up a dry space for Susanna to sit out the storm.
 
 Susanna waited. The storm was a real soaker with drops as big as the end of your thumb but she was dry and safe, smelling the air as it changed from dust to clean and then to lightning sweet.
-
+<div class="siteInvitation"></div>
 She started picking the thistles out and thought. &ldquo;Even if I get all these out, I still have to join the road a bit farther on to cross the bridge. That means through more stickyberries to get to the gathering at the Kenton place. I'll get there and look a sight. Darn Thistles&rdquo;.
 
 The storm passed and moved on as storms do, Susanna struck out for the road muttering to herself about how much fun she would miss out on. &ldquo;I&rsquo;ll be the ugly duckling for sure,&rdquo; she said as she looked over to the stream.
@@ -47,7 +47,7 @@ As she looked at the little boat, she noticed the stream receding a bit.
 &ldquo;Oh, rats, Jenny&rsquo;s dress looks so much nicer than mine. What a horrid time I&rsquo;ll have.&rdquo;
 
 Then Susanna remembered the fields of wildflowers she had just passed.
-
+<div class="siteInvitation"></div>
 &ldquo;Not if I have anything to say about it.&rdquo; She ran back to the bright flowers, and taking the ribbon off of the present, she made a plait of flowers, just like the [haku leis][0] she had seen in a magazine&rdquo;
 
 Walking down the hill by the Kenton place, Susanna&rsquo;s hair and dress blew softly in the breeze. Jenny looked out the window. Their eyes met: Jenny thought &ldquo;Back off, girl, Kenny is mine!&rdquo;
