@@ -102,7 +102,7 @@ module.exports = class StjohnsjimLook
                   div ".article-inner.pb2", ->
                     header ".article-header", ->
                       h1 ".article-title", itemprop: "name", "#{options.title}"
-                    div ".article-entry.jah.with-columns", itemprop: "articleBody", ->
+                    div ".article-entry", itemprop: "articleBody", ->
                       raw final
                     footer ".article-footer.hide", ->
                       a ".article-share-link", "data-url": longHref, "data-id": "cik30i1ai005w88ohxnylw27q", "Share"
