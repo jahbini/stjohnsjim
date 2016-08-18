@@ -10,7 +10,7 @@ headlines:
   - "Strange, but unlikely"
   - "What evil lurks in the minds of headline writers?"
 tagList: 'liberace, homosexuality, marylin monroe,'
-category: story
+category: california
 slug: anna-played-piana
 snippets: {  }
 domain: stjohnsjim.com
@@ -39,3 +39,5 @@ Liberace got Anna a booking in Las Vegas at the top of the old Domino Crest casi
 As I departed, I asked Anna about the real Monroe's affair with JFK. She giggled, and said "the other brothers found my act _stimulating_." She would not elaborate, but I'm sure there is another story there.
 
 PS: And what about the Elton John connection??
+
+_Author's Note: even though this mainly is in Las Vegas, We consider that Far-Eastern LA and hence part of California_
