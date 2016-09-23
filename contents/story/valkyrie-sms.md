@@ -24,6 +24,8 @@ siteHandle: stjohnsjim
 images:
   - harpie-aveugle.jpg
   - harpie-aveugle-t.jpg
+  - harpi.png
+  - harpi-t.png
 ---
 ```
   widget = (content)->
@@ -34,7 +36,7 @@ images:
         when "Aubrun"
           T.div ".border.rounded.ml4.mt1",()->
             T.div ".h4.p1.grey","#{success[1]} -- "
-            T.img ".circle", href: "@pathToMe/Harpi.png"
+            # T.img ".circle", href: binder.pathToMe()"/Harpi.png"
             T.raw success[2]
         when "Skuld"
           T.div ".border.rounded.ml2.mt2",()->
@@ -56,13 +58,12 @@ on a tight leash:  "_Cravers of blood, All of 'em_"
 
 The following is intended to be a real-time corporate messaging between two myth-twits (mythical tweeters) -- hey, who says spiritual beings cant be on the internet.
 
-Aubrun - Valkyrie &nbsp;-- Addresses her messages to @Skuld
-![aubrun@fancybox.right.p2](@pathToMe/harpie.jpg "Harpie Junior Grade Aubrun Reports, Sir!")
+1. Aubrun - Valkyrie &nbsp;-- Addresses her messages to @Skuld ![aubrun@fancybox.p2](@pathToMe/harpi.png "Harpie Junior Grade Aubrun Reports, Sir!")
 
-![skuld@fancybox.left.p2](@pathToMe/harpie-aveugle "Skuld - Senior Valkyrie')
+2. Skuld - Senior Valkyrie -- Take no lip, give no tit  ![skuld@fancybox.p2](@pathToMe/harpie-aveugle.jpg "I am ready for my close-up, Mr. DeMille")
 
-[Sessrumnir][1]:&nbsp;-- Valhalla's waiting station, A giant hall of limbo with wooden benches for the dead.
-
+3. [Sessrumnir][1]:&nbsp;-- Valhalla's waiting station, A giant hall of limbo with wooden benches for the dead.
+-----------
 Skuld: @Aubrun assignment: 11/23/09 08:30 UTC You have been re-assigned to Darfur sector 3B. report immediately
 
 Aubrun: &nbsp;@Skuld K
