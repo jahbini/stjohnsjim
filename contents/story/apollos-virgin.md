@@ -7,10 +7,16 @@ title: 'Apollo''s Virgin'
 published: '2011-06-13 18:41:08'
 category: story
 slug: apollos-virgin
+embargo: "2016-09-19"
 snippets:
   'first name': 'first name'
   author: author
 domain: stjohnsjim.com
+headlines:
+  - "Will you answer Apollo's call?"
+  - 'one weird trick!'
+  - 'Are you Ready for Abundance?'
+  - 'It was true centuries ago!'
 hVersion: 0.1
 memberOf:
   - GUNAS
@@ -44,4 +50,3 @@ Please reply by sending your replies to htttp://I am so gullible.com/
 Strength and Light given to you my friend in bliss.
 
 Amenea
-

@@ -12,7 +12,7 @@ siteHandle: 'stjohnsjim'
 headlines: [ "", "Stories of The Bizarre and Normal: Portland, Saipan and elsewhere" ]
 ---
 ```
-return T.render () ->
+  return T.render () ->
     T.h2 "wowzers!"
     T.p ".circle.border", ->
       T.raw """

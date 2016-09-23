@@ -3,29 +3,63 @@ debug: ""
 className: Story
 created: '2010-10-25 15:55:41'
 lastEdited: '2010-10-25 16:24:19'
-title: 'Valkerie Tweets'
+title: 'Valkyrie On-Line'
 published: '2010-10-25 16:24:19'
+published: '2016-09-19'
 category: story
-slug: valkerie-tweets
+embargo: '2016-09-19'
+slug: valkyrie-sms
 snippets: {  }
+headlines:
+  - "Notes from the Norse Battlefields"
+  - "life before the afterlife"
+  - "If Valhalla Invented the Internet"
+  - "Are they just Schoolgirls at Heart?"
 domain: stjohnsjim.com
 hVersion: 0.1
 memberOf:
   - TAROT
-sourcePath: stjohnsjim/story/valkerie-tweets.md
+sourcePath: stjohnsjim/story/valkyrie-sms.md
 siteHandle: stjohnsjim
+images:
+  - harpie-aveugle.jpg
+  - harpie-aveugle-t.jpg
 ---
-Per a reader's request for a story for diary entries about a Valkyrie. &nbsp;I changed the &quot;diary&quot; idea into using tweets instead; more of a challenge.
+```
+  widget = (content)->
+    return "<p>#{content}</p>" unless success=content.match /^([\w]+):(.*)/
+    T.render ()->
+      debugger
+      switch success[1]
+        when "Aubrun"
+          T.div ".border.rounded.ml4.mt1",()->
+            T.div ".h4.p1.grey","#{success[1]} -- "
+            T.img ".circle", href: "@pathToMe/Harpi.png"
+            T.raw success[2]
+        when "Skuld"
+          T.div ".border.rounded.ml2.mt2",()->
+            T.div ".h4.p1.purple","#{success[1]} -- "
+            T.raw success[2]
+        when "Sessrumnir"
+          T.div ".border.rounded.ml2.mt3",()->
+            T.div ".h2.p1.fuchsia","#{success[1]} -- "
+            T.raw success[2]
+  binder.setMarkedRenderer 'paragraph',widget
+  return ""
+```
+Per a reader's request for a story for diary entries about a Valkyrie. &nbsp;I changed the &quot;diary&quot; idea into using on-line messaging instead; more of a challenge.
 
 I got some background at this site -- [http://lokis-dottir.livejournal.com/68127.html][0]
 
-I thought it might be fun to make Aubrun a low-ranking wage slave in some corporate heirarchy.
+Our heroine is Aubrun, a low-ranking wage slave in some corporate hierarchy of the afterlife.  Her mid-level overlord, Skuld, feels she needs to keep these [death goddesses][2]
+on a tight leash:  "_Cravers of blood, All of 'em_"
 
-The following is intended to be a real-time twitter performance between two myth-tweets (mythical tweeters) -- hey, who says spiritual beings cant be on the internet.
+The following is intended to be a real-time corporate messaging between two myth-twits (mythical tweeters) -- hey, who says spiritual beings cant be on the internet.
 
-Aubrun :&nbsp;- Valkerie &nbsp;-- Addresses her tweets to @Skuld
+Aubrun - Valkyrie &nbsp;-- Addresses her messages to @Skuld
+![aubrun@fancybox.right.p2](@pathToMe/harpie.jpg "Harpie Junior Grade Aubrun Reports, Sir!")
 
-Skuld &nbsp;- Senior Valkerie &nbsp;-- replies back to @Aubrun
+![skuld@fancybox.left.p2](@pathToMe/harpie-aveugle "Skuld - Senior Valkyrie')
 
 [Sessrumnir][1]:&nbsp;-- Valhalla's waiting station, A giant hall of limbo with wooden benches for the dead.
 
@@ -45,13 +79,15 @@ Skuld: &nbsp;@Aubrun That&rsquo;s right, returns are 2 expensive in temporal and
 
 Skuld: &nbsp;@Aubrun Begin your reports from Darfur sector 3B immediately.
 
+Sessrumnir makes automatic reports on arrivals and departures.
+
 Sessrumnir: &nbsp;@Skuld 11/23/09 08:45 UTC 1EA soul labeled 35273 deposited to Sessrumnir input
 
 Sessrumnir: &nbsp;@Skuld 11/23/09 08:51 UTC 1EA soul labeled 35985 deposited to Sessrumnir input
 
 Sessrumnir: &nbsp;@Skuld 11/23/09 08:52 UTC 1EA soul labeled 37226 deposited to Sessrumnir input
 
-Aubrun :&nbsp;Sessrumnir numbers are going up fast! from 35273 to 37226 in 7 minutes! Too many dead today!&nbsp;
+Aubrun:&nbsp;Sessrumnir numbers are going up fast! from 35273 to 37226 in 7 minutes! Too many dead today!&nbsp;
 
 Skuld: &nbsp;@Aubrun You know, I read that too, and you get paid. Just be happy you are still working
 
@@ -69,13 +105,19 @@ Skuld: &nbsp;@Aubrun Nix on the escort to Vahallah, you don&rsquo;t have seniori
 
 Aubrun: &nbsp;@Skuld &nbsp;Sorry, I already took all 4. &nbsp;I&rsquo;m in transit to Valhalla, I&rsquo;ll check in there.
 
+later.
+
 Skuld: &nbsp;@Aubrun Valhalla reports that you did not arrive as scheduled. &nbsp;U there?
+
+Much later.
 
 Skuld: &nbsp;@Aubrun U there? &nbsp;REPORT!
 
 Skuld: &nbsp;@Aubrun &nbsp;Where are you? &nbsp;What have you done with those souls??
 
 Skuld: &nbsp;@Aubrun Odin won&rsquo;t save you this time, you better check in NOW.
+
+A bit later...
 
 Aubrun: &nbsp;@Skuld Um. &nbsp;K. I&rsquo;m having a little trouble. &nbsp;Still en-route.
 
@@ -91,3 +133,4 @@ Aubrun: &nbsp;@Skuld yes Loki ALWAYS admits to everything just to piss ODIN off!
 
 [0]: http://lokis-dottir.livejournal.com/68127.html
 [1]: http://en.wikipedia.org/wiki/Sessr&uacute;mnir
+[2]: http://www.theoi.com/Daimon/Keres.html

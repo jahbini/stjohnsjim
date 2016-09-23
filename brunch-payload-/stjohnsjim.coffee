@@ -15,11 +15,11 @@ jRequire = require
 try
   allPosts = jRequire "generated/all-posts"
 catch once
+  console.log "Cant find client allPosts!"
   try
     allPosts = jRequire "../../../../app/generated/all-posts"
   catch badBoy
-    console.log "Cant find allPosts!",once
-    console.log "in stjohns jim",badBoy
+    console.log "cant find server allPosts"
     allPosts = {}
 
 myArchives = _(allPosts).shuffle().filter (s) ->
