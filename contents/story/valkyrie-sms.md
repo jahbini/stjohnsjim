@@ -26,28 +26,49 @@ images:
   - harpie-aveugle-t.jpg
   - harpi.png
   - harpi-t.png
+  - sessrumnir-t.jpg
 ---
 ```
+  binder.copyAsset "sessrumnir-t.jpg"
   widget = (content)->
     return "<p>#{content}</p>" unless success=content.match /^([\w]+):(.*)/
     T.render ()->
       debugger
       switch success[1]
         when "Aubrun"
-          T.div ".border.rounded.ml4.mt1",()->
-            T.div ".h4.p1.grey","#{success[1]} -- "
-            # T.img ".circle", href: binder.pathToMe()"/Harpi.png"
-            T.raw success[2]
+          T.div ".flex.justify-start.border.rounded.ml4.mt1.col-7",()->
+            T.div ".h4.p1.grey", ()->
+              T.text "#{success[1]} -- "
+              T.img ".circle.fig-img",
+                width: 64
+                height: 64
+                src: binder.pathToMe()+"/harpi-t.png"
+            T.div ".self-center.h4", ->
+              T.raw success[2]
         when "Skuld"
-          T.div ".border.rounded.ml2.mt2",()->
-            T.div ".h4.p1.purple","#{success[1]} -- "
-            T.raw success[2]
+          T.div ".flex.justify-start.border.rounded.ml2.mt2.col-8",()->
+            T.div ".h4.p1.purple", ()->
+              T.text "#{success[1]} -- "
+              T.img ".circle.fig-img",
+                width: 64
+                height: 64
+                src: binder.pathToMe()+"/harpie-aveugle-t.jpg"
+            T.div ".self-center.h4", ->
+              T.raw success[2]
         when "Sessrumnir"
-          T.div ".border.rounded.ml2.mt3",()->
-            T.div ".h2.p1.fuchsia","#{success[1]} -- "
-            T.raw success[2]
+          T.div ".flex.justify-start.border.rounded.ml2.mt3.col-11",()->
+            T.div ".h2.p1.fuchsia", ->
+              T.text "#{success[1]} -- "
+              T.img ".circle.fig-img",
+                width: 64
+                height: 64
+                src: binder.pathToMe()+"/sessrumnir-t.jpg"
+
+            T.div ".self-center.h3", ->
+              T.raw success[2]
   binder.setMarkedRenderer 'paragraph',widget
   return ""
+  T.div ".flex.justify-start.bor"
 ```
 Per a reader's request for a story for diary entries about a Valkyrie. &nbsp;I changed the &quot;diary&quot; idea into using on-line messaging instead; more of a challenge.
 
