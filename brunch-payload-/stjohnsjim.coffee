@@ -4,7 +4,7 @@ styling: "Lookand Feel"
 ###
 {normalizeArgs,render,doctype,html,title,meta,base,link,script,body,header,raw,section,p,text,em,ul,li,strong,
  comment,div,a,span,h1,h2,h3,h4,h5,h6,head,renderable,blockquote,nav,form,input,button,aside,br,
- time,tag,article,footer} = require "teacup"
+ time,tag,article,footer} = T = require "teacup"
 Backbone = require 'backbone'
 _= require 'backbone/node_modules/underscore'
 
@@ -49,13 +49,13 @@ module.exports = class StjohnsjimLook
 
   headerLogoNav: renderable (story)->
     header "#header", ->
-      div "#banner"
+      T.div "#banner.bogo", style:"background-image:url(/assets/images/banner.jpg)"
       div "#header-outer.outer", ->
         div "#header-title.inner", ->
           h1 "#logo-wrap", ->
-            a "#logo", href: "/", "St. John's Jim"
+            a "#logo", href: "/", "King St. John's Jim"
           h2 "#subtitle-wrap", ->
-            a "#subtitle", href: "/", "Stories from the Far End of The Bridge to Nowhere"
+            a "#subtitle", href: "/", "Factisms from Cascadia's Protector --- Both a Saint AND a King."
         div "#header-inner.inner", ->
           nav "#main-nav", ->
             a "#main-nav-toggle.nav-icon"
