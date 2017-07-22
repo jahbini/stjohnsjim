@@ -27,6 +27,9 @@ images:
   - harpi.png
   - harpi-t.png
   - sessrumnir-t.jpg
+  - aubrun.svg
+  - aveugle.svg
+  - sessrumnir.svg
 ---
 ```
   binder.copyAsset "sessrumnir-t.jpg"
