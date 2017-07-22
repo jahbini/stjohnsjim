@@ -6,7 +6,7 @@ styling: "Lookand Feel"
  comment,div,a,span,h1,h2,h3,h4,h5,h6,head,renderable,blockquote,nav,form,input,button,aside,br,
  time,tag,article,footer} = T = require "teacup"
 Backbone = require 'backbone'
-_= require 'backbone/node_modules/underscore'
+_= require 'underscore'
 
 bind = (fn, me)->
   return ()->
@@ -50,16 +50,16 @@ module.exports = class StjohnsjimLook
   headerLogoNav: renderable (story)->
     header "#header", ->
       T.div "#banner.bogo", style:"background-image:url(/assets/images/banner.jpg)"
-      div "#header-outer.outer", ->
-        div "#header-title.inner", ->
-          h1 "#logo-wrap", ->
-            a "#logo", href: "/", "King St. John's Jim"
-          h2 "#subtitle-wrap", ->
-            a "#subtitle", href: "/", "Factisms from Cascadia's Protector --- Both a Saint AND a King."
-        div "#header-inner.inner", ->
-          nav "#main-nav", ->
-            a "#main-nav-toggle.nav-icon"
-            a ".main-nav-link", href: "/", "Home"
+      T.div "#header-outer.outer", ->
+        T.div "#header-title.inner", ->
+          T.h1 "#logo-wrap", ->
+            T.a "#logo", href: "/", "King St. John's Jim"
+          T.h2 "#subtitle-wrap", ->
+            T.a "#subtitle", href: "/", "Factisms from Cascadia's Protector --- Both a Saint AND a King."
+        T.div "#header-inner.inner", ->
+          T.nav "#main-nav", ->
+            T.a "#main-nav-toggle.nav-icon"
+            T.a ".main-nav-link", href: "/", "Home"
 #          nav "#sub-nav", ->
 #            a "#nav-rss-link.nav-icon", href: "/atom.xml", title: "RSS Feed"
 #            a "#nav-search-btn.nav-icon", title: "Search"
@@ -71,11 +71,11 @@ module.exports = class StjohnsjimLook
   groupWidgetList: renderable (title,categories,kind="category") ->
       console.log "Got Categories in #{title}",categories
       @widgetWrap title: title, ->
-          ul ".#{kind}-list", ->
+          T.ul ".#{kind}-list", ->
             for name, value of categories
-              li ".#{kind}-list-item", ->
-                a ".#{kind}-list-link", href: "/#{kind}/#{name}/", "#{name}"
-                span ".#{kind}-list-count", "#{value.length}"
+              T.li ".#{kind}-list-item", ->
+                T.a ".#{kind}-list-link", href: "/#{kind}/#{name}/", "#{name}"
+                T.span ".#{kind}-list-count", "#{value.length}"
 
   formatStory: renderable (story) ->
     console.log "Starting format for Story"
@@ -92,64 +92,64 @@ module.exports = class StjohnsjimLook
     headline = _(story.get "headlines").select(1)
     slug=story.get "slug"
     published = story.get "published"
-    body ->
-      div "#container", ->
-        div "#wrap", ->
-          raw headMatter
-          div "#story.outer", ->
-            section "#main", ->
-                article "#post-#{slug}.article.article-type-post", itemscope: "itemscope", itemprop: "blogPost", ->
-                  div ".article-inner.pb2", ->
-                    header ".article-header", ->
-                      h1 ".article-title", itemprop: "name", "#{options.title}"
-                    div ".article-entry", itemprop: "articleBody", ->
-                      raw final
-                    footer ".article-footer.hide", ->
-                      a ".article-share-link", "data-url": longHref, "data-id": "cik30i1ai005w88ohxnylw27q", "Share"
-                      ul ".article-tag-list", ->
-                        li ".article-tag-list-item", ->
-                          a ".article-tag-list-link", href: "/tags/story/", "bobo-bado story"
-                  nav "#article-nav.hide", ->
-                    a "#article-nav-newer.article-nav-link-wrap", href: "/story/Ultimate-Protection-of-the-Geyser-Shirt-of-Bliss/", ->
-                      strong ".article-nav-caption", "Newer"
-                      div ".article-nav-title", " Ultimate Protection of the Geyser Shirt of Bliss "
-                    a "#article-nav-older.article-nav-link-wrap", href: "/story/Excuse-My-Re-Use/", ->
-                      strong ".article-nav-caption", "Older"
-                      div ".article-nav-title", "Excuse My Re-Use!"
-            aside "#sidebar", ->
+    T.body ->
+      T.div "#container", ->
+        T.div "#wrap", ->
+          T.raw headMatter
+          T.div "#story.outer", ->
+            T.section "#main", ->
+                T.article "#post-#{slug}.article.article-type-post", itemscope: "itemscope", itemprop: "blogPost", ->
+                  T.div ".article-inner.pb2", ->
+                    T.header ".article-header", ->
+                      T.h1 ".article-title", itemprop: "name", "#{options.title}"
+                    T.div ".article-entry", itemprop: "articleBody", ->
+                      T.raw final
+                    T.footer ".article-footer.hide", ->
+                      T.a ".article-share-link", "data-url": longHref, "data-id": "cik30i1ai005w88ohxnylw27q", "Share"
+                      T.ul ".article-tag-list", ->
+                        T.li ".article-tag-list-item", ->
+                          T.a ".article-tag-list-link", href: "/tags/story/", "bobo-bado story"
+                  T.nav "#article-nav.hide", ->
+                    T.a "#article-nav-newer.article-nav-link-wrap", href: "/story/Ultimate-Protection-of-the-Geyser-Shirt-of-Bliss/", ->
+                      T.strong ".article-nav-caption", "Newer"
+                      T.div ".article-nav-title", " Ultimate Protection of the Geyser Shirt of Bliss "
+                    T.a "#article-nav-older.article-nav-link-wrap", href: "/story/Excuse-My-Re-Use/", ->
+                      T.strong ".article-nav-caption", "Older"
+                      T.div ".article-nav-title", "Excuse My Re-Use!"
+            T.aside "#sidebar", ->
               gw "Categories",myGroups
               gw "Bags",sampleCategories,'tag'
               console.log "Bag end"
               widgetWrap title: "Tag Cloud", ->
-                  a href: "/tags/backstory/", style: "font-size: 13.33px;", "backstory"
-                  a href: "/tags/draft/", style: "font-size: 10px;", "draft"
-                  a href: "/tags/story/", style: "font-size: 20px;", "story"
-                  a href: "/tags/tarot/", style: "font-size: 16.67px;", "tarot"
+                  T.a href: "/tags/backstory/", style: "font-size: 13.33px;", "backstory"
+                  T.a href: "/tags/draft/", style: "font-size: 10px;", "draft"
+                  T.a href: "/tags/story/", style: "font-size: 20px;", "story"
+                  T.a href: "/tags/tarot/", style: "font-size: 16.67px;", "tarot"
               console.log "Tag Cloud end"
               widgetWrap title: "Archives", ->
-                  ul ".archive-list", ->
-                    li ".archive-list-item", ->
-                      a ".archive-list-link", href: "/archives/2010/11/", "November 2010"
-                      span ".archive-list-count", "30"
-                    li ".archive-list-item", ->
-                      a ".archive-list-link", href: "/archives/2010/10/", "October 2010"
-                      span ".archive-list-count", "28"
+                  T.ul ".archive-list", ->
+                    T.li ".archive-list-item", ->
+                      T.a ".archive-list-link", href: "/archives/2010/11/", "November 2010"
+                      T.span ".archive-list-count", "30"
+                    T.li ".archive-list-item", ->
+                      T.a ".archive-list-link", href: "/archives/2010/10/", "October 2010"
+                      T.span ".archive-list-count", "28"
               console.log "Archive Cloud end"
               widgetWrap title: "recents", ->
-                  ul ->
-                    li ->
-                      a href: "/story/The-Man-Who-Walked/", "The Man Who Walked"
-                    li ->
-                      a href: "/story/Truck-Fight/", "Truck Fight"
+                  T.ul ->
+                    T.li ->
+                      T.a href: "/story/The-Man-Who-Walked/", "The Man Who Walked"
+                    T.li ->
+                      T.a href: "/story/Truck-Fight/", "Truck Fight"
               console.log "Recents Cloud end"
           footer "#footer", ->
-            div ".outer", ->
-              div "#footer-info.inner", ->
-                text " © 2016 James A. Hinds"
-                br()
-                text " Powered by "
-                a href: "https://github.com/jahbini/site-master", target: "_blank", "Site Master"
-        nav "#mobile-nav", ->
-          a ".mobile-nav-link", href: "/", "Home"
-          a ".mobile-nav-link", href: "/archives", "Archives"
+            T.div ".outer", ->
+              T.div "#footer-info.inner", ->
+                T.text " © 2016 James A. Hinds"
+                T.br()
+                T.text " Powered by "
+                T.a href: "https://github.com/jahbini/site-master", target: "_blank", "Site Master"
+        T.nav "#mobile-nav", ->
+          T.a ".mobile-nav-link", href: "/", "Home"
+          T.a ".mobile-nav-link", href: "/archives", "Archives"
         console.log "format story end. #{slug}"
