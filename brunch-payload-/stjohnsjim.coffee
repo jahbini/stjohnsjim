@@ -2,9 +2,9 @@
 styling: "Lookand Feel"
 
 ###
-{normalizeArgs,render,doctype,html,title,meta,base,link,script,body,header,raw,section,p,text,em,ul,li,strong,
- comment,div,a,span,h1,h2,h3,h4,h5,h6,head,renderable,blockquote,nav,form,input,button,aside,br,
- time,tag,article,footer} = T = require "teacup"
+T = require "teact"
+TC = require 'teacup'
+
 Backbone = require 'backbone'
 _= require 'underscore'
 
@@ -34,21 +34,18 @@ sampleCategories = [
 ]
 module.exports = class StjohnsjimLook
   widgetWrap: ->
-    {attrs,contents} = normalizeArgs arguments
+    {attrs,contents} = TC.normalizeArgs arguments
     id = attrs.id
     delete attrs.id
     title = attrs.title
     delete attrs.title
-    if attrs.class?
-      attrs.class+= " widget-wrap"
-    else
-      attrs.class = "widget-wrap"
-    div attrs , ->
-      h3 ".widget-title", title
-      div ".widget", contents
+    attrs.className = "widget-wrap"
+    T.div attrs , ->
+      T.h3 ".widget-title", title
+      T.div ".widget", contents
 
-  headerLogoNav: renderable (story)->
-    header "#header", ->
+  headerLogoNav:  (story)->
+    T.header "#header", ->
       T.div "#banner.bogo", style:"background-image:url(/assets/images/banner.jpg)"
       T.div "#header-outer.outer", ->
         T.div "#header-title.inner", ->
@@ -68,7 +65,7 @@ module.exports = class StjohnsjimLook
 #              input ".search-form-input", type: "search", name: "q", results: 0, placeholder: "Search"
 #              button ".search-form-submit", type: "submit", ""
 #              input type: "hidden", name: "sitesearch", value: "http://stjohnsjim.com"
-  groupWidgetList: renderable (title,categories,kind="category") ->
+  groupWidgetList:  (title,categories,kind="category") ->
       console.log "Got Categories in #{title}",categories
       @widgetWrap title: title, ->
           T.ul ".#{kind}-list", ->
@@ -77,7 +74,7 @@ module.exports = class StjohnsjimLook
                 T.a ".#{kind}-list-link", href: "/#{kind}/#{name}/", "#{name}"
                 T.span ".#{kind}-list-count", "#{value.length}"
 
-  formatStory: renderable (story) ->
+  formatStory:  (story) ->
     console.log "Starting format for Story"
     final = story.get 'final'
     if !final
