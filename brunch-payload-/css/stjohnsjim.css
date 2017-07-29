@@ -1176,7 +1176,7 @@ pre .javascript .function {
  }
 }
 @media screen and (min-width: 768px) {
- #sidebar {
+ #sidecar {
    display: inline;
    float: left;
    width: 23.333333333333332%;
