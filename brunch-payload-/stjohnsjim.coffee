@@ -1,9 +1,8 @@
 ###
-styling: "Lookand Feel"
-
+#global Pylon
 ###
-T = require "teact"
-TC = require 'teacup'
+
+T=Pylon.Teact
 
 Backbone = require 'backbone'
 _= require 'underscore'
@@ -34,7 +33,7 @@ sampleCategories = [
 ]
 module.exports = class StjohnsjimLook
   widgetWrap: ->
-    {attrs,contents} = TC.normalizeArgs arguments
+    {attrs,contents} = T.normalizeArgs arguments
     id = attrs.id
     delete attrs.id
     title = attrs.title
