@@ -30,7 +30,7 @@ module.exports = T.bless class BodyFormatter extends React.Component
     headline = "select a headline from"+JSON.stringify story.headlines
     slug=story.slug
     published = story.published
-    result = T.body "#site-body", ->
+    result = T.div "#stjohnsjim-body", ->
       T.div "#container", ->
         T.div "#wrap", ->
           HeaderLogoNav @props
@@ -46,17 +46,6 @@ module.exports = T.bless class BodyFormatter extends React.Component
                       T.ul ".article-tag-list", ->
                         T.li ".article-tag-list-item", ->
                           T.a ".article-tag-list-link", href: "/tags/story/", "bobo-bado story"
-                 
-            T.div "#sidecar",()->
-              T.div ".fb-login-button.bg-gray", height:48,
-                width: 300
-                'data-width': "33rem"
-                'data-max-rows': "1"
-                'data-size': "large"
-                'data-button-type': "login_with"
-                'data-show-faces': "true"
-                'data-auto-logout-link': "true"
-                'data-use-continue-as': "true"
               T.aside "#sidebar"
           Footer @props
     console.log "format Stjohns jim story end. #{slug}"
