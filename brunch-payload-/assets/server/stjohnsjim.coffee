@@ -40,7 +40,7 @@ module.exports = T.bless class BodyFormatter extends React.Component
                   T.div ".article-inner.pb2", ->
                     T.header ".article-header", ->
                       T.h1 ".article-title", itemprop: "name", "#{story.title}"
-                      T.crel "Bloviation", ".article-entry.contents", dangerouslySetInnerHTML: __html: final
+                      T.crel "Bloviation", ".article-entry.contents", final
                     T.footer ".article-footer.hide", ->
                       T.a ".article-share-link", "data-url": longHref, "data-id": "cik30i1ai005w88ohxnylw27q", "Share"
                       T.ul ".article-tag-list", ->
