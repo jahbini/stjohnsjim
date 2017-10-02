@@ -2,7 +2,11 @@ React = require 'react'
 T = require "teact"
 
 module.exports = T.bless class HeaderLogoNav extends React.Component
-
+  constructor: (props)->
+    super()
+    @props= props
+    @
+    
   render: ()=>
     T.footer "#footer", ->
       T.div ".outer", ->

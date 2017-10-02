@@ -7,7 +7,11 @@ React = require 'react'
 T = require "teact"
 
 module.exports = T.bless class HeaderLogoNav extends React.Component
-
+  constructor: (props)->
+    super()
+    @props=props
+    @
+    
   render: ()=>
     T.header "#header.flex.flex-column.justify-between", ->
       T.div "#banner.bogo", style: 'background-image':'url(assets/images/banner.jpg)'

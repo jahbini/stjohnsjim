@@ -4,6 +4,7 @@ styling: "Lookand Feel"
 ###
 React = require 'react'
 T = require "teact"
+_ = require 'underscore'
 
 try
   HeaderLogoNav = require '/site-server-master/public/server/header-logo-nav.coffee'
@@ -15,7 +16,11 @@ catch ermsg
     
   
 module.exports = T.bless class BodyFormatter extends React.Component
-
+  constructor: (props)->
+    super()
+    @props=props
+    @
+    
   render: ()=>
     final = @props.page.final
     story = @.props.story
@@ -23,8 +28,7 @@ module.exports = T.bless class BodyFormatter extends React.Component
     options = story.attributes
     longHref = story.pathToMe()
     
-    console.log story
-    console.log @props.page,"@ pROPS page"
+    headerOptions = _.pick @props, ['navLinks','story','page']
     
     console.log "Story Headlines",story.headlines
     headline = "select a headline from"+JSON.stringify story.headlines
@@ -32,15 +36,15 @@ module.exports = T.bless class BodyFormatter extends React.Component
     published = story.published
     result = T.div "#stjohnsjim-body", ->
       T.div "#container", ->
-        T.div "#wrap", ->
-          HeaderLogoNav @props
+        T.div '.c-hero.o-grid__cell.u-higher', ()->
+          HeaderLogoNav '#myheader', headerOptions
           T.div "#story.outer", ->
             T.section "#main", ->
                 T.article "#post-#{slug}.article.article-type-post", itemscope: "itemscope", itemprop: "blogPost", ->
                   T.div ".article-inner.pb2", ->
                     T.header ".article-header", ->
                       T.h1 ".article-title", itemprop: "name", "#{story.title}"
-                      T.crel "Bloviation", ".article-entry.contents", final
+                      T.crel "Bloviation", ".article-entry.contents", dangerouslySetInnerHTML: __html: final
                     T.footer ".article-footer.hide", ->
                       T.a ".article-share-link", "data-url": longHref, "data-id": "cik30i1ai005w88ohxnylw27q", "Share"
                       T.ul ".article-tag-list", ->
