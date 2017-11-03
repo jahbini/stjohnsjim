@@ -1,14 +1,12 @@
-React = require 'react'
-T = require "teact"
+###
+###
 
-module.exports = T.bless class HeaderLogoNav extends React.Component
-  constructor: (props)->
-    super()
-    @props= props
-    @
+T = require "halvalla"
+
+module.exports = T.bless class FootFesh extends T.Component
     
-  render: ()=>
-    T.footer "#footer", ->
+  view: ()=>
+    T.tag 'foot', "#footer", ->
       T.div ".outer", ->
         T.div "#footer-info.inner", ->
           T.text " © 2016 James A. Hinds"

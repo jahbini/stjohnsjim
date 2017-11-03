@@ -3,16 +3,11 @@ styling: "skeleton"
 _options:
 
 ###
-React = require 'react'
-T = require "teact"
+T = require "halvalla"
 
-module.exports = T.bless class HeaderLogoNav extends React.Component
-  constructor: (props)->
-    super()
-    @props=props
-    @
+module.exports = T.bless class HeaderLogoNav extends T.Component
     
-  render: ()=>
+  view: (props)=>
     T.header "#header.flex.flex-column.justify-between", ->
       T.div "#banner.bogo", style: 'background-image':'url(assets/images/banner.jpg)'
       T.div ".flex.justify-around.", ->

@@ -2,10 +2,9 @@
 #global Pylon
 ###
 
-T=Pylon.Teact
+T=Pylon.Halvalla
+_=Pylon.Underscore
 
-Backbone = require 'backbone'
-_= require 'underscore'
 
 bind = (fn, me)->
   return ()->
@@ -28,4 +27,4 @@ module.exports = class StjohnsjimLook
     attrs.className = "widget-wrap"
     T.div attrs , ->
       T.h3 ".widget-title", title
-      T.div ".widget", contents
+      T.div ".widget", ()->contents

@@ -2,10 +2,10 @@
 styling: "Lookand Feel"
 
 ###
-React = require 'react'
-T = require "teact"
+T = require "halvalla"
 _ = require 'underscore'
 
+#console.log "T.AllOfIt is = ",T
 try
   HeaderLogoNav = require '/site-server-master/public/server/header-logo-nav.coffee'
   Footer = require '/site-server-master/public/server/footer.coffee'
@@ -15,20 +15,21 @@ catch ermsg
   console.log "Fail in header,footer require"  
     
   
-module.exports = T.bless class BodyFormatter extends React.Component
-  constructor: (props)->
-    super()
-    @props=props
-    @
+module.exports = T.bless class BodyFormatter extends T.Component
+  constructor:()->
+    console.log "CONSTRUCTING BODYFORMATTER"
+    return
     
-  render: ()=>
-    final = @props.page.final
-    story = @.props.story
+  view: (props)=>
+    console.log "IN RENDER",arguments
+    console.log "IN RENDER",@
+    final = props.page.final
+    story = props.story
 
     options = story.attributes
     longHref = story.pathToMe()
     
-    headerOptions = _.pick @props, ['navLinks','story','page']
+    headerOptions = _.pick props, ['navLinks','story','page']
     
     console.log "Story Headlines",story.headlines
     headline = "select a headline from"+JSON.stringify story.headlines
@@ -44,13 +45,13 @@ module.exports = T.bless class BodyFormatter extends React.Component
                   T.div ".article-inner.pb2", ->
                     T.header ".article-header", ->
                       T.h1 ".article-title", itemprop: "name", "#{story.title}"
-                      T.crel "Bloviation", ".article-entry.contents", dangerouslySetInnerHTML: __html: final
+                      T.tag "Bloviation", ".article-entry.contents", dangerouslySetInnerHTML: __html: final
                     T.footer ".article-footer.hide", ->
                       T.a ".article-share-link", "data-url": longHref, "data-id": "cik30i1ai005w88ohxnylw27q", "Share"
                       T.ul ".article-tag-list", ->
                         T.li ".article-tag-list-item", ->
                           T.a ".article-tag-list-link", href: "/tags/story/", "bobo-bado story"
               T.aside "#sidebar"
-          Footer @props
+          Footer props
     console.log "format Stjohns jim story end. #{slug}"
     return result
