@@ -40,13 +40,13 @@ module.exports = T.bless class BodyFormatter extends T.Component
         T.div '.c-hero.o-grid__cell.u-higher', ()->
           HeaderLogoNav '#myheader', headerOptions
           T.div "#story.outer", ->
-            T.section "#main", ->
-                T.article "#post-#{slug}.article.article-type-post", itemscope: "itemscope", itemprop: "blogPost", ->
+            T.div "#main", ->
+                T.div "#post-#{slug}.article.article-type-post", itemscope: "itemscope", itemprop: "blogPost", ->
                   T.div ".article-inner.pb2", ->
-                    T.header ".article-header", ->
+                    T.div ".article-header", ->
                       T.h1 ".article-title", itemprop: "name", "#{story.title}"
-                      T.tag "Bloviation", ".article-entry.contents", dangerouslySetInnerHTML: __html: final
-                    T.footer ".article-footer.hide", ->
+                      T.div "#bloviation.article-entry.contents", dangerouslySetInnerHTML: __html: final
+                    T.div ".article-footer.hide", ->
                       T.a ".article-share-link", "data-url": longHref, "data-id": "cik30i1ai005w88ohxnylw27q", "Share"
                       T.ul ".article-tag-list", ->
                         T.li ".article-tag-list-item", ->

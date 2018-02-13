@@ -8,7 +8,7 @@ T = require "halvalla"
 module.exports = T.bless class HeaderLogoNav extends T.Component
     
   view: (props)=>
-    T.header "#header.flex.flex-column.justify-between", ->
+    T.div "#header.flex.flex-column.justify-between", ->
       T.div "#banner.bogo", style: 'background-image':'url(assets/images/banner.jpg)'
       T.div ".flex.justify-around.", ->
         T.a ".sm-hide.xs-hide.pt4.pl2.col-3.self-bottom", href:"/",->
@@ -31,7 +31,7 @@ module.exports = T.bless class HeaderLogoNav extends T.Component
             src: "http://www.gravatar.com/avatar/c105eda1978979dfb13059b8878ef95d?s=90"
       T.div ".flex.align-bottom",->
         T.div "#header-inner.mr-auto.px2.pb2", ->
-          T.nav "#main-nav", ->
+          T.div "#main-nav", ->
             T.a "#main-nav-toggle.nav-icon"
             T.a ".main-nav-link", href: "/", " "
         T.div "#sidecar.ml-auto.pr2.pb2",()->
