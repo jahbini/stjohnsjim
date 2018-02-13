@@ -21,8 +21,6 @@ module.exports = T.bless class BodyFormatter extends T.Component
     return
     
   view: (props)=>
-    console.log "IN RENDER",arguments
-    console.log "IN RENDER",@
     final = props.page.final
     story = props.story
 
