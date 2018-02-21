@@ -3,196 +3,53 @@ class jim_reads_tarot extends stjohnsjimtemplate
   # 
   # section html
   # 
-  html: =>
-    T.doctype 'html'
-    T.html =>
-      T.head =>
-        T.base href: "/"
-        T.meta name: "author", content: "James A. Hinds: St. John's Jim -- King of Cascadia"
-        T.meta "http-equiv": "Content-Type", content: "text/html", charset: "UTF-8"
-        T.meta name: "viewport", content: "width=device-width, initial-scale=1"
-        T.title => T.raw "Dictates of the King of Cascadia and Stories from the 'Puter of St. John's Jim"
-        T.meta name: "description", content: "Stories from the 'Puter of St. John's Jim"
-        T.meta name: "keywords", content: "Pier Park, Cathedral Park, fiction, North Portland,St. John's, st johns"
-        T.meta property: "fb:admins", content: "187314157994069"
-        T.script """
-// This is called with the results from from FB.getLoginStatus().
-function statusChangeCallback(response) {
-//console.log('statusChangeCallback');
-//console.log(response);
-// The response object is returned with a status field that lets the
-// app know the current login status of the person.
-// Full docs on the response object can be found in the documentation
-// for FB.getLoginStatus().
-if (response.status === 'connected') {
-  // Logged into your app and Facebook.
-  testAPI();
-} else {
-  // The person is not logged into your app or we are unable to tell.
-  document.getElementById('fb-status').innerHTML = 'Please log ' +
-    'into this app.';
-}
-}
-
-// This function is called when someone finishes with the Login
-// Button.  See the onlogin handler attached to it in the sample
-// code below.
-function checkLoginState() {
-FB.getLoginStatus(function(response) {
-  statusChangeCallback(response);
-});
-}
-
-window.fbAsyncInit = function() {
-FB.init({
-appId      : '187314157994069',
-cookie     : true,  // enable cookies to allow the server to access 
-                    // the session
-xfbml      : true,  // parse social plugins on this page
-version    : 'v2.8' // use graph api version 2.8
-});
-
-// Now that we've initialized the JavaScript SDK, we call 
-// FB.getLoginStatus().  This function gets the state of the
-// person visiting this page and can return one of three states to
-// the callback you provide.  They can be:
-//
-// 1. Logged into your app ('connected')
-// 2. Logged into Facebook, but not your app ('not_authorized')
-// 3. Not logged into Facebook and can't tell if they are logged into
-//    your app or not.
-//
-// These three cases are handled in the callback function.
-
-FB.getLoginStatus(function(response) {
-statusChangeCallback(response);
-});
-
-};
-
-// Load the SDK asynchronously
-(function(d, s, id) {
-var js, fjs = d.getElementsByTagName(s)[0];
-if (d.getElementById(id)) return;
-js = d.createElement(s); js.id = id;
-js.src = \"//connect.facebook.net/en_US/sdk.js\";
-fjs.parentNode.insertBefore(js, fjs);
-}(document, 'script', 'facebook-jssdk'));
-
-// Here we run a very simple test of the Graph API after login is
-// successful.  See statusChangeCallback() for when this call is made.
-function testAPI() {
-//console.log('Welcome!  Fetching your information.... ');
-FB.api('/me', 'get', {'fields':'first_name,gender'}, function(response) {
-  //console.log('Successful login for: ', response);
-  $('.FBname').text(response.first_name);
-  document.getElementById('fb-status').innerHTML =
-    'Thanks for logging in, ' + response.first_name + '!';
-});
-}
-"""
-        T.script "document.styling = {\"palx\":\"#03c\",\"black\":\"#000\",\"white\":\"#fff\"}"
-        T.link rel: "apple-touch-icon", sizes: "57x57", href: "/assets/icons/apple-icon-57x57.png"
-        T.link rel: "apple-touch-icon", sizes: "60x60", href: "/assets/icons/apple-icon-60x60.png"
-        T.link rel: "apple-touch-icon", sizes: "72x72", href: "/assets/icons/apple-icon-72x72.png"
-        T.link rel: "apple-touch-icon", sizes: "76x76", href: "/assets/icons/apple-icon-76x76.png"
-        T.link rel: "apple-touch-icon", sizes: "114x114", href: "/assets/icons/apple-icon-114x114.png"
-        T.link rel: "apple-touch-icon", sizes: "120x120", href: "/assets/icons/apple-icon-120x120.png"
-        T.link rel: "apple-touch-icon", sizes: "144x144", href: "/assets/icons/apple-icon-144x144.png"
-        T.link rel: "apple-touch-icon", sizes: "152x152", href: "/assets/icons/apple-icon-152x152.png"
-        T.link rel: "apple-touch-icon", sizes: "180x180", href: "/assets/icons/apple-icon-180x180.png"
-        T.link rel: "icon", type: "image/png", sizes: "192x192", href: "/assets/icons/android-icon-192x192.png"
-        T.link rel: "icon", type: "image/png", sizes: "32x32", href: "/assets/icons/favicon-32x32.png"
-        T.link rel: "icon", type: "image/png", sizes: "96x96", href: "/assets/icons/favicon-96x96.png"
-        T.link rel: "icon", type: "image/png", sizes: "16x16", href: "/assets/icons/favicon-16x16.png"
-        T.link rel: "manifest", href: "/assets/manifest.json"
-        T.meta name: "msapplication-TileColor", content: "#ffffff"
-        T.meta name: "msapplication-TileImage", content: "/assets/icons/ms-icon-144x144.png"
-        T.meta name: "theme-color", content: "#ffffff"
-        T.link rel: "stylesheet", href: "assets/css/vendor.css", "-content--encoding": "gzip"
-        T.link rel: "stylesheet", href: "https://unpkg.com/blaze", "-content--encoding": "gzip"
-        T.link rel: "stylesheet", href: "assets/css/app.css", "-content--encoding": "gzip"
-        T.link rel: "shortcut icon", href: "assets/icons/favicon.ico", type: "image/x-icon"
-        T.link rel: "icon", href: "assets/icons/favicon.ico", type: "image/x-icon"
-        T.script src: "api/allstories"
-        T.script src: "api/mystories"
-        T.script src: "assets/js/vendor.js", "-content--type": "text/javascript", "-content--encoding": "gzip"
-        T.script src: "assets/js/app.js", "-content--type": "text/javascript", "-content--encoding": "gzip"
-        T.script "siteHandle = 'stjohnsjim'; topDomain = 'stjohnsjim.com'; require('initialize');"
-      T.body =>
-        @stjohnsjim_body()
   # 
   # section stjohnsjim_body
   # 
-  stjohnsjim_body: =>
-    T.div "#stjohnsjim-body", id: "stjohnsjim-body", =>
-      @container()
   # 
   # section container
   # 
-  container: =>
-    T.div "#container", id: "container", =>
-      T.div ".c-hero.o-grid__cell.u-higher", class: "c-hero o-grid__cell u-higher", =>
-        @header()
-        @story()
-        @footer()
   # 
   # section footer
   # 
-  footer: =>
-    T.div "#footer", id: "footer", =>
-      T.div ".outer", class: "outer", =>
-        @footer_info()
   # 
   # section footer_info
   # 
-  footer_info: =>
-    T.div "#footer-info.inner", id: "footer-info", class: "inner", =>
-      T.raw "© 2016 James A. Hinds"
-      T.br()
-      T.raw "Powered by"
-      T.a href: "https://github.com/jahbini/site-master", target: "_blank", => T.raw "Site Master"
   # 
   # section story
   # 
-  story: =>
-    T.div "#story.outer", id: "story", class: "outer", =>
-      @main()
-      @sidebar()
   # 
   # section sidebar
   # 
-  sidebar: =>
-    T.aside "#sidebar", id: "sidebar"
   # 
   # section main
   # 
   main: =>
-    T.div "#main", id: "main", =>
+    T.div "#main", =>
       @post_jim_reads_tarot()
   # 
   # section post_jim_reads_tarot
   # 
   post_jim_reads_tarot: =>
-    T.div "#post-jim-reads-tarot.article.article-type-post", id: "post-jim-reads-tarot", class: "article article-type-post", itemscope: "itemscope", itemprop: "blogPost", =>
-      T.div ".article-inner.pb2", class: "article-inner pb2", =>
-        T.div ".article-header", class: "article-header", =>
-          T.h1 ".article-title", class: "article-title", itemprop: "name", => T.raw "Jim Reads Tarot"
+    T.div "#post-jim-reads-tarot.article.article-type-post", itemscope: "itemscope", itemprop: "blogPost", =>
+      T.div ".article-inner.pb2", =>
+        T.div ".article-header", =>
+          T.h1 ".article-title", itemprop: "name", => T.raw "Jim Reads Tarot"
           @bloviation()
-        T.div ".article-footer.hide", class: "article-footer hide", =>
-          T.a ".article-share-link", class: "article-share-link", "data-url": "http://localhost:3030/stjohnsjim/story/undefined", "data-id": "cik30i1ai005w88ohxnylw27q", => T.raw "Share"
-          T.ul ".article-tag-list", class: "article-tag-list", =>
-            T.li ".article-tag-list-item", class: "article-tag-list-item", =>
-              T.a ".article-tag-list-link", class: "article-tag-list-link", href: "/tags/story/", => T.raw "bobo-bado story"
+        T.div ".article-footer.hide", =>
+          T.a ".article-share-link", "data-url": "http://localhost:3030/stjohnsjim/story/undefined", "data-id": "cik30i1ai005w88ohxnylw27q", => T.raw "Share"
+          T.ul ".article-tag-list", =>
+            T.li ".article-tag-list-item", =>
+              T.a ".article-tag-list-link", href: "/tags/story/", => T.raw "bobo-bado story"
   # 
   # section bloviation
   # 
   bloviation: =>
-    T.div "#bloviation.article-entry.contents", id: "bloviation", class: "article-entry contents", "dangerously-set-inner-h-t-m-l": "[object Object]", =>
+    T.div "#bloviation.article-entry.contents", "dangerously-set-inner-h-t-m-l": "[object Object]", =>
       T.p => T.raw "Free – Just keep reading. &nbsp;Chaos time.&nbsp; crap.&nbsp; The James John Cafe is closed this week. &nbsp; Throws every damn thing off.&nbsp; If I control the chaos, then it&rsquo;s no longer chaos.&nbsp; And believe me, I can&rsquo;t control the requirements of the JJC to take their well deserved holiday, nor the butterfly effect consequences."
       T.p =>
         T.raw "I find the Falafel Plate at"
-        T.a href: "http://maps.google.com/maps/place?cid=14214202442705621592&amp;q=maps+slim&#39;s+bar&amp;gl=us", => T.raw "Slim&rsquo;s"
+        T.a href: "http://maps.google.com/maps/place?cid=14214202442705621592&amp;amp;q=maps+slim&amp;#39;s+bar&amp;amp;gl=us", => T.raw "Slim&rsquo;s"
         T.raw "mysteriously satisfying, but the fountain of writer&rsquo;s mana here needs serious repair.&nbsp; Trickier than a"
         T.a href: "http://en.wikipedia.org/wiki/Stutz_Bearcat", => T.raw "Stutz-Bearcat"
         T.raw "carburator with dual USB ports, these fountains of writer&rsquo;s mojo are notoriously finiky. (This is writer&rsquo;s block remediation: write about the block. And let me tell you It may work &mdash; The Mind numbing TV commercials are set to go off every 7 minutes.&nbsp; 7 minutes of clarity at a time.&nbsp; It could work.)"
@@ -206,68 +63,34 @@ FB.api('/me', 'get', {'fields':'first_name,gender'}, function(response) {
         T.raw "On another note, I&rsquo;m starting to give"
         T.em => T.raw "Tarot Readings!"
         T.raw "&nbsp;&nbsp;Free.&nbsp; To you.&nbsp;"
-        T.span ".FBname", class: "FBname", => T.raw "Friend"
+        T.span ".FBname", => T.raw "Friend"
         T.raw ", I&rsquo;ll give you a free Tarot reading here in St. John&rsquo;s just for reading these e-mail stories.&nbsp; It&rsquo;s my way of saying thank-you for helping me improve my writing."
       T.p =>
         T.raw "The City Council reminds me that St. John&rsquo;s is an"
-        T.a href: "http://www.google.com/imgres?imgurl=http://3.bp.blogspot.com/_vpDVqYqRvrs/SxFetaK2QAI/AAAAAAAAAyE/zeBGmmBx_Gw/s1600/070813_cartoon_7_contest_p465.gif&amp;imgrefurl=http://quehacecjw.blogspot.com/2009/11/amigas-with-amoebas.html&amp;h=340&amp;w=465&amp;sz=97&amp;tbnid=GTcQfn6x_ZSLbM:&amp;tbnh=94&amp;tbnw=128&amp;prev=/images%3Fq%3Damoeba%2Bcartoon&amp;zoom=1&amp;q=amoeba+cartoon&amp;usg=__xYTw4ap3uR0cPpY1sXOWgH_mrl8=&amp;sa=X&amp;ei=59jRTNHzM4yosAP4vqnFCw&amp;ved=0CCMQ9QEwBg", => T.raw "amoeba"
+        T.a href: "http://www.google.com/imgres?imgurl=http://3.bp.blogspot.com/_vpDVqYqRvrs/SxFetaK2QAI/AAAAAAAAAyE/zeBGmmBx_Gw/s1600/070813_cartoon_7_contest_p465.gif&amp;amp;imgrefurl=http://quehacecjw.blogspot.com/2009/11/amigas-with-amoebas.html&amp;amp;h=340&amp;amp;w=465&amp;amp;sz=97&amp;amp;tbnid=GTcQfn6x_ZSLbM:&amp;amp;tbnh=94&amp;amp;tbnw=128&amp;amp;prev=/images%3Fq%3Damoeba%2Bcartoon&amp;amp;zoom=1&amp;amp;q=amoeba+cartoon&amp;amp;usg=__xYTw4ap3uR0cPpY1sXOWgH_mrl8=&amp;amp;sa=X&amp;amp;ei=59jRTNHzM4yosAP4vqnFCw&amp;amp;ved=0CCMQ9QEwBg", => T.raw "amoeba"
         T.raw "free city.&nbsp; Unlike the rest of Portland who have not taken a position on this important topic.&nbsp; The City Council will go to any length to find a significant benefit that St. John&rsquo;s offers for residents and businesses.&nbsp; There have been mumblings about the Food Carts over by the Crystal Fixin Hookah drive-through.&nbsp; Mumblings about amoebas with strong arm tactics.&nbsp; I think those mumblings are just a bunch of made up hooey, but I&rsquo;ll be following this story this month.&nbsp; Keep an eye out.&nbsp; Er. Open."
       T.p => T.raw "And if you want the Tarot reading, just reply to this e-mail and ask.&nbsp;"
   # 
   # section header
   # 
-  header: =>
-    T.div "#header.flex.flex-column.justify-between", id: "header", class: "flex flex-column justify-between", =>
-      @banner()
-      T.div ".flex.justify-around", class: "flex justify-around", =>
-        T.a ".sm-hide.xs-hide.pt4.pl2.col-3.self-bottom", class: "sm-hide xs-hide pt4 pl2 col-3 self-bottom", href: "/", =>
-          T.img ".circle.right", class: "circle right", style: "-moz-transform:scaleX(-1);-o-transform:scaleX(-1);-webkit-transform:scaleX(-1);transform:scaleX(-1);filter:FlipH;-ms-filter:FlipH", src: "http://www.gravatar.com/avatar/c105eda1978979dfb13059b8878ef95d?s=90"
-        T.div ".col-6.white", class: "col-6 white", height: "250px", =>
-          T.h1 ".center", class: "center", => T.raw "King St. John's Jim"
-          T.h2 ".center", class: "center", => T.raw """
-Factisms from Cascadia's Protector
- --- Both a Saint AND a King.
-"""
-        T.a ".pt4.pr2.col-3", class: "pt4 pr2 col-3", href: "/", =>
-          T.img ".circle.left", class: "circle left", src: "http://www.gravatar.com/avatar/c105eda1978979dfb13059b8878ef95d?s=90"
-      T.div ".flex.align-bottom", class: "flex align-bottom", =>
-        @header_inner()
-        @sidecar()
   # 
   # section sidecar
   # 
-  sidecar: =>
-    T.div "#sidecar.ml-auto.pr2.pb2", id: "sidecar", class: "ml-auto pr2 pb2", =>
-      T.div ".fb-login-button.bg-gray", class: "fb-login-button bg-gray", width: "180", "data-width": "33rem", "data-max-rows": "1", "data-size": "large", "data-button-type": "login_with", "data-show-faces": "true", "data-auto-logout-link": "true", "data-use-continue-as": "true"
-      @fb_status()
   # 
   # section fb_status
   # 
-  fb_status: =>
-    T.h5 "#fb-status.white", id: "fb-status", class: "white"
   # 
   # section header_inner
   # 
-  header_inner: =>
-    T.div "#header-inner.mr-auto.px2.pb2", id: "header-inner", class: "mr-auto px2 pb2", =>
-      @main_nav()
   # 
   # section main_nav
   # 
-  main_nav: =>
-    T.div "#main-nav", id: "main-nav", =>
-      @main_nav_toggle()
-      T.a ".main-nav-link", class: "main-nav-link", href: "/", => T.raw ""
   # 
   # section main_nav_toggle
   # 
-  main_nav_toggle: =>
-    T.a "#main-nav-toggle.nav-icon", id: "main-nav-toggle", class: "nav-icon"
   # 
   # section banner
   # 
-  banner: =>
-    T.div "#banner.bogo", id: "banner", class: "bogo", style: "background-image:url(assets/images/banner.jpg)"
   allMeta = [[["name","author"],["content","James A. Hinds: St. John's Jim -- King of Cascadia"]],[["http-equiv","Content-Type"],["content","text/html"],["charset","UTF-8"]],[["name","viewport"],["content","width=device-width, initial-scale=1"]],[["name","description"],["content","Stories from the 'Puter of St. John's Jim"]],[["name","keywords"],["content","Pier Park, Cathedral Park, fiction, North Portland,St. John's, st johns"]],[["property","fb:admins"],["content","187314157994069"]],[["name","msapplication-TileColor"],["content","#ffffff"]],[["name","msapplication-TileImage"],["content","/assets/icons/ms-icon-144x144.png"]],[["name","theme-color"],["content","#ffffff"]]]
   htmlTitle = "Dictates of the King of Cascadia and Stories from the 'Puter of St. John's Jim"
 page = new jim_reads_tarot

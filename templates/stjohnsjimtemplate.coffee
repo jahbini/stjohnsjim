@@ -111,7 +111,6 @@ FB.api('/me', 'get', {'fields':'first_name,gender'}, function(response) {
         T.meta name: "msapplication-TileImage", content: "/assets/icons/ms-icon-144x144.png"
         T.meta name: "theme-color", content: "#ffffff"
         T.link rel: "stylesheet", href: "assets/css/vendor.css", "-content--encoding": "gzip"
-        T.link rel: "stylesheet", href: "https://unpkg.com/blaze", "-content--encoding": "gzip"
         T.link rel: "stylesheet", href: "assets/css/app.css", "-content--encoding": "gzip"
         T.link rel: "shortcut icon", href: "assets/icons/favicon.ico", type: "image/x-icon"
         T.link rel: "icon", href: "assets/icons/favicon.ico", type: "image/x-icon"
@@ -126,14 +125,14 @@ FB.api('/me', 'get', {'fields':'first_name,gender'}, function(response) {
   # section stjohnsjim_body
   # 
   stjohnsjim_body: =>
-    T.div "#stjohnsjim-body", id: "stjohnsjim-body", =>
+    T.div "#stjohnsjim-body", =>
       @container()
   # 
   # section container
   # 
   container: =>
-    T.div "#container", id: "container", =>
-      T.div ".c-hero.o-grid__cell.u-higher", class: "c-hero o-grid__cell u-higher", =>
+    T.div "#container", =>
+      T.div ".c-hero.o-grid__cell.u-higher", =>
         @header()
         @story()
         @footer()
@@ -141,14 +140,14 @@ FB.api('/me', 'get', {'fields':'first_name,gender'}, function(response) {
   # section footer
   # 
   footer: =>
-    T.div "#footer", id: "footer", =>
-      T.div ".outer", class: "outer", =>
+    T.div "#footer", =>
+      T.div ".outer", =>
         @footer_info()
   # 
   # section footer_info
   # 
   footer_info: =>
-    T.div "#footer-info.inner", id: "footer-info", class: "inner", =>
+    T.div "#footer-info.inner", =>
       T.raw "© 2016 James A. Hinds"
       T.br()
       T.raw "Powered by"
@@ -157,98 +156,80 @@ FB.api('/me', 'get', {'fields':'first_name,gender'}, function(response) {
   # section story
   # 
   story: =>
-    T.div "#story.outer", id: "story", class: "outer", =>
+    T.div "#story.outer", =>
       @main()
       @sidebar()
   # 
   # section sidebar
   # 
   sidebar: =>
-    T.aside "#sidebar", id: "sidebar"
+    T.aside "#sidebar"
   # 
   # section main
   # 
-  main: =>
-    T.div "#main", id: "main", =>
-      @post_ultimate_protection_of_the_geyser_shirt_of_bliss()
   # 
-  # section post_ultimate_protection_of_the_geyser_shirt_of_bliss
+  # section post_a_hurricane_is_brewin
   # 
-  post_ultimate_protection_of_the_geyser_shirt_of_bliss: =>
-    T.div "#post-ultimate-protection-of-the-geyser-shirt-of-bliss.article.article-type-post", id: "post-ultimate-protection-of-the-geyser-shirt-of-bliss", class: "article article-type-post", itemscope: "itemscope", itemprop: "blogPost", =>
-      T.div ".article-inner.pb2", class: "article-inner pb2", =>
-        T.div ".article-header", class: "article-header", =>
-          T.h1 ".article-title", class: "article-title", itemprop: "name", => T.raw "Ultimate Protection of the Geyser Shirt of Bliss"
-          @bloviation()
-        T.div ".article-footer.hide", class: "article-footer hide", =>
-          T.a ".article-share-link", class: "article-share-link", "data-url": "http://localhost:3030/stjohnsjim/story/undefined", "data-id": "cik30i1ai005w88ohxnylw27q", => T.raw "Share"
-          T.ul ".article-tag-list", class: "article-tag-list", =>
-            T.li ".article-tag-list-item", class: "article-tag-list-item", =>
-              T.a ".article-tag-list-link", class: "article-tag-list-link", href: "/tags/story/", => T.raw "bobo-bado story"
   # 
   # section bloviation
   # 
-  bloviation: =>
-    T.div "#bloviation.article-entry.contents", id: "bloviation", class: "article-entry contents", "dangerously-set-inner-h-t-m-l": "[object Object]", =>
-      T.p => T.raw "I have a shirt with a leaky pocket. I&rsquo;ve lost thirty something bucks in the last week as they kind of wiggle up and out of the shirt like pollen from a flower. They certainly fertilize someone&rsquo;s nest egg."
-      T.p => T.raw "I got blood red mad; at myself of course, but realized that I&rsquo;m not really very careful. Never have been. Pound foolish, Penny foolish, but willing to shoot for the moon. It will take a more than an act of congress to help me out of that fix."
-      T.p => T.raw "Still, as I think about it, I haven&rsquo;t been mugged recently. And then the truth hit me: I have not lost those dollars, rather, I have purchased &ldquo;thug protection insurance.&rdquo; A thief doesn&rsquo;t have to confront me at all, all he has to do is walk behind me and wait for the money geyser shirt to erupt."
-      T.p => T.raw "I figure a guy can make 20 bucks in a day of recycling beer cans, but can make 10 bucks in 15 minutes of following me. In fact, the big thugs will fight off the little thugs: it&rsquo;s nature&rsquo;s way. I end up with a parade of toughs behind me, and I&rsquo;m able to proceed along my path in quiet bliss."
-      T.p => T.raw "Of course I&rsquo;ll not stuff money in that shirt pocket again, but I&rsquo;ll be giving up my thug protection. I&rsquo;ll just start worrying again about protection and insurance. And that costs big time.&nbsp;"
+  # 
+  # section intruder_alert_
+  # 
   # 
   # section header
   # 
   header: =>
-    T.div "#header.flex.flex-column.justify-between", id: "header", class: "flex flex-column justify-between", =>
+    T.div "#header.flex.flex-column.justify-between", =>
       @banner()
-      T.div ".flex.justify-around", class: "flex justify-around", =>
-        T.a ".sm-hide.xs-hide.pt4.pl2.col-3.self-bottom", class: "sm-hide xs-hide pt4 pl2 col-3 self-bottom", href: "/", =>
-          T.img ".circle.right", class: "circle right", style: "-moz-transform:scaleX(-1);-o-transform:scaleX(-1);-webkit-transform:scaleX(-1);transform:scaleX(-1);filter:FlipH;-ms-filter:FlipH", src: "http://www.gravatar.com/avatar/c105eda1978979dfb13059b8878ef95d?s=90"
-        T.div ".col-6.white", class: "col-6 white", height: "250px", =>
-          T.h1 ".center", class: "center", => T.raw "King St. John's Jim"
-          T.h2 ".center", class: "center", => T.raw """
+      T.div ".flex.justify-around", =>
+        T.a ".sm-hide.xs-hide.pt4.pl2.col-3.self-bottom", href: "/", =>
+          T.img ".circle.right", style: "-moz-transform:scaleX(-1);-o-transform:scaleX(-1);-webkit-transform:scaleX(-1);transform:scaleX(-1);filter:FlipH;-ms-filter:FlipH", src: "http://www.gravatar.com/avatar/c105eda1978979dfb13059b8878ef95d?s=90"
+        T.div ".col-6.white", height: "250px", =>
+          T.h1 ".center", => T.raw "King St. John's Jim"
+          T.h2 ".center", => T.raw """
 Factisms from Cascadia's Protector
  --- Both a Saint AND a King.
 """
-        T.a ".pt4.pr2.col-3", class: "pt4 pr2 col-3", href: "/", =>
-          T.img ".circle.left", class: "circle left", src: "http://www.gravatar.com/avatar/c105eda1978979dfb13059b8878ef95d?s=90"
-      T.div ".flex.align-bottom", class: "flex align-bottom", =>
+        T.a ".pt4.pr2.col-3", href: "/", =>
+          T.img ".circle.left", src: "http://www.gravatar.com/avatar/c105eda1978979dfb13059b8878ef95d?s=90"
+      T.div ".flex.align-bottom", =>
         @header_inner()
         @sidecar()
   # 
   # section sidecar
   # 
   sidecar: =>
-    T.div "#sidecar.ml-auto.pr2.pb2", id: "sidecar", class: "ml-auto pr2 pb2", =>
-      T.div ".fb-login-button.bg-gray", class: "fb-login-button bg-gray", width: "180", "data-width": "33rem", "data-max-rows": "1", "data-size": "large", "data-button-type": "login_with", "data-show-faces": "true", "data-auto-logout-link": "true", "data-use-continue-as": "true"
+    T.div "#sidecar.ml-auto.pr2.pb2", =>
+      T.div ".fb-login-button.bg-gray", width: "180", "data-width": "33rem", "data-max-rows": "1", "data-size": "large", "data-button-type": "login_with", "data-show-faces": "true", "data-auto-logout-link": "true", "data-use-continue-as": "true"
       @fb_status()
   # 
   # section fb_status
   # 
   fb_status: =>
-    T.h5 "#fb-status.white", id: "fb-status", class: "white"
+    T.h5 "#fb-status.white"
   # 
   # section header_inner
   # 
   header_inner: =>
-    T.div "#header-inner.mr-auto.px2.pb2", id: "header-inner", class: "mr-auto px2 pb2", =>
+    T.div "#header-inner.mr-auto.px2.pb2", =>
       @main_nav()
   # 
   # section main_nav
   # 
   main_nav: =>
-    T.div "#main-nav", id: "main-nav", =>
+    T.div "#main-nav", =>
       @main_nav_toggle()
-      T.a ".main-nav-link", class: "main-nav-link", href: "/", => T.raw ""
+      T.a ".main-nav-link", href: "/"
   # 
   # section main_nav_toggle
   # 
   main_nav_toggle: =>
-    T.a "#main-nav-toggle.nav-icon", id: "main-nav-toggle", class: "nav-icon"
+    T.a "#main-nav-toggle.nav-icon"
   # 
   # section banner
   # 
   banner: =>
-    T.div "#banner.bogo", id: "banner", class: "bogo", style: "background-image:url(assets/images/banner.jpg)"
+    T.div "#banner.bogo", style: "background-image:url(assets/images/banner.jpg)"
   allMeta = [[["name","author"],["content","James A. Hinds: St. John's Jim -- King of Cascadia"]],[["http-equiv","Content-Type"],["content","text/html"],["charset","UTF-8"]],[["name","viewport"],["content","width=device-width, initial-scale=1"]],[["name","description"],["content","Stories from the 'Puter of St. John's Jim"]],[["name","keywords"],["content","Pier Park, Cathedral Park, fiction, North Portland,St. John's, st johns"]],[["property","fb:admins"],["content","187314157994069"]],[["name","msapplication-TileColor"],["content","#ffffff"]],[["name","msapplication-TileImage"],["content","/assets/icons/ms-icon-144x144.png"]],[["name","theme-color"],["content","#ffffff"]]]
   htmlTitle = "Dictates of the King of Cascadia and Stories from the 'Puter of St. John's Jim"
