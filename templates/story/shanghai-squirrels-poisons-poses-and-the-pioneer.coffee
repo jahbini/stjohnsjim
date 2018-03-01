@@ -1,5 +1,5 @@
-# 
-class shanghai_squirrels_poisons_poses_and_the_pioneer extends stjohnsjimtemplate
+# #-------- class start
+class  shanghai_squirrels_poisons_poses_and_the_pioneer extends stjohnsjimtemplate
   # 
   # section html
   # 
@@ -102,5 +102,34 @@ class shanghai_squirrels_poisons_poses_and_the_pioneer extends stjohnsjimtemplat
   # 
   allMeta = [[["name","author"],["content","James A. Hinds: St. John's Jim -- King of Cascadia"]],[["http-equiv","Content-Type"],["content","text/html"],["charset","UTF-8"]],[["name","viewport"],["content","width=device-width, initial-scale=1"]],[["name","description"],["content","Stories from the 'Puter of St. John's Jim"]],[["name","keywords"],["content","Pier Park, Cathedral Park, fiction, North Portland,St. John's, st johns"]],[["property","fb:admins"],["content","187314157994069"]],[["name","msapplication-TileColor"],["content","#ffffff"]],[["name","msapplication-TileImage"],["content","/assets/icons/ms-icon-144x144.png"]],[["name","theme-color"],["content","#ffffff"]]]
   htmlTitle = "Dictates of the King of Cascadia and Stories from the 'Puter of St. John's Jim"
+#-------- class end
 page = new shanghai_squirrels_poisons_poses_and_the_pioneer
-console.log T.render page.html
+rendered =  T.render page.html
+# ------- db start
+db = {} unless db
+db[id="59782449d3cfff7cc5f92647"] =
+  title: "Shanghai Squirrels: Poison's Poses and the Pioneer"
+  slug: "shanghai-squirrels-poisons-poses-and-the-pioneer"
+  category: "story"
+  site: "59781236d3cfff7cc5f92609"
+  accepted: true
+  index: false
+  sourcePath: "stjohnsjim/contents/story/shanghai-squirrels-poisons-poses-and-the-pioneer.md"
+  headlines: []
+  tags: []
+  snippets: "{}"
+  memberOf: [
+    "GUNAS"
+    "TAROT"
+  ]
+  created: "2011-07-04T12:35:12.000Z"
+  lastEdited: "2011-07-04T15:29:40.000Z"
+  published: "2011-07-04T15:29:40.000Z"
+  embargo: "2017-12-31T23:59:59.000Z"
+  captureDate: "2017-07-26T05:10:33.287Z"
+  TimeStamp: "1501045833287"
+  author: ""
+  debug: ""
+  id: "59782449d3cfff7cc5f92647"
+  name: "Shanghai Squirrels: Poison's Poses and the Pioneer"
+#

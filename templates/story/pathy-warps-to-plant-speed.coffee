@@ -1,5 +1,5 @@
-# 
-class pathy_warps_to_plant_speed extends stjohnsjimtemplate
+# #-------- class start
+class  pathy_warps_to_plant_speed extends stjohnsjimtemplate
   # 
   # section html
   # 
@@ -97,5 +97,35 @@ class pathy_warps_to_plant_speed extends stjohnsjimtemplate
   # 
   allMeta = [[["name","author"],["content","James A. Hinds: St. John's Jim -- King of Cascadia"]],[["http-equiv","Content-Type"],["content","text/html"],["charset","UTF-8"]],[["name","viewport"],["content","width=device-width, initial-scale=1"]],[["name","description"],["content","Stories from the 'Puter of St. John's Jim"]],[["name","keywords"],["content","Pier Park, Cathedral Park, fiction, North Portland,St. John's, st johns"]],[["property","fb:admins"],["content","187314157994069"]],[["name","msapplication-TileColor"],["content","#ffffff"]],[["name","msapplication-TileImage"],["content","/assets/icons/ms-icon-144x144.png"]],[["name","theme-color"],["content","#ffffff"]]]
   htmlTitle = "Dictates of the King of Cascadia and Stories from the 'Puter of St. John's Jim"
+#-------- class end
 page = new pathy_warps_to_plant_speed
-console.log T.render page.html
+rendered =  T.render page.html
+# ------- db start
+db = {} unless db
+db[id="59782449d3cfff7cc5f92633"] =
+  title: "Pathy Warps to Plant Speed"
+  slug: "pathy-warps-to-plant-speed"
+  category: "story"
+  site: "59781236d3cfff7cc5f92609"
+  accepted: true
+  index: false
+  sourcePath: "stjohnsjim/contents/story/pathy-warps-to-plant-speed.md"
+  headlines: []
+  tags: []
+  snippets: "{\"first name\":\"first name\"}"
+  memberOf: [
+    "TAO"
+    "GUNAS"
+    "TAROT"
+  ]
+  created: "2011-03-02T16:32:35.000Z"
+  lastEdited: "2011-03-02T17:02:11.000Z"
+  published: "2011-03-02T17:02:11.000Z"
+  embargo: "2017-12-31T23:59:59.000Z"
+  captureDate: "2017-07-26T05:10:33.160Z"
+  TimeStamp: "1501045833160"
+  author: ""
+  debug: ""
+  id: "59782449d3cfff7cc5f92633"
+  name: "Pathy Warps to Plant Speed"
+#

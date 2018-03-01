@@ -1,5 +1,5 @@
-# 
-class a_week_of_false_starts extends stjohnsjimtemplate
+# #-------- class start
+class  a_week_of_false_starts extends stjohnsjimtemplate
   # 
   # section html
   # 
@@ -115,5 +115,34 @@ class a_week_of_false_starts extends stjohnsjimtemplate
   # 
   allMeta = [[["name","author"],["content","James A. Hinds: St. John's Jim -- King of Cascadia"]],[["http-equiv","Content-Type"],["content","text/html"],["charset","UTF-8"]],[["name","viewport"],["content","width=device-width, initial-scale=1"]],[["name","description"],["content","Stories from the 'Puter of St. John's Jim"]],[["name","keywords"],["content","Pier Park, Cathedral Park, fiction, North Portland,St. John's, st johns"]],[["property","fb:admins"],["content","187314157994069"]],[["name","msapplication-TileColor"],["content","#ffffff"]],[["name","msapplication-TileImage"],["content","/assets/icons/ms-icon-144x144.png"]],[["name","theme-color"],["content","#ffffff"]]]
   htmlTitle = "Dictates of the King of Cascadia and Stories from the 'Puter of St. John's Jim"
+#-------- class end
 page = new a_week_of_false_starts
-console.log T.render page.html
+rendered =  T.render page.html
+# ------- db start
+db = {} unless db
+db[id="59782449d3cfff7cc5f9265e"] =
+  title: "A Week of False Starts"
+  slug: "a-week-of-false-starts"
+  category: "pier-park-3gunas"
+  site: "59781236d3cfff7cc5f92609"
+  accepted: true
+  index: false
+  sourcePath: "stjohnsjim/contents/pier-park/3gunas/a-week-of-false-starts.md"
+  headlines: []
+  tags: []
+  snippets: "{\"comment,soto\":\"comment,soto\",\"comment,voce\":\"comment,voce\",\"roar\":\"roar\"}"
+  memberOf: [
+    "GUNAS"
+    "TAROT"
+  ]
+  created: "2011-01-10T16:18:59.000Z"
+  lastEdited: "2011-11-09T09:36:23.000Z"
+  published: "2011-01-10T17:30:49.000Z"
+  embargo: "2017-12-31T23:59:59.000Z"
+  captureDate: "2017-07-26T05:10:33.000Z"
+  TimeStamp: "1501045833000"
+  author: ""
+  debug: "content"
+  id: "59782449d3cfff7cc5f9265e"
+  name: "A Week of False Starts"
+#

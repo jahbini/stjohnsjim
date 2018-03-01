@@ -1,5 +1,5 @@
-# 
-class rainy_september_sunday extends stjohnsjimtemplate
+# #-------- class start
+class  rainy_september_sunday extends stjohnsjimtemplate
   # 
   # section html
   # 
@@ -84,5 +84,34 @@ class rainy_september_sunday extends stjohnsjimtemplate
   # 
   allMeta = [[["name","author"],["content","James A. Hinds: St. John's Jim -- King of Cascadia"]],[["http-equiv","Content-Type"],["content","text/html"],["charset","UTF-8"]],[["name","viewport"],["content","width=device-width, initial-scale=1"]],[["name","description"],["content","Stories from the 'Puter of St. John's Jim"]],[["name","keywords"],["content","Pier Park, Cathedral Park, fiction, North Portland,St. John's, st johns"]],[["property","fb:admins"],["content","187314157994069"]],[["name","msapplication-TileColor"],["content","#ffffff"]],[["name","msapplication-TileImage"],["content","/assets/icons/ms-icon-144x144.png"]],[["name","theme-color"],["content","#ffffff"]]]
   htmlTitle = "Dictates of the King of Cascadia and Stories from the 'Puter of St. John's Jim"
+#-------- class end
 page = new rainy_september_sunday
-console.log T.render page.html
+rendered =  T.render page.html
+# ------- db start
+db = {} unless db
+db[id="59782449d3cfff7cc5f92656"] =
+  title: "Rainy September Sunday"
+  slug: "rainy-september-sunday"
+  category: "story"
+  site: "59781236d3cfff7cc5f92609"
+  accepted: true
+  index: false
+  sourcePath: "stjohnsjim/contents/story/rainy-september-sunday.md"
+  headlines: []
+  tags: []
+  snippets: "{}"
+  memberOf: [
+    "GUNAS"
+    "TAROT"
+  ]
+  created: "2010-09-26T13:55:40.000Z"
+  lastEdited: "2010-10-24T10:47:53.000Z"
+  published: "2010-10-24T10:47:53.000Z"
+  embargo: "2017-12-31T23:59:59.000Z"
+  captureDate: "2017-07-26T05:10:33.287Z"
+  TimeStamp: "1501045833287"
+  author: ""
+  debug: ""
+  id: "59782449d3cfff7cc5f92656"
+  name: "Rainy September Sunday"
+#

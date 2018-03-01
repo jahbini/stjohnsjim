@@ -1,5 +1,5 @@
-# 
-class the_great_bank_robbery extends stjohnsjimtemplate
+# #-------- class start
+class  the_great_bank_robbery extends stjohnsjimtemplate
   # 
   # section html
   # 
@@ -97,5 +97,33 @@ of the stories: How the Daough sisters contrast with the Yucks over in Tommy, OR
   # 
   allMeta = [[["name","author"],["content","James A. Hinds: St. John's Jim -- King of Cascadia"]],[["http-equiv","Content-Type"],["content","text/html"],["charset","UTF-8"]],[["name","viewport"],["content","width=device-width, initial-scale=1"]],[["name","description"],["content","Stories from the 'Puter of St. John's Jim"]],[["name","keywords"],["content","Pier Park, Cathedral Park, fiction, North Portland,St. John's, st johns"]],[["property","fb:admins"],["content","187314157994069"]],[["name","msapplication-TileColor"],["content","#ffffff"]],[["name","msapplication-TileImage"],["content","/assets/icons/ms-icon-144x144.png"]],[["name","theme-color"],["content","#ffffff"]]]
   htmlTitle = "Dictates of the King of Cascadia and Stories from the 'Puter of St. John's Jim"
+#-------- class end
 page = new the_great_bank_robbery
-console.log T.render page.html
+rendered =  T.render page.html
+# ------- db start
+db = {} unless db
+db[id="5978244ad3cfff7cc5f926a1"] =
+  title: "The Great Bank Robbery"
+  slug: "the-great-bank-robbery"
+  category: "almost-history"
+  site: "59781236d3cfff7cc5f92609"
+  accepted: false
+  index: false
+  sourcePath: "stjohnsjim/contents/draft/the-great-bank-robbery.tmd"
+  headlines: [
+    "Stories of The Bizarre and Normal: Portland, Saipan and elsewhere"
+  ]
+  tags: []
+  snippets: "{}"
+  memberOf: []
+  created: "2016-04-08T00:00:00.000Z"
+  lastEdited: "2016-04-06T00:00:00.000Z"
+  published: "2016-04-06T00:00:00.000Z"
+  embargo: "2030-01-01T00:00:00.000Z"
+  captureDate: "2017-07-26T05:10:34.000Z"
+  TimeStamp: "1501045834000"
+  author: ""
+  debug: ""
+  id: "5978244ad3cfff7cc5f926a1"
+  name: "The Great Bank Robbery"
+#

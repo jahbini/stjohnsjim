@@ -1,5 +1,5 @@
-# 
-class islands_on_lombard_street extends stjohnsjimtemplate
+# #-------- class start
+class  islands_on_lombard_street extends stjohnsjimtemplate
   # 
   # section html
   # 
@@ -117,5 +117,34 @@ class islands_on_lombard_street extends stjohnsjimtemplate
   # 
   allMeta = [[["name","author"],["content","James A. Hinds: St. John's Jim -- King of Cascadia"]],[["http-equiv","Content-Type"],["content","text/html"],["charset","UTF-8"]],[["name","viewport"],["content","width=device-width, initial-scale=1"]],[["name","description"],["content","Stories from the 'Puter of St. John's Jim"]],[["name","keywords"],["content","Pier Park, Cathedral Park, fiction, North Portland,St. John's, st johns"]],[["property","fb:admins"],["content","187314157994069"]],[["name","msapplication-TileColor"],["content","#ffffff"]],[["name","msapplication-TileImage"],["content","/assets/icons/ms-icon-144x144.png"]],[["name","theme-color"],["content","#ffffff"]]]
   htmlTitle = "Dictates of the King of Cascadia and Stories from the 'Puter of St. John's Jim"
+#-------- class end
 page = new islands_on_lombard_street
-console.log T.render page.html
+rendered =  T.render page.html
+# ------- db start
+db = {} unless db
+db[id="59782449d3cfff7cc5f92683"] =
+  title: "Islands on Lombard Street."
+  slug: "islands-on-lombard-street"
+  category: "story"
+  site: "59781236d3cfff7cc5f92609"
+  accepted: true
+  index: false
+  sourcePath: "stjohnsjim/contents/story/islands-on-lombard-street.md"
+  headlines: []
+  tags: []
+  snippets: "{\"first name\":\"first name\"}"
+  memberOf: [
+    "GUNAS"
+    "TAROT"
+  ]
+  created: "2010-11-29T17:21:34.000Z"
+  lastEdited: "2010-11-29T18:57:02.000Z"
+  published: "2010-11-29T18:57:02.000Z"
+  embargo: "2017-12-31T23:59:59.000Z"
+  captureDate: "2017-07-26T05:10:33.485Z"
+  TimeStamp: "1501045833485"
+  author: ""
+  debug: ""
+  id: "59782449d3cfff7cc5f92683"
+  name: "Islands on Lombard Street."
+#

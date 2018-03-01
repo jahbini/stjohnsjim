@@ -1,5 +1,5 @@
-# 
-class st_johns_jim_and_the_st_johns_lighthouse extends stjohnsjimtemplate
+# #-------- class start
+class  st_johns_jim_and_the_st_johns_lighthouse extends stjohnsjimtemplate
   # 
   # section html
   # 
@@ -84,5 +84,34 @@ class st_johns_jim_and_the_st_johns_lighthouse extends stjohnsjimtemplate
   # 
   allMeta = [[["name","author"],["content","James A. Hinds: St. John's Jim -- King of Cascadia"]],[["http-equiv","Content-Type"],["content","text/html"],["charset","UTF-8"]],[["name","viewport"],["content","width=device-width, initial-scale=1"]],[["name","description"],["content","Stories from the 'Puter of St. John's Jim"]],[["name","keywords"],["content","Pier Park, Cathedral Park, fiction, North Portland,St. John's, st johns"]],[["property","fb:admins"],["content","187314157994069"]],[["name","msapplication-TileColor"],["content","#ffffff"]],[["name","msapplication-TileImage"],["content","/assets/icons/ms-icon-144x144.png"]],[["name","theme-color"],["content","#ffffff"]]]
   htmlTitle = "Dictates of the King of Cascadia and Stories from the 'Puter of St. John's Jim"
+#-------- class end
 page = new st_johns_jim_and_the_st_johns_lighthouse
-console.log T.render page.html
+rendered =  T.render page.html
+# ------- db start
+db = {} unless db
+db[id="59782449d3cfff7cc5f9263e"] =
+  title: "St. John's Jim and the St. John's Lighthouse"
+  slug: "st-johns-jim-and-the-st-johns-lighthouse"
+  category: "story"
+  site: "59781236d3cfff7cc5f92609"
+  accepted: true
+  index: false
+  sourcePath: "stjohnsjim/contents/story/st-johns-jim-and-the-st-johns-lighthouse.md"
+  headlines: []
+  tags: []
+  snippets: "{}"
+  memberOf: [
+    "TAROT"
+    "PDX"
+  ]
+  created: "2010-10-07T16:05:13.000Z"
+  lastEdited: "2010-10-07T16:08:50.000Z"
+  published: "2010-10-07T16:08:50.000Z"
+  embargo: "2017-12-31T23:59:59.000Z"
+  captureDate: "2017-07-26T05:10:33.164Z"
+  TimeStamp: "1501045833164"
+  author: ""
+  debug: ""
+  id: "59782449d3cfff7cc5f9263e"
+  name: "St. John's Jim and the St. John's Lighthouse"
+#

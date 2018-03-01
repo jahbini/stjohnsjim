@@ -1,5 +1,5 @@
-# 
-class roger_dojers_obituary extends stjohnsjimtemplate
+# #-------- class start
+class  roger_dojers_obituary extends stjohnsjimtemplate
   # 
   # section html
   # 
@@ -94,5 +94,33 @@ class roger_dojers_obituary extends stjohnsjimtemplate
   # 
   allMeta = [[["name","author"],["content","James A. Hinds: St. John's Jim -- King of Cascadia"]],[["http-equiv","Content-Type"],["content","text/html"],["charset","UTF-8"]],[["name","viewport"],["content","width=device-width, initial-scale=1"]],[["name","description"],["content","Stories from the 'Puter of St. John's Jim"]],[["name","keywords"],["content","Pier Park, Cathedral Park, fiction, North Portland,St. John's, st johns"]],[["property","fb:admins"],["content","187314157994069"]],[["name","msapplication-TileColor"],["content","#ffffff"]],[["name","msapplication-TileImage"],["content","/assets/icons/ms-icon-144x144.png"]],[["name","theme-color"],["content","#ffffff"]]]
   htmlTitle = "Dictates of the King of Cascadia and Stories from the 'Puter of St. John's Jim"
+#-------- class end
 page = new roger_dojers_obituary
-console.log T.render page.html
+rendered =  T.render page.html
+# ------- db start
+db = {} unless db
+db[id="59782449d3cfff7cc5f92638"] =
+  title: "Roger Dojer's Obituary"
+  slug: "roger-dojers-obituary"
+  category: "story"
+  site: "59781236d3cfff7cc5f92609"
+  accepted: true
+  index: false
+  sourcePath: "stjohnsjim/contents/story/roger-dojers-obituary.md"
+  headlines: []
+  tags: []
+  snippets: "{\"first name\":\"first name\"}"
+  memberOf: [
+    "GUNAS"
+  ]
+  created: "2011-04-13T17:29:02.000Z"
+  lastEdited: "2011-08-24T13:22:26.000Z"
+  published: "2011-04-13T18:24:09.000Z"
+  embargo: "2017-12-31T23:59:59.000Z"
+  captureDate: "2017-07-26T05:10:33.161Z"
+  TimeStamp: "1501045833161"
+  author: ""
+  debug: ""
+  id: "59782449d3cfff7cc5f92638"
+  name: "Roger Dojer's Obituary"
+#

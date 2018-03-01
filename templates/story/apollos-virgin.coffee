@@ -1,5 +1,5 @@
-# 
-class apollos_virgin extends stjohnsjimtemplate
+# #-------- class start
+class  apollos_virgin extends stjohnsjimtemplate
   # 
   # section html
   # 
@@ -91,5 +91,38 @@ class apollos_virgin extends stjohnsjimtemplate
   # 
   allMeta = [[["name","author"],["content","James A. Hinds: St. John's Jim -- King of Cascadia"]],[["http-equiv","Content-Type"],["content","text/html"],["charset","UTF-8"]],[["name","viewport"],["content","width=device-width, initial-scale=1"]],[["name","description"],["content","Stories from the 'Puter of St. John's Jim"]],[["name","keywords"],["content","Pier Park, Cathedral Park, fiction, North Portland,St. John's, st johns"]],[["property","fb:admins"],["content","187314157994069"]],[["name","msapplication-TileColor"],["content","#ffffff"]],[["name","msapplication-TileImage"],["content","/assets/icons/ms-icon-144x144.png"]],[["name","theme-color"],["content","#ffffff"]]]
   htmlTitle = "Dictates of the King of Cascadia and Stories from the 'Puter of St. John's Jim"
+#-------- class end
 page = new apollos_virgin
-console.log T.render page.html
+rendered =  T.render page.html
+# ------- db start
+db = {} unless db
+db[id="59782449d3cfff7cc5f92649"] =
+  title: "Apollo's Virgin"
+  slug: "apollos-virgin"
+  category: "story"
+  site: "59781236d3cfff7cc5f92609"
+  accepted: true
+  index: false
+  sourcePath: "stjohnsjim/contents/story/apollos-virgin.md"
+  headlines: [
+    "Will you answer Apollo's call?"
+    "one weird trick!"
+    "Are you Ready for Abundance?"
+    "It was true centuries ago!"
+  ]
+  tags: []
+  snippets: "{\"first name\":\"first name\",\"author\":\"author\"}"
+  memberOf: [
+    "GUNAS"
+  ]
+  created: "2011-06-13T18:11:04.000Z"
+  lastEdited: "2011-11-19T19:49:45.000Z"
+  published: "2011-06-13T18:41:08.000Z"
+  embargo: "2016-09-19T00:00:00.000Z"
+  captureDate: "2017-07-26T05:10:33.271Z"
+  TimeStamp: "1501045833271"
+  author: ""
+  debug: ""
+  id: "59782449d3cfff7cc5f92649"
+  name: "Apollo's Virgin"
+#

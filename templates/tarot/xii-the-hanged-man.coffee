@@ -1,5 +1,5 @@
-# 
-class xii_the_hanged_man extends stjohnsjimtemplate
+# #-------- class start
+class  xii_the_hanged_man extends stjohnsjimtemplate
   # 
   # section html
   # 
@@ -80,5 +80,33 @@ class xii_the_hanged_man extends stjohnsjimtemplate
   # 
   allMeta = [[["name","author"],["content","James A. Hinds: St. John's Jim -- King of Cascadia"]],[["http-equiv","Content-Type"],["content","text/html"],["charset","UTF-8"]],[["name","viewport"],["content","width=device-width, initial-scale=1"]],[["name","description"],["content","Stories from the 'Puter of St. John's Jim"]],[["name","keywords"],["content","Pier Park, Cathedral Park, fiction, North Portland,St. John's, st johns"]],[["property","fb:admins"],["content","187314157994069"]],[["name","msapplication-TileColor"],["content","#ffffff"]],[["name","msapplication-TileImage"],["content","/assets/icons/ms-icon-144x144.png"]],[["name","theme-color"],["content","#ffffff"]]]
   htmlTitle = "Dictates of the King of Cascadia and Stories from the 'Puter of St. John's Jim"
+#-------- class end
 page = new xii_the_hanged_man
-console.log T.render page.html
+rendered =  T.render page.html
+# ------- db start
+db = {} unless db
+db[id="5978244ad3cfff7cc5f926a6"] =
+  title: "XII - The Hanged Man"
+  slug: "xii-the-hanged-man"
+  category: "tarot"
+  site: "59781236d3cfff7cc5f92609"
+  accepted: true
+  index: false
+  sourcePath: "stjohnsjim/contents/tarot/xii-the-hanged-man.md"
+  headlines: []
+  tags: []
+  snippets: "{}"
+  memberOf: [
+    "TAROT"
+  ]
+  created: "2011-08-17T14:49:59.000Z"
+  lastEdited: "2011-08-18T13:43:58.000Z"
+  published: "2011-08-18T13:43:58.000Z"
+  embargo: "2017-12-31T23:59:59.000Z"
+  captureDate: "2017-07-26T05:10:34.169Z"
+  TimeStamp: "1501045834169"
+  author: ""
+  debug: ""
+  id: "5978244ad3cfff7cc5f926a6"
+  name: "XII - The Hanged Man"
+#

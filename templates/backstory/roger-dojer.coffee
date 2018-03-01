@@ -1,5 +1,5 @@
-# 
-class roger_dojer extends stjohnsjimtemplate
+# #-------- class start
+class  roger_dojer extends stjohnsjimtemplate
   # 
   # section html
   # 
@@ -74,5 +74,33 @@ class roger_dojer extends stjohnsjimtemplate
   # 
   allMeta = [[["name","author"],["content","James A. Hinds: St. John's Jim -- King of Cascadia"]],[["http-equiv","Content-Type"],["content","text/html"],["charset","UTF-8"]],[["name","viewport"],["content","width=device-width, initial-scale=1"]],[["name","description"],["content","Stories from the 'Puter of St. John's Jim"]],[["name","keywords"],["content","Pier Park, Cathedral Park, fiction, North Portland,St. John's, st johns"]],[["property","fb:admins"],["content","187314157994069"]],[["name","msapplication-TileColor"],["content","#ffffff"]],[["name","msapplication-TileImage"],["content","/assets/icons/ms-icon-144x144.png"]],[["name","theme-color"],["content","#ffffff"]]]
   htmlTitle = "Dictates of the King of Cascadia and Stories from the 'Puter of St. John's Jim"
+#-------- class end
 page = new roger_dojer
-console.log T.render page.html
+rendered =  T.render page.html
+# ------- db start
+db = {} unless db
+db[id="59782449d3cfff7cc5f9267d"] =
+  title: "Roger Dojer"
+  slug: "roger-dojer"
+  category: "backstory"
+  site: "59781236d3cfff7cc5f92609"
+  accepted: true
+  index: false
+  sourcePath: "stjohnsjim/contents/backstory/roger-dojer.md"
+  headlines: []
+  tags: []
+  snippets: "{\"rogerobt\":\"rogerobt\"}"
+  memberOf: [
+    "GUNAS"
+  ]
+  created: "2011-08-24T12:52:23.000Z"
+  lastEdited: "2011-09-03T15:37:17.000Z"
+  published: "2011-09-03T15:37:17.000Z"
+  embargo: "2017-12-31T23:59:59.000Z"
+  captureDate: "2017-07-26T05:10:33.000Z"
+  TimeStamp: "1501045833000"
+  author: ""
+  debug: ""
+  id: "59782449d3cfff7cc5f9267d"
+  name: "Roger Dojer"
+#

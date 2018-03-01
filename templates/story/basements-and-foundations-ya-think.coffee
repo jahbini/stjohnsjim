@@ -1,5 +1,5 @@
-# 
-class basements_and_foundations_ya_think extends stjohnsjimtemplate
+# #-------- class start
+class  basements_and_foundations_ya_think extends stjohnsjimtemplate
   # 
   # section html
   # 
@@ -116,5 +116,39 @@ class basements_and_foundations_ya_think extends stjohnsjimtemplate
   # 
   allMeta = [[["name","author"],["content","James A. Hinds: St. John's Jim -- King of Cascadia"]],[["http-equiv","Content-Type"],["content","text/html"],["charset","UTF-8"]],[["name","viewport"],["content","width=device-width, initial-scale=1"]],[["name","description"],["content","Stories from the 'Puter of St. John's Jim"]],[["name","keywords"],["content","Pier Park, Cathedral Park, fiction, North Portland,St. John's, st johns"]],[["property","fb:admins"],["content","187314157994069"]],[["name","msapplication-TileColor"],["content","#ffffff"]],[["name","msapplication-TileImage"],["content","/assets/icons/ms-icon-144x144.png"]],[["name","theme-color"],["content","#ffffff"]]]
   htmlTitle = "Dictates of the King of Cascadia and Stories from the 'Puter of St. John's Jim"
+#-------- class end
 page = new basements_and_foundations_ya_think
-console.log T.render page.html
+rendered =  T.render page.html
+# ------- db start
+db = {} unless db
+db[id="59782449d3cfff7cc5f92674"] =
+  title: "Basements and Foundations, Ya Think?"
+  slug: "basements-and-foundations-ya-think"
+  category: "story"
+  site: "59781236d3cfff7cc5f92609"
+  accepted: true
+  index: false
+  sourcePath: "stjohnsjim/contents/story/basements-and-foundations-ya-think.md"
+  headlines: [
+    "Tommy and Roger Prove Southwick is selfish"
+    "Wet Weather Plans Extended Stay in Portland Suburb"
+    "Will Baltimore Wood Slide into the River?"
+  ]
+  tags: []
+  snippets: "{\"first name\":\"first name\",\"sms,soto\":\"sms,soto\",\"sms,voce\":\"sms,voce\"}"
+  memberOf: [
+    "GUNAS"
+    "TAROT"
+    "PDX"
+  ]
+  created: "2010-12-16T17:16:09.000Z"
+  lastEdited: "2011-11-08T14:08:28.000Z"
+  published: "2010-12-16T18:01:51.000Z"
+  embargo: "2017-12-31T23:59:59.000Z"
+  captureDate: "2017-07-26T05:10:33.481Z"
+  TimeStamp: "1501045833481"
+  author: ""
+  debug: ""
+  id: "59782449d3cfff7cc5f92674"
+  name: "Basements and Foundations, Ya Think?"
+#

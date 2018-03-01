@@ -1,5 +1,5 @@
-# 
-class the_daough_sisters_sustainable_cat_lips extends stjohnsjimtemplate
+# #-------- class start
+class  the_daough_sisters_sustainable_cat_lips extends stjohnsjimtemplate
   # 
   # section html
   # 
@@ -87,5 +87,34 @@ class the_daough_sisters_sustainable_cat_lips extends stjohnsjimtemplate
   # 
   allMeta = [[["name","author"],["content","James A. Hinds: St. John's Jim -- King of Cascadia"]],[["http-equiv","Content-Type"],["content","text/html"],["charset","UTF-8"]],[["name","viewport"],["content","width=device-width, initial-scale=1"]],[["name","description"],["content","Stories from the 'Puter of St. John's Jim"]],[["name","keywords"],["content","Pier Park, Cathedral Park, fiction, North Portland,St. John's, st johns"]],[["property","fb:admins"],["content","187314157994069"]],[["name","msapplication-TileColor"],["content","#ffffff"]],[["name","msapplication-TileImage"],["content","/assets/icons/ms-icon-144x144.png"]],[["name","theme-color"],["content","#ffffff"]]]
   htmlTitle = "Dictates of the King of Cascadia and Stories from the 'Puter of St. John's Jim"
+#-------- class end
 page = new the_daough_sisters_sustainable_cat_lips
-console.log T.render page.html
+rendered =  T.render page.html
+# ------- db start
+db = {} unless db
+db[id="59782449d3cfff7cc5f9263b"] =
+  title: "The Daough Sister's Sustainable Cat Lips"
+  slug: "the-daough-sisters-sustainable-cat-lips"
+  category: "story"
+  site: "59781236d3cfff7cc5f92609"
+  accepted: true
+  index: false
+  sourcePath: "stjohnsjim/contents/story/the-daough-sisters-sustainable-cat-lips.md"
+  headlines: []
+  tags: []
+  snippets: "{\"first name\":\"first name\"}"
+  memberOf: [
+    "TAO"
+    "TAROT"
+  ]
+  created: "2011-02-04T16:24:15.000Z"
+  lastEdited: "2011-02-04T16:38:58.000Z"
+  published: "2011-02-04T16:38:58.000Z"
+  embargo: "2017-12-31T23:59:59.000Z"
+  captureDate: "2017-07-26T05:10:33.165Z"
+  TimeStamp: "1501045833165"
+  author: ""
+  debug: ""
+  id: "59782449d3cfff7cc5f9263b"
+  name: "The Daough Sister's Sustainable Cat Lips"
+#

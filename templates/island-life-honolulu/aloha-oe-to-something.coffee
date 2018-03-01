@@ -1,5 +1,5 @@
-# 
-class aloha_oe_to_something extends stjohnsjimtemplate
+# #-------- class start
+class  aloha_oe_to_something extends stjohnsjimtemplate
   # 
   # section html
   # 
@@ -85,5 +85,36 @@ class aloha_oe_to_something extends stjohnsjimtemplate
   # 
   allMeta = [[["name","author"],["content","James A. Hinds: St. John's Jim -- King of Cascadia"]],[["http-equiv","Content-Type"],["content","text/html"],["charset","UTF-8"]],[["name","viewport"],["content","width=device-width, initial-scale=1"]],[["name","description"],["content","Stories from the 'Puter of St. John's Jim"]],[["name","keywords"],["content","Pier Park, Cathedral Park, fiction, North Portland,St. John's, st johns"]],[["property","fb:admins"],["content","187314157994069"]],[["name","msapplication-TileColor"],["content","#ffffff"]],[["name","msapplication-TileImage"],["content","/assets/icons/ms-icon-144x144.png"]],[["name","theme-color"],["content","#ffffff"]]]
   htmlTitle = "Dictates of the King of Cascadia and Stories from the 'Puter of St. John's Jim"
+#-------- class end
 page = new aloha_oe_to_something
-console.log T.render page.html
+rendered =  T.render page.html
+# ------- db start
+db = {} unless db
+db[id="59782449d3cfff7cc5f92672"] =
+  title: "Aloha 'Oe to Something"
+  slug: "aloha-oe-to-something"
+  category: "island-life-honolulu"
+  site: "59781236d3cfff7cc5f92609"
+  accepted: true
+  index: false
+  sourcePath: "stjohnsjim/contents/island-life/aloha-oe-to-something.md"
+  headlines: [
+    "What Have We Lost? Really"
+    "Did We Ever Get It Right?"
+    "Memories Are Today's Myth"
+    "Honolulu Ghosts"
+  ]
+  tags: []
+  snippets: "{}"
+  memberOf: []
+  created: "2011-03-18T15:48:28.000Z"
+  lastEdited: "2011-03-18T16:01:59.000Z"
+  published: "2011-03-18T16:01:59.000Z"
+  embargo: "2011-03-18T16:01:59.000Z"
+  captureDate: "2017-07-26T05:10:33.000Z"
+  TimeStamp: "1501045833000"
+  author: ""
+  debug: ""
+  id: "59782449d3cfff7cc5f92672"
+  name: "Aloha 'Oe to Something"
+#

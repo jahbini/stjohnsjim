@@ -1,5 +1,5 @@
-# 
-class normalcy extends stjohnsjimtemplate
+# #-------- class start
+class  normalcy extends stjohnsjimtemplate
   # 
   # section html
   # 
@@ -96,5 +96,35 @@ class normalcy extends stjohnsjimtemplate
   # 
   allMeta = [[["name","author"],["content","James A. Hinds: St. John's Jim -- King of Cascadia"]],[["http-equiv","Content-Type"],["content","text/html"],["charset","UTF-8"]],[["name","viewport"],["content","width=device-width, initial-scale=1"]],[["name","description"],["content","Stories from the 'Puter of St. John's Jim"]],[["name","keywords"],["content","Pier Park, Cathedral Park, fiction, North Portland,St. John's, st johns"]],[["property","fb:admins"],["content","187314157994069"]],[["name","msapplication-TileColor"],["content","#ffffff"]],[["name","msapplication-TileImage"],["content","/assets/icons/ms-icon-144x144.png"]],[["name","theme-color"],["content","#ffffff"]]]
   htmlTitle = "Dictates of the King of Cascadia and Stories from the 'Puter of St. John's Jim"
+#-------- class end
 page = new normalcy
-console.log T.render page.html
+rendered =  T.render page.html
+# ------- db start
+db = {} unless db
+db[id="59782449d3cfff7cc5f92629"] =
+  title: "Normalcy"
+  slug: "normalcy"
+  category: "story"
+  site: "59781236d3cfff7cc5f92609"
+  accepted: true
+  index: false
+  sourcePath: "stjohnsjim/contents/story/normalcy.md"
+  headlines: []
+  tags: []
+  snippets: "{\"first name\":\"first name\",\"roger\":\"roger\"}"
+  memberOf: [
+    "GUNAS"
+    "TAROT"
+    "PDX"
+  ]
+  created: "2010-10-02T12:38:52.000Z"
+  lastEdited: "2011-08-24T13:25:29.000Z"
+  published: "2010-10-02T16:19:46.000Z"
+  embargo: "2017-12-31T23:59:59.000Z"
+  captureDate: "2017-07-26T05:10:33.159Z"
+  TimeStamp: "1501045833159"
+  author: ""
+  debug: ""
+  id: "59782449d3cfff7cc5f92629"
+  name: "Normalcy"
+#

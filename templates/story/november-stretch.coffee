@@ -1,5 +1,5 @@
-# 
-class november_stretch extends stjohnsjimtemplate
+# #-------- class start
+class  november_stretch extends stjohnsjimtemplate
   # 
   # section html
   # 
@@ -133,5 +133,35 @@ class november_stretch extends stjohnsjimtemplate
   # 
   allMeta = [[["name","author"],["content","James A. Hinds: St. John's Jim -- King of Cascadia"]],[["http-equiv","Content-Type"],["content","text/html"],["charset","UTF-8"]],[["name","viewport"],["content","width=device-width, initial-scale=1"]],[["name","description"],["content","Stories from the 'Puter of St. John's Jim"]],[["name","keywords"],["content","Pier Park, Cathedral Park, fiction, North Portland,St. John's, st johns"]],[["property","fb:admins"],["content","187314157994069"]],[["name","msapplication-TileColor"],["content","#ffffff"]],[["name","msapplication-TileImage"],["content","/assets/icons/ms-icon-144x144.png"]],[["name","theme-color"],["content","#ffffff"]]]
   htmlTitle = "Dictates of the King of Cascadia and Stories from the 'Puter of St. John's Jim"
+#-------- class end
 page = new november_stretch
-console.log T.render page.html
+rendered =  T.render page.html
+# ------- db start
+db = {} unless db
+db[id="59782449d3cfff7cc5f92684"] =
+  title: "November Stretch"
+  slug: "november-stretch"
+  category: "story"
+  site: "59781236d3cfff7cc5f92609"
+  accepted: true
+  index: false
+  sourcePath: "stjohnsjim/contents/story/november-stretch.md"
+  headlines: []
+  tags: []
+  snippets: "{\"first name\":\"first name\"}"
+  memberOf: [
+    "GUNAS"
+    "TAROT"
+    "PDX"
+  ]
+  created: "2010-11-20T17:55:37.000Z"
+  lastEdited: "2011-08-08T13:58:42.000Z"
+  published: "2010-11-20T18:57:43.000Z"
+  embargo: "2017-12-31T23:59:59.000Z"
+  captureDate: "2017-07-26T05:10:33.487Z"
+  TimeStamp: "1501045833487"
+  author: ""
+  debug: ""
+  id: "59782449d3cfff7cc5f92684"
+  name: "November Stretch"
+#

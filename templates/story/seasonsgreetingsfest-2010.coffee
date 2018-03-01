@@ -1,5 +1,5 @@
-# 
-class seasonsgreetingsfest_2010 extends stjohnsjimtemplate
+# #-------- class start
+class  seasonsgreetingsfest_2010 extends stjohnsjimtemplate
   # 
   # section html
   # 
@@ -99,5 +99,34 @@ class seasonsgreetingsfest_2010 extends stjohnsjimtemplate
   # 
   allMeta = [[["name","author"],["content","James A. Hinds: St. John's Jim -- King of Cascadia"]],[["http-equiv","Content-Type"],["content","text/html"],["charset","UTF-8"]],[["name","viewport"],["content","width=device-width, initial-scale=1"]],[["name","description"],["content","Stories from the 'Puter of St. John's Jim"]],[["name","keywords"],["content","Pier Park, Cathedral Park, fiction, North Portland,St. John's, st johns"]],[["property","fb:admins"],["content","187314157994069"]],[["name","msapplication-TileColor"],["content","#ffffff"]],[["name","msapplication-TileImage"],["content","/assets/icons/ms-icon-144x144.png"]],[["name","theme-color"],["content","#ffffff"]]]
   htmlTitle = "Dictates of the King of Cascadia and Stories from the 'Puter of St. John's Jim"
+#-------- class end
 page = new seasonsgreetingsfest_2010
-console.log T.render page.html
+rendered =  T.render page.html
+# ------- db start
+db = {} unless db
+db[id="59782449d3cfff7cc5f9266d"] =
+  title: "SeasonsGreetingsFest 2010"
+  slug: "seasonsgreetingsfest-2010"
+  category: "story"
+  site: "59781236d3cfff7cc5f92609"
+  accepted: true
+  index: false
+  sourcePath: "stjohnsjim/contents/story/seasonsgreetingsfest-2010.md"
+  headlines: []
+  tags: []
+  snippets: "{\"first name\":\"first name\"}"
+  memberOf: [
+    "GUNAS"
+    "TAROT"
+  ]
+  created: "2010-12-06T15:39:48.000Z"
+  lastEdited: "2010-12-06T16:56:56.000Z"
+  published: "2010-12-06T16:56:56.000Z"
+  embargo: "2017-12-31T23:59:59.000Z"
+  captureDate: "2017-07-26T05:10:33.382Z"
+  TimeStamp: "1501045833382"
+  author: ""
+  debug: ""
+  id: "59782449d3cfff7cc5f9266d"
+  name: "SeasonsGreetingsFest 2010"
+#

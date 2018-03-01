@@ -1,5 +1,5 @@
-# 
-class the_st_johns_excuse_my_reuse_warehouse extends stjohnsjimtemplate
+# #-------- class start
+class  the_st_johns_excuse_my_reuse_warehouse extends stjohnsjimtemplate
   # 
   # section html
   # 
@@ -110,5 +110,35 @@ class the_st_johns_excuse_my_reuse_warehouse extends stjohnsjimtemplate
   # 
   allMeta = [[["name","author"],["content","James A. Hinds: St. John's Jim -- King of Cascadia"]],[["http-equiv","Content-Type"],["content","text/html"],["charset","UTF-8"]],[["name","viewport"],["content","width=device-width, initial-scale=1"]],[["name","description"],["content","Stories from the 'Puter of St. John's Jim"]],[["name","keywords"],["content","Pier Park, Cathedral Park, fiction, North Portland,St. John's, st johns"]],[["property","fb:admins"],["content","187314157994069"]],[["name","msapplication-TileColor"],["content","#ffffff"]],[["name","msapplication-TileImage"],["content","/assets/icons/ms-icon-144x144.png"]],[["name","theme-color"],["content","#ffffff"]]]
   htmlTitle = "Dictates of the King of Cascadia and Stories from the 'Puter of St. John's Jim"
+#-------- class end
 page = new the_st_johns_excuse_my_reuse_warehouse
-console.log T.render page.html
+rendered =  T.render page.html
+# ------- db start
+db = {} unless db
+db[id="5978244ad3cfff7cc5f92691"] =
+  title: "The St. John's Excuse-My-Reuse Warehouse"
+  slug: "the-st-johns-excuse-my-reuse-warehouse"
+  category: "story"
+  site: "59781236d3cfff7cc5f92609"
+  accepted: true
+  index: false
+  sourcePath: "stjohnsjim/contents/story/the-st-johns-excuse-my-reuse-warehouse.md"
+  headlines: []
+  tags: []
+  snippets: "{\"first name\":\"first name\",\"rogerobt\":\"rogerobt\",\"comment,soto\":\"comment,soto\",\"comment,voce\":\"comment,voce\",\"author\":\"author\"}"
+  memberOf: [
+    "TAO"
+    "GUNAS"
+    "TAROT"
+  ]
+  created: "2011-04-12T17:57:12.000Z"
+  lastEdited: "2011-11-09T10:17:55.000Z"
+  published: "2011-04-12T18:26:36.000Z"
+  embargo: "2017-12-31T23:59:59.000Z"
+  captureDate: "2017-07-26T05:10:34.127Z"
+  TimeStamp: "1501045834127"
+  author: ""
+  debug: ""
+  id: "5978244ad3cfff7cc5f92691"
+  name: "The St. John's Excuse-My-Reuse Warehouse"
+#

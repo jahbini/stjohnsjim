@@ -1,5 +1,5 @@
-# 
-class just_keep_repeating extends stjohnsjimtemplate
+# #-------- class start
+class  just_keep_repeating extends stjohnsjimtemplate
   # 
   # section html
   # 
@@ -101,5 +101,33 @@ class just_keep_repeating extends stjohnsjimtemplate
   # 
   allMeta = [[["name","author"],["content","James A. Hinds: St. John's Jim -- King of Cascadia"]],[["http-equiv","Content-Type"],["content","text/html"],["charset","UTF-8"]],[["name","viewport"],["content","width=device-width, initial-scale=1"]],[["name","description"],["content","Stories from the 'Puter of St. John's Jim"]],[["name","keywords"],["content","Pier Park, Cathedral Park, fiction, North Portland,St. John's, st johns"]],[["property","fb:admins"],["content","187314157994069"]],[["name","msapplication-TileColor"],["content","#ffffff"]],[["name","msapplication-TileImage"],["content","/assets/icons/ms-icon-144x144.png"]],[["name","theme-color"],["content","#ffffff"]]]
   htmlTitle = "Dictates of the King of Cascadia and Stories from the 'Puter of St. John's Jim"
+#-------- class end
 page = new just_keep_repeating
-console.log T.render page.html
+rendered =  T.render page.html
+# ------- db start
+db = {} unless db
+db[id="59782449d3cfff7cc5f9265a"] =
+  title: "Just keep repeating..."
+  slug: "just-keep-repeating"
+  category: "story"
+  site: "59781236d3cfff7cc5f92609"
+  accepted: true
+  index: false
+  sourcePath: "stjohnsjim/contents/story/just-keep-repeating.md"
+  headlines: []
+  tags: []
+  snippets: "{}"
+  memberOf: [
+    "TAROT"
+  ]
+  created: "2010-10-23T16:40:50.000Z"
+  lastEdited: "2010-10-23T16:55:21.000Z"
+  published: "2010-10-23T16:55:21.000Z"
+  embargo: "2017-12-31T23:59:59.000Z"
+  captureDate: "2017-07-26T05:10:33.379Z"
+  TimeStamp: "1501045833379"
+  author: ""
+  debug: ""
+  id: "59782449d3cfff7cc5f9265a"
+  name: "Just keep repeating..."
+#

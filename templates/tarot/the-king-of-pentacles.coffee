@@ -1,5 +1,5 @@
-# 
-class the_king_of_pentacles extends stjohnsjimtemplate
+# #-------- class start
+class  the_king_of_pentacles extends stjohnsjimtemplate
   # 
   # section html
   # 
@@ -70,5 +70,33 @@ class the_king_of_pentacles extends stjohnsjimtemplate
   # 
   allMeta = [[["name","author"],["content","James A. Hinds: St. John's Jim -- King of Cascadia"]],[["http-equiv","Content-Type"],["content","text/html"],["charset","UTF-8"]],[["name","viewport"],["content","width=device-width, initial-scale=1"]],[["name","description"],["content","Stories from the 'Puter of St. John's Jim"]],[["name","keywords"],["content","Pier Park, Cathedral Park, fiction, North Portland,St. John's, st johns"]],[["property","fb:admins"],["content","187314157994069"]],[["name","msapplication-TileColor"],["content","#ffffff"]],[["name","msapplication-TileImage"],["content","/assets/icons/ms-icon-144x144.png"]],[["name","theme-color"],["content","#ffffff"]]]
   htmlTitle = "Dictates of the King of Cascadia and Stories from the 'Puter of St. John's Jim"
+#-------- class end
 page = new the_king_of_pentacles
-console.log T.render page.html
+rendered =  T.render page.html
+# ------- db start
+db = {} unless db
+db[id="5978244ad3cfff7cc5f926a9"] =
+  title: "The King of Pentacles"
+  slug: "the-king-of-pentacles"
+  category: "tarot"
+  site: "59781236d3cfff7cc5f92609"
+  accepted: true
+  index: false
+  sourcePath: "stjohnsjim/contents/tarot/the-king-of-pentacles.md"
+  headlines: []
+  tags: []
+  snippets: "{}"
+  memberOf: [
+    "TAROT"
+  ]
+  created: "2011-08-24T13:59:37.000Z"
+  lastEdited: "2011-11-13T12:08:23.000Z"
+  published: "2011-08-24T13:59:37.000Z"
+  embargo: "2017-12-31T23:59:59.000Z"
+  captureDate: "2017-07-26T05:10:34.187Z"
+  TimeStamp: "1501045834187"
+  author: ""
+  debug: ""
+  id: "5978244ad3cfff7cc5f926a9"
+  name: "The King of Pentacles"
+#

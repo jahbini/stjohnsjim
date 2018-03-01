@@ -1,5 +1,5 @@
-# 
-class national_exhale_week extends stjohnsjimtemplate
+# #-------- class start
+class  national_exhale_week extends stjohnsjimtemplate
   # 
   # section html
   # 
@@ -84,5 +84,33 @@ class national_exhale_week extends stjohnsjimtemplate
   # 
   allMeta = [[["name","author"],["content","James A. Hinds: St. John's Jim -- King of Cascadia"]],[["http-equiv","Content-Type"],["content","text/html"],["charset","UTF-8"]],[["name","viewport"],["content","width=device-width, initial-scale=1"]],[["name","description"],["content","Stories from the 'Puter of St. John's Jim"]],[["name","keywords"],["content","Pier Park, Cathedral Park, fiction, North Portland,St. John's, st johns"]],[["property","fb:admins"],["content","187314157994069"]],[["name","msapplication-TileColor"],["content","#ffffff"]],[["name","msapplication-TileImage"],["content","/assets/icons/ms-icon-144x144.png"]],[["name","theme-color"],["content","#ffffff"]]]
   htmlTitle = "Dictates of the King of Cascadia and Stories from the 'Puter of St. John's Jim"
+#-------- class end
 page = new national_exhale_week
-console.log T.render page.html
+rendered =  T.render page.html
+# ------- db start
+db = {} unless db
+db[id="59782449d3cfff7cc5f9262c"] =
+  title: "National Exhale Week"
+  slug: "national-exhale-week"
+  category: "story"
+  site: "59781236d3cfff7cc5f92609"
+  accepted: true
+  index: false
+  sourcePath: "stjohnsjim/contents/story/national-exhale-week.md"
+  headlines: []
+  tags: []
+  snippets: "{\"first name\":\"first name\"}"
+  memberOf: [
+    "TAROT"
+  ]
+  created: "2010-12-24T15:55:10.000Z"
+  lastEdited: "2010-12-24T16:17:49.000Z"
+  published: "2010-12-24T16:17:49.000Z"
+  embargo: "2017-12-31T23:59:59.000Z"
+  captureDate: "2017-07-26T05:10:33.158Z"
+  TimeStamp: "1501045833158"
+  author: ""
+  debug: ""
+  id: "59782449d3cfff7cc5f9262c"
+  name: "National Exhale Week"
+#

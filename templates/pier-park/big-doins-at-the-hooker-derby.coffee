@@ -1,5 +1,5 @@
-# 
-class big_doins_at_the_hooker_derby extends stjohnsjimtemplate
+# #-------- class start
+class  big_doins_at_the_hooker_derby extends stjohnsjimtemplate
   # 
   # section html
   # 
@@ -97,5 +97,37 @@ class big_doins_at_the_hooker_derby extends stjohnsjimtemplate
   # 
   allMeta = [[["name","author"],["content","James A. Hinds: St. John's Jim -- King of Cascadia"]],[["http-equiv","Content-Type"],["content","text/html"],["charset","UTF-8"]],[["name","viewport"],["content","width=device-width, initial-scale=1"]],[["name","description"],["content","Stories from the 'Puter of St. John's Jim"]],[["name","keywords"],["content","Pier Park, Cathedral Park, fiction, North Portland,St. John's, st johns"]],[["property","fb:admins"],["content","187314157994069"]],[["name","msapplication-TileColor"],["content","#ffffff"]],[["name","msapplication-TileImage"],["content","/assets/icons/ms-icon-144x144.png"]],[["name","theme-color"],["content","#ffffff"]]]
   htmlTitle = "Dictates of the King of Cascadia and Stories from the 'Puter of St. John's Jim"
+#-------- class end
 page = new big_doins_at_the_hooker_derby
-console.log T.render page.html
+rendered =  T.render page.html
+# ------- db start
+db = {} unless db
+db[id="59782449d3cfff7cc5f92661"] =
+  title: "Big Doin's at the Hooker Derby"
+  slug: "big-doins-at-the-hooker-derby"
+  category: "pier-park"
+  site: "59781236d3cfff7cc5f92609"
+  accepted: true
+  index: false
+  sourcePath: "stjohnsjim/contents/story/big-doins-at-the-hooker-derby.md"
+  headlines: [
+    "Pier Park at 3AM?"
+    "PNW Hookers Lament the Late Liz Taylor"
+  ]
+  tags: []
+  snippets: "{\"wheelwho\":\"wheelwho\"}"
+  memberOf: [
+    "GUNAS"
+    "TAROT"
+  ]
+  created: "2011-03-23T17:30:57.000Z"
+  lastEdited: "2016-04-15T00:00:00.000Z"
+  published: "2011-03-23T18:04:24.000Z"
+  embargo: "2017-12-31T23:59:59.000Z"
+  captureDate: "2017-07-26T05:10:33.000Z"
+  TimeStamp: "1501045833000"
+  author: ""
+  debug: ""
+  id: "59782449d3cfff7cc5f92661"
+  name: "Big Doin's at the Hooker Derby"
+#

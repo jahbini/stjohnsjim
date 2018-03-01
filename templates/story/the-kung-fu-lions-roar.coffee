@@ -1,5 +1,5 @@
-# 
-class the_kung_fu_lions_roar extends stjohnsjimtemplate
+# #-------- class start
+class  the_kung_fu_lions_roar extends stjohnsjimtemplate
   # 
   # section html
   # 
@@ -110,5 +110,33 @@ class the_kung_fu_lions_roar extends stjohnsjimtemplate
   # 
   allMeta = [[["name","author"],["content","James A. Hinds: St. John's Jim -- King of Cascadia"]],[["http-equiv","Content-Type"],["content","text/html"],["charset","UTF-8"]],[["name","viewport"],["content","width=device-width, initial-scale=1"]],[["name","description"],["content","Stories from the 'Puter of St. John's Jim"]],[["name","keywords"],["content","Pier Park, Cathedral Park, fiction, North Portland,St. John's, st johns"]],[["property","fb:admins"],["content","187314157994069"]],[["name","msapplication-TileColor"],["content","#ffffff"]],[["name","msapplication-TileImage"],["content","/assets/icons/ms-icon-144x144.png"]],[["name","theme-color"],["content","#ffffff"]]]
   htmlTitle = "Dictates of the King of Cascadia and Stories from the 'Puter of St. John's Jim"
+#-------- class end
 page = new the_kung_fu_lions_roar
-console.log T.render page.html
+rendered =  T.render page.html
+# ------- db start
+db = {} unless db
+db[id="5978244ad3cfff7cc5f92697"] =
+  title: "The Kung Fu Lion's Roar"
+  slug: "the-kung-fu-lions-roar"
+  category: "story"
+  site: "59781236d3cfff7cc5f92609"
+  accepted: true
+  index: false
+  sourcePath: "stjohnsjim/contents/story/the-kung-fu-lions-roar.md"
+  headlines: []
+  tags: []
+  snippets: "{}"
+  memberOf: [
+    "PDX"
+  ]
+  created: "2010-10-16T14:49:56.000Z"
+  lastEdited: "2011-11-08T14:51:21.000Z"
+  published: "2010-10-16T16:47:35.000Z"
+  embargo: "2017-12-31T23:59:59.000Z"
+  captureDate: "2017-07-26T05:10:34.141Z"
+  TimeStamp: "1501045834141"
+  author: ""
+  debug: "snippet"
+  id: "5978244ad3cfff7cc5f92697"
+  name: "The Kung Fu Lion's Roar"
+#

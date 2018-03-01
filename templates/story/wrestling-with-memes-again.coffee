@@ -1,5 +1,5 @@
-# 
-class wrestling_with_memes_again extends stjohnsjimtemplate
+# #-------- class start
+class  wrestling_with_memes_again extends stjohnsjimtemplate
   # 
   # section html
   # 
@@ -110,5 +110,34 @@ class wrestling_with_memes_again extends stjohnsjimtemplate
   # 
   allMeta = [[["name","author"],["content","James A. Hinds: St. John's Jim -- King of Cascadia"]],[["http-equiv","Content-Type"],["content","text/html"],["charset","UTF-8"]],[["name","viewport"],["content","width=device-width, initial-scale=1"]],[["name","description"],["content","Stories from the 'Puter of St. John's Jim"]],[["name","keywords"],["content","Pier Park, Cathedral Park, fiction, North Portland,St. John's, st johns"]],[["property","fb:admins"],["content","187314157994069"]],[["name","msapplication-TileColor"],["content","#ffffff"]],[["name","msapplication-TileImage"],["content","/assets/icons/ms-icon-144x144.png"]],[["name","theme-color"],["content","#ffffff"]]]
   htmlTitle = "Dictates of the King of Cascadia and Stories from the 'Puter of St. John's Jim"
+#-------- class end
 page = new wrestling_with_memes_again
-console.log T.render page.html
+rendered =  T.render page.html
+# ------- db start
+db = {} unless db
+db[id="5978244ad3cfff7cc5f926b1"] =
+  title: "Wrestling with Memes Again"
+  slug: "wrestling-with-memes-again"
+  category: "story"
+  site: "59781236d3cfff7cc5f92609"
+  accepted: true
+  index: false
+  sourcePath: "stjohnsjim/contents/story/wrestling-with-memes-again.md"
+  headlines: []
+  tags: []
+  snippets: "{\"first name\":\"first name\"}"
+  memberOf: [
+    "GUNAS"
+    "TAROT"
+  ]
+  created: "2010-12-07T18:05:15.000Z"
+  lastEdited: "2010-12-07T19:56:49.000Z"
+  published: "2010-12-07T19:56:49.000Z"
+  embargo: "2017-12-31T23:59:59.000Z"
+  captureDate: "2017-07-26T05:10:34.189Z"
+  TimeStamp: "1501045834189"
+  author: ""
+  debug: ""
+  id: "5978244ad3cfff7cc5f926b1"
+  name: "Wrestling with Memes Again"
+#

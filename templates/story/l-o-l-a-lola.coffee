@@ -1,5 +1,5 @@
-# 
-class l_o_l_a_lola extends stjohnsjimtemplate
+# #-------- class start
+class  l_o_l_a_lola extends stjohnsjimtemplate
   # 
   # section html
   # 
@@ -84,5 +84,33 @@ class l_o_l_a_lola extends stjohnsjimtemplate
   # 
   allMeta = [[["name","author"],["content","James A. Hinds: St. John's Jim -- King of Cascadia"]],[["http-equiv","Content-Type"],["content","text/html"],["charset","UTF-8"]],[["name","viewport"],["content","width=device-width, initial-scale=1"]],[["name","description"],["content","Stories from the 'Puter of St. John's Jim"]],[["name","keywords"],["content","Pier Park, Cathedral Park, fiction, North Portland,St. John's, st johns"]],[["property","fb:admins"],["content","187314157994069"]],[["name","msapplication-TileColor"],["content","#ffffff"]],[["name","msapplication-TileImage"],["content","/assets/icons/ms-icon-144x144.png"]],[["name","theme-color"],["content","#ffffff"]]]
   htmlTitle = "Dictates of the King of Cascadia and Stories from the 'Puter of St. John's Jim"
+#-------- class end
 page = new l_o_l_a_lola
-console.log T.render page.html
+rendered =  T.render page.html
+# ------- db start
+db = {} unless db
+db[id="59782449d3cfff7cc5f9263c"] =
+  title: "L O L A -- Lola!"
+  slug: "l-o-l-a-lola"
+  category: "story"
+  site: "59781236d3cfff7cc5f92609"
+  accepted: true
+  index: false
+  sourcePath: "stjohnsjim/contents/story/l-o-l-a-lola.md"
+  headlines: []
+  tags: []
+  snippets: "{\"first name\":\"first name\"}"
+  memberOf: [
+    "GUNAS"
+  ]
+  created: "2010-10-05T19:00:38.000Z"
+  lastEdited: "2010-10-11T14:02:08.000Z"
+  published: "2010-10-05T19:12:04.000Z"
+  embargo: "2017-12-31T23:59:59.000Z"
+  captureDate: "2017-07-26T05:10:33.000Z"
+  TimeStamp: "1501045833000"
+  author: ""
+  debug: ""
+  id: "59782449d3cfff7cc5f9263c"
+  name: "L O L A -- Lola!"
+#

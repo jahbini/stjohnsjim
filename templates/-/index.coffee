@@ -1,5 +1,5 @@
-# 
-class index extends stjohnsjimtemplate
+# #-------- class start
+class  index extends stjohnsjimtemplate
   # 
   # section html
   # 
@@ -111,5 +111,36 @@ our near-prosperous America.  The not quite third-world life that exists beneath
   # 
   allMeta = [[["name","author"],["content","James A. Hinds: St. John's Jim -- King of Cascadia"]],[["http-equiv","Content-Type"],["content","text/html"],["charset","UTF-8"]],[["name","viewport"],["content","width=device-width, initial-scale=1"]],[["name","description"],["content","Stories from the 'Puter of St. John's Jim"]],[["name","keywords"],["content","Pier Park, Cathedral Park, fiction, North Portland,St. John's, st johns"]],[["property","fb:admins"],["content","187314157994069"]],[["name","msapplication-TileColor"],["content","#ffffff"]],[["name","msapplication-TileImage"],["content","/assets/icons/ms-icon-144x144.png"]],[["name","theme-color"],["content","#ffffff"]]]
   htmlTitle = "Dictates of the King of Cascadia and Stories from the 'Puter of St. John's Jim"
+#-------- class end
 page = new index
-console.log T.render page.html
+rendered =  T.render page.html
+# ------- db start
+db = {} unless db
+db[id="59782449d3cfff7cc5f92676"] =
+  title: "Grand Visions from the 'Puter of St. John's Jim"
+  slug: "index"
+  category: "-"
+  site: "59781236d3cfff7cc5f92609"
+  accepted: true
+  index: true
+  sourcePath: "stjohnsjim/contents/index.md"
+  headlines: [
+    "Visions of Beauty Obscured"
+    "The Most Beautiful Bridge, But?!?!"
+    "Hookers Hook in the Great Northwest!"
+    "Tales from Pre-legalization!"
+  ]
+  tags: []
+  snippets: "{}"
+  memberOf: []
+  created: "2016-03-11T12:40:04.000Z"
+  lastEdited: "2016-03-11T14:20:28.000Z"
+  published: "2016-03-11T12:40:04.000Z"
+  embargo: "2016-03-11T12:40:04.000Z"
+  captureDate: "2017-07-26T05:10:33.484Z"
+  TimeStamp: "1501045833484"
+  author: ""
+  debug: ""
+  id: "59782449d3cfff7cc5f92676"
+  name: "Grand Visions from the 'Puter of St. John's Jim"
+#

@@ -1,5 +1,5 @@
-# 
-class st_john_and_the_diamonds extends stjohnsjimtemplate
+# #-------- class start
+class  st_john_and_the_diamonds extends stjohnsjimtemplate
   # 
   # section html
   # 
@@ -97,5 +97,33 @@ class st_john_and_the_diamonds extends stjohnsjimtemplate
   # 
   allMeta = [[["name","author"],["content","James A. Hinds: St. John's Jim -- King of Cascadia"]],[["http-equiv","Content-Type"],["content","text/html"],["charset","UTF-8"]],[["name","viewport"],["content","width=device-width, initial-scale=1"]],[["name","description"],["content","Stories from the 'Puter of St. John's Jim"]],[["name","keywords"],["content","Pier Park, Cathedral Park, fiction, North Portland,St. John's, st johns"]],[["property","fb:admins"],["content","187314157994069"]],[["name","msapplication-TileColor"],["content","#ffffff"]],[["name","msapplication-TileImage"],["content","/assets/icons/ms-icon-144x144.png"]],[["name","theme-color"],["content","#ffffff"]]]
   htmlTitle = "Dictates of the King of Cascadia and Stories from the 'Puter of St. John's Jim"
+#-------- class end
 page = new st_john_and_the_diamonds
-console.log T.render page.html
+rendered =  T.render page.html
+# ------- db start
+db = {} unless db
+db[id="59782449d3cfff7cc5f92654"] =
+  title: "St. John and the Diamonds"
+  slug: "st-john-and-the-diamonds"
+  category: "story"
+  site: "59781236d3cfff7cc5f92609"
+  accepted: true
+  index: false
+  sourcePath: "stjohnsjim/contents/story/st-john-and-the-diamonds.md"
+  headlines: []
+  tags: []
+  snippets: "{}"
+  memberOf: [
+    "PDX"
+  ]
+  created: "2010-12-31T11:49:28.000Z"
+  lastEdited: "2011-01-02T12:25:56.000Z"
+  published: "2011-01-02T12:25:56.000Z"
+  embargo: "2017-12-31T23:59:59.000Z"
+  captureDate: "2017-07-26T05:10:33.289Z"
+  TimeStamp: "1501045833289"
+  author: ""
+  debug: ""
+  id: "59782449d3cfff7cc5f92654"
+  name: "St. John and the Diamonds"
+#

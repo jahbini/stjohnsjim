@@ -1,5 +1,5 @@
-# 
-class the_ghost_of_gbs_walks_st_johns extends stjohnsjimtemplate
+# #-------- class start
+class  the_ghost_of_gbs_walks_st_johns extends stjohnsjimtemplate
   # 
   # section html
   # 
@@ -90,5 +90,31 @@ class the_ghost_of_gbs_walks_st_johns extends stjohnsjimtemplate
   # 
   allMeta = [[["name","author"],["content","James A. Hinds: St. John's Jim -- King of Cascadia"]],[["http-equiv","Content-Type"],["content","text/html"],["charset","UTF-8"]],[["name","viewport"],["content","width=device-width, initial-scale=1"]],[["name","description"],["content","Stories from the 'Puter of St. John's Jim"]],[["name","keywords"],["content","Pier Park, Cathedral Park, fiction, North Portland,St. John's, st johns"]],[["property","fb:admins"],["content","187314157994069"]],[["name","msapplication-TileColor"],["content","#ffffff"]],[["name","msapplication-TileImage"],["content","/assets/icons/ms-icon-144x144.png"]],[["name","theme-color"],["content","#ffffff"]]]
   htmlTitle = "Dictates of the King of Cascadia and Stories from the 'Puter of St. John's Jim"
+#-------- class end
 page = new the_ghost_of_gbs_walks_st_johns
-console.log T.render page.html
+rendered =  T.render page.html
+# ------- db start
+db = {} unless db
+db[id="5978244ad3cfff7cc5f9268f"] =
+  title: "The Ghost of GBS walks St. John's"
+  slug: "the-ghost-of-gbs-walks-st-johns"
+  category: "story"
+  site: "59781236d3cfff7cc5f92609"
+  accepted: true
+  index: false
+  sourcePath: "stjohnsjim/contents/story/the-ghost-of-gbs-walks-st-johns.md"
+  headlines: []
+  tags: []
+  snippets: "{}"
+  memberOf: []
+  created: "2011-10-17T11:35:40.000Z"
+  lastEdited: "2011-10-17T11:35:40.000Z"
+  published: "2011-10-17T11:35:40.000Z"
+  embargo: "2017-12-31T23:59:59.000Z"
+  captureDate: "2017-07-26T05:10:34.126Z"
+  TimeStamp: "1501045834126"
+  author: ""
+  debug: ""
+  id: "5978244ad3cfff7cc5f9268f"
+  name: "The Ghost of GBS walks St. John's"
+#

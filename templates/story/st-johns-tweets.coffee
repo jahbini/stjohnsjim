@@ -1,5 +1,5 @@
-# 
-class st_johns_tweets extends stjohnsjimtemplate
+# #-------- class start
+class  st_johns_tweets extends stjohnsjimtemplate
   # 
   # section html
   # 
@@ -98,5 +98,33 @@ class st_johns_tweets extends stjohnsjimtemplate
   # 
   allMeta = [[["name","author"],["content","James A. Hinds: St. John's Jim -- King of Cascadia"]],[["http-equiv","Content-Type"],["content","text/html"],["charset","UTF-8"]],[["name","viewport"],["content","width=device-width, initial-scale=1"]],[["name","description"],["content","Stories from the 'Puter of St. John's Jim"]],[["name","keywords"],["content","Pier Park, Cathedral Park, fiction, North Portland,St. John's, st johns"]],[["property","fb:admins"],["content","187314157994069"]],[["name","msapplication-TileColor"],["content","#ffffff"]],[["name","msapplication-TileImage"],["content","/assets/icons/ms-icon-144x144.png"]],[["name","theme-color"],["content","#ffffff"]]]
   htmlTitle = "Dictates of the King of Cascadia and Stories from the 'Puter of St. John's Jim"
+#-------- class end
 page = new st_johns_tweets
-console.log T.render page.html
+rendered =  T.render page.html
+# ------- db start
+db = {} unless db
+db[id="59782449d3cfff7cc5f92657"] =
+  title: "St Johns Tweets"
+  slug: "st-johns-tweets"
+  category: "story"
+  site: "59781236d3cfff7cc5f92609"
+  accepted: true
+  index: false
+  sourcePath: "stjohnsjim/contents/story/st-johns-tweets.md"
+  headlines: []
+  tags: []
+  snippets: "{}"
+  memberOf: [
+    "PDX"
+  ]
+  created: "2010-10-26T16:15:26.000Z"
+  lastEdited: "2010-10-27T23:55:34.000Z"
+  published: "2010-10-27T23:55:34.000Z"
+  embargo: "2017-12-31T23:59:59.000Z"
+  captureDate: "2017-07-26T05:10:33.289Z"
+  TimeStamp: "1501045833289"
+  author: ""
+  debug: ""
+  id: "59782449d3cfff7cc5f92657"
+  name: "St Johns Tweets"
+#

@@ -1,5 +1,5 @@
-# 
-class godda_love_an_old_dog extends stjohnsjimtemplate
+# #-------- class start
+class  godda_love_an_old_dog extends stjohnsjimtemplate
   # 
   # section html
   # 
@@ -99,5 +99,34 @@ class godda_love_an_old_dog extends stjohnsjimtemplate
   # 
   allMeta = [[["name","author"],["content","James A. Hinds: St. John's Jim -- King of Cascadia"]],[["http-equiv","Content-Type"],["content","text/html"],["charset","UTF-8"]],[["name","viewport"],["content","width=device-width, initial-scale=1"]],[["name","description"],["content","Stories from the 'Puter of St. John's Jim"]],[["name","keywords"],["content","Pier Park, Cathedral Park, fiction, North Portland,St. John's, st johns"]],[["property","fb:admins"],["content","187314157994069"]],[["name","msapplication-TileColor"],["content","#ffffff"]],[["name","msapplication-TileImage"],["content","/assets/icons/ms-icon-144x144.png"]],[["name","theme-color"],["content","#ffffff"]]]
   htmlTitle = "Dictates of the King of Cascadia and Stories from the 'Puter of St. John's Jim"
+#-------- class end
 page = new godda_love_an_old_dog
-console.log T.render page.html
+rendered =  T.render page.html
+# ------- db start
+db = {} unless db
+db[id="59782449d3cfff7cc5f9265c"] =
+  title: "Godda Love an Old Dog"
+  slug: "godda-love-an-old-dog"
+  category: "story"
+  site: "59781236d3cfff7cc5f92609"
+  accepted: true
+  index: false
+  sourcePath: "stjohnsjim/contents/story/godda-love-an-old-dog.md"
+  headlines: []
+  tags: []
+  snippets: "{\"first name\":\"first name\"}"
+  memberOf: [
+    "TAROT"
+    "PDX"
+  ]
+  created: "2010-10-21T13:09:50.000Z"
+  lastEdited: "2010-10-23T16:56:07.000Z"
+  published: "2010-10-23T16:56:07.000Z"
+  embargo: "2017-12-31T23:59:59.000Z"
+  captureDate: "2017-07-26T05:10:33.372Z"
+  TimeStamp: "1501045833372"
+  author: ""
+  debug: ""
+  id: "59782449d3cfff7cc5f9265c"
+  name: "Godda Love an Old Dog"
+#

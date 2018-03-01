@@ -1,5 +1,5 @@
-# 
-class the_great_harvest_moon_part_3_cleaning_up_the extends stjohnsjimtemplate
+# #-------- class start
+class  the_great_harvest_moon_part_3_cleaning_up_the extends stjohnsjimtemplate
   # 
   # section html
   # 
@@ -98,5 +98,35 @@ class the_great_harvest_moon_part_3_cleaning_up_the extends stjohnsjimtemplate
   # 
   allMeta = [[["name","author"],["content","James A. Hinds: St. John's Jim -- King of Cascadia"]],[["http-equiv","Content-Type"],["content","text/html"],["charset","UTF-8"]],[["name","viewport"],["content","width=device-width, initial-scale=1"]],[["name","description"],["content","Stories from the 'Puter of St. John's Jim"]],[["name","keywords"],["content","Pier Park, Cathedral Park, fiction, North Portland,St. John's, st johns"]],[["property","fb:admins"],["content","187314157994069"]],[["name","msapplication-TileColor"],["content","#ffffff"]],[["name","msapplication-TileImage"],["content","/assets/icons/ms-icon-144x144.png"]],[["name","theme-color"],["content","#ffffff"]]]
   htmlTitle = "Dictates of the King of Cascadia and Stories from the 'Puter of St. John's Jim"
+#-------- class end
 page = new the_great_harvest_moon_part_3_cleaning_up_the
-console.log T.render page.html
+rendered =  T.render page.html
+# ------- db start
+db = {} unless db
+db[id="5978244ad3cfff7cc5f9268e"] =
+  title: "The Great Harvest Moon - Part 3 -- cleaning up the"
+  slug: "the-great-harvest-moon-part-3-cleaning-up-the"
+  category: "story"
+  site: "59781236d3cfff7cc5f92609"
+  accepted: true
+  index: false
+  sourcePath: "stjohnsjim/contents/story/the-great-harvest-moon-part-3-cleaning-up-the.md"
+  headlines: []
+  tags: []
+  snippets: "{\"first name\":\"first name\"}"
+  memberOf: [
+    "GUNAS"
+    "TAROT"
+    "PDX"
+  ]
+  created: "2010-10-01T13:57:08.000Z"
+  lastEdited: "2010-11-21T11:17:38.000Z"
+  published: "2010-11-21T11:17:38.000Z"
+  embargo: "2017-12-31T23:59:59.000Z"
+  captureDate: "2017-07-26T05:10:34.126Z"
+  TimeStamp: "1501045834126"
+  author: ""
+  debug: ""
+  id: "5978244ad3cfff7cc5f9268e"
+  name: "The Great Harvest Moon - Part 3 -- cleaning up the"
+#

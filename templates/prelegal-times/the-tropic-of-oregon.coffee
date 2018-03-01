@@ -1,5 +1,5 @@
-# 
-class the_tropic_of_oregon extends stjohnsjimtemplate
+# #-------- class start
+class  the_tropic_of_oregon extends stjohnsjimtemplate
   # 
   # section html
   # 
@@ -88,5 +88,35 @@ class the_tropic_of_oregon extends stjohnsjimtemplate
   # 
   allMeta = [[["name","author"],["content","James A. Hinds: St. John's Jim -- King of Cascadia"]],[["http-equiv","Content-Type"],["content","text/html"],["charset","UTF-8"]],[["name","viewport"],["content","width=device-width, initial-scale=1"]],[["name","description"],["content","Stories from the 'Puter of St. John's Jim"]],[["name","keywords"],["content","Pier Park, Cathedral Park, fiction, North Portland,St. John's, st johns"]],[["property","fb:admins"],["content","187314157994069"]],[["name","msapplication-TileColor"],["content","#ffffff"]],[["name","msapplication-TileImage"],["content","/assets/icons/ms-icon-144x144.png"]],[["name","theme-color"],["content","#ffffff"]]]
   htmlTitle = "Dictates of the King of Cascadia and Stories from the 'Puter of St. John's Jim"
+#-------- class end
 page = new the_tropic_of_oregon
-console.log T.render page.html
+rendered =  T.render page.html
+# ------- db start
+db = {} unless db
+db[id="5978244ad3cfff7cc5f926ad"] =
+  title: "The Tropic of Oregon"
+  slug: "the-tropic-of-oregon"
+  category: "prelegal-times"
+  site: "59781236d3cfff7cc5f92609"
+  accepted: true
+  index: false
+  sourcePath: "stjohnsjim/contents/story/the-tropic-of-oregon.md"
+  headlines: []
+  tags: []
+  snippets: "{\"First Name\":\"First Name\"}"
+  memberOf: [
+    "GUNAS"
+    "TAROT"
+    "PDX"
+  ]
+  created: "2010-10-07T13:30:46.000Z"
+  lastEdited: "2010-10-11T14:20:37.000Z"
+  published: "2010-10-07T16:38:29.000Z"
+  embargo: "2017-12-31T23:59:59.000Z"
+  captureDate: "2017-07-26T05:10:34.000Z"
+  TimeStamp: "1501045834000"
+  author: ""
+  debug: "first-name"
+  id: "5978244ad3cfff7cc5f926ad"
+  name: "The Tropic of Oregon"
+#

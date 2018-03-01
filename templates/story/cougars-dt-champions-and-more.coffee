@@ -1,5 +1,5 @@
-# 
-class cougars_dt_champions_and_more extends stjohnsjimtemplate
+# #-------- class start
+class  cougars_dt_champions_and_more extends stjohnsjimtemplate
   # 
   # section html
   # 
@@ -102,5 +102,35 @@ class cougars_dt_champions_and_more extends stjohnsjimtemplate
   # 
   allMeta = [[["name","author"],["content","James A. Hinds: St. John's Jim -- King of Cascadia"]],[["http-equiv","Content-Type"],["content","text/html"],["charset","UTF-8"]],[["name","viewport"],["content","width=device-width, initial-scale=1"]],[["name","description"],["content","Stories from the 'Puter of St. John's Jim"]],[["name","keywords"],["content","Pier Park, Cathedral Park, fiction, North Portland,St. John's, st johns"]],[["property","fb:admins"],["content","187314157994069"]],[["name","msapplication-TileColor"],["content","#ffffff"]],[["name","msapplication-TileImage"],["content","/assets/icons/ms-icon-144x144.png"]],[["name","theme-color"],["content","#ffffff"]]]
   htmlTitle = "Dictates of the King of Cascadia and Stories from the 'Puter of St. John's Jim"
+#-------- class end
 page = new cougars_dt_champions_and_more
-console.log T.render page.html
+rendered =  T.render page.html
+# ------- db start
+db = {} unless db
+db[id="59782449d3cfff7cc5f9262f"] =
+  title: "Cougars, DT Champions, and more"
+  slug: "cougars-dt-champions-and-more"
+  category: "story"
+  site: "59781236d3cfff7cc5f92609"
+  accepted: true
+  index: false
+  sourcePath: "stjohnsjim/contents/story/cougars-dt-champions-and-more.md"
+  headlines: []
+  tags: []
+  snippets: "{\"first name\":\"first name\"}"
+  memberOf: [
+    "GUNAS"
+    "TAROT"
+    "PDX"
+  ]
+  created: "2010-10-19T13:20:45.000Z"
+  lastEdited: "2010-10-22T13:39:51.000Z"
+  published: "2010-10-19T14:17:58.000Z"
+  embargo: "2017-12-31T23:59:59.000Z"
+  captureDate: "2017-07-26T05:10:33.152Z"
+  TimeStamp: "1501045833152"
+  author: ""
+  debug: ""
+  id: "59782449d3cfff7cc5f9262f"
+  name: "Cougars, DT Champions, and more"
+#

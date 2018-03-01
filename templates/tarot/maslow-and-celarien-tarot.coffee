@@ -1,5 +1,5 @@
-# 
-class maslow_and_celarien_tarot extends stjohnsjimtemplate
+# #-------- class start
+class  maslow_and_celarien_tarot extends stjohnsjimtemplate
   # 
   # section html
   # 
@@ -128,5 +128,33 @@ class maslow_and_celarien_tarot extends stjohnsjimtemplate
   # 
   allMeta = [[["name","author"],["content","James A. Hinds: St. John's Jim -- King of Cascadia"]],[["http-equiv","Content-Type"],["content","text/html"],["charset","UTF-8"]],[["name","viewport"],["content","width=device-width, initial-scale=1"]],[["name","description"],["content","Stories from the 'Puter of St. John's Jim"]],[["name","keywords"],["content","Pier Park, Cathedral Park, fiction, North Portland,St. John's, st johns"]],[["property","fb:admins"],["content","187314157994069"]],[["name","msapplication-TileColor"],["content","#ffffff"]],[["name","msapplication-TileImage"],["content","/assets/icons/ms-icon-144x144.png"]],[["name","theme-color"],["content","#ffffff"]]]
   htmlTitle = "Dictates of the King of Cascadia and Stories from the 'Puter of St. John's Jim"
+#-------- class end
 page = new maslow_and_celarien_tarot
-console.log T.render page.html
+rendered =  T.render page.html
+# ------- db start
+db = {} unless db
+db[id="59782449d3cfff7cc5f9260d"] =
+  title: "Maslow and Celarien Tarot"
+  slug: "maslow-and-celarien-tarot"
+  category: "tarot"
+  site: "59781236d3cfff7cc5f92609"
+  accepted: true
+  index: false
+  sourcePath: "stjohnsjim/contents/tarot/maslow-and-celarien-tarot.md"
+  headlines: []
+  tags: []
+  snippets: "{\"sw#k\":\"sw#k\",\"sw#1\":\"sw#1\",\"sw#2\":\"sw#2\",\"sw#3\":\"sw#3\",\"sw#4\":\"sw#4\",\"sw#5\":\"sw#5\",\"sw#6\":\"sw#6\",\"sw#7\":\"sw#7\",\"sw#8\":\"sw#8\",\"sw#9\":\"sw#9\",\"sw#10\":\"sw#10\",\"kp\":\"kp\"}"
+  memberOf: [
+    "TAROT"
+  ]
+  created: "2011-11-12T12:20:40.000Z"
+  lastEdited: "2011-11-13T13:07:14.000Z"
+  published: "2011-11-12T12:20:40.000Z"
+  embargo: "2017-12-31T23:59:59.000Z"
+  captureDate: "2017-07-26T05:10:33.096Z"
+  TimeStamp: "1501045833096"
+  author: ""
+  debug: ""
+  id: "59782449d3cfff7cc5f9260d"
+  name: "Maslow and Celarien Tarot"
+#

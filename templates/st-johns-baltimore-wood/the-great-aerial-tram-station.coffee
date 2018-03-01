@@ -1,5 +1,5 @@
-# 
-class the_great_aerial_tram_station extends stjohnsjimtemplate
+# #-------- class start
+class  the_great_aerial_tram_station extends stjohnsjimtemplate
   # 
   # section html
   # 
@@ -111,5 +111,36 @@ class the_great_aerial_tram_station extends stjohnsjimtemplate
   # 
   allMeta = [[["name","author"],["content","James A. Hinds: St. John's Jim -- King of Cascadia"]],[["http-equiv","Content-Type"],["content","text/html"],["charset","UTF-8"]],[["name","viewport"],["content","width=device-width, initial-scale=1"]],[["name","description"],["content","Stories from the 'Puter of St. John's Jim"]],[["name","keywords"],["content","Pier Park, Cathedral Park, fiction, North Portland,St. John's, st johns"]],[["property","fb:admins"],["content","187314157994069"]],[["name","msapplication-TileColor"],["content","#ffffff"]],[["name","msapplication-TileImage"],["content","/assets/icons/ms-icon-144x144.png"]],[["name","theme-color"],["content","#ffffff"]]]
   htmlTitle = "Dictates of the King of Cascadia and Stories from the 'Puter of St. John's Jim"
+#-------- class end
 page = new the_great_aerial_tram_station
-console.log T.render page.html
+rendered =  T.render page.html
+# ------- db start
+db = {} unless db
+db[id="5978244ad3cfff7cc5f926aa"] =
+  title: "The Great Aerial Tram Station"
+  slug: "the-great-aerial-tram-station"
+  category: "st-johns-baltimore-wood"
+  site: "59781236d3cfff7cc5f92609"
+  accepted: true
+  index: false
+  sourcePath: "stjohnsjim/contents/story/the-great-aerial-tram-station.md"
+  headlines: [
+    "Leo and Station's Very Odd Internet School"
+    "Treetop Transportation from Recycled Materials"
+  ]
+  tags: []
+  snippets: "{}"
+  memberOf: [
+    "TAO"
+  ]
+  created: "2011-08-05T18:38:57.000Z"
+  lastEdited: "2016-04-15T00:00:00.000Z"
+  published: "2011-08-05T18:54:38.000Z"
+  embargo: "2016-04-15T00:00:00.000Z"
+  captureDate: "2017-07-26T05:10:34.000Z"
+  TimeStamp: "1501045834000"
+  author: ""
+  debug: ""
+  id: "5978244ad3cfff7cc5f926aa"
+  name: "The Great Aerial Tram Station"
+#

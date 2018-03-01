@@ -1,5 +1,5 @@
-# 
-class bouncy_boom_gets_her_skates extends stjohnsjimtemplate
+# #-------- class start
+class  bouncy_boom_gets_her_skates extends stjohnsjimtemplate
   # 
   # section html
   # 
@@ -87,5 +87,33 @@ class bouncy_boom_gets_her_skates extends stjohnsjimtemplate
   # 
   allMeta = [[["name","author"],["content","James A. Hinds: St. John's Jim -- King of Cascadia"]],[["http-equiv","Content-Type"],["content","text/html"],["charset","UTF-8"]],[["name","viewport"],["content","width=device-width, initial-scale=1"]],[["name","description"],["content","Stories from the 'Puter of St. John's Jim"]],[["name","keywords"],["content","Pier Park, Cathedral Park, fiction, North Portland,St. John's, st johns"]],[["property","fb:admins"],["content","187314157994069"]],[["name","msapplication-TileColor"],["content","#ffffff"]],[["name","msapplication-TileImage"],["content","/assets/icons/ms-icon-144x144.png"]],[["name","theme-color"],["content","#ffffff"]]]
   htmlTitle = "Dictates of the King of Cascadia and Stories from the 'Puter of St. John's Jim"
+#-------- class end
 page = new bouncy_boom_gets_her_skates
-console.log T.render page.html
+rendered =  T.render page.html
+# ------- db start
+db = {} unless db
+db[id="59782449d3cfff7cc5f9268c"] =
+  title: "Bouncy Boom Gets Her Skates"
+  slug: "bouncy-boom-gets-her-skates"
+  category: "roller-derby"
+  site: "59781236d3cfff7cc5f92609"
+  accepted: true
+  index: false
+  sourcePath: "stjohnsjim/contents/roller-derby/bouncy-boom-gets-her-skates.md"
+  headlines: []
+  tags: []
+  snippets: "{}"
+  memberOf: [
+    "TAROT"
+  ]
+  created: "2011-05-30T17:02:47.000Z"
+  lastEdited: "2011-05-30T21:03:21.000Z"
+  published: "2011-05-30T21:03:21.000Z"
+  embargo: "2017-12-31T23:59:59.000Z"
+  captureDate: "2017-07-26T05:10:33.000Z"
+  TimeStamp: "1501045833000"
+  author: ""
+  debug: ""
+  id: "59782449d3cfff7cc5f9268c"
+  name: "Bouncy Boom Gets Her Skates"
+#

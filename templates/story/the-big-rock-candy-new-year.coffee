@@ -1,5 +1,5 @@
-# 
-class the_big_rock_candy_new_year extends stjohnsjimtemplate
+# #-------- class start
+class  the_big_rock_candy_new_year extends stjohnsjimtemplate
   # 
   # section html
   # 
@@ -102,5 +102,31 @@ class the_big_rock_candy_new_year extends stjohnsjimtemplate
   # 
   allMeta = [[["name","author"],["content","James A. Hinds: St. John's Jim -- King of Cascadia"]],[["http-equiv","Content-Type"],["content","text/html"],["charset","UTF-8"]],[["name","viewport"],["content","width=device-width, initial-scale=1"]],[["name","description"],["content","Stories from the 'Puter of St. John's Jim"]],[["name","keywords"],["content","Pier Park, Cathedral Park, fiction, North Portland,St. John's, st johns"]],[["property","fb:admins"],["content","187314157994069"]],[["name","msapplication-TileColor"],["content","#ffffff"]],[["name","msapplication-TileImage"],["content","/assets/icons/ms-icon-144x144.png"]],[["name","theme-color"],["content","#ffffff"]]]
   htmlTitle = "Dictates of the King of Cascadia and Stories from the 'Puter of St. John's Jim"
+#-------- class end
 page = new the_big_rock_candy_new_year
-console.log T.render page.html
+rendered =  T.render page.html
+# ------- db start
+db = {} unless db
+db[id="59782449d3cfff7cc5f9262e"] =
+  title: "The Big Rock Candy New Year"
+  slug: "the-big-rock-candy-new-year"
+  category: "story"
+  site: "59781236d3cfff7cc5f92609"
+  accepted: true
+  index: false
+  sourcePath: "stjohnsjim/contents/story/the-big-rock-candy-new-year.md"
+  headlines: []
+  tags: []
+  snippets: "{}"
+  memberOf: []
+  created: "2011-01-01T18:16:10.000Z"
+  lastEdited: "2011-01-01T18:35:30.000Z"
+  published: "2011-01-01T18:35:30.000Z"
+  embargo: "2017-12-31T23:59:59.000Z"
+  captureDate: "2017-07-26T05:10:33.165Z"
+  TimeStamp: "1501045833165"
+  author: ""
+  debug: ""
+  id: "59782449d3cfff7cc5f9262e"
+  name: "The Big Rock Candy New Year"
+#
