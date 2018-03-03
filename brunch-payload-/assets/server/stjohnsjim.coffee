@@ -29,7 +29,6 @@ module.exports = T.bless class BodyFormatter extends T.Component
     
     headerOptions = _.pick props, ['navLinks','story','page']
     
-    console.log "Story Headlines",story.headlines
     headline = "select a headline from"+JSON.stringify story.headlines
     slug=story.slug
     published = story.published
