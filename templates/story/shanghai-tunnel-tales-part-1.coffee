@@ -96,6 +96,8 @@ page = new shanghai_tunnel_tales_part_1
 rendered =  T.render page.html
 # ------- db start
 db = {} unless db
+
+
 db[id="59782449d3cfff7cc5f9266f"] =
   title: "Shanghai Tunnel Tales - Part 1"
   slug: "shanghai-tunnel-tales-part-1"
@@ -103,7 +105,6 @@ db[id="59782449d3cfff7cc5f9266f"] =
   site: "59781236d3cfff7cc5f92609"
   accepted: true
   index: false
-  sourcePath: "stjohnsjim/contents/story/shanghai-tunnel-tales-part-1.md"
   headlines: []
   tags: []
   snippets: "{}"
@@ -119,7 +120,7 @@ db[id="59782449d3cfff7cc5f9266f"] =
   embargo: "2017-12-31T23:59:59.000Z"
   captureDate: "2017-07-26T05:10:33.382Z"
   TimeStamp: "1501045833382"
-  author: ""
+  author: "Copyright 2010-2018 James A. Hinds: St. John's Jim -- King of Cascadia"
   debug: ""
   id: "59782449d3cfff7cc5f9266f"
   name: "Shanghai Tunnel Tales - Part 1"

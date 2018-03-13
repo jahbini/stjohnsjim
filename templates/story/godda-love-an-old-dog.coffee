@@ -104,6 +104,8 @@ page = new godda_love_an_old_dog
 rendered =  T.render page.html
 # ------- db start
 db = {} unless db
+
+
 db[id="59782449d3cfff7cc5f9265c"] =
   title: "Godda Love an Old Dog"
   slug: "godda-love-an-old-dog"
@@ -111,7 +113,6 @@ db[id="59782449d3cfff7cc5f9265c"] =
   site: "59781236d3cfff7cc5f92609"
   accepted: true
   index: false
-  sourcePath: "stjohnsjim/contents/story/godda-love-an-old-dog.md"
   headlines: []
   tags: []
   snippets: "{\"first name\":\"first name\"}"
@@ -125,7 +126,7 @@ db[id="59782449d3cfff7cc5f9265c"] =
   embargo: "2017-12-31T23:59:59.000Z"
   captureDate: "2017-07-26T05:10:33.372Z"
   TimeStamp: "1501045833372"
-  author: ""
+  author: "Copyright 2010-2018 James A. Hinds: St. John's Jim -- King of Cascadia"
   debug: ""
   id: "59782449d3cfff7cc5f9265c"
   name: "Godda Love an Old Dog"

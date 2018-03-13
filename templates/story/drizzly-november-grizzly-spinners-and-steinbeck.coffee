@@ -123,6 +123,8 @@ page = new drizzly_november_grizzly_spinners_and_steinbeck
 rendered =  T.render page.html
 # ------- db start
 db = {} unless db
+
+
 db[id="59782449d3cfff7cc5f92614"] =
   title: "Drizzly November, Grizzly Spinners and Steinbeck"
   slug: "drizzly-november-grizzly-spinners-and-steinbeck"
@@ -130,7 +132,6 @@ db[id="59782449d3cfff7cc5f92614"] =
   site: "59781236d3cfff7cc5f92609"
   accepted: true
   index: false
-  sourcePath: "stjohnsjim/contents/story/drizzly-november-grizzly-spinners-and-steinbeck.md"
   headlines: []
   tags: []
   snippets: "{\"first name\":\"first name\"}"
@@ -145,7 +146,7 @@ db[id="59782449d3cfff7cc5f92614"] =
   embargo: "2017-12-31T23:59:59.000Z"
   captureDate: "2017-07-26T05:10:33.091Z"
   TimeStamp: "1501045833091"
-  author: ""
+  author: "Copyright 2010-2018 James A. Hinds: St. John's Jim -- King of Cascadia"
   debug: ""
   id: "59782449d3cfff7cc5f92614"
   name: "Drizzly November, Grizzly Spinners and Steinbeck"

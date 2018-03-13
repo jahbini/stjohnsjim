@@ -74,6 +74,8 @@ page = new index
 rendered =  T.render page.html
 # ------- db start
 db = {} unless db
+
+
 db[id="59782449d3cfff7cc5f92645"] =
   title: "Backstories"
   slug: "index"
@@ -81,7 +83,6 @@ db[id="59782449d3cfff7cc5f92645"] =
   site: "59781236d3cfff7cc5f92609"
   accepted: false
   index: true
-  sourcePath: "stjohnsjim/contents/backstory/index.md"
   headlines: [
     "Strange, but not so true..."
     "All the best rumors about the characters"
@@ -98,7 +99,7 @@ db[id="59782449d3cfff7cc5f92645"] =
   embargo: "2030-01-01T00:00:00.000Z"
   captureDate: "2017-07-26T05:10:33.000Z"
   TimeStamp: "1501045833000"
-  author: ""
+  author: "Copyright 2010-2018 James A. Hinds: St. John's Jim -- King of Cascadia"
   debug: ""
   id: "59782449d3cfff7cc5f92645"
   name: "Backstories"

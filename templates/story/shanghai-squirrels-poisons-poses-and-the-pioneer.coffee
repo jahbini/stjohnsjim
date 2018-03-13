@@ -107,6 +107,8 @@ page = new shanghai_squirrels_poisons_poses_and_the_pioneer
 rendered =  T.render page.html
 # ------- db start
 db = {} unless db
+
+
 db[id="59782449d3cfff7cc5f92647"] =
   title: "Shanghai Squirrels: Poison's Poses and the Pioneer"
   slug: "shanghai-squirrels-poisons-poses-and-the-pioneer"
@@ -114,7 +116,6 @@ db[id="59782449d3cfff7cc5f92647"] =
   site: "59781236d3cfff7cc5f92609"
   accepted: true
   index: false
-  sourcePath: "stjohnsjim/contents/story/shanghai-squirrels-poisons-poses-and-the-pioneer.md"
   headlines: []
   tags: []
   snippets: "{}"
@@ -128,7 +129,7 @@ db[id="59782449d3cfff7cc5f92647"] =
   embargo: "2017-12-31T23:59:59.000Z"
   captureDate: "2017-07-26T05:10:33.287Z"
   TimeStamp: "1501045833287"
-  author: ""
+  author: "Copyright 2010-2018 James A. Hinds: St. John's Jim -- King of Cascadia"
   debug: ""
   id: "59782449d3cfff7cc5f92647"
   name: "Shanghai Squirrels: Poison's Poses and the Pioneer"

@@ -99,6 +99,8 @@ page = new roger_dojers_obituary
 rendered =  T.render page.html
 # ------- db start
 db = {} unless db
+
+
 db[id="59782449d3cfff7cc5f92638"] =
   title: "Roger Dojer's Obituary"
   slug: "roger-dojers-obituary"
@@ -106,7 +108,6 @@ db[id="59782449d3cfff7cc5f92638"] =
   site: "59781236d3cfff7cc5f92609"
   accepted: true
   index: false
-  sourcePath: "stjohnsjim/contents/story/roger-dojers-obituary.md"
   headlines: []
   tags: []
   snippets: "{\"first name\":\"first name\"}"
@@ -119,7 +120,7 @@ db[id="59782449d3cfff7cc5f92638"] =
   embargo: "2017-12-31T23:59:59.000Z"
   captureDate: "2017-07-26T05:10:33.161Z"
   TimeStamp: "1501045833161"
-  author: ""
+  author: "Copyright 2010-2018 James A. Hinds: St. John's Jim -- King of Cascadia"
   debug: ""
   id: "59782449d3cfff7cc5f92638"
   name: "Roger Dojer's Obituary"

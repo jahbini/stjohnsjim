@@ -100,6 +100,8 @@ page = new heard_on_the_street
 rendered =  T.render page.html
 # ------- db start
 db = {} unless db
+
+
 db[id="59782449d3cfff7cc5f92663"] =
   title: "Heard on the Street"
   slug: "heard-on-the-street"
@@ -107,7 +109,6 @@ db[id="59782449d3cfff7cc5f92663"] =
   site: "59781236d3cfff7cc5f92609"
   accepted: true
   index: false
-  sourcePath: "stjohnsjim/contents/story/heard-on-the-street.md"
   headlines: []
   tags: []
   snippets: "{}"
@@ -122,7 +123,7 @@ db[id="59782449d3cfff7cc5f92663"] =
   embargo: "2017-12-31T23:59:59.000Z"
   captureDate: "2017-07-26T05:10:33.377Z"
   TimeStamp: "1501045833377"
-  author: ""
+  author: "Copyright 2010-2018 James A. Hinds: St. John's Jim -- King of Cascadia"
   debug: ""
   id: "59782449d3cfff7cc5f92663"
   name: "Heard on the Street"

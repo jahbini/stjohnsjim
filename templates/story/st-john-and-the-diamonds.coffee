@@ -102,6 +102,8 @@ page = new st_john_and_the_diamonds
 rendered =  T.render page.html
 # ------- db start
 db = {} unless db
+
+
 db[id="59782449d3cfff7cc5f92654"] =
   title: "St. John and the Diamonds"
   slug: "st-john-and-the-diamonds"
@@ -109,7 +111,6 @@ db[id="59782449d3cfff7cc5f92654"] =
   site: "59781236d3cfff7cc5f92609"
   accepted: true
   index: false
-  sourcePath: "stjohnsjim/contents/story/st-john-and-the-diamonds.md"
   headlines: []
   tags: []
   snippets: "{}"
@@ -122,7 +123,7 @@ db[id="59782449d3cfff7cc5f92654"] =
   embargo: "2017-12-31T23:59:59.000Z"
   captureDate: "2017-07-26T05:10:33.289Z"
   TimeStamp: "1501045833289"
-  author: ""
+  author: "Copyright 2010-2018 James A. Hinds: St. John's Jim -- King of Cascadia"
   debug: ""
   id: "59782449d3cfff7cc5f92654"
   name: "St. John and the Diamonds"

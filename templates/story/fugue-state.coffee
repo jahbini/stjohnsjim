@@ -87,6 +87,8 @@ page = new fugue_state
 rendered =  T.render page.html
 # ------- db start
 db = {} unless db
+
+
 db[id="59782449d3cfff7cc5f9261b"] =
   title: "Fugue State"
   slug: "fugue-state"
@@ -94,7 +96,6 @@ db[id="59782449d3cfff7cc5f9261b"] =
   site: "59781236d3cfff7cc5f92609"
   accepted: true
   index: false
-  sourcePath: "stjohnsjim/contents/story/fugue-state.md"
   headlines: [
     "From the Casebook of St. John&rsquo;s Jim: Psychic Bodyguard"
   ]
@@ -109,7 +110,7 @@ db[id="59782449d3cfff7cc5f9261b"] =
   embargo: "2017-07-26T05:40:07.000Z"
   captureDate: "2017-07-26T05:10:33.000Z"
   TimeStamp: "1501045833000"
-  author: ""
+  author: "Copyright 2010-2018 James A. Hinds: St. John's Jim -- King of Cascadia"
   debug: ""
   id: "59782449d3cfff7cc5f9261b"
   name: "Fugue State"

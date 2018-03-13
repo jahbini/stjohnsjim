@@ -97,6 +97,8 @@ page = new the_norse_psychologist_files_on_thor
 rendered =  T.render page.html
 # ------- db start
 db = {} unless db
+
+
 db[id="5978244ad3cfff7cc5f926a3"] =
   title: "The Norse Psychologist Files on Thor"
   slug: "the-norse-psychologist-files-on-thor"
@@ -104,7 +106,6 @@ db[id="5978244ad3cfff7cc5f926a3"] =
   site: "59781236d3cfff7cc5f92609"
   accepted: true
   index: false
-  sourcePath: "stjohnsjim/contents/story/the-norse-psychologist-files-on-thor.md"
   headlines: [
     "Could The End Times be This Bizarre?"
     "Modern Psychology for the Elder Gods"
@@ -121,7 +122,7 @@ db[id="5978244ad3cfff7cc5f926a3"] =
   embargo: "2010-12-28T22:08:13.000Z"
   captureDate: "2017-07-26T05:10:34.000Z"
   TimeStamp: "1501045834000"
-  author: ""
+  author: "Copyright 2010-2018 James A. Hinds: St. John's Jim -- King of Cascadia"
   debug: ""
   id: "5978244ad3cfff7cc5f926a3"
   name: "The Norse Psychologist Files on Thor"

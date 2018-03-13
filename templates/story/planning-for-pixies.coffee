@@ -131,6 +131,8 @@ page = new planning_for_pixies
 rendered =  T.render page.html
 # ------- db start
 db = {} unless db
+
+
 db[id="59782449d3cfff7cc5f92688"] =
   title: "Planning for Pixies."
   slug: "planning-for-pixies"
@@ -138,7 +140,6 @@ db[id="59782449d3cfff7cc5f92688"] =
   site: "59781236d3cfff7cc5f92609"
   accepted: true
   index: false
-  sourcePath: "stjohnsjim/contents/story/planning-for-pixies.md"
   headlines: []
   tags: []
   snippets: "{\"first name\":\"first name\",\"sms,soto\":\"sms,soto\",\"sms,voce\":\"sms,voce\"}"
@@ -151,7 +152,7 @@ db[id="59782449d3cfff7cc5f92688"] =
   embargo: "2017-12-31T23:59:59.000Z"
   captureDate: "2017-07-26T05:10:33.488Z"
   TimeStamp: "1501045833488"
-  author: ""
+  author: "Copyright 2010-2018 James A. Hinds: St. John's Jim -- King of Cascadia"
   debug: ""
   id: "59782449d3cfff7cc5f92688"
   name: "Planning for Pixies."

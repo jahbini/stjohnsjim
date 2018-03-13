@@ -99,6 +99,8 @@ page = new the_monk_in_the_kingdom_of_prosperity
 rendered =  T.render page.html
 # ------- db start
 db = {} unless db
+
+
 db[id="5978244ad3cfff7cc5f92694"] =
   title: "The Monk in the Kingdom of Prosperity"
   slug: "the-monk-in-the-kingdom-of-prosperity"
@@ -106,7 +108,6 @@ db[id="5978244ad3cfff7cc5f92694"] =
   site: "59781236d3cfff7cc5f92609"
   accepted: true
   index: false
-  sourcePath: "stjohnsjim/contents/story/the-monk-in-the-kingdom-of-prosperity.md"
   headlines: []
   tags: []
   snippets: "{}"
@@ -121,7 +122,7 @@ db[id="5978244ad3cfff7cc5f92694"] =
   embargo: "2017-12-31T23:59:59.000Z"
   captureDate: "2017-07-26T05:10:34.127Z"
   TimeStamp: "1501045834127"
-  author: ""
+  author: "Copyright 2010-2018 James A. Hinds: St. John's Jim -- King of Cascadia"
   debug: ""
   id: "5978244ad3cfff7cc5f92694"
   name: "The Monk in the Kingdom of Prosperity"

@@ -77,6 +77,8 @@ rendered =  T.render page.html
 # ------- db start
 db = {} unless db
 
+
+
 db[id="stjohnsjimerror404"] =
   title: "404"
   slug: "404"
@@ -84,7 +86,6 @@ db[id="stjohnsjimerror404"] =
   site: "59781236d3cfff7cc5f92609"
   accepted: true
   index: false
-  sourcePath: ""
   headlines: []
   tags: []
   snippets: "{\"first name\":\"first name\"}"
@@ -96,7 +97,7 @@ db[id="stjohnsjimerror404"] =
   captureDate: "2018-03-05T04:46:19.904Z"
   TimeStamp: 1520225179904
   debug: ""
-  author: "James A. Hinds: St. John's Jim -- King of Cascadia"
+  author: "Copyright 2010-2018 James A. Hinds: St. John's Jim -- King of Cascadia"
   id: "stjohnsjimerror404"
   name: "404"
 #

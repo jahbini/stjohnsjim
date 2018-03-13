@@ -90,6 +90,8 @@ page = new aloha_oe_to_something
 rendered =  T.render page.html
 # ------- db start
 db = {} unless db
+
+
 db[id="59782449d3cfff7cc5f92672"] =
   title: "Aloha 'Oe to Something"
   slug: "aloha-oe-to-something"
@@ -97,7 +99,6 @@ db[id="59782449d3cfff7cc5f92672"] =
   site: "59781236d3cfff7cc5f92609"
   accepted: true
   index: false
-  sourcePath: "stjohnsjim/contents/island-life/aloha-oe-to-something.md"
   headlines: [
     "What Have We Lost? Really"
     "Did We Ever Get It Right?"
@@ -113,7 +114,7 @@ db[id="59782449d3cfff7cc5f92672"] =
   embargo: "2011-03-18T16:01:59.000Z"
   captureDate: "2017-07-26T05:10:33.000Z"
   TimeStamp: "1501045833000"
-  author: ""
+  author: "Copyright 2010-2018 James A. Hinds: St. John's Jim -- King of Cascadia"
   debug: ""
   id: "59782449d3cfff7cc5f92672"
   name: "Aloha 'Oe to Something"

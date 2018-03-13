@@ -118,6 +118,8 @@ page = new from_the_st_johns_infirmary_the_bouncer
 rendered =  T.render page.html
 # ------- db start
 db = {} unless db
+
+
 db[id="59782449d3cfff7cc5f92686"] =
   title: "From the St. John's Infirmary -- The Bouncer"
   slug: "from-the-st-johns-infirmary-the-bouncer"
@@ -125,7 +127,6 @@ db[id="59782449d3cfff7cc5f92686"] =
   site: "59781236d3cfff7cc5f92609"
   accepted: true
   index: false
-  sourcePath: "stjohnsjim/contents/story/from-the-st-johns-infirmary-the-bouncer.md"
   headlines: []
   tags: []
   snippets: "{}"
@@ -139,7 +140,7 @@ db[id="59782449d3cfff7cc5f92686"] =
   embargo: "2017-12-31T23:59:59.000Z"
   captureDate: "2017-07-26T05:10:33.483Z"
   TimeStamp: "1501045833483"
-  author: ""
+  author: "Copyright 2010-2018 James A. Hinds: St. John's Jim -- King of Cascadia"
   debug: ""
   id: "59782449d3cfff7cc5f92686"
   name: "From the St. John's Infirmary -- The Bouncer"

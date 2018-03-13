@@ -116,6 +116,8 @@ page = new index
 rendered =  T.render page.html
 # ------- db start
 db = {} unless db
+
+
 db[id="59782449d3cfff7cc5f92676"] =
   title: "Grand Visions from the 'Puter of St. John's Jim"
   slug: "index"
@@ -123,7 +125,6 @@ db[id="59782449d3cfff7cc5f92676"] =
   site: "59781236d3cfff7cc5f92609"
   accepted: true
   index: true
-  sourcePath: "stjohnsjim/contents/index.md"
   headlines: [
     "Visions of Beauty Obscured"
     "The Most Beautiful Bridge, But?!?!"
@@ -139,7 +140,7 @@ db[id="59782449d3cfff7cc5f92676"] =
   embargo: "2016-03-11T12:40:04.000Z"
   captureDate: "2017-07-26T05:10:33.484Z"
   TimeStamp: "1501045833484"
-  author: ""
+  author: "Copyright 2010-2018 James A. Hinds: St. John's Jim -- King of Cascadia"
   debug: ""
   id: "59782449d3cfff7cc5f92676"
   name: "Grand Visions from the 'Puter of St. John's Jim"

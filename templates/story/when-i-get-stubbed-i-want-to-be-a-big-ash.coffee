@@ -94,6 +94,8 @@ page = new when_i_get_stubbed_i_want_to_be_a_big_ash
 rendered =  T.render page.html
 # ------- db start
 db = {} unless db
+
+
 db[id="5978244ad3cfff7cc5f926a7"] =
   title: "When I Get Stubbed, I Want to be a Big Ash"
   slug: "when-i-get-stubbed-i-want-to-be-a-big-ash"
@@ -101,7 +103,6 @@ db[id="5978244ad3cfff7cc5f926a7"] =
   site: "59781236d3cfff7cc5f92609"
   accepted: true
   index: false
-  sourcePath: "stjohnsjim/contents/story/when-i-get-stubbed-i-want-to-be-a-big-ash.md"
   headlines: []
   tags: []
   snippets: "{}"
@@ -112,7 +113,7 @@ db[id="5978244ad3cfff7cc5f926a7"] =
   embargo: "2017-12-31T23:59:59.000Z"
   captureDate: "2017-07-26T05:10:34.169Z"
   TimeStamp: "1501045834169"
-  author: ""
+  author: "Copyright 2010-2018 James A. Hinds: St. John's Jim -- King of Cascadia"
   debug: ""
   id: "5978244ad3cfff7cc5f926a7"
   name: "When I Get Stubbed, I Want to be a Big Ash"

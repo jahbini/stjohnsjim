@@ -100,6 +100,8 @@ page = new susannas_song
 rendered =  T.render page.html
 # ------- db start
 db = {} unless db
+
+
 db[id="59782449d3cfff7cc5f92639"] =
   title: "Susanna's Song"
   slug: "susannas-song"
@@ -107,7 +109,6 @@ db[id="59782449d3cfff7cc5f92639"] =
   site: "59781236d3cfff7cc5f92609"
   accepted: true
   index: false
-  sourcePath: "stjohnsjim/contents/almost-history/susannas-song.md"
   headlines: [
     "Girl Power!"
   ]
@@ -120,7 +121,7 @@ db[id="59782449d3cfff7cc5f92639"] =
   embargo: "2011-01-25T18:34:31.000Z"
   captureDate: "2017-07-26T05:10:33.000Z"
   TimeStamp: "1501045833000"
-  author: ""
+  author: "Copyright 2010-2018 James A. Hinds: St. John's Jim -- King of Cascadia"
   debug: ""
   id: "59782449d3cfff7cc5f92639"
   name: "Susanna's Song"

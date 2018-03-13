@@ -106,6 +106,8 @@ page = new corporate_punishment_is_your_path_to_financial_security
 rendered =  T.render page.html
 # ------- db start
 db = {} unless db
+
+
 db[id="59782449d3cfff7cc5f9267a"] =
   title: "Corporate Punishment is Your Path to Financial Security"
   slug: "corporate-punishment-is-your-path-to-financial-security"
@@ -113,7 +115,6 @@ db[id="59782449d3cfff7cc5f9267a"] =
   site: "59781236d3cfff7cc5f92609"
   accepted: true
   index: false
-  sourcePath: "stjohnsjim/contents/story/corporate-punisment-is-your-path-to-financial-secu.md"
   headlines: [
     "Good Times in the Slammer!"
     "Don't Think of it as Prison, but..."
@@ -131,7 +132,7 @@ db[id="59782449d3cfff7cc5f9267a"] =
   embargo: "2010-12-01T18:04:05.000Z"
   captureDate: "2017-07-26T05:10:33.000Z"
   TimeStamp: "1501045833000"
-  author: ""
+  author: "Copyright 2010-2018 James A. Hinds: St. John's Jim -- King of Cascadia"
   debug: ""
   id: "59782449d3cfff7cc5f9267a"
   name: "Corporate Punishment is Your Path to Financial Security"

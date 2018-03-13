@@ -138,6 +138,8 @@ page = new end_of_year_tax_woes
 rendered =  T.render page.html
 # ------- db start
 db = {} unless db
+
+
 db[id="59782449d3cfff7cc5f92665"] =
   title: "End of Year Tax Woes?"
   slug: "end-of-year-tax-woes"
@@ -145,7 +147,6 @@ db[id="59782449d3cfff7cc5f92665"] =
   site: "59781236d3cfff7cc5f92609"
   accepted: true
   index: false
-  sourcePath: "stjohnsjim/contents/story/end-of-year-tax-woes.md"
   headlines: []
   tags: []
   snippets: "{\"author\":\"author\",\"comment,soto\":\"comment,soto\",\"comment,voce\":\"comment,voce\"}"
@@ -158,7 +159,7 @@ db[id="59782449d3cfff7cc5f92665"] =
   embargo: "2017-12-31T23:59:59.000Z"
   captureDate: "2017-07-26T05:10:33.370Z"
   TimeStamp: "1501045833370"
-  author: ""
+  author: "Copyright 2010-2018 James A. Hinds: St. John's Jim -- King of Cascadia"
   debug: ""
   id: "59782449d3cfff7cc5f92665"
   name: "End of Year Tax Woes?"

@@ -87,6 +87,8 @@ page = new the_fist_of_perhaps
 rendered =  T.render page.html
 # ------- db start
 db = {} unless db
+
+
 db[id="5978244ad3cfff7cc5f926a2"] =
   title: "The Fist of Perhaps"
   slug: "the-fist-of-perhaps"
@@ -94,7 +96,6 @@ db[id="5978244ad3cfff7cc5f926a2"] =
   site: "59781236d3cfff7cc5f92609"
   accepted: true
   index: false
-  sourcePath: "stjohnsjim/contents/story/the-fist-of-perhaps.md"
   headlines: []
   tags: []
   snippets: "{}"
@@ -107,7 +108,7 @@ db[id="5978244ad3cfff7cc5f926a2"] =
   embargo: "2017-12-31T23:59:59.000Z"
   captureDate: "2017-07-26T05:10:34.168Z"
   TimeStamp: "1501045834168"
-  author: ""
+  author: "Copyright 2010-2018 James A. Hinds: St. John's Jim -- King of Cascadia"
   debug: ""
   id: "5978244ad3cfff7cc5f926a2"
   name: "The Fist of Perhaps"

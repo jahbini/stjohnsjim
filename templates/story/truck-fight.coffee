@@ -102,6 +102,8 @@ page = new truck_fight
 rendered =  T.render page.html
 # ------- db start
 db = {} unless db
+
+
 db[id="5978244ad3cfff7cc5f926b0"] =
   title: "Truck Fight"
   slug: "truck-fight"
@@ -109,7 +111,6 @@ db[id="5978244ad3cfff7cc5f926b0"] =
   site: "59781236d3cfff7cc5f92609"
   accepted: true
   index: false
-  sourcePath: "stjohnsjim/contents/story/truck-fight.md"
   headlines: []
   tags: []
   snippets: "{}"
@@ -125,7 +126,7 @@ db[id="5978244ad3cfff7cc5f926b0"] =
   embargo: "2017-12-31T23:59:59.000Z"
   captureDate: "2017-07-26T05:10:34.190Z"
   TimeStamp: "1501045834190"
-  author: ""
+  author: "Copyright 2010-2018 James A. Hinds: St. John's Jim -- King of Cascadia"
   debug: ""
   id: "5978244ad3cfff7cc5f926b0"
   name: "Truck Fight"

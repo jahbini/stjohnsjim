@@ -102,6 +102,8 @@ page = new big_doins_at_the_hooker_derby
 rendered =  T.render page.html
 # ------- db start
 db = {} unless db
+
+
 db[id="59782449d3cfff7cc5f92661"] =
   title: "Big Doin's at the Hooker Derby"
   slug: "big-doins-at-the-hooker-derby"
@@ -109,7 +111,6 @@ db[id="59782449d3cfff7cc5f92661"] =
   site: "59781236d3cfff7cc5f92609"
   accepted: true
   index: false
-  sourcePath: "stjohnsjim/contents/story/big-doins-at-the-hooker-derby.md"
   headlines: [
     "Pier Park at 3AM?"
     "PNW Hookers Lament the Late Liz Taylor"
@@ -126,7 +127,7 @@ db[id="59782449d3cfff7cc5f92661"] =
   embargo: "2017-12-31T23:59:59.000Z"
   captureDate: "2017-07-26T05:10:33.000Z"
   TimeStamp: "1501045833000"
-  author: ""
+  author: "Copyright 2010-2018 James A. Hinds: St. John's Jim -- King of Cascadia"
   debug: ""
   id: "59782449d3cfff7cc5f92661"
   name: "Big Doin's at the Hooker Derby"

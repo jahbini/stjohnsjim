@@ -98,6 +98,8 @@ page = new ex_employee_spring_given_forcible_escort_out_of
 rendered =  T.render page.html
 # ------- db start
 db = {} unless db
+
+
 db[id="59782449d3cfff7cc5f92611"] =
   title: "Ex - Employee Spring Given Forcible Escort Out of "
   slug: "ex-employee-spring-given-forcible-escort-out-of"
@@ -105,7 +107,6 @@ db[id="59782449d3cfff7cc5f92611"] =
   site: "59781236d3cfff7cc5f92609"
   accepted: true
   index: false
-  sourcePath: "stjohnsjim/contents/story/ex-employee-spring-given-forcible-escort-out-of.md"
   headlines: []
   tags: []
   snippets: "{\"first name\":\"first name\"}"
@@ -119,7 +120,7 @@ db[id="59782449d3cfff7cc5f92611"] =
   embargo: "2017-12-31T23:59:59.000Z"
   captureDate: "2017-07-26T05:10:33.000Z"
   TimeStamp: "1501045833000"
-  author: ""
+  author: "Copyright 2010-2018 James A. Hinds: St. John's Jim -- King of Cascadia"
   debug: ""
   id: "59782449d3cfff7cc5f92611"
   name: "Ex - Employee Spring Given Forcible Escort Out of "

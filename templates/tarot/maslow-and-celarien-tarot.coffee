@@ -133,6 +133,8 @@ page = new maslow_and_celarien_tarot
 rendered =  T.render page.html
 # ------- db start
 db = {} unless db
+
+
 db[id="59782449d3cfff7cc5f9260d"] =
   title: "Maslow and Celarien Tarot"
   slug: "maslow-and-celarien-tarot"
@@ -140,7 +142,6 @@ db[id="59782449d3cfff7cc5f9260d"] =
   site: "59781236d3cfff7cc5f92609"
   accepted: true
   index: false
-  sourcePath: "stjohnsjim/contents/tarot/maslow-and-celarien-tarot.md"
   headlines: []
   tags: []
   snippets: "{\"sw#k\":\"sw#k\",\"sw#1\":\"sw#1\",\"sw#2\":\"sw#2\",\"sw#3\":\"sw#3\",\"sw#4\":\"sw#4\",\"sw#5\":\"sw#5\",\"sw#6\":\"sw#6\",\"sw#7\":\"sw#7\",\"sw#8\":\"sw#8\",\"sw#9\":\"sw#9\",\"sw#10\":\"sw#10\",\"kp\":\"kp\"}"
@@ -153,7 +154,7 @@ db[id="59782449d3cfff7cc5f9260d"] =
   embargo: "2017-12-31T23:59:59.000Z"
   captureDate: "2017-07-26T05:10:33.096Z"
   TimeStamp: "1501045833096"
-  author: ""
+  author: "Copyright 2010-2018 James A. Hinds: St. John's Jim -- King of Cascadia"
   debug: ""
   id: "59782449d3cfff7cc5f9260d"
   name: "Maslow and Celarien Tarot"

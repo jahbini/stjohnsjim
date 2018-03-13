@@ -120,6 +120,8 @@ page = new a_week_of_false_starts
 rendered =  T.render page.html
 # ------- db start
 db = {} unless db
+
+
 db[id="59782449d3cfff7cc5f9265e"] =
   title: "A Week of False Starts"
   slug: "a-week-of-false-starts"
@@ -127,7 +129,6 @@ db[id="59782449d3cfff7cc5f9265e"] =
   site: "59781236d3cfff7cc5f92609"
   accepted: true
   index: false
-  sourcePath: "stjohnsjim/contents/pier-park/3gunas/a-week-of-false-starts.md"
   headlines: []
   tags: []
   snippets: "{\"comment,soto\":\"comment,soto\",\"comment,voce\":\"comment,voce\",\"roar\":\"roar\"}"
@@ -141,7 +142,7 @@ db[id="59782449d3cfff7cc5f9265e"] =
   embargo: "2017-12-31T23:59:59.000Z"
   captureDate: "2017-07-26T05:10:33.000Z"
   TimeStamp: "1501045833000"
-  author: ""
+  author: "Copyright 2010-2018 James A. Hinds: St. John's Jim -- King of Cascadia"
   debug: "content"
   id: "59782449d3cfff7cc5f9265e"
   name: "A Week of False Starts"

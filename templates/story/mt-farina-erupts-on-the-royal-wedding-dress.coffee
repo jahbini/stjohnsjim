@@ -98,6 +98,8 @@ page = new mt_farina_erupts_on_the_royal_wedding_dress
 rendered =  T.render page.html
 # ------- db start
 db = {} unless db
+
+
 db[id="59782449d3cfff7cc5f92621"] =
   title: "Mt. Farina erupts on the Royal Wedding Dress"
   slug: "mt-farina-erupts-on-the-royal-wedding-dress"
@@ -105,7 +107,6 @@ db[id="59782449d3cfff7cc5f92621"] =
   site: "59781236d3cfff7cc5f92609"
   accepted: true
   index: false
-  sourcePath: "stjohnsjim/contents/story/mt-farina-erupts-on-the-royal-wedding-dress.md"
   headlines: []
   tags: []
   snippets: "{}"
@@ -118,7 +119,7 @@ db[id="59782449d3cfff7cc5f92621"] =
   embargo: "2017-12-31T23:59:59.000Z"
   captureDate: "2017-07-26T05:10:33.097Z"
   TimeStamp: "1501045833097"
-  author: ""
+  author: "Copyright 2010-2018 James A. Hinds: St. John's Jim -- King of Cascadia"
   debug: ""
   id: "59782449d3cfff7cc5f92621"
   name: "Mt. Farina erupts on the Royal Wedding Dress"

@@ -98,6 +98,8 @@ page = new grand_feng_shui_station
 rendered =  T.render page.html
 # ------- db start
 db = {} unless db
+
+
 db[id="59782449d3cfff7cc5f9267b"] =
   title: "Grand Feng Shui Station"
   slug: "grand-feng-shui-station"
@@ -105,7 +107,6 @@ db[id="59782449d3cfff7cc5f9267b"] =
   site: "59781236d3cfff7cc5f92609"
   accepted: true
   index: false
-  sourcePath: "stjohnsjim/contents/story/grand-feng-shui-station.md"
   headlines: []
   tags: []
   snippets: "{}"
@@ -120,7 +121,7 @@ db[id="59782449d3cfff7cc5f9267b"] =
   embargo: "2017-12-31T23:59:59.000Z"
   captureDate: "2017-07-26T05:10:33.484Z"
   TimeStamp: "1501045833484"
-  author: ""
+  author: "Copyright 2010-2018 James A. Hinds: St. John's Jim -- King of Cascadia"
   debug: ""
   id: "59782449d3cfff7cc5f9267b"
   name: "Grand Feng Shui Station"

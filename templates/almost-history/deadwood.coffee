@@ -102,6 +102,8 @@ page = new deadwood
 rendered =  T.render page.html
 # ------- db start
 db = {} unless db
+
+
 db[id="59782449d3cfff7cc5f92662"] =
   title: "Deadwood?"
   slug: "deadwood"
@@ -109,7 +111,6 @@ db[id="59782449d3cfff7cc5f92662"] =
   site: "59781236d3cfff7cc5f92609"
   accepted: true
   index: false
-  sourcePath: "stjohnsjim/contents/deadwood.md"
   headlines: [
     "The Scout and The Colonel"
     "Legend of the Old West"
@@ -123,7 +124,7 @@ db[id="59782449d3cfff7cc5f92662"] =
   embargo: "2010-11-12T18:04:12.000Z"
   captureDate: "2017-07-26T05:10:33.000Z"
   TimeStamp: "1501045833000"
-  author: ""
+  author: "Copyright 2010-2018 James A. Hinds: St. John's Jim -- King of Cascadia"
   debug: ""
   id: "59782449d3cfff7cc5f92662"
   name: "Deadwood?"

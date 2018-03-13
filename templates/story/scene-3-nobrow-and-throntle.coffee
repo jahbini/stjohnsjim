@@ -99,6 +99,8 @@ page = new scene_3_nobrow_and_throntle
 rendered =  T.render page.html
 # ------- db start
 db = {} unless db
+
+
 db[id="59782449d3cfff7cc5f92681"] =
   title: "Scene 3, Nobrow and Throntle"
   slug: "scene-3-nobrow-and-throntle"
@@ -106,7 +108,6 @@ db[id="59782449d3cfff7cc5f92681"] =
   site: "59781236d3cfff7cc5f92609"
   accepted: true
   index: false
-  sourcePath: "stjohnsjim/contents/story/scene-3-nobrow-and-throntle.md"
   headlines: []
   tags: []
   snippets: "{}"
@@ -120,7 +121,7 @@ db[id="59782449d3cfff7cc5f92681"] =
   embargo: "2017-12-31T23:59:59.000Z"
   captureDate: "2017-07-26T05:10:33.489Z"
   TimeStamp: "1501045833489"
-  author: ""
+  author: "Copyright 2010-2018 James A. Hinds: St. John's Jim -- King of Cascadia"
   debug: ""
   id: "59782449d3cfff7cc5f92681"
   name: "Scene 3, Nobrow and Throntle"

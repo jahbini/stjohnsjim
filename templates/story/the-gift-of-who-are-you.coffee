@@ -119,6 +119,8 @@ page = new the_gift_of_who_are_you
 rendered =  T.render page.html
 # ------- db start
 db = {} unless db
+
+
 db[id="5978244ad3cfff7cc5f926b3"] =
   title: "The Gift of \"Who Are You?\""
   slug: "the-gift-of-who-are-you"
@@ -126,7 +128,6 @@ db[id="5978244ad3cfff7cc5f926b3"] =
   site: "59781236d3cfff7cc5f92609"
   accepted: true
   index: false
-  sourcePath: "stjohnsjim/contents/story/the-gift-of-who-are-you.md"
   headlines: []
   tags: []
   snippets: "{}"
@@ -139,7 +140,7 @@ db[id="5978244ad3cfff7cc5f926b3"] =
   embargo: "2017-12-31T23:59:59.000Z"
   captureDate: "2017-07-26T05:10:34.218Z"
   TimeStamp: "1501045834218"
-  author: ""
+  author: "Copyright 2010-2018 James A. Hinds: St. John's Jim -- King of Cascadia"
   debug: ""
   id: "5978244ad3cfff7cc5f926b3"
   name: "The Gift of \"Who Are You?\""

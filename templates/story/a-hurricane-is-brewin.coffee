@@ -108,6 +108,8 @@ page = new a_hurricane_is_brewin
 rendered =  T.render page.html
 # ------- db start
 db = {} unless db
+
+
 db[id="59782448d3cfff7cc5f9260a"] =
   title: "A Hurricane is Brewin"
   slug: "a-hurricane-is-brewin"
@@ -115,7 +117,6 @@ db[id="59782448d3cfff7cc5f9260a"] =
   site: "59781236d3cfff7cc5f92609"
   accepted: false
   index: false
-  sourcePath: "stjohnsjim/contents/story/a-hurricane-is-brewin.md"
   headlines: [
     "Why Bar Bets No Longer Work"
     "There are 10,000 Bars in St. John's"
@@ -131,7 +132,7 @@ db[id="59782448d3cfff7cc5f9260a"] =
   embargo: "2030-01-01T00:00:00.000Z"
   captureDate: "2017-07-26T05:10:32.000Z"
   TimeStamp: "1501045832000"
-  author: ""
+  author: "Copyright 2010-2018 James A. Hinds: St. John's Jim -- King of Cascadia"
   debug: ""
   id: "59782448d3cfff7cc5f9260a"
   name: "A Hurricane is Brewin"

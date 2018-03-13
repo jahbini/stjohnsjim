@@ -100,6 +100,8 @@ page = new the_great_harvest_moon_part_1
 rendered =  T.render page.html
 # ------- db start
 db = {} unless db
+
+
 db[id="5978244ad3cfff7cc5f926b4"] =
   title: "The Great Harvest Moon - Part 1"
   slug: "the-great-harvest-moon-part-1"
@@ -107,7 +109,6 @@ db[id="5978244ad3cfff7cc5f926b4"] =
   site: "59781236d3cfff7cc5f92609"
   accepted: true
   index: false
-  sourcePath: "stjohnsjim/contents/story/the-great-harvest-moon-part-1.md"
   headlines: []
   tags: []
   snippets: "{\"first name\":\"first name\"}"
@@ -122,7 +123,7 @@ db[id="5978244ad3cfff7cc5f926b4"] =
   embargo: "2017-12-31T23:59:59.000Z"
   captureDate: "2017-07-26T05:10:34.217Z"
   TimeStamp: "1501045834217"
-  author: ""
+  author: "Copyright 2010-2018 James A. Hinds: St. John's Jim -- King of Cascadia"
   debug: ""
   id: "5978244ad3cfff7cc5f926b4"
   name: "The Great Harvest Moon - Part 1"

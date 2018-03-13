@@ -149,6 +149,8 @@ page = new coala_harbor_cat
 rendered =  T.render page.html
 # ------- db start
 db = {} unless db
+
+
 db[id="59782449d3cfff7cc5f9264e"] =
   title: "Coala: Harbor Cat"
   slug: "coala-harbor-cat"
@@ -156,7 +158,6 @@ db[id="59782449d3cfff7cc5f9264e"] =
   site: "59781236d3cfff7cc5f92609"
   accepted: true
   index: false
-  sourcePath: "stjohnsjim/contents/california/coala-harbor-cat.md"
   headlines: [
     "Confrontations with Sea Deamons!"
     "Cats Adrift!"
@@ -173,7 +174,7 @@ db[id="59782449d3cfff7cc5f9264e"] =
   embargo: "2011-06-07T17:17:07.000Z"
   captureDate: "2017-07-26T05:10:33.000Z"
   TimeStamp: "1501045833000"
-  author: ""
+  author: "Copyright 2010-2018 James A. Hinds: St. John's Jim -- King of Cascadia"
   debug: ""
   id: "59782449d3cfff7cc5f9264e"
   name: "Coala: Harbor Cat"

@@ -94,6 +94,8 @@ page = new the_man_who_walked
 rendered =  T.render page.html
 # ------- db start
 db = {} unless db
+
+
 db[id="5978244ad3cfff7cc5f926b2"] =
   title: "The Man Who Walked"
   slug: "the-man-who-walked"
@@ -101,7 +103,6 @@ db[id="5978244ad3cfff7cc5f926b2"] =
   site: "59781236d3cfff7cc5f92609"
   accepted: true
   index: false
-  sourcePath: "stjohnsjim/contents/story/the-man-who-walked.md"
   headlines: []
   tags: []
   snippets: "{}"
@@ -114,7 +115,7 @@ db[id="5978244ad3cfff7cc5f926b2"] =
   embargo: "2017-12-31T23:59:59.000Z"
   captureDate: "2017-07-26T05:10:34.217Z"
   TimeStamp: "1501045834217"
-  author: ""
+  author: "Copyright 2010-2018 James A. Hinds: St. John's Jim -- King of Cascadia"
   debug: ""
   id: "5978244ad3cfff7cc5f926b2"
   name: "The Man Who Walked"

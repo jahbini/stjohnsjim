@@ -109,6 +109,8 @@ page = new valerie_flees_to_confusistan
 rendered =  T.render page.html
 # ------- db start
 db = {} unless db
+
+
 db[id="5978244ad3cfff7cc5f926ba"] =
   title: "Valerie flees to Confusistan"
   slug: "valerie-flees-to-confusistan"
@@ -116,7 +118,6 @@ db[id="5978244ad3cfff7cc5f926ba"] =
   site: "59781236d3cfff7cc5f92609"
   accepted: true
   index: false
-  sourcePath: "stjohnsjim/contents/story/valerie-flees-to-confusistan.md"
   headlines: []
   tags: []
   snippets: "{\"svtower\":\"svtower\"}"
@@ -129,7 +130,7 @@ db[id="5978244ad3cfff7cc5f926ba"] =
   embargo: "2017-12-31T23:59:59.000Z"
   captureDate: "2017-07-26T05:10:34.220Z"
   TimeStamp: "1501045834220"
-  author: ""
+  author: "Copyright 2010-2018 James A. Hinds: St. John's Jim -- King of Cascadia"
   debug: ""
   id: "5978244ad3cfff7cc5f926ba"
   name: "Valerie flees to Confusistan"

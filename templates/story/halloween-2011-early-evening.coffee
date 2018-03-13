@@ -102,6 +102,8 @@ page = new halloween_2011_early_evening
 rendered =  T.render page.html
 # ------- db start
 db = {} unless db
+
+
 db[id="59782449d3cfff7cc5f92630"] =
   title: "Halloween 2011 -- Early Evening"
   slug: "halloween-2011-early-evening"
@@ -109,7 +111,6 @@ db[id="59782449d3cfff7cc5f92630"] =
   site: "59781236d3cfff7cc5f92609"
   accepted: true
   index: false
-  sourcePath: "stjohnsjim/contents/story/halloween-2011-early-evening.md"
   headlines: []
   tags: []
   snippets: "{\"halloend\":\"halloend\"}"
@@ -124,7 +125,7 @@ db[id="59782449d3cfff7cc5f92630"] =
   embargo: "2017-12-31T23:59:59.000Z"
   captureDate: "2017-07-26T05:10:33.156Z"
   TimeStamp: "1501045833156"
-  author: ""
+  author: "Copyright 2010-2018 James A. Hinds: St. John's Jim -- King of Cascadia"
   debug: ""
   id: "59782449d3cfff7cc5f92630"
   name: "Halloween 2011 -- Early Evening"

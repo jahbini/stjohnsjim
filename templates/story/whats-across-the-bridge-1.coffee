@@ -100,6 +100,8 @@ page = new whats_across_the_bridge_1
 rendered =  T.render page.html
 # ------- db start
 db = {} unless db
+
+
 db[id="5978244ad3cfff7cc5f926ab"] =
   title: "What's Across the Bridge -- #1"
   slug: "whats-across-the-bridge-1"
@@ -107,7 +109,6 @@ db[id="5978244ad3cfff7cc5f926ab"] =
   site: "59781236d3cfff7cc5f92609"
   accepted: true
   index: false
-  sourcePath: "stjohnsjim/contents/story/whats-across-the-bridge-1.md"
   headlines: []
   tags: []
   snippets: "{}"
@@ -121,7 +122,7 @@ db[id="5978244ad3cfff7cc5f926ab"] =
   embargo: "2017-12-31T23:59:59.000Z"
   captureDate: "2017-07-26T05:10:34.190Z"
   TimeStamp: "1501045834190"
-  author: ""
+  author: "Copyright 2010-2018 James A. Hinds: St. John's Jim -- King of Cascadia"
   debug: ""
   id: "5978244ad3cfff7cc5f926ab"
   name: "What's Across the Bridge -- #1"

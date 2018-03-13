@@ -93,6 +93,8 @@ page = new anna_played_piana
 rendered =  T.render page.html
 # ------- db start
 db = {} unless db
+
+
 db[id="59782449d3cfff7cc5f92610"] =
   title: "Anna Played Piana"
   slug: "anna-played-piana"
@@ -100,7 +102,6 @@ db[id="59782449d3cfff7cc5f92610"] =
   site: "59781236d3cfff7cc5f92609"
   accepted: true
   index: false
-  sourcePath: "stjohnsjim/contents/story/anna-played-piana.md"
   headlines: [
     "Strange, but unlikely"
     "What evil lurks in the minds of headline writers?"
@@ -116,7 +117,7 @@ db[id="59782449d3cfff7cc5f92610"] =
   embargo: "2012-04-03T15:30:27.000Z"
   captureDate: "2017-07-26T05:10:33.000Z"
   TimeStamp: "1501045833000"
-  author: ""
+  author: "Copyright 2010-2018 James A. Hinds: St. John's Jim -- King of Cascadia"
   debug: ""
   id: "59782449d3cfff7cc5f92610"
   name: "Anna Played Piana"

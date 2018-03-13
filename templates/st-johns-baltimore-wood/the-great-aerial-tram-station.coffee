@@ -116,6 +116,8 @@ page = new the_great_aerial_tram_station
 rendered =  T.render page.html
 # ------- db start
 db = {} unless db
+
+
 db[id="5978244ad3cfff7cc5f926aa"] =
   title: "The Great Aerial Tram Station"
   slug: "the-great-aerial-tram-station"
@@ -123,7 +125,6 @@ db[id="5978244ad3cfff7cc5f926aa"] =
   site: "59781236d3cfff7cc5f92609"
   accepted: true
   index: false
-  sourcePath: "stjohnsjim/contents/story/the-great-aerial-tram-station.md"
   headlines: [
     "Leo and Station's Very Odd Internet School"
     "Treetop Transportation from Recycled Materials"
@@ -139,7 +140,7 @@ db[id="5978244ad3cfff7cc5f926aa"] =
   embargo: "2016-04-15T00:00:00.000Z"
   captureDate: "2017-07-26T05:10:34.000Z"
   TimeStamp: "1501045834000"
-  author: ""
+  author: "Copyright 2010-2018 James A. Hinds: St. John's Jim -- King of Cascadia"
   debug: ""
   id: "5978244ad3cfff7cc5f926aa"
   name: "The Great Aerial Tram Station"

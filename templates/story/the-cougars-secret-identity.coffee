@@ -77,6 +77,8 @@ page = new the_cougars_secret_identity
 rendered =  T.render page.html
 # ------- db start
 db = {} unless db
+
+
 db[id="59782449d3cfff7cc5f92618"] =
   title: "The Cougar's Secret Identity"
   slug: "the-cougars-secret-identity"
@@ -84,7 +86,6 @@ db[id="59782449d3cfff7cc5f92618"] =
   site: "59781236d3cfff7cc5f92609"
   accepted: true
   index: false
-  sourcePath: "stjohnsjim/contents/story/the-cougars-secret-identity.md"
   headlines: []
   tags: []
   snippets: "{\"first name\":\"first name\",\"fbgender\":\"fbgender\",\"tcreturn\":\"tcreturn\"}"
@@ -97,7 +98,7 @@ db[id="59782449d3cfff7cc5f92618"] =
   embargo: "2017-12-31T23:59:59.000Z"
   captureDate: "2017-07-26T05:10:33.000Z"
   TimeStamp: "1501045833000"
-  author: ""
+  author: "Copyright 2010-2018 James A. Hinds: St. John's Jim -- King of Cascadia"
   debug: ""
   id: "59782449d3cfff7cc5f92618"
   name: "The Cougar's Secret Identity"

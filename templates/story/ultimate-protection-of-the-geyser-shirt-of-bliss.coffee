@@ -79,6 +79,8 @@ page = new ultimate_protection_of_the_geyser_shirt_of_bliss
 rendered =  T.render page.html
 # ------- db start
 db = {} unless db
+
+
 db[id="5978244ad3cfff7cc5f926a5"] =
   title: "Ultimate Protection of the Geyser Shirt of Bliss"
   slug: "ultimate-protection-of-the-geyser-shirt-of-bliss"
@@ -86,7 +88,6 @@ db[id="5978244ad3cfff7cc5f926a5"] =
   site: "59781236d3cfff7cc5f92609"
   accepted: true
   index: false
-  sourcePath: "stjohnsjim/contents/story/ultimate-protection-of-the-geyser-shirt-of-bliss.md"
   headlines: []
   tags: []
   snippets: "{}"
@@ -97,7 +98,7 @@ db[id="5978244ad3cfff7cc5f926a5"] =
   embargo: "2017-12-31T23:59:59.000Z"
   captureDate: "2017-07-26T05:10:34.170Z"
   TimeStamp: "1501045834170"
-  author: ""
+  author: "Copyright 2010-2018 James A. Hinds: St. John's Jim -- King of Cascadia"
   debug: ""
   id: "5978244ad3cfff7cc5f926a5"
   name: "Ultimate Protection of the Geyser Shirt of Bliss"

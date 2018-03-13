@@ -102,6 +102,8 @@ page = new the_great_bank_robbery
 rendered =  T.render page.html
 # ------- db start
 db = {} unless db
+
+
 db[id="5978244ad3cfff7cc5f926a1"] =
   title: "The Great Bank Robbery"
   slug: "the-great-bank-robbery"
@@ -109,7 +111,6 @@ db[id="5978244ad3cfff7cc5f926a1"] =
   site: "59781236d3cfff7cc5f92609"
   accepted: false
   index: false
-  sourcePath: "stjohnsjim/contents/draft/the-great-bank-robbery.tmd"
   headlines: [
     "Stories of The Bizarre and Normal: Portland, Saipan and elsewhere"
   ]
@@ -122,7 +123,7 @@ db[id="5978244ad3cfff7cc5f926a1"] =
   embargo: "2030-01-01T00:00:00.000Z"
   captureDate: "2017-07-26T05:10:34.000Z"
   TimeStamp: "1501045834000"
-  author: ""
+  author: "Copyright 2010-2018 James A. Hinds: St. John's Jim -- King of Cascadia"
   debug: ""
   id: "5978244ad3cfff7cc5f926a1"
   name: "The Great Bank Robbery"

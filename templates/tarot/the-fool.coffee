@@ -87,6 +87,8 @@ page = new the_fool
 rendered =  T.render page.html
 # ------- db start
 db = {} unless db
+
+
 db[id="5978244ad3cfff7cc5f9269b"] =
   title: "The Fool"
   slug: "the-fool"
@@ -94,7 +96,6 @@ db[id="5978244ad3cfff7cc5f9269b"] =
   site: "59781236d3cfff7cc5f92609"
   accepted: true
   index: false
-  sourcePath: "stjohnsjim/contents/tarot/the-fool.md"
   headlines: []
   tags: []
   snippets: "{\"dizzy\":\"dizzy\",\"contact\":\"contact\"}"
@@ -107,7 +108,7 @@ db[id="5978244ad3cfff7cc5f9269b"] =
   embargo: "2017-12-31T23:59:59.000Z"
   captureDate: "2017-07-26T05:10:34.145Z"
   TimeStamp: "1501045834145"
-  author: ""
+  author: "Copyright 2010-2018 James A. Hinds: St. John's Jim -- King of Cascadia"
   debug: ""
   id: "5978244ad3cfff7cc5f9269b"
   name: "The Fool"

@@ -257,6 +257,8 @@ page = new valkyrie_sms
 rendered =  T.render page.html
 # ------- db start
 db = {} unless db
+
+
 db[id="5978244ad3cfff7cc5f92699"] =
   title: "Valkyrie On-Line"
   slug: "valkyrie-sms"
@@ -264,7 +266,6 @@ db[id="5978244ad3cfff7cc5f92699"] =
   site: "59781236d3cfff7cc5f92609"
   accepted: true
   index: false
-  sourcePath: "stjohnsjim/contents/story/valkyrie-sms.md"
   headlines: [
     "Notes from the Norse Battlefields"
     "life before the afterlife"
@@ -282,7 +283,7 @@ db[id="5978244ad3cfff7cc5f92699"] =
   embargo: "2016-09-19T00:00:00.000Z"
   captureDate: "2017-07-26T05:10:34.147Z"
   TimeStamp: "1501045834147"
-  author: ""
+  author: "Copyright 2010-2018 James A. Hinds: St. John's Jim -- King of Cascadia"
   debug: ""
   id: "5978244ad3cfff7cc5f92699"
   name: "Valkyrie On-Line"

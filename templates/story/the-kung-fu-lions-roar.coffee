@@ -115,6 +115,8 @@ page = new the_kung_fu_lions_roar
 rendered =  T.render page.html
 # ------- db start
 db = {} unless db
+
+
 db[id="5978244ad3cfff7cc5f92697"] =
   title: "The Kung Fu Lion's Roar"
   slug: "the-kung-fu-lions-roar"
@@ -122,7 +124,6 @@ db[id="5978244ad3cfff7cc5f92697"] =
   site: "59781236d3cfff7cc5f92609"
   accepted: true
   index: false
-  sourcePath: "stjohnsjim/contents/story/the-kung-fu-lions-roar.md"
   headlines: []
   tags: []
   snippets: "{}"
@@ -135,7 +136,7 @@ db[id="5978244ad3cfff7cc5f92697"] =
   embargo: "2017-12-31T23:59:59.000Z"
   captureDate: "2017-07-26T05:10:34.141Z"
   TimeStamp: "1501045834141"
-  author: ""
+  author: "Copyright 2010-2018 James A. Hinds: St. John's Jim -- King of Cascadia"
   debug: "snippet"
   id: "5978244ad3cfff7cc5f92697"
   name: "The Kung Fu Lion's Roar"

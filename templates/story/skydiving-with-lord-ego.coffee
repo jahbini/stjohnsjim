@@ -91,6 +91,8 @@ page = new skydiving_with_lord_ego
 rendered =  T.render page.html
 # ------- db start
 db = {} unless db
+
+
 db[id="59782449d3cfff7cc5f92617"] =
   title: "Skydiving with Lord Ego"
   slug: "skydiving-with-lord-ego"
@@ -98,7 +100,6 @@ db[id="59782449d3cfff7cc5f92617"] =
   site: "59781236d3cfff7cc5f92609"
   accepted: true
   index: false
-  sourcePath: "stjohnsjim/contents/story/skydiving-with-lord-ego.md"
   headlines: []
   tags: []
   snippets: "{}"
@@ -111,7 +112,7 @@ db[id="59782449d3cfff7cc5f92617"] =
   embargo: "2017-12-31T23:59:59.000Z"
   captureDate: "2017-07-26T05:10:33.000Z"
   TimeStamp: "1501045833000"
-  author: ""
+  author: "Copyright 2010-2018 James A. Hinds: St. John's Jim -- King of Cascadia"
   debug: ""
   id: "59782449d3cfff7cc5f92617"
   name: "Skydiving with Lord Ego"
