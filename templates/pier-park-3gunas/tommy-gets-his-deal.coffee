@@ -54,7 +54,7 @@ class  tommy_gets_his_deal extends stjohnsjimtemplate
         T.raw "We Are Shocked! Marijuana is a"
         T.a href: "http://www.huffingtonpost.com/2011/09/21/los-angeles-crime-rise-pot-clinics_n_973632.html", => T.raw "menace to society"
         T.raw "that is akin to"
-        T.a href: "http://www.google.com/search?rls=en&amp;amp;q=pornography+crime+statistics&amp;amp;ie=UTF-8&amp;amp;oe=UTF-8", => T.raw "pornography"
+        T.a href: "http://www.google.com/search?rls=en&q=pornography+crime+statistics&ie=UTF-8&oe=UTF-8", => T.raw "pornography"
         T.raw "or"
         T.a href: "http://articles.nydailynews.com/2011-09-10/news/30162428_1_prostitution-cops-priestess", => T.raw "sexual healing! Tantra indeed!"
         T.raw "A blight, a blight on our virtues! Let me say in no uncertain terms, that we need to take these things very, very seriously. When society tells you you have a vice, just say no. We must stay brave, or free. Whatever."

@@ -50,7 +50,7 @@ class  the_mouse_and_the_elephant extends stjohnsjimtemplate
       T.p => T.raw "Over at 3 Gunas Lp, Southwick tells me that Roger let the mouse in.&nbsp;&nbsp;Well, that&rsquo;s the story that Tommy is telling everyone.&nbsp;&nbsp;It&rsquo;s a big deal to Tommy.&nbsp;&nbsp;Not that he is afraid of them, or particularly worried about the&nbsp;hygiene&nbsp;of these critters.&nbsp; They pretty much follow Tommy&rsquo;s standards. Maybe it&rsquo;s because they don&rsquo;t pay rent.&nbsp; That would be a big problem for Tommy.&nbsp; Roger didn&rsquo;t hang around to find out, because, well&hellip; it&rsquo;s none of his business."
       T.p =>
         T.raw "Tommy laid many traps and baits.&nbsp;&nbsp;He checks them.&nbsp;&nbsp;He gets a rush of happy if one is moved, and has it all in a&nbsp;"
-        T.a href: "http://www.fantasticforum.com/1res/printthread.php?s=2f9b0b2067189f83d161350e300fd206&amp;amp;threadid=6438", => T.raw "CIA dossier"
+        T.a href: "http://www.fantasticforum.com/1res/printthread.php?s=2f9b0b2067189f83d161350e300fd206&threadid=6438", => T.raw "CIA dossier"
         T.raw ".&nbsp;&nbsp;Like I say, It&rsquo;s a&nbsp;"
         T.a href: "http://www.wistv.com/Global/story.asp?S=13465624", => T.raw "big deal to Tommy"
         T.raw "."
@@ -64,14 +64,14 @@ class  the_mouse_and_the_elephant extends stjohnsjimtemplate
         T.raw ", and the"
         T.a href: "http://blissblvd.com/the-tarot/ten-of-pentacles/", => T.raw "Ten of Pentacles"
         T.raw ". (At this point Kermit shouts: &ldquo;"
-        T.a href: "http://www.youtube.com/watch?v=hpiIWMWWVco&amp;amp;feature=fvw", => T.raw "Ten of Pentacles!&nbsp;&nbsp;Yaay!"
+        T.a href: "http://www.youtube.com/watch?v=hpiIWMWWVco&feature=fvw", => T.raw "Ten of Pentacles!&nbsp;&nbsp;Yaay!"
         T.raw "&rdquo;)"
       T.p =>
         T.a href: "http://www.ge.com/company/history/edison.htm", => T.raw "Thomas Edison"
         T.raw "&nbsp;is our revered national treasure of creativity. &nbsp;Well earned and well deserved.&nbsp;&nbsp;We all know of his light bulbs and persistence.&nbsp;"
       T.p =>
         T.raw "But it was more than persistence.&nbsp;&nbsp;He pursued his visions with a steam roller of passion!&nbsp;&nbsp;Hot blooded kill or be killed passion.&nbsp;&nbsp;At least when it came to&nbsp;"
-        T.a href: "http://www.google.com/search?q=edison+electrocutes+elephant&amp;amp;ie=UTF-8&amp;amp;oe=UTF-8", => T.raw "publically torturing elephants"
+        T.a href: "http://www.google.com/search?q=edison+electrocutes+elephant&ie=UTF-8&oe=UTF-8", => T.raw "publically torturing elephants"
         T.raw ".&nbsp;&nbsp;He protected his ideas and fought his business enemies with&nbsp;"
         T.a href: "http://www.amazon.com/Empires-Light-Edison-Westinghouse-Electrify/dp/0375758844", => T.raw "Atilla the Lawyer"
         T.raw "."

@@ -62,7 +62,7 @@ class  dentists_electrons_and_kings extends stjohnsjimtemplate
       T.p => T.raw "&nbsp;"
       T.p =>
         T.raw "The appointment took three hours, and my tooth is awaiting final judgement on root-canal or crown or diamond inlay.&nbsp;&nbsp;The good news is that I can have salad dressing without having crazy twitches for hours afterward. &nbsp;The aerial tram ride back was fabulous with Mount Hood in the distance, but the trains ran late, and I missed my usual appointment to gather stories at the"
-        T.a href: "http://www.google.com/maps/ms?ie=UTF8&amp;amp;hl=en&amp;amp;msa=0&amp;amp;msid=114144299215869109392.00049235069b2ceba6d18&amp;amp;ll=45.593201,-122.755716&amp;amp;spn=0.007162,0.014205&amp;amp;t=h&amp;amp;z=16", => T.raw "Open Range Street Person Preserve"
+        T.a href: "http://www.google.com/maps/ms?ie=UTF8&hl=en&msa=0&msid=114144299215869109392.00049235069b2ceba6d18&ll=45.593201,-122.755716&spn=0.007162,0.014205&t=h&z=16", => T.raw "Open Range Street Person Preserve"
         T.raw "in St John’s."
       T.p =>
         T.raw "So,"

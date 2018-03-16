@@ -72,11 +72,11 @@ class  november_stretch extends stjohnsjimtemplate
         T.em => T.raw "&gt; —Hello, 911, This is Southwick. I said “hey buddy , don’t Puke your Mule,” He got all crazy and started attacking me: I’ve locked myself in the “Hope for Health” bathroom, hurry 911, the door won’t last much longer…"
       T.p =>
         T.raw "Nobrow. A very interesting guy: Well read, smart, friendly to everyone, vibrant. Looks like a heavy from an Indiana Jones movie, with"
-        T.a href: "http://www.google.com/search?rls=en&amp;amp;q=will+rogers&amp;amp;ie=UTF-8&amp;amp;oe=UTF-8", => T.raw "Will Roger’s"
+        T.a href: "http://www.google.com/search?rls=en&q=will+rogers&ie=UTF-8&oe=UTF-8", => T.raw "Will Roger’s"
         T.raw "open charm. If he had the proper education, he could have been the president of Harvard."
       T.p =>
         T.raw "But in St. John’s, he is Mr. Street, Mr."
-        T.a href: "http://www.google.com/images?rls=en&amp;amp;q=mr+clean&amp;amp;oe=UTF-8&amp;amp;um=1&amp;amp;ie=UTF-8&amp;amp;source=univ&amp;amp;ei=0IfoTIL0J4aisQPhzPmwCw&amp;amp;sa=X&amp;amp;oi=image_result_group&amp;amp;ct=title&amp;amp;resnum=1&amp;amp;ved=0CC0QsAQwAA&amp;amp;biw=1043&amp;amp;bih=596", => T.raw "Clean Street"
+        T.a href: "http://www.google.com/images?rls=en&q=mr+clean&oe=UTF-8&um=1&ie=UTF-8&source=univ&ei=0IfoTIL0J4aisQPhzPmwCw&sa=X&oi=image_result_group&ct=title&resnum=1&ved=0CC0QsAQwAA&biw=1043&bih=596", => T.raw "Clean Street"
         T.raw ", that is. His pockets are empty mostly, whatever money he does get seems to come from honorable actions. So far, so good: But what is with his relationship with Throntle, needle jungle Throntle, poop smearing Throntle, from Tommy,OR? He just loves her. Plain and simple. Is he on some weird drug or other?"
       T.blockquote =>
         T.p => T.raw "Nobrow has organized the hookers of St John’s to stage a sit-down protest at the food carts until NO Amoebas are there: “We are the lepers of society and we will sit here until the shopkeepers keep those ungodly amoebas away!”"

@@ -48,7 +48,7 @@ class  neither_forest_nor_trees_and_sigh_mentors extends stjohnsjimtemplate
     T.div "#bloviation.article-entry.contents", "dangerously-set-inner-h-t-m-l": "[object Object]", =>
       T.p =>
         T.raw "Late Fraking Blash! The Factory Underground has morphed into a new location above ground at"
-        T.a href: "http://maps.google.com/maps/ms?ie=UTF8&amp;amp;hl=en&amp;amp;msa=0&amp;amp;ll=45.590669,-122.754756&amp;amp;spn=0.002516,0.003551&amp;amp;t=h&amp;amp;z=18&amp;amp;msid=114144299215869109392.0004969fe04ec6e3cc721", => T.raw "John’s Tavern"
+        T.a href: "http://maps.google.com/maps/ms?ie=UTF8&hl=en&msa=0&ll=45.590669,-122.754756&spn=0.002516,0.003551&t=h&z=18&msid=114144299215869109392.0004969fe04ec6e3cc721", => T.raw "John’s Tavern"
         T.raw "! &nbsp;All ages welcome!"
       T.p => T.raw "Southwick was helping his friend the High Priestess of Wands with her dog &mdash; Yup, the bag broke just as he was retrieving the dog&rsquo;s offering to Mother Nature.&nbsp; As he was cleaning the poop off his fingers in November&rsquo;s river, he thought: &ldquo;Aha! I&rsquo;ll start a Doggy Bag recycling-reuse business!&rdquo;"
       T.p => T.raw "That&rsquo;s one kind of Aha! &mdash; maybe not the wisest, Southwick.&nbsp; Another, more rewarding Aha! is when you discover a new way of seeing everyday things.&nbsp; From simple things to learning plant names and uses to more abstract patterns."
@@ -69,14 +69,14 @@ class  neither_forest_nor_trees_and_sigh_mentors extends stjohnsjimtemplate
         T.raw ","
         T.a href: "http://gossipteen.com/", => T.raw "intimate"
         T.raw ","
-        T.a href: "http://www.google.com/search?rls=en&amp;amp;q=celeb+gossip+sites&amp;amp;ie=UTF-8&amp;amp;oe=UTF-8", => T.raw "ageless"
-        T.a href: "http://www.google.com/search?rls=en&amp;amp;q=sports+football+basketball+baseball&amp;amp;ie=UTF-8&amp;amp;oe=UTF-8", => T.raw "gossip"
+        T.a href: "http://www.google.com/search?rls=en&q=celeb+gossip+sites&ie=UTF-8&oe=UTF-8", => T.raw "ageless"
+        T.a href: "http://www.google.com/search?rls=en&q=sports+football+basketball+baseball&ie=UTF-8&oe=UTF-8", => T.raw "gossip"
         T.raw "."
       T.p => T.raw "Next, she showed me a secret place.&nbsp; There are lots of secret places in Waikiki, but this one is in plain sight at Fort DeRussy and goes totally unnoticed."
       T.p => T.raw "You can&rsquo;t see it because it is neither forest nor tree."
       T.p =>
         T.raw "The"
-        T.a href: "http://maps.google.com/maps/ms?&amp;amp;oe=UTF-8&amp;amp;ie=UTF8&amp;amp;hq=&amp;amp;hnear=Waikiki,+Honolulu,+HI&amp;amp;gl=us&amp;amp;ei=Pub6TNb8NYmssAP3w4X3DQ&amp;amp;oi=geocode_result&amp;amp;ved=0CB0Q8gEwAA&amp;amp;hl=en&amp;amp;msa=0&amp;amp;msid=114144299215869109392.0004969f75c0606f90b80&amp;amp;t=h&amp;amp;z=20", => T.raw "secret place"
+        T.a href: "http://maps.google.com/maps/ms?&amp;amp;oe=UTF-8&ie=UTF8&hq=&amp;amp;hnear=Waikiki,+Honolulu,+HI&gl=us&ei=Pub6TNb8NYmssAP3w4X3DQ&oi=geocode_result&ved=0CB0Q8gEwAA&hl=en&msa=0&msid=114144299215869109392.0004969f75c0606f90b80&t=h&z=20", => T.raw "secret place"
         T.raw "is marked by several Emperor palms.&nbsp; These are the big-boy palms.&nbsp; Tall, serious and reassuring as an honest judge.&nbsp; They were laid out in an open rectangle.&nbsp; The open side of the rectangle faced several groups of dancing palms."
       T.p =>
         T.raw "I would imagine it may have been a place for GI weddings during Ft DeRussy&rsquo;s heydays during WWII. &nbsp;Southwick would imagine it was a place for a"
@@ -94,7 +94,7 @@ class  neither_forest_nor_trees_and_sigh_mentors extends stjohnsjimtemplate
         T.raw "&mdash; grouping of elements to make new structure out of smaller parts.&nbsp; It&rsquo;s a pattern that is repeated everywhere in every domain: from quarks to atoms to galaxies; from sounds to syllables to words and speech &mdash; dialects and languages; from genus to phylum.&nbsp; Hero and Mentor.&nbsp; Values and emotions too."
       T.p =>
         T.raw "Hermes Trismegistus ("
-        T.a href: "http://www.google.com/search?rls=en&amp;amp;q=hermes+trismegistus&amp;amp;ie=UTF-8&amp;amp;oe=UTF-8", => T.raw "Hermy"
+        T.a href: "http://www.google.com/search?rls=en&q=hermes+trismegistus&ie=UTF-8&oe=UTF-8", => T.raw "Hermy"
         T.raw "to his friends,)&nbsp;would say: &quot;As above, so below.&quot;"
       T.p => T.raw "I love the &ldquo;Aha!&rdquo; reactions I get pointing out patterns of interaction to people. &mdash; like the concept of easy and difficult rapport: How hard do you have to work to get rapport with someone?&nbsp; Long term relationship with limited rapport? Ugh."
       T.p =>

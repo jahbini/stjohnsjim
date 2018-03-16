@@ -51,9 +51,9 @@ class  ex_employee_spring_given_forcible_escort_out_of extends stjohnsjimtemplat
         T.raw ", Don’t you hate it when a retired worker keeps coming back to the factory and trying to fit in at the old job?"
       T.p =>
         T.raw "After some billions of years, Spring has found herself out of a job. Too many constellations in the Zodiac, import/export costs of weather, the End Times, the"
-        T.a href: "http://www.google.com/search?rls=en&amp;amp;q=bilderberg.org&amp;amp;ie=UTF-8&amp;amp;oe=UTF-8", => T.raw "Bilderburg"
+        T.a href: "http://www.google.com/search?rls=en&q=bilderberg.org&ie=UTF-8&oe=UTF-8", => T.raw "Bilderburg"
         T.raw "group, the"
-        T.a href: "http://www.google.com/search?rls=en&amp;amp;q=haarp&amp;amp;ie=UTF-8&amp;amp;oe=UTF-8", => T.raw "HAARP"
+        T.a href: "http://www.google.com/search?rls=en&q=haarp&ie=UTF-8&oe=UTF-8", => T.raw "HAARP"
         T.raw "project. You pick your own favorite conspiracy – I believe in ‘em all, it keeps my mind flexible. Anyway, a few days ago I reported that St. John’s had dumped spring in favor of Glorious Summer."
       T.p => T.raw "There was the final office party, she got her exit interview and she just blew out of town. She had a good cry that night, and decided to reinvent herself."
       T.p => T.raw "Following my sage advice, Spring went up to the temp agency and found out about the opportunities we have. Spring was told she had to pay for some aptitude testing and now has to come up with money to pay for her employment."

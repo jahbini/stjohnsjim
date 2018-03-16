@@ -1204,3 +1204,9 @@ pre .javascript .function {
  margin-right: 5px;
  display: inline-block;
 }
+a::before {
+    content: " ";
+}
+a::after {
+    content: " ";
+}

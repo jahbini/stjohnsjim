@@ -63,7 +63,7 @@ class  southwicks_deep_background_report_on_3_gunas_lp extends stjohnsjimtemplat
       @tommy()
       T.p =>
         T.raw "Tommy is an interesting guy. We can only wonder about his early years. Swarthy, a bit like"
-        T.a href: "http://www.google.com/images?rls=en&amp;amp;q=stromboli+pinocchio&amp;amp;oe=UTF-8", => T.raw "Stromboli"
+        T.a href: "http://www.google.com/images?rls=en&q=stromboli+pinocchio&oe=UTF-8", => T.raw "Stromboli"
         T.raw ", but with a nordic last name. Raised mostly in New Jersey, but somehow brought out to Portland by Geppetto, who sold his woodcarving business and bought quite a LOT of land here. High priced industrial land. Or, at least that’s the fog that Tommy puts out. Blustery about even very small things out of place. Snores like a razorback in rut. Tommy is an excellent mechanic, loves to take anything apart, but only can put barges, ships, cars and engines back together."
       T.blockquote =>
         T.p => T.raw "Tommy is a professor of workplace ethics for Waterfront U. Mostly there are none. Ethics, that is. He holds the coveted “Mouthpiece” chair."
@@ -86,7 +86,7 @@ class  southwicks_deep_background_report_on_3_gunas_lp extends stjohnsjimtemplat
           T.raw "A dirty, filthy trick. No wonder Tommy wanted to hide."
           T.br()
           T.raw "Well… It gets more fun. It seems that when Wanda left Tommy, she had the admin passwords to Tommy’s computer!!!! Tommy has his remote administration feature turned on, but to Tommy, that’s like saying “"
-          T.a href: "http://www.google.com/search?rls=en&amp;amp;q=%22boff+noff+toff+roff%22&amp;amp;ie=UTF-8&amp;amp;oe=UTF-8", => T.raw "&gt; Boff Noff Toff Roff"
+          T.a href: "http://www.google.com/search?rls=en&q=%22boff+noff+toff+roff%22&ie=UTF-8&oe=UTF-8", => T.raw "&gt; Boff Noff Toff Roff"
           T.raw "&gt; “ – meaningless. Wanda gave the passwords to Carl, who is Windows savvy, and farkeled Tommy’s computer."
         T.p => T.raw "Tommy wants to call the FBI."
       T.p => T.raw "Roger and Southwick’s gab-fest is cut short as Tommy arrives: “Have the Police been here yet?”"

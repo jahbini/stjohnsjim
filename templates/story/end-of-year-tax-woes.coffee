@@ -49,7 +49,7 @@ class  end_of_year_tax_woes extends stjohnsjimtemplate
       T.p => T.raw "The last day of the year may be the last day to play limbo-limbo with the Tax people. This is what happened to Southwick."
       T.p =>
         T.raw "Southwick got handed a Lottery Ticket the other day. If it wins Southwick says he will be able to buy the whole state of Delaware, and is very nervous about the tax consequences. He found that the time to apply for"
-        T.a href: "http://www.google.com/search?rls=en&amp;amp;q=wells+%22rich+and+famous+contract%22&amp;amp;ie=UTF-8&amp;amp;oe=UTF-8", => T.raw "Abc-12-C"
+        T.a href: "http://www.google.com/search?rls=en&q=wells+%22rich+and+famous+contract%22&ie=UTF-8&oe=UTF-8", => T.raw "Abc-12-C"
         T.raw "status expired, and he needs to re-apply with a 2902 form"
       T.p =>
         T.em =>

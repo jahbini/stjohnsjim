@@ -54,13 +54,13 @@ class  st_johns_infirmary extends stjohnsjimtemplate
         T.raw ", he put the Pain in Spain."
       T.p =>
         T.raw "St. John’s lost the political-economic king of the hill game and is now Portland’s"
-        T.a href: "http://www.google.com/search?rls=en&amp;amp;q=hephaestus&amp;amp;ie=UTF-8&amp;amp;oe=UTF-8", => T.raw "Hephaestus"
+        T.a href: "http://www.google.com/search?rls=en&q=hephaestus&ie=UTF-8&oe=UTF-8", => T.raw "Hephaestus"
         T.raw ". Seriously crippled and given"
-        T.a href: "http://www.google.com/images?rls=en&amp;amp;q=images:+st+johns+bridge&amp;amp;oe=UTF-8&amp;amp;um=1&amp;amp;ie=UTF-8&amp;amp;source=og&amp;amp;sa=N&amp;amp;hl=en&amp;amp;tab=wi&amp;amp;biw=1043&amp;amp;bih=596", => T.raw "Venus"
+        T.a href: "http://www.google.com/images?rls=en&q=images:+st+johns+bridge&oe=UTF-8&um=1&ie=UTF-8&source=og&sa=N&hl=en&tab=wi&biw=1043&bih=596", => T.raw "Venus"
         T.raw "as consolation price."
       T.p =>
         T.raw "St. John’s became an inmate in Torqumada’s dream infirmary. We have a gorgeous, world class piece of architecture: We’re talking Eiffel Tower, Big Ben, Parthenon, Taj Mahal, kind of beauty. It’s the"
-        T.a href: "http://www.google.com/images?rls=en&amp;amp;q=images:+st+johns+bridge&amp;amp;oe=UTF-8&amp;amp;um=1&amp;amp;ie=UTF-8&amp;amp;source=og&amp;amp;sa=N&amp;amp;hl=en&amp;amp;tab=wi&amp;amp;biw=1043&amp;amp;bih=596", => T.raw "St. John’s bridge"
+        T.a href: "http://www.google.com/images?rls=en&q=images:+st+johns+bridge&oe=UTF-8&um=1&ie=UTF-8&source=og&sa=N&hl=en&tab=wi&biw=1043&bih=596", => T.raw "St. John’s bridge"
         T.raw "."
       T.p => T.raw "Residents here all know the power of this beauty. Kids, moms, clerks and street bums agree: The bridge is breathtaking. It lifts the souls of The Pentacle Kings of Lombard. It even briefly lifts the souls of Sandy, Throntle, Nobrow and homeless dancing druggies down by the river as they wake to avoid the change in the river level."
       T.p =>

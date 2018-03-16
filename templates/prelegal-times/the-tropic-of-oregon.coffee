@@ -63,7 +63,7 @@ class  the_tropic_of_oregon extends stjohnsjimtemplate
       T.ul =>
         T.li =>
           T.raw "Spiders:  Autumn in Portland is filled with harvest festival activity:  SpiderFest 2010 is running through the end of the month.  Bamboo Willy is currently the &quot;catch-em-wrap-em&quot; champ.  You can see him in his (her?) massive web in the bamboo patch at the corner of"
-          T.a href: "http://maps.google.com/maps/ms?ie=UTF&amp;amp;msa=0&amp;amp;msid=114144299215869109392.0004920b87d0a9c46bbd7", => T.raw "Smith and Chicago"
+          T.a href: "http://maps.google.com/maps/ms?ie=UTF&msa=0&msid=114144299215869109392.0004920b87d0a9c46bbd7", => T.raw "Smith and Chicago"
       T.p => T.raw "The spiders are making for very interesting research.  I’m finding that the aerial mammals that spin webs are the Arachno Dillo and the Arachno Ursus.  This is courting season, and they abandon their reclusive ways for only a few weeks in October. I’ll keep you posted."
   # 
   # section header

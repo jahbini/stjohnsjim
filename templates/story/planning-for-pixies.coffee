@@ -53,7 +53,7 @@ class  planning_for_pixies extends stjohnsjimtemplate
       T.blockquote =>
         T.p =>
           T.raw "No, I mean the Pixie Population! The magical ones. Pier Park is full of pixies, their meetings at odd hours: the ring of mushrooms is living proof of their meetings, and their buzz often fills the afternoon air. Their meetings create fabulous"
-          T.a href: "http://www.google.com/imgres?imgurl=http://www.karinenglish.com/wp-content/uploads/2010/02/sand-mandala.jpg&amp;amp;imgrefurl=http://www.karinenglish.com/%3Fm%3D201002&amp;amp;h=450&amp;amp;w=600&amp;amp;sz=120&amp;amp;tbnid=o4rkmlCy0S3HjM:&amp;amp;tbnh=101&amp;amp;tbnw=135&amp;amp;prev=/images%3Fq%3Dsand%2Bmandala&amp;amp;zoom=1&amp;amp;q=sand+mandala&amp;amp;usg=__Wjo8SPnSP4qUa2ZkFQASIxL1YD4=&amp;amp;sa=X&amp;amp;ei=GHwFTcztEZPWtQOuzaCaDQ&amp;amp;ved=0CCYQ9QEwAg", => T.raw "&gt; buddhist sand mandalas"
+          T.a href: "http://www.google.com/imgres?imgurl=http://www.karinenglish.com/wp-content/uploads/2010/02/sand-mandala.jpg&imgrefurl=http://www.karinenglish.com/%3Fm%3D201002&h=450&w=600&sz=120&tbnid=o4rkmlCy0S3HjM:&amp;amp;tbnh=101&tbnw=135&prev=/images%3Fq%3Dsand%2Bmandala&zoom=1&q=sand+mandala&usg=__Wjo8SPnSP4qUa2ZkFQASIxL1YD4=&amp;amp;sa=X&ei=GHwFTcztEZPWtQOuzaCaDQ&ved=0CCYQ9QEwAg", => T.raw "&gt; buddhist sand mandalas"
           T.raw "&gt;  of chaos that are meant to be swept away. Pixies love Twitter."
       T.p => T.raw "You see, this very day, I woke up to runners in the street. I don’t drive, so it doesn’t bother me, but they had about a half mile fronting Pier Park roped off. A Half Jogette. The Police attended the final moments of the race: the finish was signaled by flashing lights as the cops picked up the cones blocking the street, instead of cheers at the finish line."
       T.p => T.raw "The St. John’s definition of “Half Joggette” seems to have been Half Prepared — no permit."
@@ -66,7 +66,7 @@ class  planning_for_pixies extends stjohnsjimtemplate
         T.raw "Pic: “Will the meeting come to chaos? Please, we adhere strictly to"
         T.a href: "http://en.wikipedia.org/wiki/Boggart", => T.raw "Bogart’s"
         T.raw "“"
-        T.a href: "http://www.google.com/search?&amp;amp;rls=en&amp;amp;q=rules+of+order&amp;amp;ie=UTF-8&amp;amp;oe=UTF-8", => T.raw "lures of chaos."
+        T.a href: "http://www.google.com/search?&amp;amp;rls=en&q=rules+of+order&ie=UTF-8&oe=UTF-8", => T.raw "lures of chaos."
         T.raw "” Zee, Do you have anything that will lure this meeting into chaos?”"
       T.p =>
         T.raw "Zee: “Yes, we have picked the words “"

@@ -60,7 +60,7 @@ class  normalcy extends stjohnsjimtemplate
         T.raw ", like spontaneous combustion: “I’m highest, you are 2nd, you 3rd, 4th, 5th” – “I’m 3rd, Joey’s 4th” – “Nuh uh, he’s not 2nd.” Ms Soccer Mom, are you getting your money’s worth of character building today?"
       T.p =>
         T.raw "I still marvel at the amount of webs. I have been told that the spiders up in"
-        T.a href: "http://www.portlandonline.com/parks/finder/index.cfm?PropertyID=127&amp;amp;action=ViewPark", => T.raw "Forest Park"
+        T.a href: "http://www.portlandonline.com/parks/finder/index.cfm?PropertyID=127&action=ViewPark", => T.raw "Forest Park"
         T.raw "get much bigger. And weirder, too. Some tree shrews have evolved to the point they can make webs. Evolution rules! Take that, Mr. TV Evangelist. I gotta check this lead out."
       T.p =>
         T.raw "Speaking of weird,"

@@ -67,7 +67,7 @@ class  susannas_song extends stjohnsjimtemplate
       T.p =>
         T.div()
         T.raw "“Not if I have anything to say about it.” She ran back to the bright flowers, and taking the ribbon off of the present, she made a plait of flowers, just like the"
-        T.a href: "http://www.google.com/images?um=1&amp;amp;hl=en&amp;amp;rls=en&amp;amp;biw=1031&amp;amp;bih=616&amp;amp;tbs=isch%3A1&amp;amp;sa=1&amp;amp;q=haku+lei&amp;amp;aq=f&amp;amp;aqi=g1&amp;amp;aql=&amp;amp;oq=", => T.raw "haku leis"
+        T.a href: "http://www.google.com/images?um=1&hl=en&rls=en&biw=1031&bih=616&tbs=isch%3A1&sa=1&q=haku+lei&aq=f&aqi=g1&aql=&amp;amp;oq=", => T.raw "haku leis"
         T.raw "she had seen in a magazine”"
       T.p => T.raw "Walking down the hill by the Kenton place, Susanna’s hair and dress blew softly in the breeze. Jenny looked out the window. Their eyes met: Jenny thought “Back off, girl, Kenny is mine!”"
       T.p => T.raw "Susanna gazed back, smiled, and sang to herself, “Not if I have anything to say about it.”"

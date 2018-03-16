@@ -74,7 +74,7 @@ class  the_st_johns_lighthouse_in_the_bardo extends stjohnsjimtemplate
         T.raw "?"
       T.p =>
         T.raw "St. John’s still has hope of reaching the shore on the other side of the gap. &nbsp;Hope: I think it’s somehow related to the Mona Lisa of Infrastructure we have here: The incredibly beautiful"
-        T.a href: "http://www.google.com/images?q=images%3A+st.+johns+bridge&amp;amp;biw=1043&amp;amp;bih=596", => T.raw "St. John’s Bridge"
+        T.a href: "http://www.google.com/images?q=images%3A+st.+johns+bridge&biw=1043&bih=596", => T.raw "St. John’s Bridge"
         T.raw ": Why so Beautiful? Why here where nobody can see it? But there it is: a vision of hope and beauty. &nbsp;Isn’t the cosmic laughter pretty awesome?"
       T.p => T.raw "I’m still in the bardo.&nbsp; Most everybody is in St. John’s. &nbsp;But my writing is getting better, at least I hope so.&nbsp;It’s the bridge. &nbsp;It gives hope that there is another shore on the other side: and until we find it, the view from the St John’s Lighthouse continues to amaze."
       T.p => T.raw "I remain,"

@@ -70,7 +70,7 @@ class  they_leave_the_west_behind extends stjohnsjimtemplate
       T.p => T.raw "Leo: &ldquo;Forget the Soviet Union, I&rsquo;m talking Bogostan. The Bogostani&rsquo;s had electronic surveillance tricks that we are still trying to figure out. It&rsquo;s a country that is so secretive, it erased it self completely from all historical record in 1992. It&rsquo;s mind boggling how they did that, but Georgia owns the technology now. That&rsquo;s why you can&rsquo;t remember. Even now, we are still not sure if Bogostan really exists. That&rsquo;s how good their technology is.&rdquo;"
       T.p =>
         T.raw "Me: &ldquo;What"
-        T.a href: "http://www.google.com/search?rls=en&amp;amp;q=smart+dust&amp;amp;ie=UTF-8&amp;amp;oe=UTF-8", => T.raw "technology"
+        T.a href: "http://www.google.com/search?rls=en&q=smart+dust&ie=UTF-8&oe=UTF-8", => T.raw "technology"
         T.raw "?&rdquo;"
       T.p => T.raw "Leo: &ldquo;The GPS body scanner chips. In the soap, dummy. Don&rsquo;t you read the on-line user&rsquo;s manual for your soap? You had 30 days from first shower, you know. It&rsquo;s referenced in the U.S. Puritan Act under Appendix 23.A.21&mdash; &ldquo;mostly fair use.&rdquo;"
       T.p => T.raw "Me: &ldquo;GPS? What the hell for?&rdquo;"

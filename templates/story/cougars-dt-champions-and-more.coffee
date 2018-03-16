@@ -75,7 +75,7 @@ class  cougars_dt_champions_and_more extends stjohnsjimtemplate
         T.raw ", maybe, That don’t mean anything at all. &nbsp;Raccoons neither.&quot;"
       T.p =>
         T.raw "Sandy told me about the big hairy spiders. &nbsp;The _big_ones. &nbsp;Sandy woke up this morning at the corner of"
-        T.a href: "http://www.google.com/maps/ms?ie=UTF8&amp;amp;hl=en&amp;amp;msa=0&amp;amp;ll=45.5917,-122.75622&amp;amp;spn=0.002516,0.003551&amp;amp;t=h&amp;amp;z=18&amp;amp;msid=114144299215869109392.000492fe5f96ca1a0454a", => T.raw "Chicago and Dumpster"
+        T.a href: "http://www.google.com/maps/ms?ie=UTF8&hl=en&msa=0&ll=45.5917,-122.75622&spn=0.002516,0.003551&t=h&z=18&msid=114144299215869109392.000492fe5f96ca1a0454a", => T.raw "Chicago and Dumpster"
         T.raw "&nbsp; and said he saw one. &nbsp;High up in a tree. &nbsp;As the sun came up it went away – back across the bridge, Sandy says.  Southwick says I should trust him, He is a county champion of Tommy, OR. He won the Delirium Tremens three years in a row… &nbsp;It’s a special thing for public transportation. &nbsp;Maybe Tri-Met gives you a badge and everything."
       T.p => T.raw "Sandy says: &quot;Bear-Spinners cross over the St. John’s Bridge every fall. &nbsp;I seen ‘um. &nbsp;I heard stories from old-timers for years, but now, I seen ‘em!&quot;"
       T.p => T.raw "It seems these Bear-spinners can snatch a baby off the back of a Harley Davidson on a mountain road. Now, these evil things are trying to gain a foothold in the 140’ evergreens of Pier Park. &nbsp;So far, they have been held back by the neighborhood search and siezure parade on October 31st. &nbsp;Kids scare ‘em somehow."

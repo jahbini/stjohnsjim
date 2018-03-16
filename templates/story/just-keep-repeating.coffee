@@ -63,7 +63,7 @@ class  just_keep_repeating extends stjohnsjimtemplate
         T.raw "I’m writing this from deep inside the Green Elephant compound at the Tropic of Oregon’s resort here in St. John’s– I talked to the Rugged Old Dog In Charge: The"
         T.em => T.raw "RODIC"
         T.raw ", it’s an old military term.&nbsp;&nbsp;&nbsp;"
-        T.a href: "http://www.google.com/images?hl=en&amp;amp;rls=en&amp;amp;q=zuul", => T.raw "Zuul"
+        T.a href: "http://www.google.com/images?hl=en&rls=en&q=zuul", => T.raw "Zuul"
         T.raw "has scars of multiple injuries, and if he complained of a few muscle spasms, I’d be the first to believe him.&nbsp;&nbsp;Zuul explains it as simple logistics: somebody’s got to do it."
       T.p => T.raw "&nbsp;"
       T.p => T.raw "Zuul also explains that serious research and taxonomic studies categorize the benefits of various breeds and processes.&nbsp;&nbsp;I ask: &quot;Zuul, is that funny?&nbsp;&nbsp;I’m a serious Ingesticative Journalist&nbsp;looking for a joke here.&quot;&nbsp;&nbsp;&nbsp;Zuul looks me in the eye and says: &quot;Shit, I ain’t the famous writer, you come up with the fucking joke.&nbsp;&nbsp;And by the way, we don’t serve no amoebas here.&nbsp;&nbsp;Can’t get cards, you know.&quot;"

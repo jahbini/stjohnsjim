@@ -93,7 +93,7 @@ class  drizzly_november_grizzly_spinners_and_steinbeck extends stjohnsjimtemplat
       T.p => T.raw "Rumor is that they live high in the trees over at Forest Park.&nbsp; Who knows what horrors will come out of a deep forest spider-cougar commune next year?&nbsp; Southwick, what have you done?"
       T.p =>
         T.raw "The reality? &nbsp;Well, I’m with"
-        T.a href: "http://www.google.com/search?client=safari&amp;amp;rls=en&amp;amp;q=steinbeck&amp;amp;ie=UTF-8&amp;amp;oe=UTF-8", => T.raw "Steinbeck"
+        T.a href: "http://www.google.com/search?client=safari&rls=en&q=steinbeck&ie=UTF-8&oe=UTF-8", => T.raw "Steinbeck"
         T.raw ". I love all my character’s views of reality. &nbsp;The Celarien tells me that they are all 100% correct."
   # 
   # section header

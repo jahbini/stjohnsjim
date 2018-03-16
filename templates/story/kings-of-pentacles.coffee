@@ -79,7 +79,7 @@ class  kings_of_pentacles extends stjohnsjimtemplate
         T.raw "because chalking poop words on the sidewalk hurts business.&nbsp; That&rsquo;s her.&nbsp; Neither Randy or Hamid or anyone hate Throntle, or really look down on her (well, maybe a little bit) but if she behaved (even a little bit!), she&rsquo;d be welcome.&nbsp; Like the wise say: &ldquo;Heroin isn&rsquo;t for everybody.&rdquo;"
       T.p =>
         T.raw "Totally Random question! :::&nbsp;What color are the Pope&rsquo;s Pyjamas?&nbsp; What he wears at night?&nbsp; Without looking it up! &nbsp;Cause that goes"
-        T.a href: "http://www.google.com/search?rls=en&amp;amp;q=the+popes+pajamas&amp;amp;ie=UTF-8&amp;amp;oe=UTF-8", => T.raw "nowhere"
+        T.a href: "http://www.google.com/search?rls=en&q=the+popes+pajamas&ie=UTF-8&oe=UTF-8", => T.raw "nowhere"
         T.raw "! &nbsp;(dont bother clicking that link. &nbsp;it really wont tell you.) &nbsp;Popes make few practical decisions."
       T.p => T.raw "Kings make practical decisions.&nbsp; If you sit down with Hamid and ask &ldquo;why did you make such-and-such a decision&rdquo; &mdash; and he can sit down and explain in simple terms that even a newbie dishwasher can understand."
       T.p =>
@@ -93,9 +93,9 @@ class  kings_of_pentacles extends stjohnsjimtemplate
       T.p => T.raw "A Knight or Page can become a king when the child grows up, to claim and defend the kingdom and husband it&rsquo;s prosperity.&nbsp; Kings are mature, and comfortable with being Practical, Goal Directed, Knowledgeable, Aware and Effective.&nbsp; Because business is business."
       T.p =>
         T.raw "But when one of those essential elements is missing: being Aware, Knowledgeable.&nbsp; Not recognizing practicality. You name it. Then it&rsquo;s French Revolution time, or &ldquo;"
-        T.a href: "http://www.google.com/search?rls=en&amp;amp;q=Lord+save+us+from+the+wrath+of+the+Viking&amp;amp;ie=UTF-8&amp;amp;oe=UTF-8", => T.raw "Lord save us from the wrath of the Vikings"
+        T.a href: "http://www.google.com/search?rls=en&q=Lord+save+us+from+the+wrath+of+the+Viking&ie=UTF-8&oe=UTF-8", => T.raw "Lord save us from the wrath of the Vikings"
         T.raw "&rdquo; or &ldquo;"
-        T.a href: "http://www.google.com/search?rls=en&amp;amp;q=bankruptcy+rise&amp;amp;ie=UTF-8&amp;amp;oe=UTF-8", => T.raw "there isn&rsquo;t much call for buggy-whips anymore"
+        T.a href: "http://www.google.com/search?rls=en&q=bankruptcy+rise&ie=UTF-8&oe=UTF-8", => T.raw "there isn&rsquo;t much call for buggy-whips anymore"
         T.raw "&rdquo;"
       T.p => T.raw "When it comes to business, it takes a king to make king sized decisions with king sized consequences: a King of Pentacles. &nbsp;You now have an idea of what a King must do and why."
       T.p => T.raw "What do you want on your Tombstone? &nbsp;Put this one on mine: &quot;He had a pleasant thought as he went into the light&quot; – and he &quot;never accepted money from amoebas!&quot;"

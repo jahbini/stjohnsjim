@@ -75,11 +75,11 @@ class  enkidu_and_dog_tits extends stjohnsjimtemplate
         T.raw ", let’s stroll to the other end of the garage where Chewbacca wants to give thanks by sharing his"
         T.a href: "http://en.wikipedia.org/wiki/Chewbacca", => T.raw "chew"
         T.raw ". The subject changes to hygiene of shared"
-        T.a href: "http://www.google.com/search?rls=en&amp;amp;q=reaming+the+cake&amp;amp;ie=UTF-8&amp;amp;oe=UTF-8", => T.raw "pipes"
+        T.a href: "http://www.google.com/search?rls=en&q=reaming+the+cake&ie=UTF-8&oe=UTF-8", => T.raw "pipes"
         T.raw ". Southwick prefers wood pipes for wood’s natural antibacterial properties. When challenged, Southwick launches into a"
         T.a href: "http://www.fiftiesweb.com/elvis.htm", => T.raw "hip-pumping"
         T.raw "rant of how “The POWer of TANin CONquers the unHOly VIruses and GERMS!” Southwick gets 86ed as the bouncer’s antlers scoop him up and"
-        T.a href: "http://www.google.com/search?q=soylent+green+the+scoops+are+coming&amp;amp;ie=UTF-8&amp;amp;oe=UTF-8", => T.raw "dump him into the gutter"
+        T.a href: "http://www.google.com/search?q=soylent+green+the+scoops+are+coming&ie=UTF-8&oe=UTF-8", => T.raw "dump him into the gutter"
         T.raw ". Southwick gives thanks that Sandy is already there to break his fall."
       T.p => T.raw "Southwick really wants to be a stand-up comic. Dream on. Don’t give up your day job. Hell, be careful about giving up ANY job."
       T.blockquote =>

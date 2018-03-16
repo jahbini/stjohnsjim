@@ -87,7 +87,7 @@ class  tommy_believes_in_magic extends stjohnsjimtemplate
         T.raw "Tommy, you are still a master"
         T.a href: "http://blissblvd.com/the-tarot/the-magician-major-arcana-i/", => T.raw "magician"
         T.raw ". As the Great Ones remind us: &nbsp;"
-        T.a href: "http://www.google.com/search?rls=en&amp;amp;q=bill++and+ted&amp;amp;ie=UTF-8&amp;amp;oe=UTF-8", => T.raw "Be Excellent to each other, and Party On, Dudes"
+        T.a href: "http://www.google.com/search?rls=en&q=bill++and+ted&ie=UTF-8&oe=UTF-8", => T.raw "Be Excellent to each other, and Party On, Dudes"
         T.raw "."
   # 
   # section header

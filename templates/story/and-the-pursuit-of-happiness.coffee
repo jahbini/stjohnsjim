@@ -71,7 +71,7 @@ class  and_the_pursuit_of_happiness extends stjohnsjimtemplate
         T.raw "."
       T.p =>
         T.raw "Mighty nice, Mr."
-        T.a href: "http://www.google.com/search?rls=en&amp;amp;q=rupert+murdoch+australia&amp;amp;ie=UTF-8&amp;amp;oe=UTF-8", => T.raw "Furriner"
+        T.a href: "http://www.google.com/search?rls=en&q=rupert+murdoch+australia&ie=UTF-8&oe=UTF-8", => T.raw "Furriner"
         T.raw "from Australia, &nbsp;sewing such seeds of domestic discord as your Fox Gnus does.&nbsp; Maybe you could learn from another"
         T.a href: "http://gov.ca.gov/about/arnold", => T.raw "Furriner"
         T.raw ", &nbsp;who seems to ooze domestic tranquility, if not total prosperity for the state of California."

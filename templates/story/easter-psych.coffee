@@ -54,7 +54,7 @@ class  easter_psych extends stjohnsjimtemplate
         T.raw "I find Easter a confusing holiday. It scampers around the calendar like a goat. Too much like Aries. &nbsp;The local Portland custom is wet, with possible cold and wind. &nbsp;As I waited for the ride-share that never came, I thought: Cold, wet and wind is weird for&nbsp;a kama’aina like me. &nbsp;And what about weird local customs like"
         T.a href: "http://www.dailymail.co.uk/news/worldnews/article-1263100/Filipinos-nailed-crosses-whipped-Good-Friday-ritual.html", => T.raw "filipino crucifixion"
         T.raw "or"
-        T.a href: "http://www.thelocal.se/article.php?ID=3525&amp;amp;date=20060411", => T.raw "swedish witches"
+        T.a href: "http://www.thelocal.se/article.php?ID=3525&date=20060411", => T.raw "swedish witches"
         T.raw ". Or weird global customs like Easter Egg hunts."
       T.p =>
         T.raw "So what&rsquo;s this deal? Egg hunts, unlike witches or crucifixion, have nothing to do with established Religious teachings. &nbsp;Now I could go into some anti-religious rant as some others might do, but I’m not going to do that today. &nbsp;However, if you ask, I can point you to wonderful mythological similarities. &nbsp;One of my favorite writers on the subject is"

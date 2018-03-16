@@ -58,9 +58,9 @@ class  dental_ben_gets_86ed extends stjohnsjimtemplate
         T.raw "is immune, somehow.  I think it’s the worm tea, but don’t quote me on that."
       T.p =>
         T.raw "As I passed Bamboo Willy’s place this morning, I noticed his (her?)"
-        T.a href: "http://maps.google.com/maps/ms?ie=UTF8&amp;amp;hl=en&amp;amp;msa=0&amp;amp;msid=114144299215869109392.0004920b87d0a9c46bbd7&amp;amp;t=h&amp;amp;z=21", => T.raw "giant web"
+        T.a href: "http://maps.google.com/maps/ms?ie=UTF8&hl=en&msa=0&msid=114144299215869109392.0004920b87d0a9c46bbd7&t=h&z=21", => T.raw "giant web"
         T.raw "had been washed away by the rain.  A sad loss for our favorite in the &quot;catch-em-wrap-em&quot; event of SpiderFest 2010.  The"
-        T.a href: "http://maps.google.com/maps/ms?ie=UTF8&amp;amp;hl=en&amp;amp;msa=0&amp;amp;ll=45.598863,-122.756526&amp;amp;spn=0.002516,0.003551&amp;amp;t=h&amp;amp;z=18&amp;amp;msid=114144299215869109392.0004929a77b2fc91ba602", => T.raw "Willow twins"
+        T.a href: "http://maps.google.com/maps/ms?ie=UTF8&hl=en&msa=0&ll=45.598863,-122.756526&spn=0.002516,0.003551&t=h&z=18&msid=114144299215869109392.0004929a77b2fc91ba602", => T.raw "Willow twins"
         T.raw "on N St. John’s Ave are currently in the lead."
       T.p => T.raw "I’m not the only one who pays attention to spiders.  We got people who pay attention to them.  Important people.  People like Tommy over at Gunas Lp.  He is concerned that the Mountain Spiders will come down and play catch-em-wrap-em with his Ski-Doos and ATV’s.  He says the big boats and the Corvette are too heavy for the spiders to lift, and he isn’t worried about them.   Southwick tried to tell Tommy that spiders only want living flesh, but Tommy wasn’t convinced: &quot;Basically, we are talking a whole different spider.  And stop talking that Latin shit: ‘Arachno Ursus;’ Nobody’s gonna know what you’re talkin about.  Mom called ‘em Grizzly Spinners, you know, Bear Spiders, the big ones.  They come out of the trees and work in teams.&quot;  Tommy pays attention to the spiders, too."
       T.p =>

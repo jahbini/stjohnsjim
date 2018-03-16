@@ -66,9 +66,9 @@ class  deadwood extends stjohnsjimtemplate
       T.p => T.raw "The rescue party actually arrived in less than a week: The Colonel included.  He had to be there to insure her safety, as he knew he would.  The young scout’s behavior was outrageous, even for a man.  She was considered a filthy whore by most, but she waged a battle disrespect and defiance that was as unique as her gifts as a scout."
       T.p =>
         T.raw "Passions in those days were fueled by"
-        T.a href: "http://www.google.com/search?rls=en&amp;amp;q=blue+state&amp;amp;ie=UTF-8&amp;amp;oe=UTF-8", => T.raw "lust"
+        T.a href: "http://www.google.com/search?rls=en&q=blue+state&ie=UTF-8&oe=UTF-8", => T.raw "lust"
         T.raw "or"
-        T.a href: "http://www.google.com/search?rls=en&amp;amp;q=red+state&amp;amp;ie=UTF-8&amp;amp;oe=UTF-8", => T.raw "righteousness"
+        T.a href: "http://www.google.com/search?rls=en&q=red+state&ie=UTF-8&oe=UTF-8", => T.raw "righteousness"
         T.raw ", just as today.  The scout polarized people in a way which was entirely unlike her true nature."
       T.p => T.raw "Only the Colonel saw her as an essential part of the team and a lady: a woman, and accorded her all the West Point Respect that the military would require he show a General’s wife."
       T.p =>

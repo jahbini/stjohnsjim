@@ -66,7 +66,7 @@ class  islands_on_lombard_street extends stjohnsjimtemplate
         T.raw ", his pinocchio must be enormous. &nbsp;Maybe even in the Guinness book of exaggerations. &nbsp;"
       T.p =>
         T.raw "Behind the dining section, the store is less definite:&nbsp; Cosmetics, yard goods, unassembled manikins, shelves of rental DVD&rsquo;s. &nbsp;If you look, you might find a 1950’s set of aluminum cups in their original container. &nbsp; Patty’s shifts like Hogwarts, and you swear that this is just part of a giant store stuck in the"
-        T.a href: "http://www.google.com/search?rls=en&amp;amp;q=I+like+ike&amp;amp;ie=UTF-8&amp;amp;oe=UTF-8#q=I+like+ike&amp;amp;hl=en&amp;amp;client=safari&amp;amp;rls=en&amp;amp;prmd=iv&amp;amp;source=univ&amp;amp;tbs=vid:1&amp;amp;tbo=u&amp;amp;ei=_mT0TKmNDY3CsAPm06DtCw&amp;amp;sa=X&amp;amp;oi=video_result_group&amp;amp;ct=title&amp;amp;resnum=1&amp;amp;ved=0CCsQqwQwAA&amp;amp;fp=84d1b6a87007f5d5", => T.raw "Eisenhower"
+        T.a href: "http://www.google.com/search?rls=en&q=I+like+ike&ie=UTF-8&oe=UTF-8#q=I+like+ike&hl=en&client=safari&rls=en&prmd=iv&source=univ&tbs=vid:1&tbo=u&ei=_mT0TKmNDY3CsAPm06DtCw&sa=X&oi=video_result_group&ct=title&resnum=1&ved=0CCsQqwQwAA&fp=84d1b6a87007f5d5", => T.raw "Eisenhower"
         T.raw "era: &nbsp;60 years ago."
       T.p => T.raw "–Southwick holds the gypsy’s curse to his head: &quot;Wooo, wooo, wooojy, Take this ticket back to boojy&quot; He continues: &nbsp;&quot;I have successfully sent this curse back to the 11th dimension of Bogus. &nbsp;If any demons come, I will personally tear them new assholes. Spiritually.&quot; &nbsp; Tommy shouts &quot;Hot damn! Holy Demons!&quot;"
       T.p =>

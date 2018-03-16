@@ -55,9 +55,9 @@ class  excuse_my_re_use extends stjohnsjimtemplate
       T.p => T.raw "In the face of these obvious psychological ploys to generate total credibility overload, we are asked to simply have faith. Isn&rsquo;t that the hallmark of a religion? To take facts and logic as enemies of &ldquo;faith?&rdquo;"
       T.p =>
         T.raw "So what&rsquo;s a Portlander to do? To create or dismiss Counterspiricies of moles in the"
-        T.a href: "http://www.google.com/search?rls=en&amp;amp;q=bilderberg&amp;amp;ie=UTF-8&amp;amp;oe=UTF-8", => T.raw "Bilderberg Group"
+        T.a href: "http://www.google.com/search?rls=en&q=bilderberg&ie=UTF-8&oe=UTF-8", => T.raw "Bilderberg Group"
         T.raw "who are secretly controlled by the"
-        T.a href: "http://www.google.com/search?rls=en&amp;amp;q=john+birch+society&amp;amp;ie=UTF-8&amp;amp;oe=UTF-8", => T.raw "John Birch Society"
+        T.a href: "http://www.google.com/search?rls=en&q=john+birch+society&ie=UTF-8&oe=UTF-8", => T.raw "John Birch Society"
         T.raw "? Run and hide? Dig fallout shelters with our blunted plows?"
       T.p => T.raw "Since most of us in Portland are members of the Church of WGAF, we might refuse to follow the lead of the leaders, and bop off on our own direction. For example, our bizarre style sense in Portland is best described as &ldquo;EXCUSE my Re-use.&rdquo; That&rsquo;s why you might see a woman in 30&rsquo;s style evening dress with t-shirt and leather chaps. Or old petticoats worn inside out. Or some color combinations that would shock an elderly chinese woman."
       T.p =>

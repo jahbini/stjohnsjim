@@ -48,13 +48,13 @@ class  omg extends stjohnsjimtemplate
     T.div "#bloviation.article-entry.contents", "dangerously-set-inner-h-t-m-l": "[object Object]", =>
       T.p =>
         T.raw "It&rsquo;s a bright and clear Fall morning.&nbsp; The rain has stopped and the spiders are out again.&nbsp; Spinning webs.&nbsp; Spiderfest 2010 hopeful"
-        T.a href: "http://www.google.com/maps/ms?ie=UTF8&amp;amp;hl=en&amp;amp;msa=0&amp;amp;msid=114144299215869109392.0004920b87d0a9c46bbd7&amp;amp;t=h&amp;amp;z=20", => T.raw "Bamboo Willy"
+        T.a href: "http://www.google.com/maps/ms?ie=UTF8&hl=en&msa=0&msid=114144299215869109392.0004920b87d0a9c46bbd7&t=h&z=20", => T.raw "Bamboo Willy"
         T.raw "didn&rsquo;t make it through the torrents of rain recently and was last seen spiraling down the Smith Street drainage system.&nbsp; I suspect that the Willamette River is his address now."
       T.p =>
         T.raw "The first prize in the"
         T.em => T.raw "catch-em-wrap-em"
         T.raw "contest of Spiderfest 2010 went to the"
-        T.a href: "http://www.google.com/maps/ms?ie=UTF8&amp;amp;hl=en&amp;amp;msa=0&amp;amp;msid=114144299215869109392.0004929a77b2fc91ba602&amp;amp;t=h&amp;amp;z=20", => T.raw "Willow Twins"
+        T.a href: "http://www.google.com/maps/ms?ie=UTF8&hl=en&msa=0&msid=114144299215869109392.0004929a77b2fc91ba602&t=h&z=20", => T.raw "Willow Twins"
         T.raw "on N St. John’s Ave.&nbsp; As i passed them I saw them enjoying the prize: a smelly coral shaped fungus that erupted overnight and is drawing bugs like crazy.&nbsp; I let the twins go on their path:"
         T.em => T.raw "respect"
         T.raw ", my fellow travelers on spaceship earth."
@@ -71,7 +71,7 @@ class  omg extends stjohnsjimtemplate
       T.p => T.raw "Tommy says: &ldquo;These are Oregon rocks.&nbsp; The best.&nbsp; We dredge &lsquo;em up.&nbsp; We got lot&rsquo;s of them at Waterfront U.&nbsp; But that&rsquo;s not the important thing-&nbsp; It&rsquo;s the Grizzly Spinners, they are out tonight, not last night, and the kids won&rsquo;t be out.&nbsp; They&rsquo;ll take over Pier Park!&rdquo;"
       T.p =>
         T.raw "Roger, the Professor of Preventive Maintenance, chimes in: &ldquo;It&rsquo;s no big thing, the cougar will take care of it.&rdquo;&nbsp; &mdash; When pressed about what he knows about the Hawaiian Cougar that Southwick imported, Roger will only say: &ldquo;All I know is that she&rsquo;s not the"
-        T.a href: "http://www.google.com/images?rls=en&amp;amp;q=images:+mahu&amp;amp;oe=UTF-8&amp;amp;um=1&amp;amp;ie=UTF-8&amp;amp;source=univ&amp;amp;ei=mPXNTIGWN4u-sQPP8rjXDg&amp;amp;sa=X&amp;amp;oi=image_result_group&amp;amp;ct=title&amp;amp;resnum=5&amp;amp;ved=0CDYQsAQwBA&amp;amp;biw=1043&amp;amp;bih=596", => T.raw "mahu from Oahu"
+        T.a href: "http://www.google.com/images?rls=en&q=images:+mahu&oe=UTF-8&um=1&ie=UTF-8&source=univ&ei=mPXNTIGWN4u-sQPP8rjXDg&sa=X&oi=image_result_group&ct=title&resnum=5&ved=0CDYQsAQwBA&biw=1043&bih=596", => T.raw "mahu from Oahu"
         T.raw "&rdquo; –"
         T.span ".FBname", => T.raw "Friend"
         T.raw ", what the heck can that mean?"

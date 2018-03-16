@@ -62,7 +62,7 @@ class  the_bully_proof_dance extends stjohnsjimtemplate
         T.raw "What&rsquo;s the catch? &nbsp; This is seriously skillful dancing, not just wiggling in the bar.&nbsp; The dance isn&rsquo;t done in &ldquo;dance halls&rdquo; but is a vigorous and disciplined combat art: the highly respected"
         T.a href: "http://www.onewithheart.com/", => T.raw "Poekoelan Tjimindie Tulen"
         T.raw "&nbsp;here in St John’s at&nbsp;"
-        T.a href: "http://www.google.com/search?rls=en&amp;amp;q=maps+tulen+center&amp;amp;ie=UTF-8&amp;amp;oe=UTF-8", => T.raw "8641 N. Lombard"
+        T.a href: "http://www.google.com/search?rls=en&q=maps+tulen+center&ie=UTF-8&oe=UTF-8", => T.raw "8641 N. Lombard"
         T.raw ".&nbsp;Starting with the most extreme and important physical protection,&nbsp; A person skilled in this art is Obi-Zen about gaining the high ground.&nbsp; Seriously. You learn to create a 24/7 zone of high ground with your brains, coordination, and your body. &nbsp;Dancing to the high ground is taught with great respect:&nbsp; We are talking about learning to avoid and deal with extreme situations."
       T.p => T.raw "The highest ranking gurus of Tulen alive are women.&nbsp; These ladies discovered that females have every ability to excel in the art, and flexibility, speed and muscle control often favor women over men.&nbsp; The instructors, male or female, are the wisest of the bunch, carefully selected and groomed for the physically demanding but emotionally gentle path of instruction you will get: you will find few wiser in any university."
       T.p => T.raw "What&rsquo;s to lose?&nbsp; Your insecurity?&nbsp; What&rsquo;s to gain?&nbsp; Fitness, flexibility, health and wisdom for you and the kids?"

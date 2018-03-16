@@ -53,12 +53,12 @@ class  chaos extends stjohnsjimtemplate
       T.blockquote =>
         T.p =>
           T.raw "Announcing: St. John’s SpewFest (Hey, It’s what we got, and in Oregon, you celebrate what you got. It may be mildewed collar, several levels below blue collar, but there it is.). Location:"
-          T.a href: "http://maps.google.com/maps/ms?ie=UTF8&amp;amp;hl=en&amp;amp;msa=0&amp;amp;msid=114144299215869109392.00049235069b2ceba6d18&amp;amp;t=h&amp;amp;z=20", => T.raw "&gt; Hope for Health Vomitorium"
+          T.a href: "http://maps.google.com/maps/ms?ie=UTF8&hl=en&msa=0&msid=114144299215869109392.00049235069b2ceba6d18&t=h&z=20", => T.raw "&gt; Hope for Health Vomitorium"
           T.raw "&gt; . Amateur Training Events Nightly. Title Events to be announced."
         T.p => T.raw "After the SpewFest event Sandy and Southwick are performing their CD: Tourquemada sings the blues, under the Clock Tower at 2:30AM. Be there, be there, be there!"
       T.p =>
         T.raw "Let me explain — tea-totaller Southwick made friends with Sandy from the Hope for Health bar. Sandy wants to promote the nightly vomitorium distance contests. Sandy is calling in a favor for his “ultimate scoop” of the Cougar/Spider WetDream Melee. Southwick is calling in a favor for getting the Cougar, in her role as"
-        T.a href: "http://www.google.com/search?rls=en&amp;amp;q=rex+king+regent&amp;amp;ie=UTF-8&amp;amp;oe=UTF-8", => T.raw "Rex"
+        T.a href: "http://www.google.com/search?rls=en&q=rex+king+regent&ie=UTF-8&oe=UTF-8", => T.raw "Rex"
         T.a href: "http://www.cirrusimage.com/", => T.raw "Arachno"
         T.raw "-"
         T.a href: "http://wikiality.wikia.com/Bears", => T.raw "Ursus"
@@ -91,7 +91,7 @@ class  chaos extends stjohnsjimtemplate
         T.li => T.raw "Emergency hacking call from a client: His site being hijacked to deliver pron! Horrors! Found Virus. Fixed SiteJacker code. Follow up anti-hacking strategy session. Keep your web sites smelling sweet, kids."
         T.li =>
           T.raw "The Page of Wands delivers an urgent request that SouthWick Appear At The"
-          T.a href: "http://www.facebook.com/event.php?eid=149864738392052&amp;amp;index=1", => T.raw "Grand Tarot Cotillion"
+          T.a href: "http://www.facebook.com/event.php?eid=149864738392052&index=1", => T.raw "Grand Tarot Cotillion"
           T.raw ". Southwick answers the call and since the maid is in Tommy’s union, and the butler is strong arming food carts, Southwick is forced to appear, yet again, without his shit together. He is practicing his {{{AXII:”hanged man”}}} stance."
         T.li =>
           T.raw "Ho Tai shows up for an long awaited interview on mortality, life, ethics and love. In the Tropics, it is always respect"

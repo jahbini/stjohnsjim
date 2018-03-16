@@ -63,7 +63,7 @@ class  the_kung_fu_lions_roar extends stjohnsjimtemplate
         T.raw "for the West,"
         T.a href: "http://www.ecoledebudo.com/", => T.raw "Aikido"
         T.raw ", kung-fu,"
-        T.a href: "http://www.onewithheart.com/index.php?option=com_chronocontact&amp;amp;Itemid=81", => T.raw "Poekoelan Tjimindie Tulen"
+        T.a href: "http://www.onewithheart.com/index.php?option=com_chronocontact&Itemid=81", => T.raw "Poekoelan Tjimindie Tulen"
         T.raw "from Indonesia on the East."
       T.p =>
         T.raw "I have been doing the Poekoelan thing since January. It is a fabulous workout: I’ve lost 30 pounds and finally have abs. It is heavy into Eastern Mystic Tradition, but totally focussed on hand to anything combat. Grab me by the hair? Arm Lock? Head Lock? Full Nelson? Knife? Gun? There is a move for all that. All the moves end in hospital visits for the attacker. Can I do them? No. Heck, I can’t even master “falling down” or it’s more challenging vertical variant: “Standing Up”. But"

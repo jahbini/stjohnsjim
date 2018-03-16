@@ -56,8 +56,8 @@ class  basements_and_foundations_ya_think extends stjohnsjimtemplate
         T.raw "Well, that’s nothing to stop the presses about; except if the"
         T.a href: "http://www.ohs.org/education/oregonhistory/historical_records/dspDocument.cfm?doc_ID=000C54BA-31CA-1E8B-891B80B0527200A7", => T.raw "river rises"
         T.raw "and really stops the presses. That’s happened before in Portland, you know. We have"
-        T.a href: "http://kaga.wsulibs.wsu.edu/cdm-cchm_photo/results.php?CISOOP1=any&amp;amp;CISOFIELD1=title&amp;amp;CISOROOT=/cchm_photo&amp;amp;CISOBOX1=Vanport", => T.raw "lost whole town"
-        T.raw "s to the raging rivers here. (It’s the Katrina of the 1940’s – The President wanted to suppress the “Vanport Sound” which was considered subversive. President Latrine said: “We never figured that the river might rise!” Vanport CouverLand, a musician at the time, said: “He don’t care about worker-folk”)"
+        T.a href: "http://kaga.wsulibs.wsu.edu/cdm-cchm_photo/results.php?CISOOP1=any&CISOFIELD1=title&CISOROOT=/cchm_photo&CISOBOX1=Vanport", "lost whole towns"
+        T.raw "to the raging rivers here. (It’s the Katrina of the 1940’s – The President wanted to suppress the “Vanport Sound” which was considered subversive. President Latrine said: “We never figured that the river might rise!” Vanport CouverLand, a musician at the time, said: “He don’t care about worker-folk”)"
       T.p => T.raw "Thankfully, this December we are only leaking in our basements, and not losing whole towns. That is, if you can be thankful for a leaky basement. (Hosannas! We have leaky Basements!)"
       T.p =>
         T.span ".FBname", => T.raw "Friend"
