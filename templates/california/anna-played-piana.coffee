@@ -122,3 +122,33 @@ db[id="59782449d3cfff7cc5f92610"] =
   id: "59782449d3cfff7cc5f92610"
   name: "Anna Played Piana"
 #
+
+
+
+db[id="stjohnsjim/california/anna-played-piana"] =
+  title: "Anna Played Piana"
+  slug: "anna-played-piana"
+  category: "california"
+  site: "59781236d3cfff7cc5f92609"
+  accepted: true
+  index: false
+  headlines: [
+    "Strange, but unlikely"
+    "What evil lurks in the minds of headline writers?"
+  ]
+  tags: []
+  snippets: "{}"
+  memberOf: [
+    "TAROT"
+  ]
+  created: "2012-04-03T15:30:27.000Z"
+  lastEdited: "2012-04-03T15:30:40.000Z"
+  published: "2012-04-03T15:30:27.000Z"
+  embargo: "2012-04-03T15:30:27.000Z"
+  captureDate: "2017-07-26T05:10:33.000Z"
+  TimeStamp: "1501045833000"
+  author: "Copyright 2010-2018 James A. Hinds: St. John's Jim -- King of Cascadia"
+  debug: ""
+  id: "stjohnsjim/california/anna-played-piana"
+  name: "Anna Played Piana"
+#

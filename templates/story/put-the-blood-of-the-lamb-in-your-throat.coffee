@@ -134,3 +134,32 @@ db[id="59782449d3cfff7cc5f9263d"] =
   id: "59782449d3cfff7cc5f9263d"
   name: "Put the Blood of the Lamb in Your Throat"
 #
+
+
+
+db[id="stjohnsjim/story/put-the-blood-of-the-lamb-in-your-throat"] =
+  title: "Put the Blood of the Lamb in Your Throat"
+  slug: "put-the-blood-of-the-lamb-in-your-throat"
+  category: "story"
+  site: "59781236d3cfff7cc5f92609"
+  accepted: true
+  index: false
+  headlines: []
+  tags: []
+  snippets: "{\"first name\":\"first name\"}"
+  memberOf: [
+    "GUNAS"
+    "TAROT"
+    "PDX"
+  ]
+  created: "2010-10-22T12:07:31.000Z"
+  lastEdited: "2010-10-22T12:53:09.000Z"
+  published: "2010-10-22T12:53:09.000Z"
+  embargo: "2017-12-31T23:59:59.000Z"
+  captureDate: "2017-07-26T05:10:33.161Z"
+  TimeStamp: "1501045833161"
+  author: "Copyright 2010-2018 James A. Hinds: St. John's Jim -- King of Cascadia"
+  debug: ""
+  id: "stjohnsjim/story/put-the-blood-of-the-lamb-in-your-throat"
+  name: "Put the Blood of the Lamb in Your Throat"
+#

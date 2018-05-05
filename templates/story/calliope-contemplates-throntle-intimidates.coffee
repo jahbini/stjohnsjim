@@ -141,3 +141,32 @@ db[id="59782449d3cfff7cc5f9261a"] =
   id: "59782449d3cfff7cc5f9261a"
   name: "Calliope Contemplates, Throntle Intimidates"
 #
+
+
+
+db[id="stjohnsjim/story/calliope-contemplates-throntle-intimidates"] =
+  title: "Calliope Contemplates, Throntle Intimidates"
+  slug: "calliope-contemplates-throntle-intimidates"
+  category: "story"
+  site: "59781236d3cfff7cc5f92609"
+  accepted: true
+  index: false
+  headlines: []
+  tags: []
+  snippets: "{}"
+  memberOf: [
+    "GUNAS"
+    "TAROT"
+    "PDX"
+  ]
+  created: "2010-11-21T15:22:01.000Z"
+  lastEdited: "2011-07-20T13:10:34.000Z"
+  published: "2010-11-21T17:12:25.000Z"
+  embargo: "2017-12-31T23:59:59.000Z"
+  captureDate: "2017-07-26T05:10:33.000Z"
+  TimeStamp: "1501045833000"
+  author: "Copyright 2010-2018 James A. Hinds: St. John's Jim -- King of Cascadia"
+  debug: ""
+  id: "stjohnsjim/story/calliope-contemplates-throntle-intimidates"
+  name: "Calliope Contemplates, Throntle Intimidates"
+#

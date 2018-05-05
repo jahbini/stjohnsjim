@@ -130,3 +130,30 @@ db[id="59782449d3cfff7cc5f9266c"] =
   id: "59782449d3cfff7cc5f9266c"
   name: "Stan and Valerie"
 #
+
+
+
+db[id="stjohnsjim/story/stan-and-valerie"] =
+  title: "Stan and Valerie"
+  slug: "stan-and-valerie"
+  category: "story"
+  site: "59781236d3cfff7cc5f92609"
+  accepted: true
+  index: false
+  headlines: []
+  tags: []
+  snippets: "{}"
+  memberOf: [
+    "TAROT"
+  ]
+  created: "2011-10-16T12:11:34.000Z"
+  lastEdited: "2011-10-16T12:12:41.000Z"
+  published: "2011-10-16T12:11:34.000Z"
+  embargo: "2017-12-31T23:59:59.000Z"
+  captureDate: "2017-07-26T05:10:33.384Z"
+  TimeStamp: "1501045833384"
+  author: "Copyright 2010-2018 James A. Hinds: St. John's Jim -- King of Cascadia"
+  debug: ""
+  id: "stjohnsjim/story/stan-and-valerie"
+  name: "Stan and Valerie"
+#

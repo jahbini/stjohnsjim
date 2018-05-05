@@ -151,3 +151,32 @@ db[id="59782449d3cfff7cc5f92614"] =
   id: "59782449d3cfff7cc5f92614"
   name: "Drizzly November, Grizzly Spinners and Steinbeck"
 #
+
+
+
+db[id="stjohnsjim/story/drizzly-november-grizzly-spinners-and-steinbeck"] =
+  title: "Drizzly November, Grizzly Spinners and Steinbeck"
+  slug: "drizzly-november-grizzly-spinners-and-steinbeck"
+  category: "story"
+  site: "59781236d3cfff7cc5f92609"
+  accepted: true
+  index: false
+  headlines: []
+  tags: []
+  snippets: "{\"first name\":\"first name\"}"
+  memberOf: [
+    "GUNAS"
+    "TAROT"
+    "PDX"
+  ]
+  created: "2010-11-01T14:15:27.000Z"
+  lastEdited: "2010-11-01T18:01:14.000Z"
+  published: "2010-11-01T18:01:14.000Z"
+  embargo: "2017-12-31T23:59:59.000Z"
+  captureDate: "2017-07-26T05:10:33.091Z"
+  TimeStamp: "1501045833091"
+  author: "Copyright 2010-2018 James A. Hinds: St. John's Jim -- King of Cascadia"
+  debug: ""
+  id: "stjohnsjim/story/drizzly-november-grizzly-spinners-and-steinbeck"
+  name: "Drizzly November, Grizzly Spinners and Steinbeck"
+#

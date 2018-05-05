@@ -144,3 +144,32 @@ db[id="59782449d3cfff7cc5f9260f"] =
   id: "59782449d3cfff7cc5f9260f"
   name: "Streetwatch 2011: Whores On Wheels"
 #
+
+
+
+db[id="stjohnsjim/story/streetwatch-2011-whores-on-wheels"] =
+  title: "Streetwatch 2011: Whores On Wheels"
+  slug: "streetwatch-2011-whores-on-wheels"
+  category: "story"
+  site: "59781236d3cfff7cc5f92609"
+  accepted: true
+  index: false
+  headlines: []
+  tags: []
+  snippets: "{\"first name\":\"first name\"}"
+  memberOf: [
+    "GUNAS"
+    "TAROT"
+    "PDX"
+  ]
+  created: "2011-01-04T21:45:14.000Z"
+  lastEdited: "2011-09-10T13:00:41.000Z"
+  published: "2011-01-04T21:45:14.000Z"
+  embargo: "2017-12-31T23:59:59.000Z"
+  captureDate: "2017-07-26T05:10:33.000Z"
+  TimeStamp: "1501045833000"
+  author: "Copyright 2010-2018 James A. Hinds: St. John's Jim -- King of Cascadia"
+  debug: ""
+  id: "stjohnsjim/story/streetwatch-2011-whores-on-wheels"
+  name: "Streetwatch 2011: Whores On Wheels"
+#

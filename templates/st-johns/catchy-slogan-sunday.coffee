@@ -124,3 +124,33 @@ db[id="59782449d3cfff7cc5f92635"] =
   id: "59782449d3cfff7cc5f92635"
   name: "Catchy Slogan Sunday"
 #
+
+
+
+db[id="stjohnsjim/st-johns/catchy-slogan-sunday"] =
+  title: "Catchy Slogan Sunday"
+  slug: "catchy-slogan-sunday"
+  category: "st-johns"
+  site: "59781236d3cfff7cc5f92609"
+  accepted: true
+  index: false
+  headlines: [
+    "Wherin We Meet Bambi Brew"
+  ]
+  tags: []
+  snippets: "{}"
+  memberOf: [
+    "GUNAS"
+    "PDX"
+  ]
+  created: "2010-10-03T16:18:48.000Z"
+  lastEdited: "2010-10-03T17:41:29.000Z"
+  published: "2010-10-03T17:41:29.000Z"
+  embargo: "2010-10-03T17:41:29.000Z"
+  captureDate: "2017-07-26T05:10:33.000Z"
+  TimeStamp: "1501045833000"
+  author: "Copyright 2010-2018 James A. Hinds: St. John's Jim -- King of Cascadia"
+  debug: ""
+  id: "stjohnsjim/st-johns/catchy-slogan-sunday"
+  name: "Catchy Slogan Sunday"
+#

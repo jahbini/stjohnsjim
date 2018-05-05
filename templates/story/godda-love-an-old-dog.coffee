@@ -131,3 +131,31 @@ db[id="59782449d3cfff7cc5f9265c"] =
   id: "59782449d3cfff7cc5f9265c"
   name: "Godda Love an Old Dog"
 #
+
+
+
+db[id="stjohnsjim/story/godda-love-an-old-dog"] =
+  title: "Godda Love an Old Dog"
+  slug: "godda-love-an-old-dog"
+  category: "story"
+  site: "59781236d3cfff7cc5f92609"
+  accepted: true
+  index: false
+  headlines: []
+  tags: []
+  snippets: "{\"first name\":\"first name\"}"
+  memberOf: [
+    "TAROT"
+    "PDX"
+  ]
+  created: "2010-10-21T13:09:50.000Z"
+  lastEdited: "2010-10-23T16:56:07.000Z"
+  published: "2010-10-23T16:56:07.000Z"
+  embargo: "2017-12-31T23:59:59.000Z"
+  captureDate: "2017-07-26T05:10:33.372Z"
+  TimeStamp: "1501045833372"
+  author: "Copyright 2010-2018 James A. Hinds: St. John's Jim -- King of Cascadia"
+  debug: ""
+  id: "stjohnsjim/story/godda-love-an-old-dog"
+  name: "Godda Love an Old Dog"
+#

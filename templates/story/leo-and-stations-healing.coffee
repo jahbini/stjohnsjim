@@ -141,3 +141,32 @@ db[id="59782449d3cfff7cc5f9265d"] =
   id: "59782449d3cfff7cc5f9265d"
   name: "Leo and Station's healing"
 #
+
+
+
+db[id="stjohnsjim/story/leo-and-stations-healing"] =
+  title: "Leo and Station's healing"
+  slug: "leo-and-stations-healing"
+  category: "story"
+  site: "59781236d3cfff7cc5f92609"
+  accepted: true
+  index: false
+  headlines: []
+  tags: []
+  snippets: "{}"
+  memberOf: [
+    "TAO"
+    "TAROT"
+    "PDX"
+  ]
+  created: "2011-06-12T17:43:21.000Z"
+  lastEdited: "2011-06-12T18:26:28.000Z"
+  published: "2011-06-12T18:26:28.000Z"
+  embargo: "2017-12-31T23:59:59.000Z"
+  captureDate: "2017-07-26T05:10:33.379Z"
+  TimeStamp: "1501045833379"
+  author: "Copyright 2010-2018 James A. Hinds: St. John's Jim -- King of Cascadia"
+  debug: ""
+  id: "stjohnsjim/story/leo-and-stations-healing"
+  name: "Leo and Station's healing"
+#

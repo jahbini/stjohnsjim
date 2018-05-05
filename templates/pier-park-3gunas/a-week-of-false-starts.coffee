@@ -147,3 +147,31 @@ db[id="59782449d3cfff7cc5f9265e"] =
   id: "59782449d3cfff7cc5f9265e"
   name: "A Week of False Starts"
 #
+
+
+
+db[id="stjohnsjim/pier-park-3gunas/a-week-of-false-starts"] =
+  title: "A Week of False Starts"
+  slug: "a-week-of-false-starts"
+  category: "pier-park-3gunas"
+  site: "59781236d3cfff7cc5f92609"
+  accepted: true
+  index: false
+  headlines: []
+  tags: []
+  snippets: "{\"comment,soto\":\"comment,soto\",\"comment,voce\":\"comment,voce\",\"roar\":\"roar\"}"
+  memberOf: [
+    "GUNAS"
+    "TAROT"
+  ]
+  created: "2011-01-10T16:18:59.000Z"
+  lastEdited: "2011-11-09T09:36:23.000Z"
+  published: "2011-01-10T17:30:49.000Z"
+  embargo: "2017-12-31T23:59:59.000Z"
+  captureDate: "2017-07-26T05:10:33.000Z"
+  TimeStamp: "1501045833000"
+  author: "Copyright 2010-2018 James A. Hinds: St. John's Jim -- King of Cascadia"
+  debug: "content"
+  id: "stjohnsjim/pier-park-3gunas/a-week-of-false-starts"
+  name: "A Week of False Starts"
+#

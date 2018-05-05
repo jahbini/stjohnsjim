@@ -135,3 +135,30 @@ db[id="5978244ad3cfff7cc5f926a0"] =
   id: "5978244ad3cfff7cc5f926a0"
   name: "The Lovers"
 #
+
+
+
+db[id="stjohnsjim/story/the-lovers"] =
+  title: "The Lovers"
+  slug: "the-lovers"
+  category: "story"
+  site: "59781236d3cfff7cc5f92609"
+  accepted: true
+  index: false
+  headlines: []
+  tags: []
+  snippets: "{}"
+  memberOf: [
+    "TAROT"
+  ]
+  created: "2010-11-16T20:03:00.000Z"
+  lastEdited: "2010-11-16T20:26:40.000Z"
+  published: "2010-11-16T20:26:40.000Z"
+  embargo: "2017-12-31T23:59:59.000Z"
+  captureDate: "2017-07-26T05:10:34.167Z"
+  TimeStamp: "1501045834167"
+  author: "Copyright 2010-2018 James A. Hinds: St. John's Jim -- King of Cascadia"
+  debug: ""
+  id: "stjohnsjim/story/the-lovers"
+  name: "The Lovers"
+#

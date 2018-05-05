@@ -150,3 +150,32 @@ db[id="59782449d3cfff7cc5f92682"] =
   id: "59782449d3cfff7cc5f92682"
   name: "Big Rocks, Burgers and Birds"
 #
+
+
+
+db[id="stjohnsjim/story/big-rocks-burgers-and-birds"] =
+  title: "Big Rocks, Burgers and Birds"
+  slug: "big-rocks-burgers-and-birds"
+  category: "story"
+  site: "59781236d3cfff7cc5f92609"
+  accepted: true
+  index: false
+  headlines: []
+  tags: []
+  snippets: "{\"first name\":\"first name\"}"
+  memberOf: [
+    "GUNAS"
+    "TAROT"
+    "PDX"
+  ]
+  created: "2010-12-23T16:14:14.000Z"
+  lastEdited: "2010-12-23T17:10:49.000Z"
+  published: "2010-12-23T17:10:49.000Z"
+  embargo: "2017-12-31T23:59:59.000Z"
+  captureDate: "2017-07-26T05:10:33.481Z"
+  TimeStamp: "1501045833481"
+  author: "Copyright 2010-2018 James A. Hinds: St. John's Jim -- King of Cascadia"
+  debug: ""
+  id: "stjohnsjim/story/big-rocks-burgers-and-birds"
+  name: "Big Rocks, Burgers and Birds"
+#

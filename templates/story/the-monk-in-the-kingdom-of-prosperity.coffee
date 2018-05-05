@@ -127,3 +127,32 @@ db[id="5978244ad3cfff7cc5f92694"] =
   id: "5978244ad3cfff7cc5f92694"
   name: "The Monk in the Kingdom of Prosperity"
 #
+
+
+
+db[id="stjohnsjim/story/the-monk-in-the-kingdom-of-prosperity"] =
+  title: "The Monk in the Kingdom of Prosperity"
+  slug: "the-monk-in-the-kingdom-of-prosperity"
+  category: "story"
+  site: "59781236d3cfff7cc5f92609"
+  accepted: true
+  index: false
+  headlines: []
+  tags: []
+  snippets: "{}"
+  memberOf: [
+    "TAO"
+    "GUNAS"
+    "TAROT"
+  ]
+  created: "2010-11-27T16:50:25.000Z"
+  lastEdited: "2010-11-27T17:49:49.000Z"
+  published: "2010-11-27T17:49:49.000Z"
+  embargo: "2017-12-31T23:59:59.000Z"
+  captureDate: "2017-07-26T05:10:34.127Z"
+  TimeStamp: "1501045834127"
+  author: "Copyright 2010-2018 James A. Hinds: St. John's Jim -- King of Cascadia"
+  debug: ""
+  id: "stjohnsjim/story/the-monk-in-the-kingdom-of-prosperity"
+  name: "The Monk in the Kingdom of Prosperity"
+#

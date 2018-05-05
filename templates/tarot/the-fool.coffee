@@ -113,3 +113,30 @@ db[id="5978244ad3cfff7cc5f9269b"] =
   id: "5978244ad3cfff7cc5f9269b"
   name: "The Fool"
 #
+
+
+
+db[id="stjohnsjim/tarot/the-fool"] =
+  title: "The Fool"
+  slug: "the-fool"
+  category: "tarot"
+  site: "59781236d3cfff7cc5f92609"
+  accepted: true
+  index: false
+  headlines: []
+  tags: []
+  snippets: "{\"dizzy\":\"dizzy\",\"contact\":\"contact\"}"
+  memberOf: [
+    "TAROT"
+  ]
+  created: "2011-08-30T14:06:31.000Z"
+  lastEdited: "2011-08-30T14:55:31.000Z"
+  published: "2011-08-30T14:55:31.000Z"
+  embargo: "2017-12-31T23:59:59.000Z"
+  captureDate: "2017-07-26T05:10:34.145Z"
+  TimeStamp: "1501045834145"
+  author: "Copyright 2010-2018 James A. Hinds: St. John's Jim -- King of Cascadia"
+  debug: ""
+  id: "stjohnsjim/tarot/the-fool"
+  name: "The Fool"
+#

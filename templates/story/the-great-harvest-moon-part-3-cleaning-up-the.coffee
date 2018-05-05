@@ -131,3 +131,32 @@ db[id="5978244ad3cfff7cc5f9268e"] =
   id: "5978244ad3cfff7cc5f9268e"
   name: "The Great Harvest Moon - Part 3 -- cleaning up the"
 #
+
+
+
+db[id="stjohnsjim/story/the-great-harvest-moon-part-3-cleaning-up-the"] =
+  title: "The Great Harvest Moon - Part 3 -- cleaning up the"
+  slug: "the-great-harvest-moon-part-3-cleaning-up-the"
+  category: "story"
+  site: "59781236d3cfff7cc5f92609"
+  accepted: true
+  index: false
+  headlines: []
+  tags: []
+  snippets: "{\"first name\":\"first name\"}"
+  memberOf: [
+    "GUNAS"
+    "TAROT"
+    "PDX"
+  ]
+  created: "2010-10-01T13:57:08.000Z"
+  lastEdited: "2010-11-21T11:17:38.000Z"
+  published: "2010-11-21T11:17:38.000Z"
+  embargo: "2017-12-31T23:59:59.000Z"
+  captureDate: "2017-07-26T05:10:34.126Z"
+  TimeStamp: "1501045834126"
+  author: "Copyright 2010-2018 James A. Hinds: St. John's Jim -- King of Cascadia"
+  debug: ""
+  id: "stjohnsjim/story/the-great-harvest-moon-part-3-cleaning-up-the"
+  name: "The Great Harvest Moon - Part 3 -- cleaning up the"
+#

@@ -113,3 +113,28 @@ db[id="59782449d3cfff7cc5f9264d"] =
   id: "59782449d3cfff7cc5f9264d"
   name: "Julian Assange Vs Happy Birthday"
 #
+
+
+
+db[id="stjohnsjim/story/julian-assange-vs-happy-birthday"] =
+  title: "Julian Assange Vs Happy Birthday"
+  slug: "julian-assange-vs-happy-birthday"
+  category: "story"
+  site: "59781236d3cfff7cc5f92609"
+  accepted: true
+  index: false
+  headlines: []
+  tags: []
+  snippets: "{\"first name\":\"first name\",\"dentalki\":\"dentalki\"}"
+  memberOf: []
+  created: "2011-01-26T17:43:01.000Z"
+  lastEdited: "2011-09-25T12:01:24.000Z"
+  published: "2011-01-26T17:58:37.000Z"
+  embargo: "2017-12-31T23:59:59.000Z"
+  captureDate: "2017-07-26T05:10:33.283Z"
+  TimeStamp: "1501045833283"
+  author: "Copyright 2010-2018 James A. Hinds: St. John's Jim -- King of Cascadia"
+  debug: ""
+  id: "stjohnsjim/story/julian-assange-vs-happy-birthday"
+  name: "Julian Assange Vs Happy Birthday"
+#

@@ -129,3 +129,31 @@ db[id="59782449d3cfff7cc5f92677"] =
   id: "59782449d3cfff7cc5f92677"
   name: "New Look!"
 #
+
+
+
+db[id="stjohnsjim/announcement/new-look"] =
+  title: "New Look!"
+  slug: "new-look"
+  category: "announcement"
+  site: "59781236d3cfff7cc5f92609"
+  accepted: false
+  index: false
+  headlines: [
+    "New Presses Roll on St John's Jim Stories!"
+    "Stories of The Bizarre and Normal: Portland, Saipan and elsewhere"
+  ]
+  tags: []
+  snippets: "{}"
+  memberOf: []
+  created: "2016-04-08T00:00:00.000Z"
+  lastEdited: "2016-04-06T00:00:00.000Z"
+  published: "2016-04-06T00:00:00.000Z"
+  embargo: "2030-01-01T00:00:00.000Z"
+  captureDate: "2017-07-26T05:10:33.000Z"
+  TimeStamp: "1501045833000"
+  author: "Copyright 2010-2018 James A. Hinds: St. John's Jim -- King of Cascadia"
+  debug: ""
+  id: "stjohnsjim/announcement/new-look"
+  name: "New Look!"
+#

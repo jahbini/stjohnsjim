@@ -119,3 +119,33 @@ db[id="59782449d3cfff7cc5f92672"] =
   id: "59782449d3cfff7cc5f92672"
   name: "Aloha 'Oe to Something"
 #
+
+
+
+db[id="stjohnsjim/island-life-honolulu/aloha-oe-to-something"] =
+  title: "Aloha 'Oe to Something"
+  slug: "aloha-oe-to-something"
+  category: "island-life-honolulu"
+  site: "59781236d3cfff7cc5f92609"
+  accepted: true
+  index: false
+  headlines: [
+    "What Have We Lost? Really"
+    "Did We Ever Get It Right?"
+    "Memories Are Today's Myth"
+    "Honolulu Ghosts"
+  ]
+  tags: []
+  snippets: "{}"
+  memberOf: []
+  created: "2011-03-18T15:48:28.000Z"
+  lastEdited: "2011-03-18T16:01:59.000Z"
+  published: "2011-03-18T16:01:59.000Z"
+  embargo: "2011-03-18T16:01:59.000Z"
+  captureDate: "2017-07-26T05:10:33.000Z"
+  TimeStamp: "1501045833000"
+  author: "Copyright 2010-2018 James A. Hinds: St. John's Jim -- King of Cascadia"
+  debug: ""
+  id: "stjohnsjim/island-life-honolulu/aloha-oe-to-something"
+  name: "Aloha 'Oe to Something"
+#

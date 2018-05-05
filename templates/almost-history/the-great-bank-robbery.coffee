@@ -128,3 +128,30 @@ db[id="5978244ad3cfff7cc5f926a1"] =
   id: "5978244ad3cfff7cc5f926a1"
   name: "The Great Bank Robbery"
 #
+
+
+
+db[id="stjohnsjim/almost-history/the-great-bank-robbery"] =
+  title: "The Great Bank Robbery"
+  slug: "the-great-bank-robbery"
+  category: "almost-history"
+  site: "59781236d3cfff7cc5f92609"
+  accepted: false
+  index: false
+  headlines: [
+    "Stories of The Bizarre and Normal: Portland, Saipan and elsewhere"
+  ]
+  tags: []
+  snippets: "{}"
+  memberOf: []
+  created: "2016-04-08T00:00:00.000Z"
+  lastEdited: "2016-04-06T00:00:00.000Z"
+  published: "2016-04-06T00:00:00.000Z"
+  embargo: "2030-01-01T00:00:00.000Z"
+  captureDate: "2017-07-26T05:10:34.000Z"
+  TimeStamp: "1501045834000"
+  author: "Copyright 2010-2018 James A. Hinds: St. John's Jim -- King of Cascadia"
+  debug: ""
+  id: "stjohnsjim/almost-history/the-great-bank-robbery"
+  name: "The Great Bank Robbery"
+#

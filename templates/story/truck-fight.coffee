@@ -131,3 +131,30 @@ db[id="5978244ad3cfff7cc5f926b0"] =
   id: "5978244ad3cfff7cc5f926b0"
   name: "Truck Fight"
 #
+db[id="stjohnsjim/story/truck-fight"] =
+  title: "Truck Fight"
+  slug: "truck-fight"
+  category: "story"
+  site: "59781236d3cfff7cc5f92609"
+  accepted: true
+  index: false
+  headlines: []
+  tags: []
+  snippets: "{}"
+  memberOf: [
+    "TAO"
+    "GUNAS"
+    "TAROT"
+    "PDX"
+  ]
+  created: "2012-06-01T17:33:14.000Z"
+  lastEdited: "2012-06-01T19:55:39.000Z"
+  published: "2012-06-01T17:33:14.000Z"
+  embargo: "2017-12-31T23:59:59.000Z"
+  captureDate: "2017-07-26T05:10:34.190Z"
+  TimeStamp: "1501045834190"
+  author: "Copyright 2010-2018 James A. Hinds: St. John's Jim -- King of Cascadia"
+  debug: ""
+  id: "stjohnsjim/story/truck-fight"
+  name: "Truck Fight"
+#

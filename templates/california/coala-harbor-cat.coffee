@@ -179,3 +179,34 @@ db[id="59782449d3cfff7cc5f9264e"] =
   id: "59782449d3cfff7cc5f9264e"
   name: "Coala: Harbor Cat"
 #
+
+
+
+db[id="stjohnsjim/california/coala-harbor-cat"] =
+  title: "Coala: Harbor Cat"
+  slug: "coala-harbor-cat"
+  category: "california"
+  site: "59781236d3cfff7cc5f92609"
+  accepted: true
+  index: false
+  headlines: [
+    "Confrontations with Sea Deamons!"
+    "Cats Adrift!"
+    "Dead Cat Tells All!"
+  ]
+  tags: []
+  snippets: "{}"
+  memberOf: [
+    "GUNAS"
+  ]
+  created: "2011-06-07T13:42:29.000Z"
+  lastEdited: "2011-06-07T17:17:07.000Z"
+  published: "2011-06-07T17:17:07.000Z"
+  embargo: "2011-06-07T17:17:07.000Z"
+  captureDate: "2017-07-26T05:10:33.000Z"
+  TimeStamp: "1501045833000"
+  author: "Copyright 2010-2018 James A. Hinds: St. John's Jim -- King of Cascadia"
+  debug: ""
+  id: "stjohnsjim/california/coala-harbor-cat"
+  name: "Coala: Harbor Cat"
+#

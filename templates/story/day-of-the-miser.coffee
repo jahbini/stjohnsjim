@@ -133,3 +133,30 @@ db[id="59782449d3cfff7cc5f9263f"] =
   id: "59782449d3cfff7cc5f9263f"
   name: "Day of the miser"
 #
+
+
+
+db[id="stjohnsjim/story/day-of-the-miser"] =
+  title: "Day of the miser"
+  slug: "day-of-the-miser"
+  category: "story"
+  site: "59781236d3cfff7cc5f92609"
+  accepted: true
+  index: false
+  headlines: []
+  tags: []
+  snippets: "{\"first name\":\"first name\"}"
+  memberOf: [
+    "TAROT"
+  ]
+  created: "2010-11-24T15:26:56.000Z"
+  lastEdited: "2010-11-24T16:48:34.000Z"
+  published: "2010-11-24T16:48:34.000Z"
+  embargo: "2017-12-31T23:59:59.000Z"
+  captureDate: "2017-07-26T05:10:33.273Z"
+  TimeStamp: "1501045833273"
+  author: "Copyright 2010-2018 James A. Hinds: St. John's Jim -- King of Cascadia"
+  debug: ""
+  id: "stjohnsjim/story/day-of-the-miser"
+  name: "Day of the miser"
+#

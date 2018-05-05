@@ -145,3 +145,30 @@ db[id="5978244ad3cfff7cc5f926b3"] =
   id: "5978244ad3cfff7cc5f926b3"
   name: "The Gift of \"Who Are You?\""
 #
+
+
+
+db[id="stjohnsjim/story/the-gift-of-who-are-you"] =
+  title: "The Gift of \"Who Are You?\""
+  slug: "the-gift-of-who-are-you"
+  category: "story"
+  site: "59781236d3cfff7cc5f92609"
+  accepted: true
+  index: false
+  headlines: []
+  tags: []
+  snippets: "{}"
+  memberOf: [
+    "TAROT"
+  ]
+  created: "2011-05-29T16:05:23.000Z"
+  lastEdited: "2011-05-29T16:52:37.000Z"
+  published: "2011-05-29T16:52:37.000Z"
+  embargo: "2017-12-31T23:59:59.000Z"
+  captureDate: "2017-07-26T05:10:34.218Z"
+  TimeStamp: "1501045834218"
+  author: "Copyright 2010-2018 James A. Hinds: St. John's Jim -- King of Cascadia"
+  debug: ""
+  id: "stjohnsjim/story/the-gift-of-who-are-you"
+  name: "The Gift of \"Who Are You?\""
+#

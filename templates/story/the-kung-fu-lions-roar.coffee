@@ -141,3 +141,30 @@ db[id="5978244ad3cfff7cc5f92697"] =
   id: "5978244ad3cfff7cc5f92697"
   name: "The Kung Fu Lion's Roar"
 #
+
+
+
+db[id="stjohnsjim/story/the-kung-fu-lions-roar"] =
+  title: "The Kung Fu Lion's Roar"
+  slug: "the-kung-fu-lions-roar"
+  category: "story"
+  site: "59781236d3cfff7cc5f92609"
+  accepted: true
+  index: false
+  headlines: []
+  tags: []
+  snippets: "{}"
+  memberOf: [
+    "PDX"
+  ]
+  created: "2010-10-16T14:49:56.000Z"
+  lastEdited: "2011-11-08T14:51:21.000Z"
+  published: "2010-10-16T16:47:35.000Z"
+  embargo: "2017-12-31T23:59:59.000Z"
+  captureDate: "2017-07-26T05:10:34.141Z"
+  TimeStamp: "1501045834141"
+  author: "Copyright 2010-2018 James A. Hinds: St. John's Jim -- King of Cascadia"
+  debug: "snippet"
+  id: "stjohnsjim/story/the-kung-fu-lions-roar"
+  name: "The Kung Fu Lion's Roar"
+#

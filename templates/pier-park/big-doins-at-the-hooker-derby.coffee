@@ -132,3 +132,34 @@ db[id="59782449d3cfff7cc5f92661"] =
   id: "59782449d3cfff7cc5f92661"
   name: "Big Doin's at the Hooker Derby"
 #
+
+
+
+db[id="stjohnsjim/pier-park/big-doins-at-the-hooker-derby"] =
+  title: "Big Doin's at the Hooker Derby"
+  slug: "big-doins-at-the-hooker-derby"
+  category: "pier-park"
+  site: "59781236d3cfff7cc5f92609"
+  accepted: true
+  index: false
+  headlines: [
+    "Pier Park at 3AM?"
+    "PNW Hookers Lament the Late Liz Taylor"
+  ]
+  tags: []
+  snippets: "{\"wheelwho\":\"wheelwho\"}"
+  memberOf: [
+    "GUNAS"
+    "TAROT"
+  ]
+  created: "2011-03-23T17:30:57.000Z"
+  lastEdited: "2016-04-15T00:00:00.000Z"
+  published: "2011-03-23T18:04:24.000Z"
+  embargo: "2017-12-31T23:59:59.000Z"
+  captureDate: "2017-07-26T05:10:33.000Z"
+  TimeStamp: "1501045833000"
+  author: "Copyright 2010-2018 James A. Hinds: St. John's Jim -- King of Cascadia"
+  debug: ""
+  id: "stjohnsjim/pier-park/big-doins-at-the-hooker-derby"
+  name: "Big Doin's at the Hooker Derby"
+#

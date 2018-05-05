@@ -103,3 +103,30 @@ db[id="5978244ad3cfff7cc5f92692"] =
   id: "5978244ad3cfff7cc5f92692"
   name: "Tommy County, OR"
 #
+
+
+
+db[id="stjohnsjim/backstory/tommy-county-or"] =
+  title: "Tommy County, OR"
+  slug: "tommy-county-or"
+  category: "backstory"
+  site: "59781236d3cfff7cc5f92609"
+  accepted: true
+  index: false
+  headlines: []
+  tags: []
+  snippets: "{\"3gunas\":\"3gunas\"}"
+  memberOf: [
+    "GUNAS"
+  ]
+  created: "2011-10-03T11:53:50.000Z"
+  lastEdited: "2011-10-03T12:24:21.000Z"
+  published: "2011-10-03T11:53:50.000Z"
+  embargo: "2017-12-31T23:59:59.000Z"
+  captureDate: "2017-07-26T05:10:34.000Z"
+  TimeStamp: "1501045834000"
+  author: "Copyright 2010-2018 James A. Hinds: St. John's Jim -- King of Cascadia"
+  debug: ""
+  id: "stjohnsjim/backstory/tommy-county-or"
+  name: "Tommy County, OR"
+#

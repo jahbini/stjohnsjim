@@ -132,3 +132,30 @@ db[id="59782449d3cfff7cc5f9265a"] =
   id: "59782449d3cfff7cc5f9265a"
   name: "Just keep repeating..."
 #
+
+
+
+db[id="stjohnsjim/story/just-keep-repeating"] =
+  title: "Just keep repeating..."
+  slug: "just-keep-repeating"
+  category: "story"
+  site: "59781236d3cfff7cc5f92609"
+  accepted: true
+  index: false
+  headlines: []
+  tags: []
+  snippets: "{}"
+  memberOf: [
+    "TAROT"
+  ]
+  created: "2010-10-23T16:40:50.000Z"
+  lastEdited: "2010-10-23T16:55:21.000Z"
+  published: "2010-10-23T16:55:21.000Z"
+  embargo: "2017-12-31T23:59:59.000Z"
+  captureDate: "2017-07-26T05:10:33.379Z"
+  TimeStamp: "1501045833379"
+  author: "Copyright 2010-2018 James A. Hinds: St. John's Jim -- King of Cascadia"
+  debug: ""
+  id: "stjohnsjim/story/just-keep-repeating"
+  name: "Just keep repeating..."
+#

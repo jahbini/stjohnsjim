@@ -144,3 +144,32 @@ db[id="59782449d3cfff7cc5f92644"] =
   id: "59782449d3cfff7cc5f92644"
   name: "Dishwasher to the Prickly Tickly"
 #
+
+
+
+db[id="stjohnsjim/story/dishwasher-to-the-prickly-tickly"] =
+  title: "Dishwasher to the Prickly Tickly"
+  slug: "dishwasher-to-the-prickly-tickly"
+  category: "story"
+  site: "59781236d3cfff7cc5f92609"
+  accepted: true
+  index: false
+  headlines: []
+  tags: []
+  snippets: "{\"first name\":\"first name\"}"
+  memberOf: [
+    "GUNAS"
+    "TAROT"
+    "PDX"
+  ]
+  created: "2010-11-11T16:04:08.000Z"
+  lastEdited: "2010-11-11T17:34:53.000Z"
+  published: "2010-11-11T17:34:53.000Z"
+  embargo: "2017-12-31T23:59:59.000Z"
+  captureDate: "2017-07-26T05:10:33.273Z"
+  TimeStamp: "1501045833273"
+  author: "Copyright 2010-2018 James A. Hinds: St. John's Jim -- King of Cascadia"
+  debug: ""
+  id: "stjohnsjim/story/dishwasher-to-the-prickly-tickly"
+  name: "Dishwasher to the Prickly Tickly"
+#

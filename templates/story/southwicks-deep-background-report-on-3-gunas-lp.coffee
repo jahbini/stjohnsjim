@@ -173,3 +173,31 @@ db[id="59782449d3cfff7cc5f9261f"] =
   id: "59782449d3cfff7cc5f9261f"
   name: "Southwick's Deep Background Report on 3 Gunas Lp"
 #
+
+
+
+db[id="stjohnsjim/story/southwicks-deep-background-report-on-3-gunas-lp"] =
+  title: "Southwick's Deep Background Report on 3 Gunas Lp"
+  slug: "southwicks-deep-background-report-on-3-gunas-lp"
+  category: "story"
+  site: "59781236d3cfff7cc5f92609"
+  accepted: true
+  index: false
+  headlines: []
+  tags: []
+  snippets: "{}"
+  memberOf: [
+    "GUNAS"
+    "TAROT"
+  ]
+  created: "2010-11-13T15:26:15.000Z"
+  lastEdited: "2011-10-03T12:23:02.000Z"
+  published: "2010-11-13T18:15:27.000Z"
+  embargo: "2017-12-31T23:59:59.000Z"
+  captureDate: "2017-07-26T05:10:33.107Z"
+  TimeStamp: "1501045833107"
+  author: "Copyright 2010-2018 James A. Hinds: St. John's Jim -- King of Cascadia"
+  debug: ""
+  id: "stjohnsjim/story/southwicks-deep-background-report-on-3-gunas-lp"
+  name: "Southwick's Deep Background Report on 3 Gunas Lp"
+#

@@ -117,3 +117,30 @@ db[id="59782449d3cfff7cc5f92617"] =
   id: "59782449d3cfff7cc5f92617"
   name: "Skydiving with Lord Ego"
 #
+
+
+
+db[id="stjohnsjim/story/skydiving-with-lord-ego"] =
+  title: "Skydiving with Lord Ego"
+  slug: "skydiving-with-lord-ego"
+  category: "story"
+  site: "59781236d3cfff7cc5f92609"
+  accepted: true
+  index: false
+  headlines: []
+  tags: []
+  snippets: "{}"
+  memberOf: [
+    "TAROT"
+  ]
+  created: "2010-12-02T17:11:32.000Z"
+  lastEdited: "2010-12-02T17:56:03.000Z"
+  published: "2010-12-02T17:56:03.000Z"
+  embargo: "2017-12-31T23:59:59.000Z"
+  captureDate: "2017-07-26T05:10:33.000Z"
+  TimeStamp: "1501045833000"
+  author: "Copyright 2010-2018 James A. Hinds: St. John's Jim -- King of Cascadia"
+  debug: ""
+  id: "stjohnsjim/story/skydiving-with-lord-ego"
+  name: "Skydiving with Lord Ego"
+#

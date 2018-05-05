@@ -115,3 +115,30 @@ db[id="59782449d3cfff7cc5f9267e"] =
   id: "59782449d3cfff7cc5f9267e"
   name: "Death - XIII"
 #
+
+
+
+db[id="stjohnsjim/tarot/death-xiii"] =
+  title: "Death - XIII"
+  slug: "death-xiii"
+  category: "tarot"
+  site: "59781236d3cfff7cc5f92609"
+  accepted: true
+  index: false
+  headlines: []
+  tags: []
+  snippets: "{}"
+  memberOf: [
+    "TAROT"
+  ]
+  created: "2011-09-03T09:47:20.000Z"
+  lastEdited: "2011-09-03T09:47:20.000Z"
+  published: "2011-09-03T09:47:20.000Z"
+  embargo: "2017-12-31T23:59:59.000Z"
+  captureDate: "2017-07-26T05:10:33.482Z"
+  TimeStamp: "1501045833482"
+  author: "Copyright 2010-2018 James A. Hinds: St. John's Jim -- King of Cascadia"
+  debug: ""
+  id: "stjohnsjim/tarot/death-xiii"
+  name: "Death - XIII"
+#

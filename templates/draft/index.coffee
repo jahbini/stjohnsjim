@@ -103,3 +103,32 @@ db[id="59782449d3cfff7cc5f92660"] =
   id: "59782449d3cfff7cc5f92660"
   name: "Things not ready for human consumption"
 #
+
+
+
+db[id="stjohnsjim/draft/index"] =
+  title: "Things not ready for human consumption"
+  slug: "index"
+  category: "draft"
+  site: "59781236d3cfff7cc5f92609"
+  accepted: false
+  index: true
+  headlines: [
+    "Ms. Stitt gave these an 'F'"
+    "Rewrite these!!"
+    "Interesting, (not really), but ..."
+  ]
+  tags: []
+  snippets: "{}"
+  memberOf: []
+  created: null
+  lastEdited: null
+  published: null
+  embargo: "2030-01-01T00:00:00.000Z"
+  captureDate: "2017-07-26T05:10:33.000Z"
+  TimeStamp: "1501045833000"
+  author: "Copyright 2010-2018 James A. Hinds: St. John's Jim -- King of Cascadia"
+  debug: ""
+  id: "stjohnsjim/draft/index"
+  name: "Things not ready for human consumption"
+#

@@ -156,3 +156,32 @@ db[id="59782449d3cfff7cc5f92613"] =
   id: "59782449d3cfff7cc5f92613"
   name: "Angels and Creatures of the Night"
 #
+
+
+
+db[id="stjohnsjim/story/angels-and-creatures-of-the-night"] =
+  title: "Angels and Creatures of the Night"
+  slug: "angels-and-creatures-of-the-night"
+  category: "story"
+  site: "59781236d3cfff7cc5f92609"
+  accepted: true
+  index: false
+  headlines: []
+  tags: []
+  snippets: "{\"first name\":\"first name\"}"
+  memberOf: [
+    "GUNAS"
+    "TAROT"
+    "PDX"
+  ]
+  created: "2010-10-20T13:51:37.000Z"
+  lastEdited: "2010-10-20T14:34:10.000Z"
+  published: "2010-10-20T14:34:10.000Z"
+  embargo: "2017-12-31T23:59:59.000Z"
+  captureDate: "2017-07-26T05:10:33.000Z"
+  TimeStamp: "1501045833000"
+  author: "Copyright 2010-2018 James A. Hinds: St. John's Jim -- King of Cascadia"
+  debug: ""
+  id: "stjohnsjim/story/angels-and-creatures-of-the-night"
+  name: "Angels and Creatures of the Night"
+#

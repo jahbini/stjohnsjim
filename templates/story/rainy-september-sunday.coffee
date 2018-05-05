@@ -116,3 +116,31 @@ db[id="59782449d3cfff7cc5f92656"] =
   id: "59782449d3cfff7cc5f92656"
   name: "Rainy September Sunday"
 #
+
+
+
+db[id="stjohnsjim/story/rainy-september-sunday"] =
+  title: "Rainy September Sunday"
+  slug: "rainy-september-sunday"
+  category: "story"
+  site: "59781236d3cfff7cc5f92609"
+  accepted: true
+  index: false
+  headlines: []
+  tags: []
+  snippets: "{}"
+  memberOf: [
+    "GUNAS"
+    "TAROT"
+  ]
+  created: "2010-09-26T13:55:40.000Z"
+  lastEdited: "2010-10-24T10:47:53.000Z"
+  published: "2010-10-24T10:47:53.000Z"
+  embargo: "2017-12-31T23:59:59.000Z"
+  captureDate: "2017-07-26T05:10:33.287Z"
+  TimeStamp: "1501045833287"
+  author: "Copyright 2010-2018 James A. Hinds: St. John's Jim -- King of Cascadia"
+  debug: ""
+  id: "stjohnsjim/story/rainy-september-sunday"
+  name: "Rainy September Sunday"
+#

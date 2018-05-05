@@ -108,3 +108,28 @@ db[id="5978244ad3cfff7cc5f9269d"] =
   id: "5978244ad3cfff7cc5f9269d"
   name: "The Seamster's Union"
 #
+
+
+
+db[id="stjohnsjim/story/the-seamsters-union"] =
+  title: "The Seamster's Union"
+  slug: "the-seamsters-union"
+  category: "story"
+  site: "59781236d3cfff7cc5f92609"
+  accepted: true
+  index: false
+  headlines: []
+  tags: []
+  snippets: "{}"
+  memberOf: []
+  created: "2010-09-25T15:04:45.000Z"
+  lastEdited: "2010-11-16T17:10:36.000Z"
+  published: "2010-11-16T17:10:36.000Z"
+  embargo: "2017-12-31T23:59:59.000Z"
+  captureDate: "2017-07-26T05:10:34.145Z"
+  TimeStamp: "1501045834145"
+  author: "Copyright 2010-2018 James A. Hinds: St. John's Jim -- King of Cascadia"
+  debug: ""
+  id: "stjohnsjim/story/the-seamsters-union"
+  name: "The Seamster's Union"
+#

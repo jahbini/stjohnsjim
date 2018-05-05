@@ -134,3 +134,31 @@ db[id="5978244ad3cfff7cc5f926ae"] =
   id: "5978244ad3cfff7cc5f926ae"
   name: "The St. John's Lighthouse in the Bardo"
 #
+
+
+
+db[id="stjohnsjim/story/the-st-johns-lighthouse-in-the-bardo"] =
+  title: "The St. John's Lighthouse in the Bardo"
+  slug: "the-st-johns-lighthouse-in-the-bardo"
+  category: "story"
+  site: "59781236d3cfff7cc5f92609"
+  accepted: true
+  index: false
+  headlines: []
+  tags: []
+  snippets: "{\"first name\":\"first name\"}"
+  memberOf: [
+    "TAROT"
+    "PDX"
+  ]
+  created: "2010-09-25T14:20:18.000Z"
+  lastEdited: "2010-10-15T14:19:46.000Z"
+  published: "2010-10-15T14:19:46.000Z"
+  embargo: "2017-12-31T23:59:59.000Z"
+  captureDate: "2017-07-26T05:10:34.188Z"
+  TimeStamp: "1501045834188"
+  author: "Copyright 2010-2018 James A. Hinds: St. John's Jim -- King of Cascadia"
+  debug: ""
+  id: "stjohnsjim/story/the-st-johns-lighthouse-in-the-bardo"
+  name: "The St. John's Lighthouse in the Bardo"
+#

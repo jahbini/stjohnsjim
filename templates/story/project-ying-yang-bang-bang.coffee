@@ -152,3 +152,30 @@ db[id="59782449d3cfff7cc5f9261d"] =
   id: "59782449d3cfff7cc5f9261d"
   name: "Project Ying Yang Bang Bang"
 #
+
+
+
+db[id="stjohnsjim/story/project-ying-yang-bang-bang"] =
+  title: "Project Ying Yang Bang Bang"
+  slug: "project-ying-yang-bang-bang"
+  category: "story"
+  site: "59781236d3cfff7cc5f92609"
+  accepted: true
+  index: false
+  headlines: []
+  tags: []
+  snippets: "{\"first name\":\"first name\"}"
+  memberOf: [
+    "PDX"
+  ]
+  created: "2011-09-08T14:07:24.000Z"
+  lastEdited: "2011-09-08T14:42:00.000Z"
+  published: "2011-09-08T14:42:00.000Z"
+  embargo: "2017-12-31T23:59:59.000Z"
+  captureDate: "2017-07-26T05:10:33.000Z"
+  TimeStamp: "1501045833000"
+  author: "Copyright 2010-2018 James A. Hinds: St. John's Jim -- King of Cascadia"
+  debug: ""
+  id: "stjohnsjim/story/project-ying-yang-bang-bang"
+  name: "Project Ying Yang Bang Bang"
+#

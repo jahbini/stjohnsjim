@@ -138,3 +138,31 @@ db[id="59782449d3cfff7cc5f92640"] =
   id: "59782449d3cfff7cc5f92640"
   name: "Halloween 2011 -- Midnight Frights!"
 #
+
+
+
+db[id="stjohnsjim/story/halloween-2011-midnight-frights"] =
+  title: "Halloween 2011 -- Midnight Frights!"
+  slug: "halloween-2011-midnight-frights"
+  category: "story"
+  site: "59781236d3cfff7cc5f92609"
+  accepted: true
+  index: false
+  headlines: []
+  tags: []
+  snippets: "{\"halloeve\":\"halloeve\"}"
+  memberOf: [
+    "GUNAS"
+    "TAROT"
+  ]
+  created: "2011-10-31T18:38:59.000Z"
+  lastEdited: "2011-10-31T18:40:40.000Z"
+  published: "2011-10-31T18:39:00.000Z"
+  embargo: "2017-12-31T23:59:59.000Z"
+  captureDate: "2017-07-26T05:10:33.279Z"
+  TimeStamp: "1501045833279"
+  author: "Copyright 2010-2018 James A. Hinds: St. John's Jim -- King of Cascadia"
+  debug: ""
+  id: "stjohnsjim/story/halloween-2011-midnight-frights"
+  name: "Halloween 2011 -- Midnight Frights!"
+#

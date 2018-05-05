@@ -105,3 +105,30 @@ db[id="59782449d3cfff7cc5f9267d"] =
   id: "59782449d3cfff7cc5f9267d"
   name: "Roger Dojer"
 #
+
+
+
+db[id="stjohnsjim/backstory/roger-dojer"] =
+  title: "Roger Dojer"
+  slug: "roger-dojer"
+  category: "backstory"
+  site: "59781236d3cfff7cc5f92609"
+  accepted: true
+  index: false
+  headlines: []
+  tags: []
+  snippets: "{\"rogerobt\":\"rogerobt\"}"
+  memberOf: [
+    "GUNAS"
+  ]
+  created: "2011-08-24T12:52:23.000Z"
+  lastEdited: "2011-09-03T15:37:17.000Z"
+  published: "2011-09-03T15:37:17.000Z"
+  embargo: "2017-12-31T23:59:59.000Z"
+  captureDate: "2017-07-26T05:10:33.000Z"
+  TimeStamp: "1501045833000"
+  author: "Copyright 2010-2018 James A. Hinds: St. John's Jim -- King of Cascadia"
+  debug: ""
+  id: "stjohnsjim/backstory/roger-dojer"
+  name: "Roger Dojer"
+#

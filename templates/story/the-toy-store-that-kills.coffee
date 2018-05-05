@@ -122,3 +122,32 @@ db[id="5978244ad3cfff7cc5f92695"] =
   id: "5978244ad3cfff7cc5f92695"
   name: "The Toy Store that Kills"
 #
+
+
+
+db[id="stjohnsjim/story/the-toy-store-that-kills"] =
+  title: "The Toy Store that Kills"
+  slug: "the-toy-store-that-kills"
+  category: "story"
+  site: "59781236d3cfff7cc5f92609"
+  accepted: true
+  index: false
+  headlines: []
+  tags: []
+  snippets: "{\"first name\":\"first name\"}"
+  memberOf: [
+    "GUNAS"
+    "TAROT"
+    "PDX"
+  ]
+  created: "2010-11-28T16:01:40.000Z"
+  lastEdited: "2010-11-28T17:00:47.000Z"
+  published: "2010-11-28T17:00:47.000Z"
+  embargo: "2017-12-31T23:59:59.000Z"
+  captureDate: "2017-07-26T05:10:34.129Z"
+  TimeStamp: "1501045834129"
+  author: "Copyright 2010-2018 James A. Hinds: St. John's Jim -- King of Cascadia"
+  debug: ""
+  id: "stjohnsjim/story/the-toy-store-that-kills"
+  name: "The Toy Store that Kills"
+#

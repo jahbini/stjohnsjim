@@ -145,3 +145,31 @@ db[id="59782449d3cfff7cc5f92686"] =
   id: "59782449d3cfff7cc5f92686"
   name: "From the St. John's Infirmary -- The Bouncer"
 #
+
+
+
+db[id="stjohnsjim/story/from-the-st-johns-infirmary-the-bouncer"] =
+  title: "From the St. John's Infirmary -- The Bouncer"
+  slug: "from-the-st-johns-infirmary-the-bouncer"
+  category: "story"
+  site: "59781236d3cfff7cc5f92609"
+  accepted: true
+  index: false
+  headlines: []
+  tags: []
+  snippets: "{}"
+  memberOf: [
+    "GUNAS"
+    "TAROT"
+  ]
+  created: "2011-07-23T16:32:02.000Z"
+  lastEdited: "2011-07-23T16:47:06.000Z"
+  published: "2011-07-23T16:47:06.000Z"
+  embargo: "2017-12-31T23:59:59.000Z"
+  captureDate: "2017-07-26T05:10:33.483Z"
+  TimeStamp: "1501045833483"
+  author: "Copyright 2010-2018 James A. Hinds: St. John's Jim -- King of Cascadia"
+  debug: ""
+  id: "stjohnsjim/story/from-the-st-johns-infirmary-the-bouncer"
+  name: "From the St. John's Infirmary -- The Bouncer"
+#

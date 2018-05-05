@@ -125,3 +125,30 @@ db[id="5978244ad3cfff7cc5f92696"] =
   id: "5978244ad3cfff7cc5f92696"
   name: "Tommy's Web Catches Steven and Bambi"
 #
+
+
+
+db[id="stjohnsjim/story/tommys-web-catches-steven-and-bambi"] =
+  title: "Tommy's Web Catches Steven and Bambi"
+  slug: "tommys-web-catches-steven-and-bambi"
+  category: "story"
+  site: "59781236d3cfff7cc5f92609"
+  accepted: true
+  index: false
+  headlines: []
+  tags: []
+  snippets: "{\"first name\":\"first name\"}"
+  memberOf: [
+    "GUNAS"
+  ]
+  created: "2011-10-19T13:12:26.000Z"
+  lastEdited: "2011-10-22T11:38:58.000Z"
+  published: "2011-10-19T13:12:27.000Z"
+  embargo: "2017-12-31T23:59:59.000Z"
+  captureDate: "2017-07-26T05:10:34.129Z"
+  TimeStamp: "1501045834129"
+  author: "Copyright 2010-2018 James A. Hinds: St. John's Jim -- King of Cascadia"
+  debug: ""
+  id: "stjohnsjim/story/tommys-web-catches-steven-and-bambi"
+  name: "Tommy's Web Catches Steven and Bambi"
+#

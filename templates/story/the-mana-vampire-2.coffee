@@ -131,3 +131,31 @@ db[id="5978244ad3cfff7cc5f926b9"] =
   id: "5978244ad3cfff7cc5f926b9"
   name: "The Mana Vampire - 2"
 #
+
+
+
+db[id="stjohnsjim/story/the-mana-vampire-2"] =
+  title: "The Mana Vampire - 2"
+  slug: "the-mana-vampire-2"
+  category: "story"
+  site: "59781236d3cfff7cc5f92609"
+  accepted: true
+  index: false
+  headlines: []
+  tags: []
+  snippets: "{\"first name\":\"first name\"}"
+  memberOf: [
+    "TAROT"
+    "PDX"
+  ]
+  created: "2010-10-15T11:59:59.000Z"
+  lastEdited: "2010-10-15T12:01:45.000Z"
+  published: "2010-10-15T12:01:45.000Z"
+  embargo: "2017-12-31T23:59:59.000Z"
+  captureDate: "2017-07-26T05:10:34.219Z"
+  TimeStamp: "1501045834219"
+  author: "Copyright 2010-2018 James A. Hinds: St. John's Jim -- King of Cascadia"
+  debug: ""
+  id: "stjohnsjim/story/the-mana-vampire-2"
+  name: "The Mana Vampire - 2"
+#

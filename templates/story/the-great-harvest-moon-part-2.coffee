@@ -122,3 +122,32 @@ db[id="5978244ad3cfff7cc5f92698"] =
   id: "5978244ad3cfff7cc5f92698"
   name: "The Great Harvest Moon - Part 2"
 #
+
+
+
+db[id="stjohnsjim/story/the-great-harvest-moon-part-2"] =
+  title: "The Great Harvest Moon - Part 2"
+  slug: "the-great-harvest-moon-part-2"
+  category: "story"
+  site: "59781236d3cfff7cc5f92609"
+  accepted: true
+  index: false
+  headlines: []
+  tags: []
+  snippets: "{\"first name\":\"first name\"}"
+  memberOf: [
+    "GUNAS"
+    "TAROT"
+    "PDX"
+  ]
+  created: "2010-09-30T13:02:18.000Z"
+  lastEdited: "2010-11-21T11:17:30.000Z"
+  published: "2010-11-21T11:17:30.000Z"
+  embargo: "2017-12-31T23:59:59.000Z"
+  captureDate: "2017-07-26T05:10:34.141Z"
+  TimeStamp: "1501045834141"
+  author: "Copyright 2010-2018 James A. Hinds: St. John's Jim -- King of Cascadia"
+  debug: ""
+  id: "stjohnsjim/story/the-great-harvest-moon-part-2"
+  name: "The Great Harvest Moon - Part 2"
+#

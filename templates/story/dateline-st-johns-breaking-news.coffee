@@ -133,3 +133,32 @@ db[id="59782449d3cfff7cc5f9265f"] =
   id: "59782449d3cfff7cc5f9265f"
   name: "Dateline: St. John's! Breaking News!"
 #
+
+
+
+db[id="stjohnsjim/story/dateline-st-johns-breaking-news"] =
+  title: "Dateline: St. John's! Breaking News!"
+  slug: "dateline-st-johns-breaking-news"
+  category: "story"
+  site: "59781236d3cfff7cc5f92609"
+  accepted: true
+  index: false
+  headlines: []
+  tags: []
+  snippets: "{}"
+  memberOf: [
+    "GUNAS"
+    "TAROT"
+    "PDX"
+  ]
+  created: "2012-05-17T15:20:15.000Z"
+  lastEdited: "2012-06-01T19:59:47.000Z"
+  published: "2012-05-17T15:20:15.000Z"
+  embargo: "2017-12-31T23:59:59.000Z"
+  captureDate: "2017-07-26T05:10:33.369Z"
+  TimeStamp: "1501045833369"
+  author: "Copyright 2010-2018 James A. Hinds: St. John's Jim -- King of Cascadia"
+  debug: ""
+  id: "stjohnsjim/story/dateline-st-johns-breaking-news"
+  name: "Dateline: St. John's! Breaking News!"
+#

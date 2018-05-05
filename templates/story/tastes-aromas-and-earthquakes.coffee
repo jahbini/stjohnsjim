@@ -157,3 +157,31 @@ db[id="59782449d3cfff7cc5f9266e"] =
   id: "59782449d3cfff7cc5f9266e"
   name: "Tastes, Aromas and Earthquakes"
 #
+
+
+
+db[id="stjohnsjim/story/tastes-aromas-and-earthquakes"] =
+  title: "Tastes, Aromas and Earthquakes"
+  slug: "tastes-aromas-and-earthquakes"
+  category: "story"
+  site: "59781236d3cfff7cc5f92609"
+  accepted: true
+  index: false
+  headlines: []
+  tags: []
+  snippets: "{}"
+  memberOf: [
+    "GUNAS"
+    "TAROT"
+  ]
+  created: "2010-12-11T17:46:51.000Z"
+  lastEdited: "2010-12-11T20:04:34.000Z"
+  published: "2010-12-11T20:04:34.000Z"
+  embargo: "2017-12-31T23:59:59.000Z"
+  captureDate: "2017-07-26T05:10:33.384Z"
+  TimeStamp: "1501045833384"
+  author: "Copyright 2010-2018 James A. Hinds: St. John's Jim -- King of Cascadia"
+  debug: ""
+  id: "stjohnsjim/story/tastes-aromas-and-earthquakes"
+  name: "Tastes, Aromas and Earthquakes"
+#

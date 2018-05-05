@@ -117,3 +117,32 @@ db[id="59782449d3cfff7cc5f92653"] =
   id: "59782449d3cfff7cc5f92653"
   name: "Ongoing Investigation"
 #
+
+
+
+db[id="stjohnsjim/story/ongoing-investigation"] =
+  title: "Ongoing Investigation"
+  slug: "ongoing-investigation"
+  category: "story"
+  site: "59781236d3cfff7cc5f92609"
+  accepted: true
+  index: false
+  headlines: []
+  tags: []
+  snippets: "{\"first name\":\"first name\"}"
+  memberOf: [
+    "GUNAS"
+    "TAROT"
+    "PDX"
+  ]
+  created: "2010-11-10T17:13:18.000Z"
+  lastEdited: "2010-11-16T17:10:37.000Z"
+  published: "2010-11-16T17:10:37.000Z"
+  embargo: "2017-12-31T23:59:59.000Z"
+  captureDate: "2017-07-26T05:10:33.286Z"
+  TimeStamp: "1501045833286"
+  author: "Copyright 2010-2018 James A. Hinds: St. John's Jim -- King of Cascadia"
+  debug: ""
+  id: "stjohnsjim/story/ongoing-investigation"
+  name: "Ongoing Investigation"
+#

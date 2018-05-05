@@ -129,3 +129,30 @@ db[id="59782449d3cfff7cc5f92657"] =
   id: "59782449d3cfff7cc5f92657"
   name: "St Johns Tweets"
 #
+
+
+
+db[id="stjohnsjim/story/st-johns-tweets"] =
+  title: "St Johns Tweets"
+  slug: "st-johns-tweets"
+  category: "story"
+  site: "59781236d3cfff7cc5f92609"
+  accepted: true
+  index: false
+  headlines: []
+  tags: []
+  snippets: "{}"
+  memberOf: [
+    "PDX"
+  ]
+  created: "2010-10-26T16:15:26.000Z"
+  lastEdited: "2010-10-27T23:55:34.000Z"
+  published: "2010-10-27T23:55:34.000Z"
+  embargo: "2017-12-31T23:59:59.000Z"
+  captureDate: "2017-07-26T05:10:33.289Z"
+  TimeStamp: "1501045833289"
+  author: "Copyright 2010-2018 James A. Hinds: St. John's Jim -- King of Cascadia"
+  debug: ""
+  id: "stjohnsjim/story/st-johns-tweets"
+  name: "St Johns Tweets"
+#

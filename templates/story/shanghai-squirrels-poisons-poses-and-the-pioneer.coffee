@@ -134,3 +134,31 @@ db[id="59782449d3cfff7cc5f92647"] =
   id: "59782449d3cfff7cc5f92647"
   name: "Shanghai Squirrels: Poison's Poses and the Pioneer"
 #
+
+
+
+db[id="stjohnsjim/story/shanghai-squirrels-poisons-poses-and-the-pioneer"] =
+  title: "Shanghai Squirrels: Poison's Poses and the Pioneer"
+  slug: "shanghai-squirrels-poisons-poses-and-the-pioneer"
+  category: "story"
+  site: "59781236d3cfff7cc5f92609"
+  accepted: true
+  index: false
+  headlines: []
+  tags: []
+  snippets: "{}"
+  memberOf: [
+    "GUNAS"
+    "TAROT"
+  ]
+  created: "2011-07-04T12:35:12.000Z"
+  lastEdited: "2011-07-04T15:29:40.000Z"
+  published: "2011-07-04T15:29:40.000Z"
+  embargo: "2017-12-31T23:59:59.000Z"
+  captureDate: "2017-07-26T05:10:33.287Z"
+  TimeStamp: "1501045833287"
+  author: "Copyright 2010-2018 James A. Hinds: St. John's Jim -- King of Cascadia"
+  debug: ""
+  id: "stjohnsjim/story/shanghai-squirrels-poisons-poses-and-the-pioneer"
+  name: "Shanghai Squirrels: Poison's Poses and the Pioneer"
+#

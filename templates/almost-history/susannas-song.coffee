@@ -126,3 +126,30 @@ db[id="59782449d3cfff7cc5f92639"] =
   id: "59782449d3cfff7cc5f92639"
   name: "Susanna's Song"
 #
+
+
+
+db[id="stjohnsjim/almost-history/susannas-song"] =
+  title: "Susanna's Song"
+  slug: "susannas-song"
+  category: "almost-history"
+  site: "59781236d3cfff7cc5f92609"
+  accepted: true
+  index: false
+  headlines: [
+    "Girl Power!"
+  ]
+  tags: []
+  snippets: "{}"
+  memberOf: []
+  created: "2011-01-25T17:51:08.000Z"
+  lastEdited: "2011-01-25T18:34:31.000Z"
+  published: "2011-01-25T18:34:31.000Z"
+  embargo: "2011-01-25T18:34:31.000Z"
+  captureDate: "2017-07-26T05:10:33.000Z"
+  TimeStamp: "1501045833000"
+  author: "Copyright 2010-2018 James A. Hinds: St. John's Jim -- King of Cascadia"
+  debug: ""
+  id: "stjohnsjim/almost-history/susannas-song"
+  name: "Susanna's Song"
+#

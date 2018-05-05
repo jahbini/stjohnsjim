@@ -129,3 +129,32 @@ db[id="59782449d3cfff7cc5f92629"] =
   id: "59782449d3cfff7cc5f92629"
   name: "Normalcy"
 #
+
+
+
+db[id="stjohnsjim/story/normalcy"] =
+  title: "Normalcy"
+  slug: "normalcy"
+  category: "story"
+  site: "59781236d3cfff7cc5f92609"
+  accepted: true
+  index: false
+  headlines: []
+  tags: []
+  snippets: "{\"first name\":\"first name\",\"roger\":\"roger\"}"
+  memberOf: [
+    "GUNAS"
+    "TAROT"
+    "PDX"
+  ]
+  created: "2010-10-02T12:38:52.000Z"
+  lastEdited: "2011-08-24T13:25:29.000Z"
+  published: "2010-10-02T16:19:46.000Z"
+  embargo: "2017-12-31T23:59:59.000Z"
+  captureDate: "2017-07-26T05:10:33.159Z"
+  TimeStamp: "1501045833159"
+  author: "Copyright 2010-2018 James A. Hinds: St. John's Jim -- King of Cascadia"
+  debug: ""
+  id: "stjohnsjim/story/normalcy"
+  name: "Normalcy"
+#

@@ -125,3 +125,30 @@ db[id="59782449d3cfff7cc5f92638"] =
   id: "59782449d3cfff7cc5f92638"
   name: "Roger Dojer's Obituary"
 #
+
+
+
+db[id="stjohnsjim/story/roger-dojers-obituary"] =
+  title: "Roger Dojer's Obituary"
+  slug: "roger-dojers-obituary"
+  category: "story"
+  site: "59781236d3cfff7cc5f92609"
+  accepted: true
+  index: false
+  headlines: []
+  tags: []
+  snippets: "{\"first name\":\"first name\"}"
+  memberOf: [
+    "GUNAS"
+  ]
+  created: "2011-04-13T17:29:02.000Z"
+  lastEdited: "2011-08-24T13:22:26.000Z"
+  published: "2011-04-13T18:24:09.000Z"
+  embargo: "2017-12-31T23:59:59.000Z"
+  captureDate: "2017-07-26T05:10:33.161Z"
+  TimeStamp: "1501045833161"
+  author: "Copyright 2010-2018 James A. Hinds: St. John's Jim -- King of Cascadia"
+  debug: ""
+  id: "stjohnsjim/story/roger-dojers-obituary"
+  name: "Roger Dojer's Obituary"
+#

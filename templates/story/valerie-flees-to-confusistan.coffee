@@ -135,3 +135,30 @@ db[id="5978244ad3cfff7cc5f926ba"] =
   id: "5978244ad3cfff7cc5f926ba"
   name: "Valerie flees to Confusistan"
 #
+
+
+
+db[id="stjohnsjim/story/valerie-flees-to-confusistan"] =
+  title: "Valerie flees to Confusistan"
+  slug: "valerie-flees-to-confusistan"
+  category: "story"
+  site: "59781236d3cfff7cc5f92609"
+  accepted: true
+  index: false
+  headlines: []
+  tags: []
+  snippets: "{\"svtower\":\"svtower\"}"
+  memberOf: [
+    "TAROT"
+  ]
+  created: "2011-10-17T14:00:24.000Z"
+  lastEdited: "2011-11-20T11:22:32.000Z"
+  published: "2011-10-17T14:00:24.000Z"
+  embargo: "2017-12-31T23:59:59.000Z"
+  captureDate: "2017-07-26T05:10:34.220Z"
+  TimeStamp: "1501045834220"
+  author: "Copyright 2010-2018 James A. Hinds: St. John's Jim -- King of Cascadia"
+  debug: ""
+  id: "stjohnsjim/story/valerie-flees-to-confusistan"
+  name: "Valerie flees to Confusistan"
+#

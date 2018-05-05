@@ -159,3 +159,30 @@ db[id="59782449d3cfff7cc5f9260d"] =
   id: "59782449d3cfff7cc5f9260d"
   name: "Maslow and Celarien Tarot"
 #
+
+
+
+db[id="stjohnsjim/tarot/maslow-and-celarien-tarot"] =
+  title: "Maslow and Celarien Tarot"
+  slug: "maslow-and-celarien-tarot"
+  category: "tarot"
+  site: "59781236d3cfff7cc5f92609"
+  accepted: true
+  index: false
+  headlines: []
+  tags: []
+  snippets: "{\"sw#k\":\"sw#k\",\"sw#1\":\"sw#1\",\"sw#2\":\"sw#2\",\"sw#3\":\"sw#3\",\"sw#4\":\"sw#4\",\"sw#5\":\"sw#5\",\"sw#6\":\"sw#6\",\"sw#7\":\"sw#7\",\"sw#8\":\"sw#8\",\"sw#9\":\"sw#9\",\"sw#10\":\"sw#10\",\"kp\":\"kp\"}"
+  memberOf: [
+    "TAROT"
+  ]
+  created: "2011-11-12T12:20:40.000Z"
+  lastEdited: "2011-11-13T13:07:14.000Z"
+  published: "2011-11-12T12:20:40.000Z"
+  embargo: "2017-12-31T23:59:59.000Z"
+  captureDate: "2017-07-26T05:10:33.096Z"
+  TimeStamp: "1501045833096"
+  author: "Copyright 2010-2018 James A. Hinds: St. John's Jim -- King of Cascadia"
+  debug: ""
+  id: "stjohnsjim/tarot/maslow-and-celarien-tarot"
+  name: "Maslow and Celarien Tarot"
+#

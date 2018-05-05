@@ -118,3 +118,28 @@ db[id="5978244ad3cfff7cc5f926a7"] =
   id: "5978244ad3cfff7cc5f926a7"
   name: "When I Get Stubbed, I Want to be a Big Ash"
 #
+
+
+
+db[id="stjohnsjim/story/when-i-get-stubbed-i-want-to-be-a-big-ash"] =
+  title: "When I Get Stubbed, I Want to be a Big Ash"
+  slug: "when-i-get-stubbed-i-want-to-be-a-big-ash"
+  category: "story"
+  site: "59781236d3cfff7cc5f92609"
+  accepted: true
+  index: false
+  headlines: []
+  tags: []
+  snippets: "{}"
+  memberOf: []
+  created: "2011-01-03T18:56:07.000Z"
+  lastEdited: "2011-01-03T19:24:54.000Z"
+  published: "2011-01-03T19:24:54.000Z"
+  embargo: "2017-12-31T23:59:59.000Z"
+  captureDate: "2017-07-26T05:10:34.169Z"
+  TimeStamp: "1501045834169"
+  author: "Copyright 2010-2018 James A. Hinds: St. John's Jim -- King of Cascadia"
+  debug: ""
+  id: "stjohnsjim/story/when-i-get-stubbed-i-want-to-be-a-big-ash"
+  name: "When I Get Stubbed, I Want to be a Big Ash"
+#

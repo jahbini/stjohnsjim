@@ -153,3 +153,36 @@ db[id="59782449d3cfff7cc5f92674"] =
   id: "59782449d3cfff7cc5f92674"
   name: "Basements and Foundations, Ya Think?"
 #
+
+
+
+db[id="stjohnsjim/story/basements-and-foundations-ya-think"] =
+  title: "Basements and Foundations, Ya Think?"
+  slug: "basements-and-foundations-ya-think"
+  category: "story"
+  site: "59781236d3cfff7cc5f92609"
+  accepted: true
+  index: false
+  headlines: [
+    "Tommy and Roger Prove Southwick is selfish"
+    "Wet Weather Plans Extended Stay in Portland Suburb"
+    "Will Baltimore Wood Slide into the River?"
+  ]
+  tags: []
+  snippets: "{\"first name\":\"first name\",\"sms,soto\":\"sms,soto\",\"sms,voce\":\"sms,voce\"}"
+  memberOf: [
+    "GUNAS"
+    "TAROT"
+    "PDX"
+  ]
+  created: "2010-12-16T17:16:09.000Z"
+  lastEdited: "2011-11-08T14:08:28.000Z"
+  published: "2010-12-16T18:01:51.000Z"
+  embargo: "2017-12-31T23:59:59.000Z"
+  captureDate: "2017-07-26T05:10:33.481Z"
+  TimeStamp: "1501045833481"
+  author: "Copyright 2010-2018 James A. Hinds: St. John's Jim -- King of Cascadia"
+  debug: ""
+  id: "stjohnsjim/story/basements-and-foundations-ya-think"
+  name: "Basements and Foundations, Ya Think?"
+#

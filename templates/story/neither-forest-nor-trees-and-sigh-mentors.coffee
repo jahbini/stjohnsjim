@@ -164,3 +164,31 @@ db[id="59782449d3cfff7cc5f92646"] =
   id: "59782449d3cfff7cc5f92646"
   name: "Neither Forest Nor Trees and, sigh,  Mentors"
 #
+
+
+
+db[id="stjohnsjim/story/neither-forest-nor-trees-and-sigh-mentors"] =
+  title: "Neither Forest Nor Trees and, sigh,  Mentors"
+  slug: "neither-forest-nor-trees-and-sigh-mentors"
+  category: "story"
+  site: "59781236d3cfff7cc5f92609"
+  accepted: true
+  index: false
+  headlines: []
+  tags: []
+  snippets: "{}"
+  memberOf: [
+    "GUNAS"
+    "TAROT"
+  ]
+  created: "2010-12-04T16:18:40.000Z"
+  lastEdited: "2010-12-04T17:53:07.000Z"
+  published: "2010-12-04T17:53:07.000Z"
+  embargo: "2017-12-31T23:59:59.000Z"
+  captureDate: "2017-07-26T05:10:33.285Z"
+  TimeStamp: "1501045833285"
+  author: "Copyright 2010-2018 James A. Hinds: St. John's Jim -- King of Cascadia"
+  debug: ""
+  id: "stjohnsjim/story/neither-forest-nor-trees-and-sigh-mentors"
+  name: "Neither Forest Nor Trees and, sigh,  Mentors"
+#

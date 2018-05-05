@@ -288,3 +288,35 @@ db[id="5978244ad3cfff7cc5f92699"] =
   id: "5978244ad3cfff7cc5f92699"
   name: "Valkyrie On-Line"
 #
+
+
+
+db[id="stjohnsjim/story/valkyrie-sms"] =
+  title: "Valkyrie On-Line"
+  slug: "valkyrie-sms"
+  category: "story"
+  site: "59781236d3cfff7cc5f92609"
+  accepted: true
+  index: false
+  headlines: [
+    "Notes from the Norse Battlefields"
+    "life before the afterlife"
+    "If Valhalla Invented the Internet"
+    "Are they just Schoolgirls at Heart?"
+  ]
+  tags: []
+  snippets: "{}"
+  memberOf: [
+    "TAROT"
+  ]
+  created: "2010-10-25T15:55:41.000Z"
+  lastEdited: "2010-10-25T16:24:19.000Z"
+  published: "2016-09-19T00:00:00.000Z"
+  embargo: "2016-09-19T00:00:00.000Z"
+  captureDate: "2017-07-26T05:10:34.147Z"
+  TimeStamp: "1501045834147"
+  author: "Copyright 2010-2018 James A. Hinds: St. John's Jim -- King of Cascadia"
+  debug: ""
+  id: "stjohnsjim/story/valkyrie-sms"
+  name: "Valkyrie On-Line"
+#

@@ -124,3 +124,30 @@ db[id="59782449d3cfff7cc5f92621"] =
   id: "59782449d3cfff7cc5f92621"
   name: "Mt. Farina erupts on the Royal Wedding Dress"
 #
+
+
+
+db[id="stjohnsjim/story/mt-farina-erupts-on-the-royal-wedding-dress"] =
+  title: "Mt. Farina erupts on the Royal Wedding Dress"
+  slug: "mt-farina-erupts-on-the-royal-wedding-dress"
+  category: "story"
+  site: "59781236d3cfff7cc5f92609"
+  accepted: true
+  index: false
+  headlines: []
+  tags: []
+  snippets: "{}"
+  memberOf: [
+    "TAROT"
+  ]
+  created: "2011-04-29T14:12:39.000Z"
+  lastEdited: "2011-04-29T17:14:22.000Z"
+  published: "2011-04-29T17:14:22.000Z"
+  embargo: "2017-12-31T23:59:59.000Z"
+  captureDate: "2017-07-26T05:10:33.097Z"
+  TimeStamp: "1501045833097"
+  author: "Copyright 2010-2018 James A. Hinds: St. John's Jim -- King of Cascadia"
+  debug: ""
+  id: "stjohnsjim/story/mt-farina-erupts-on-the-royal-wedding-dress"
+  name: "Mt. Farina erupts on the Royal Wedding Dress"
+#

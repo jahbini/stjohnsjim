@@ -267,3 +267,30 @@ db[id="5978244ad3cfff7cc5f92693"] =
   id: "5978244ad3cfff7cc5f92693"
   name: "Wands"
 #
+
+
+
+db[id="stjohnsjim/tarot/wands"] =
+  title: "Wands"
+  slug: "wands"
+  category: "tarot"
+  site: "59781236d3cfff7cc5f92609"
+  accepted: true
+  index: false
+  headlines: []
+  tags: []
+  snippets: "{}"
+  memberOf: [
+    "TAROT"
+  ]
+  created: "2011-11-13T13:59:27.000Z"
+  lastEdited: "2011-11-13T13:59:28.000Z"
+  published: "2011-11-13T13:59:28.000Z"
+  embargo: "2017-12-31T23:59:59.000Z"
+  captureDate: "2017-07-26T05:10:34.128Z"
+  TimeStamp: "1501045834128"
+  author: "Copyright 2010-2018 James A. Hinds: St. John's Jim -- King of Cascadia"
+  debug: ""
+  id: "stjohnsjim/tarot/wands"
+  name: "Wands"
+#

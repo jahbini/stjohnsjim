@@ -131,3 +131,28 @@ db[id="59782449d3cfff7cc5f9262e"] =
   id: "59782449d3cfff7cc5f9262e"
   name: "The Big Rock Candy New Year"
 #
+
+
+
+db[id="stjohnsjim/story/the-big-rock-candy-new-year"] =
+  title: "The Big Rock Candy New Year"
+  slug: "the-big-rock-candy-new-year"
+  category: "story"
+  site: "59781236d3cfff7cc5f92609"
+  accepted: true
+  index: false
+  headlines: []
+  tags: []
+  snippets: "{}"
+  memberOf: []
+  created: "2011-01-01T18:16:10.000Z"
+  lastEdited: "2011-01-01T18:35:30.000Z"
+  published: "2011-01-01T18:35:30.000Z"
+  embargo: "2017-12-31T23:59:59.000Z"
+  captureDate: "2017-07-26T05:10:33.165Z"
+  TimeStamp: "1501045833165"
+  author: "Copyright 2010-2018 James A. Hinds: St. John's Jim -- King of Cascadia"
+  debug: ""
+  id: "stjohnsjim/story/the-big-rock-candy-new-year"
+  name: "The Big Rock Candy New Year"
+#

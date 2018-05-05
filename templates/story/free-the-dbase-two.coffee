@@ -126,3 +126,31 @@ db[id="59782449d3cfff7cc5f92659"] =
   id: "59782449d3cfff7cc5f92659"
   name: "Free the DBase Two"
 #
+
+
+
+db[id="stjohnsjim/story/free-the-dbase-two"] =
+  title: "Free the DBase Two"
+  slug: "free-the-dbase-two"
+  category: "story"
+  site: "59781236d3cfff7cc5f92609"
+  accepted: true
+  index: false
+  headlines: []
+  tags: []
+  snippets: "{}"
+  memberOf: [
+    "GUNAS"
+    "TAROT"
+  ]
+  created: "2010-12-03T16:48:02.000Z"
+  lastEdited: "2010-12-03T17:43:38.000Z"
+  published: "2010-12-03T17:43:38.000Z"
+  embargo: "2017-12-31T23:59:59.000Z"
+  captureDate: "2017-07-26T05:10:33.370Z"
+  TimeStamp: "1501045833370"
+  author: "Copyright 2010-2018 James A. Hinds: St. John's Jim -- King of Cascadia"
+  debug: ""
+  id: "stjohnsjim/story/free-the-dbase-two"
+  name: "Free the DBase Two"
+#

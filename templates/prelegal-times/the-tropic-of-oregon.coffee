@@ -121,3 +121,32 @@ db[id="5978244ad3cfff7cc5f926ad"] =
   id: "5978244ad3cfff7cc5f926ad"
   name: "The Tropic of Oregon"
 #
+
+
+
+db[id="stjohnsjim/prelegal-times/the-tropic-of-oregon"] =
+  title: "The Tropic of Oregon"
+  slug: "the-tropic-of-oregon"
+  category: "prelegal-times"
+  site: "59781236d3cfff7cc5f92609"
+  accepted: true
+  index: false
+  headlines: []
+  tags: []
+  snippets: "{\"First Name\":\"First Name\"}"
+  memberOf: [
+    "GUNAS"
+    "TAROT"
+    "PDX"
+  ]
+  created: "2010-10-07T13:30:46.000Z"
+  lastEdited: "2010-10-11T14:20:37.000Z"
+  published: "2010-10-07T16:38:29.000Z"
+  embargo: "2017-12-31T23:59:59.000Z"
+  captureDate: "2017-07-26T05:10:34.000Z"
+  TimeStamp: "1501045834000"
+  author: "Copyright 2010-2018 James A. Hinds: St. John's Jim -- King of Cascadia"
+  debug: "first-name"
+  id: "stjohnsjim/prelegal-times/the-tropic-of-oregon"
+  name: "The Tropic of Oregon"
+#

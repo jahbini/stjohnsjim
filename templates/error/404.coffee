@@ -101,3 +101,28 @@ db[id="stjohnsjimerror404"] =
   id: "stjohnsjimerror404"
   name: "404"
 #
+
+
+
+db[id="stjohnsjim/error/404"] =
+  title: "404"
+  slug: "404"
+  category: "error"
+  site: "59781236d3cfff7cc5f92609"
+  accepted: true
+  index: false
+  headlines: []
+  tags: []
+  snippets: "{\"first name\":\"first name\"}"
+  memberOf: []
+  created: "2018-03-05T04:46:19.903Z"
+  lastEdited: "2018-03-05T04:46:19.904Z"
+  published: "2018-03-05T04:46:19.904Z"
+  embargo: "2018-03-05T04:46:19.904Z"
+  captureDate: "2018-03-05T04:46:19.904Z"
+  TimeStamp: 1520225179904
+  debug: ""
+  author: "Copyright 2010-2018 James A. Hinds: St. John's Jim -- King of Cascadia"
+  id: "stjohnsjim/error/404"
+  name: "404"
+#

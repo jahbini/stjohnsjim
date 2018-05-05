@@ -115,3 +115,30 @@ db[id="59782449d3cfff7cc5f9263c"] =
   id: "59782449d3cfff7cc5f9263c"
   name: "L O L A -- Lola!"
 #
+
+
+
+db[id="stjohnsjim/story/l-o-l-a-lola"] =
+  title: "L O L A -- Lola!"
+  slug: "l-o-l-a-lola"
+  category: "story"
+  site: "59781236d3cfff7cc5f92609"
+  accepted: true
+  index: false
+  headlines: []
+  tags: []
+  snippets: "{\"first name\":\"first name\"}"
+  memberOf: [
+    "GUNAS"
+  ]
+  created: "2010-10-05T19:00:38.000Z"
+  lastEdited: "2010-10-11T14:02:08.000Z"
+  published: "2010-10-05T19:12:04.000Z"
+  embargo: "2017-12-31T23:59:59.000Z"
+  captureDate: "2017-07-26T05:10:33.000Z"
+  TimeStamp: "1501045833000"
+  author: "Copyright 2010-2018 James A. Hinds: St. John's Jim -- King of Cascadia"
+  debug: ""
+  id: "stjohnsjim/story/l-o-l-a-lola"
+  name: "L O L A -- Lola!"
+#

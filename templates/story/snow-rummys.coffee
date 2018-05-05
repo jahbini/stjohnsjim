@@ -140,3 +140,31 @@ db[id="59782449d3cfff7cc5f9263a"] =
   id: "59782449d3cfff7cc5f9263a"
   name: "Snow Rummys"
 #
+
+
+
+db[id="stjohnsjim/story/snow-rummys"] =
+  title: "Snow Rummys"
+  slug: "snow-rummys"
+  category: "story"
+  site: "59781236d3cfff7cc5f92609"
+  accepted: true
+  index: false
+  headlines: []
+  tags: []
+  snippets: "{\"first name\":\"first name\"}"
+  memberOf: [
+    "GUNAS"
+    "TAROT"
+  ]
+  created: "2010-11-30T15:07:52.000Z"
+  lastEdited: "2010-11-30T17:40:19.000Z"
+  published: "2010-11-30T17:40:19.000Z"
+  embargo: "2017-12-31T23:59:59.000Z"
+  captureDate: "2017-07-26T05:10:33.162Z"
+  TimeStamp: "1501045833162"
+  author: "Copyright 2010-2018 James A. Hinds: St. John's Jim -- King of Cascadia"
+  debug: ""
+  id: "stjohnsjim/story/snow-rummys"
+  name: "Snow Rummys"
+#

@@ -127,3 +127,35 @@ db[id="59782449d3cfff7cc5f92649"] =
   id: "59782449d3cfff7cc5f92649"
   name: "Apollo's Virgin"
 #
+
+
+
+db[id="stjohnsjim/story/apollos-virgin"] =
+  title: "Apollo's Virgin"
+  slug: "apollos-virgin"
+  category: "story"
+  site: "59781236d3cfff7cc5f92609"
+  accepted: true
+  index: false
+  headlines: [
+    "Will you answer Apollo's call?"
+    "one weird trick!"
+    "Are you Ready for Abundance?"
+    "It was true centuries ago!"
+  ]
+  tags: []
+  snippets: "{\"first name\":\"first name\",\"author\":\"author\"}"
+  memberOf: [
+    "GUNAS"
+  ]
+  created: "2011-06-13T18:11:04.000Z"
+  lastEdited: "2011-11-19T19:49:45.000Z"
+  published: "2011-06-13T18:41:08.000Z"
+  embargo: "2016-09-19T00:00:00.000Z"
+  captureDate: "2017-07-26T05:10:33.271Z"
+  TimeStamp: "1501045833271"
+  author: "Copyright 2010-2018 James A. Hinds: St. John's Jim -- King of Cascadia"
+  debug: ""
+  id: "stjohnsjim/story/apollos-virgin"
+  name: "Apollo's Virgin"
+#

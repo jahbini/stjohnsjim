@@ -135,3 +135,32 @@ db[id="59782449d3cfff7cc5f9262f"] =
   id: "59782449d3cfff7cc5f9262f"
   name: "Cougars, DT Champions, and more"
 #
+
+
+
+db[id="stjohnsjim/story/cougars-dt-champions-and-more"] =
+  title: "Cougars, DT Champions, and more"
+  slug: "cougars-dt-champions-and-more"
+  category: "story"
+  site: "59781236d3cfff7cc5f92609"
+  accepted: true
+  index: false
+  headlines: []
+  tags: []
+  snippets: "{\"first name\":\"first name\"}"
+  memberOf: [
+    "GUNAS"
+    "TAROT"
+    "PDX"
+  ]
+  created: "2010-10-19T13:20:45.000Z"
+  lastEdited: "2010-10-22T13:39:51.000Z"
+  published: "2010-10-19T14:17:58.000Z"
+  embargo: "2017-12-31T23:59:59.000Z"
+  captureDate: "2017-07-26T05:10:33.152Z"
+  TimeStamp: "1501045833152"
+  author: "Copyright 2010-2018 James A. Hinds: St. John's Jim -- King of Cascadia"
+  debug: ""
+  id: "stjohnsjim/story/cougars-dt-champions-and-more"
+  name: "Cougars, DT Champions, and more"
+#

@@ -106,3 +106,30 @@ db[id="59782449d3cfff7cc5f9260b"] =
   id: "59782449d3cfff7cc5f9260b"
   name: "Contact Machines and the World of the Tarot"
 #
+
+
+
+db[id="stjohnsjim/backstory/contact-machines-and-the-world-of-the-tarot"] =
+  title: "Contact Machines and the World of the Tarot"
+  slug: "contact-machines-and-the-world-of-the-tarot"
+  category: "backstory"
+  site: "59781236d3cfff7cc5f92609"
+  accepted: true
+  index: false
+  headlines: []
+  tags: []
+  snippets: "{}"
+  memberOf: [
+    "TAROT"
+  ]
+  created: "2011-08-30T14:25:04.000Z"
+  lastEdited: "2011-08-30T14:26:13.000Z"
+  published: "2011-08-30T14:26:13.000Z"
+  embargo: "2017-12-31T23:59:59.000Z"
+  captureDate: "2017-07-26T05:10:33.000Z"
+  TimeStamp: "1501045833000"
+  author: "Copyright 2010-2018 James A. Hinds: St. John's Jim -- King of Cascadia"
+  debug: ""
+  id: "stjohnsjim/backstory/contact-machines-and-the-world-of-the-tarot"
+  name: "Contact Machines and the World of the Tarot"
+#

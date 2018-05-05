@@ -164,3 +164,30 @@ db[id="59782449d3cfff7cc5f92665"] =
   id: "59782449d3cfff7cc5f92665"
   name: "End of Year Tax Woes?"
 #
+
+
+
+db[id="stjohnsjim/story/end-of-year-tax-woes"] =
+  title: "End of Year Tax Woes?"
+  slug: "end-of-year-tax-woes"
+  category: "story"
+  site: "59781236d3cfff7cc5f92609"
+  accepted: true
+  index: false
+  headlines: []
+  tags: []
+  snippets: "{\"author\":\"author\",\"comment,soto\":\"comment,soto\",\"comment,voce\":\"comment,voce\"}"
+  memberOf: [
+    "GUNAS"
+  ]
+  created: "2010-12-30T20:18:54.000Z"
+  lastEdited: "2011-11-08T14:32:13.000Z"
+  published: "2010-12-30T21:24:34.000Z"
+  embargo: "2017-12-31T23:59:59.000Z"
+  captureDate: "2017-07-26T05:10:33.370Z"
+  TimeStamp: "1501045833370"
+  author: "Copyright 2010-2018 James A. Hinds: St. John's Jim -- King of Cascadia"
+  debug: ""
+  id: "stjohnsjim/story/end-of-year-tax-woes"
+  name: "End of Year Tax Woes?"
+#

@@ -113,3 +113,30 @@ db[id="5978244ad3cfff7cc5f926a2"] =
   id: "5978244ad3cfff7cc5f926a2"
   name: "The Fist of Perhaps"
 #
+
+
+
+db[id="stjohnsjim/story/the-fist-of-perhaps"] =
+  title: "The Fist of Perhaps"
+  slug: "the-fist-of-perhaps"
+  category: "story"
+  site: "59781236d3cfff7cc5f92609"
+  accepted: true
+  index: false
+  headlines: []
+  tags: []
+  snippets: "{}"
+  memberOf: [
+    "TAROT"
+  ]
+  created: "2010-11-15T15:13:45.000Z"
+  lastEdited: "2010-11-16T17:10:37.000Z"
+  published: "2010-11-16T17:10:37.000Z"
+  embargo: "2017-12-31T23:59:59.000Z"
+  captureDate: "2017-07-26T05:10:34.168Z"
+  TimeStamp: "1501045834168"
+  author: "Copyright 2010-2018 James A. Hinds: St. John's Jim -- King of Cascadia"
+  debug: ""
+  id: "stjohnsjim/story/the-fist-of-perhaps"
+  name: "The Fist of Perhaps"
+#

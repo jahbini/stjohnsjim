@@ -130,3 +130,32 @@ db[id="59782449d3cfff7cc5f92630"] =
   id: "59782449d3cfff7cc5f92630"
   name: "Halloween 2011 -- Early Evening"
 #
+
+
+
+db[id="stjohnsjim/story/halloween-2011-early-evening"] =
+  title: "Halloween 2011 -- Early Evening"
+  slug: "halloween-2011-early-evening"
+  category: "story"
+  site: "59781236d3cfff7cc5f92609"
+  accepted: true
+  index: false
+  headlines: []
+  tags: []
+  snippets: "{\"halloend\":\"halloend\"}"
+  memberOf: [
+    "TAO"
+    "GUNAS"
+    "TAROT"
+  ]
+  created: "2011-10-31T13:20:01.000Z"
+  lastEdited: "2011-10-31T18:41:43.000Z"
+  published: "2011-10-31T13:20:01.000Z"
+  embargo: "2017-12-31T23:59:59.000Z"
+  captureDate: "2017-07-26T05:10:33.156Z"
+  TimeStamp: "1501045833156"
+  author: "Copyright 2010-2018 James A. Hinds: St. John's Jim -- King of Cascadia"
+  debug: ""
+  id: "stjohnsjim/story/halloween-2011-early-evening"
+  name: "Halloween 2011 -- Early Evening"
+#

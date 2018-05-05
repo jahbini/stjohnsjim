@@ -110,3 +110,30 @@ db[id="59782449d3cfff7cc5f9261c"] =
   id: "59782449d3cfff7cc5f9261c"
   name: "Kick and Carrot"
 #
+
+
+
+db[id="stjohnsjim/story/kick-and-carrot"] =
+  title: "Kick and Carrot"
+  slug: "kick-and-carrot"
+  category: "story"
+  site: "59781236d3cfff7cc5f92609"
+  accepted: true
+  index: false
+  headlines: []
+  tags: []
+  snippets: "{}"
+  memberOf: [
+    "TAROT"
+  ]
+  created: "2010-11-05T15:14:41.000Z"
+  lastEdited: "2010-11-05T15:27:33.000Z"
+  published: "2010-11-05T15:27:33.000Z"
+  embargo: "2017-12-31T23:59:59.000Z"
+  captureDate: "2017-07-26T05:10:33.000Z"
+  TimeStamp: "1501045833000"
+  author: "Copyright 2010-2018 James A. Hinds: St. John's Jim -- King of Cascadia"
+  debug: ""
+  id: "stjohnsjim/story/kick-and-carrot"
+  name: "Kick and Carrot"
+#

@@ -151,3 +151,30 @@ db[id="59782449d3cfff7cc5f92666"] =
   id: "59782449d3cfff7cc5f92666"
   name: "Invoking the Muse"
 #
+
+
+
+db[id="stjohnsjim/story/invoking-the-muse"] =
+  title: "Invoking the Muse"
+  slug: "invoking-the-muse"
+  category: "story"
+  site: "59781236d3cfff7cc5f92609"
+  accepted: true
+  index: false
+  headlines: []
+  tags: []
+  snippets: "{\"first name\":\"first name\"}"
+  memberOf: [
+    "TAROT"
+  ]
+  created: "2010-12-17T16:42:33.000Z"
+  lastEdited: "2011-07-20T13:12:34.000Z"
+  published: "2010-12-17T17:41:43.000Z"
+  embargo: "2017-12-31T23:59:59.000Z"
+  captureDate: "2017-07-26T05:10:33.378Z"
+  TimeStamp: "1501045833378"
+  author: "Copyright 2010-2018 James A. Hinds: St. John's Jim -- King of Cascadia"
+  debug: ""
+  id: "stjohnsjim/story/invoking-the-muse"
+  name: "Invoking the Muse"
+#

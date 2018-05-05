@@ -125,3 +125,31 @@ db[id="5978244ad3cfff7cc5f92690"] =
   id: "5978244ad3cfff7cc5f92690"
   name: "Winnie Daough's Peck-and-Puke Hen Hats"
 #
+
+
+
+db[id="stjohnsjim/story/winnie-daoughs-peck-and-puke-hen-hats"] =
+  title: "Winnie Daough's Peck-and-Puke Hen Hats"
+  slug: "winnie-daoughs-peck-and-puke-hen-hats"
+  category: "story"
+  site: "59781236d3cfff7cc5f92609"
+  accepted: true
+  index: false
+  headlines: []
+  tags: []
+  snippets: "{\"first name\":\"first name\"}"
+  memberOf: [
+    "TAO"
+    "TAROT"
+  ]
+  created: "2011-02-09T20:32:42.000Z"
+  lastEdited: "2011-02-09T20:54:29.000Z"
+  published: "2011-02-09T20:54:29.000Z"
+  embargo: "2017-12-31T23:59:59.000Z"
+  captureDate: "2017-07-26T05:10:34.128Z"
+  TimeStamp: "1501045834128"
+  author: "Copyright 2010-2018 James A. Hinds: St. John's Jim -- King of Cascadia"
+  debug: ""
+  id: "stjohnsjim/story/winnie-daoughs-peck-and-puke-hen-hats"
+  name: "Winnie Daough's Peck-and-Puke Hen Hats"
+#

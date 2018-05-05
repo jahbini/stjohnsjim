@@ -154,3 +154,30 @@ db[id="59782449d3cfff7cc5f92650"] =
   id: "59782449d3cfff7cc5f92650"
   name: "Kiting over to WikiLeaks with one jaw tied behind "
 #
+
+
+
+db[id="stjohnsjim/story/kiting-over-to-wikileaks-with-one-jaw-tied-behind"] =
+  title: "Kiting over to WikiLeaks with one jaw tied behind "
+  slug: "kiting-over-to-wikileaks-with-one-jaw-tied-behind"
+  category: "story"
+  site: "59781236d3cfff7cc5f92609"
+  accepted: true
+  index: false
+  headlines: []
+  tags: []
+  snippets: "{}"
+  memberOf: [
+    "TAROT"
+  ]
+  created: "2010-12-14T19:51:51.000Z"
+  lastEdited: "2011-09-25T11:58:57.000Z"
+  published: "2010-12-14T21:38:35.000Z"
+  embargo: "2017-12-31T23:59:59.000Z"
+  captureDate: "2017-07-26T05:10:33.284Z"
+  TimeStamp: "1501045833284"
+  author: "Copyright 2010-2018 James A. Hinds: St. John's Jim -- King of Cascadia"
+  debug: ""
+  id: "stjohnsjim/story/kiting-over-to-wikileaks-with-one-jaw-tied-behind"
+  name: "Kiting over to WikiLeaks with one jaw tied behind "
+#

@@ -115,3 +115,32 @@ db[id="59782449d3cfff7cc5f9261b"] =
   id: "59782449d3cfff7cc5f9261b"
   name: "Fugue State"
 #
+
+
+
+db[id="stjohnsjim/story/fugue-state"] =
+  title: "Fugue State"
+  slug: "fugue-state"
+  category: "story"
+  site: "59781236d3cfff7cc5f92609"
+  accepted: true
+  index: false
+  headlines: [
+    "From the Casebook of St. John&rsquo;s Jim: Psychic Bodyguard"
+  ]
+  tags: []
+  snippets: "{}"
+  memberOf: [
+    "TAROT"
+  ]
+  created: "2011-03-04T20:22:41.000Z"
+  lastEdited: "2011-03-04T20:34:01.000Z"
+  published: "2017-07-26T05:40:05.000Z"
+  embargo: "2017-07-26T05:40:07.000Z"
+  captureDate: "2017-07-26T05:10:33.000Z"
+  TimeStamp: "1501045833000"
+  author: "Copyright 2010-2018 James A. Hinds: St. John's Jim -- King of Cascadia"
+  debug: ""
+  id: "stjohnsjim/story/fugue-state"
+  name: "Fugue State"
+#

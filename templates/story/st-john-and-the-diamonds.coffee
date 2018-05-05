@@ -128,3 +128,30 @@ db[id="59782449d3cfff7cc5f92654"] =
   id: "59782449d3cfff7cc5f92654"
   name: "St. John and the Diamonds"
 #
+
+
+
+db[id="stjohnsjim/story/st-john-and-the-diamonds"] =
+  title: "St. John and the Diamonds"
+  slug: "st-john-and-the-diamonds"
+  category: "story"
+  site: "59781236d3cfff7cc5f92609"
+  accepted: true
+  index: false
+  headlines: []
+  tags: []
+  snippets: "{}"
+  memberOf: [
+    "PDX"
+  ]
+  created: "2010-12-31T11:49:28.000Z"
+  lastEdited: "2011-01-02T12:25:56.000Z"
+  published: "2011-01-02T12:25:56.000Z"
+  embargo: "2017-12-31T23:59:59.000Z"
+  captureDate: "2017-07-26T05:10:33.289Z"
+  TimeStamp: "1501045833289"
+  author: "Copyright 2010-2018 James A. Hinds: St. John's Jim -- King of Cascadia"
+  debug: ""
+  id: "stjohnsjim/story/st-john-and-the-diamonds"
+  name: "St. John and the Diamonds"
+#

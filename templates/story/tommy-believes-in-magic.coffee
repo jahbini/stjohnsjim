@@ -144,3 +144,31 @@ db[id="5978244ad3cfff7cc5f926b7"] =
   id: "5978244ad3cfff7cc5f926b7"
   name: "Tommy Believes in Magic"
 #
+
+
+
+db[id="stjohnsjim/story/tommy-believes-in-magic"] =
+  title: "Tommy Believes in Magic"
+  slug: "tommy-believes-in-magic"
+  category: "story"
+  site: "59781236d3cfff7cc5f92609"
+  accepted: true
+  index: false
+  headlines: []
+  tags: []
+  snippets: "{}"
+  memberOf: [
+    "GUNAS"
+    "TAROT"
+  ]
+  created: "2010-11-07T16:57:07.000Z"
+  lastEdited: "2010-11-07T17:36:36.000Z"
+  published: "2010-11-07T17:36:36.000Z"
+  embargo: "2017-12-31T23:59:59.000Z"
+  captureDate: "2017-07-26T05:10:34.221Z"
+  TimeStamp: "1501045834221"
+  author: "Copyright 2010-2018 James A. Hinds: St. John's Jim -- King of Cascadia"
+  debug: ""
+  id: "stjohnsjim/story/tommy-believes-in-magic"
+  name: "Tommy Believes in Magic"
+#

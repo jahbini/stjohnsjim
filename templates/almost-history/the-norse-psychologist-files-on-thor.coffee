@@ -127,3 +127,34 @@ db[id="5978244ad3cfff7cc5f926a3"] =
   id: "5978244ad3cfff7cc5f926a3"
   name: "The Norse Psychologist Files on Thor"
 #
+
+
+
+db[id="stjohnsjim/almost-history/the-norse-psychologist-files-on-thor"] =
+  title: "The Norse Psychologist Files on Thor"
+  slug: "the-norse-psychologist-files-on-thor"
+  category: "almost-history"
+  site: "59781236d3cfff7cc5f92609"
+  accepted: true
+  index: false
+  headlines: [
+    "Could The End Times be This Bizarre?"
+    "Modern Psychology for the Elder Gods"
+    "Thor's HIPAA Account Cracked!"
+  ]
+  tags: []
+  snippets: "{}"
+  memberOf: [
+    "TAROT"
+  ]
+  created: "2010-12-28T21:35:15.000Z"
+  lastEdited: "2011-11-09T10:24:21.000Z"
+  published: "2010-12-28T22:08:13.000Z"
+  embargo: "2010-12-28T22:08:13.000Z"
+  captureDate: "2017-07-26T05:10:34.000Z"
+  TimeStamp: "1501045834000"
+  author: "Copyright 2010-2018 James A. Hinds: St. John's Jim -- King of Cascadia"
+  debug: ""
+  id: "stjohnsjim/almost-history/the-norse-psychologist-files-on-thor"
+  name: "The Norse Psychologist Files on Thor"
+#

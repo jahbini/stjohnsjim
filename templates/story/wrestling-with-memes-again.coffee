@@ -142,3 +142,31 @@ db[id="5978244ad3cfff7cc5f926b1"] =
   id: "5978244ad3cfff7cc5f926b1"
   name: "Wrestling with Memes Again"
 #
+
+
+
+db[id="stjohnsjim/story/wrestling-with-memes-again"] =
+  title: "Wrestling with Memes Again"
+  slug: "wrestling-with-memes-again"
+  category: "story"
+  site: "59781236d3cfff7cc5f92609"
+  accepted: true
+  index: false
+  headlines: []
+  tags: []
+  snippets: "{\"first name\":\"first name\"}"
+  memberOf: [
+    "GUNAS"
+    "TAROT"
+  ]
+  created: "2010-12-07T18:05:15.000Z"
+  lastEdited: "2010-12-07T19:56:49.000Z"
+  published: "2010-12-07T19:56:49.000Z"
+  embargo: "2017-12-31T23:59:59.000Z"
+  captureDate: "2017-07-26T05:10:34.189Z"
+  TimeStamp: "1501045834189"
+  author: "Copyright 2010-2018 James A. Hinds: St. John's Jim -- King of Cascadia"
+  debug: ""
+  id: "stjohnsjim/story/wrestling-with-memes-again"
+  name: "Wrestling with Memes Again"
+#

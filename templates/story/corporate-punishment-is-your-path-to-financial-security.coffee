@@ -137,3 +137,35 @@ db[id="59782449d3cfff7cc5f9267a"] =
   id: "59782449d3cfff7cc5f9267a"
   name: "Corporate Punishment is Your Path to Financial Security"
 #
+
+
+
+db[id="stjohnsjim/story/corporate-punishment-is-your-path-to-financial-security"] =
+  title: "Corporate Punishment is Your Path to Financial Security"
+  slug: "corporate-punishment-is-your-path-to-financial-security"
+  category: "story"
+  site: "59781236d3cfff7cc5f92609"
+  accepted: true
+  index: false
+  headlines: [
+    "Good Times in the Slammer!"
+    "Don't Think of it as Prison, but..."
+    "Serving Your Employers, Not Just Serving Time"
+    "We Pay Your Bodyguard Well!"
+  ]
+  tags: []
+  snippets: "{}"
+  memberOf: [
+    "TAROT"
+  ]
+  created: "2010-12-01T17:23:35.000Z"
+  lastEdited: "2010-12-01T18:04:05.000Z"
+  published: "2010-12-01T18:04:05.000Z"
+  embargo: "2010-12-01T18:04:05.000Z"
+  captureDate: "2017-07-26T05:10:33.000Z"
+  TimeStamp: "1501045833000"
+  author: "Copyright 2010-2018 James A. Hinds: St. John's Jim -- King of Cascadia"
+  debug: ""
+  id: "stjohnsjim/story/corporate-punishment-is-your-path-to-financial-security"
+  name: "Corporate Punishment is Your Path to Financial Security"
+#

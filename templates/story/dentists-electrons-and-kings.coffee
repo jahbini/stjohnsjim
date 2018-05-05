@@ -146,3 +146,32 @@ db[id="59782449d3cfff7cc5f9262a"] =
   id: "59782449d3cfff7cc5f9262a"
   name: "Dentists, Electrons and Kings"
 #
+
+
+
+db[id="stjohnsjim/story/dentists-electrons-and-kings"] =
+  title: "Dentists, Electrons and Kings"
+  slug: "dentists-electrons-and-kings"
+  category: "story"
+  site: "59781236d3cfff7cc5f92609"
+  accepted: true
+  index: false
+  headlines: []
+  tags: []
+  snippets: "{\"first name\":\"first name\"}"
+  memberOf: [
+    "GUNAS"
+    "TAROT"
+    "PDX"
+  ]
+  created: "2010-10-09T12:35:36.000Z"
+  lastEdited: "2010-10-09T14:58:44.000Z"
+  published: "2010-10-09T14:58:44.000Z"
+  embargo: "2017-12-31T23:59:59.000Z"
+  captureDate: "2017-07-26T05:10:33.153Z"
+  TimeStamp: "1501045833153"
+  author: "Copyright 2010-2018 James A. Hinds: St. John's Jim -- King of Cascadia"
+  debug: ""
+  id: "stjohnsjim/story/dentists-electrons-and-kings"
+  name: "Dentists, Electrons and Kings"
+#

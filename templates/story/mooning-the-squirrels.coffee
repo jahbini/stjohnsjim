@@ -154,3 +154,31 @@ db[id="59782449d3cfff7cc5f9266a"] =
   id: "59782449d3cfff7cc5f9266a"
   name: "Mooning the Squirrels"
 #
+
+
+
+db[id="stjohnsjim/story/mooning-the-squirrels"] =
+  title: "Mooning the Squirrels"
+  slug: "mooning-the-squirrels"
+  category: "story"
+  site: "59781236d3cfff7cc5f92609"
+  accepted: true
+  index: false
+  headlines: []
+  tags: []
+  snippets: "{}"
+  memberOf: [
+    "GUNAS"
+    "TAROT"
+  ]
+  created: "2010-12-05T16:14:39.000Z"
+  lastEdited: "2010-12-05T17:00:57.000Z"
+  published: "2010-12-05T17:00:57.000Z"
+  embargo: "2017-12-31T23:59:59.000Z"
+  captureDate: "2017-07-26T05:10:33.380Z"
+  TimeStamp: "1501045833380"
+  author: "Copyright 2010-2018 James A. Hinds: St. John's Jim -- King of Cascadia"
+  debug: ""
+  id: "stjohnsjim/story/mooning-the-squirrels"
+  name: "Mooning the Squirrels"
+#

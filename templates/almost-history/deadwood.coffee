@@ -129,3 +129,31 @@ db[id="59782449d3cfff7cc5f92662"] =
   id: "59782449d3cfff7cc5f92662"
   name: "Deadwood?"
 #
+
+
+
+db[id="stjohnsjim/almost-history/deadwood"] =
+  title: "Deadwood?"
+  slug: "deadwood"
+  category: "almost-history"
+  site: "59781236d3cfff7cc5f92609"
+  accepted: true
+  index: false
+  headlines: [
+    "The Scout and The Colonel"
+    "Legend of the Old West"
+  ]
+  tags: []
+  snippets: "{}"
+  memberOf: []
+  created: "2010-11-12T16:53:25.000Z"
+  lastEdited: "2010-11-12T18:04:12.000Z"
+  published: "2010-11-12T18:04:12.000Z"
+  embargo: "2010-11-12T18:04:12.000Z"
+  captureDate: "2017-07-26T05:10:33.000Z"
+  TimeStamp: "1501045833000"
+  author: "Copyright 2010-2018 James A. Hinds: St. John's Jim -- King of Cascadia"
+  debug: ""
+  id: "stjohnsjim/almost-history/deadwood"
+  name: "Deadwood?"
+#

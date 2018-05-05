@@ -129,3 +129,33 @@ db[id="59782449d3cfff7cc5f92622"] =
   id: "59782449d3cfff7cc5f92622"
   name: "Seeking Fertile Ground"
 #
+
+
+
+db[id="stjohnsjim/story/seeking-fertile-ground"] =
+  title: "Seeking Fertile Ground"
+  slug: "seeking-fertile-ground"
+  category: "story"
+  site: "59781236d3cfff7cc5f92609"
+  accepted: true
+  index: false
+  headlines: []
+  tags: []
+  snippets: "{}"
+  memberOf: [
+    "TAO"
+    "GUNAS"
+    "TAROT"
+    "PDX"
+  ]
+  created: "2010-10-24T14:57:48.000Z"
+  lastEdited: "2010-10-24T15:14:07.000Z"
+  published: "2010-10-24T15:14:07.000Z"
+  embargo: "2017-12-31T23:59:59.000Z"
+  captureDate: "2017-07-26T05:10:33.100Z"
+  TimeStamp: "1501045833100"
+  author: "Copyright 2010-2018 James A. Hinds: St. John's Jim -- King of Cascadia"
+  debug: ""
+  id: "stjohnsjim/story/seeking-fertile-ground"
+  name: "Seeking Fertile Ground"
+#

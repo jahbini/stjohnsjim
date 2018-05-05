@@ -128,3 +128,31 @@ db[id="59782449d3cfff7cc5f92626"] =
   id: "59782449d3cfff7cc5f92626"
   name: "Angel Flakes"
 #
+
+
+
+db[id="stjohnsjim/story/angel-flakes"] =
+  title: "Angel Flakes"
+  slug: "angel-flakes"
+  category: "story"
+  site: "59781236d3cfff7cc5f92609"
+  accepted: true
+  index: false
+  headlines: []
+  tags: []
+  snippets: "{\"first name\":\"first name\"}"
+  memberOf: [
+    "TAROT"
+    "PDX"
+  ]
+  created: "2010-11-23T15:00:14.000Z"
+  lastEdited: "2010-11-23T16:47:41.000Z"
+  published: "2010-11-23T16:47:41.000Z"
+  embargo: "2017-12-31T23:59:59.000Z"
+  captureDate: "2017-07-26T05:10:33.149Z"
+  TimeStamp: "1501045833149"
+  author: "Copyright 2010-2018 James A. Hinds: St. John's Jim -- King of Cascadia"
+  debug: ""
+  id: "stjohnsjim/story/angel-flakes"
+  name: "Angel Flakes"
+#

@@ -107,3 +107,28 @@ db[id="5978244ad3cfff7cc5f926b5"] =
   id: "5978244ad3cfff7cc5f926b5"
   name: "Too Young?"
 #
+
+
+
+db[id="stjohnsjim/story/too-young"] =
+  title: "Too Young?"
+  slug: "too-young"
+  category: "story"
+  site: "59781236d3cfff7cc5f92609"
+  accepted: true
+  index: false
+  headlines: []
+  tags: []
+  snippets: "{}"
+  memberOf: []
+  created: "2011-06-14T17:02:44.000Z"
+  lastEdited: "2011-06-14T17:17:02.000Z"
+  published: "2011-06-14T17:17:02.000Z"
+  embargo: "2017-12-31T23:59:59.000Z"
+  captureDate: "2017-07-26T05:10:34.220Z"
+  TimeStamp: "1501045834220"
+  author: "Copyright 2010-2018 James A. Hinds: St. John's Jim -- King of Cascadia"
+  debug: ""
+  id: "stjohnsjim/story/too-young"
+  name: "Too Young?"
+#

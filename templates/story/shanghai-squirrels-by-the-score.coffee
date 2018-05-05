@@ -133,3 +133,32 @@ db[id="59782449d3cfff7cc5f9262d"] =
   id: "59782449d3cfff7cc5f9262d"
   name: "Shanghai Squirrels by the Score"
 #
+
+
+
+db[id="stjohnsjim/story/shanghai-squirrels-by-the-score"] =
+  title: "Shanghai Squirrels by the Score"
+  slug: "shanghai-squirrels-by-the-score"
+  category: "story"
+  site: "59781236d3cfff7cc5f92609"
+  accepted: true
+  index: false
+  headlines: []
+  tags: []
+  snippets: "{}"
+  memberOf: [
+    "GUNAS"
+    "TAROT"
+    "PDX"
+  ]
+  created: "2011-07-01T16:40:13.000Z"
+  lastEdited: "2011-07-01T17:59:43.000Z"
+  published: "2011-07-01T17:59:43.000Z"
+  embargo: "2017-12-31T23:59:59.000Z"
+  captureDate: "2017-07-26T05:10:33.162Z"
+  TimeStamp: "1501045833162"
+  author: "Copyright 2010-2018 James A. Hinds: St. John's Jim -- King of Cascadia"
+  debug: ""
+  id: "stjohnsjim/story/shanghai-squirrels-by-the-score"
+  name: "Shanghai Squirrels by the Score"
+#

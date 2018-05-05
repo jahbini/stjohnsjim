@@ -125,3 +125,31 @@ db[id="59782449d3cfff7cc5f92611"] =
   id: "59782449d3cfff7cc5f92611"
   name: "Ex - Employee Spring Given Forcible Escort Out of "
 #
+
+
+
+db[id="stjohnsjim/story/ex-employee-spring-given-forcible-escort-out-of"] =
+  title: "Ex - Employee Spring Given Forcible Escort Out of "
+  slug: "ex-employee-spring-given-forcible-escort-out-of"
+  category: "story"
+  site: "59781236d3cfff7cc5f92609"
+  accepted: true
+  index: false
+  headlines: []
+  tags: []
+  snippets: "{\"first name\":\"first name\"}"
+  memberOf: [
+    "TAROT"
+    "PDX"
+  ]
+  created: "2011-03-27T09:57:35.000Z"
+  lastEdited: "2011-03-27T11:14:43.000Z"
+  published: "2011-03-27T11:14:43.000Z"
+  embargo: "2017-12-31T23:59:59.000Z"
+  captureDate: "2017-07-26T05:10:33.000Z"
+  TimeStamp: "1501045833000"
+  author: "Copyright 2010-2018 James A. Hinds: St. John's Jim -- King of Cascadia"
+  debug: ""
+  id: "stjohnsjim/story/ex-employee-spring-given-forcible-escort-out-of"
+  name: "Ex - Employee Spring Given Forcible Escort Out of "
+#
