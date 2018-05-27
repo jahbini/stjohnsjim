@@ -1,5 +1,5 @@
 # #-------- class start
-class  maslow_and_celarien_tarot extends stjohnsjimtemplate
+renderer = class  maslow_and_celarien_tarot extends stjohnsjimtemplate
   # 
   # section html
   # 
@@ -24,7 +24,7 @@ class  maslow_and_celarien_tarot extends stjohnsjimtemplate
   # 
   # section main
   # 
-  main: =>
+  mainUnused: =>
     T.div "#main", =>
       @post_maslow_and_celarien_tarot()
   # 
@@ -129,9 +129,7 @@ class  maslow_and_celarien_tarot extends stjohnsjimtemplate
   allMeta = [[["name","author"],["content","James A. Hinds: St. John's Jim -- King of Cascadia"]],[["http-equiv","Content-Type"],["content","text/html"],["charset","UTF-8"]],[["name","viewport"],["content","width=device-width, initial-scale=1"]],[["name","description"],["content","Stories from the 'Puter of St. John's Jim"]],[["name","keywords"],["content","Pier Park, Cathedral Park, fiction, North Portland,St. John's, st johns"]],[["property","fb:admins"],["content","187314157994069"]],[["name","msapplication-TileColor"],["content","#ffffff"]],[["name","msapplication-TileImage"],["content","/assets/icons/ms-icon-144x144.png"]],[["name","theme-color"],["content","#ffffff"]]]
   htmlTitle = "Dictates of the King of Cascadia and Stories from the 'Puter of St. John's Jim"
 #-------- class end
-page = new maslow_and_celarien_tarot
-rendered =  T.render page.html
-# ------- db start
+## ------- db start
 db = {} unless db
 
 
@@ -159,6 +157,7 @@ db[id="59782449d3cfff7cc5f9260d"] =
   id: "59782449d3cfff7cc5f9260d"
   name: "Maslow and Celarien Tarot"
 #
+
 
 
 

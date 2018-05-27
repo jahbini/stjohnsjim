@@ -1,5 +1,5 @@
 # #-------- class start
-class  a_hurricane_is_brewin extends stjohnsjimtemplate
+renderer = class  a_hurricane_is_brewin extends stjohnsjimtemplate
   # 
   # section html
   # 
@@ -24,23 +24,6 @@ class  a_hurricane_is_brewin extends stjohnsjimtemplate
   # 
   # section main
   # 
-  main: =>
-    T.div "#main", =>
-      @post_a_hurricane_is_brewin()
-  # 
-  # section post_a_hurricane_is_brewin
-  # 
-  post_a_hurricane_is_brewin: =>
-    T.div "#post-a-hurricane-is-brewin.article.article-type-post", itemscope: "itemscope", itemprop: "blogPost", =>
-      T.div ".article-inner.pb2", =>
-        T.div ".article-header", =>
-          T.h1 ".article-title", itemprop: "name", => T.raw "A Hurricane is Brewin"
-          @bloviation()
-        T.div ".article-footer.hide", =>
-          T.a ".article-share-link", "data-url": "http://localhost:3030/stjohnsjim/story/undefined", "data-id": "cik30i1ai005w88ohxnylw27q", => T.raw "Share"
-          T.ul ".article-tag-list", =>
-            T.li ".article-tag-list-item", =>
-              T.a ".article-tag-list-link", href: "/tags/story/", => T.raw "bobo-bado story"
   # 
   # section bloviation
   # 
@@ -104,39 +87,8 @@ class  a_hurricane_is_brewin extends stjohnsjimtemplate
   allMeta = [[["name","author"],["content","James A. Hinds: St. John's Jim -- King of Cascadia"]],[["http-equiv","Content-Type"],["content","text/html"],["charset","UTF-8"]],[["name","viewport"],["content","width=device-width, initial-scale=1"]],[["name","description"],["content","Stories from the 'Puter of St. John's Jim"]],[["name","keywords"],["content","Pier Park, Cathedral Park, fiction, North Portland,St. John's, st johns"]],[["property","fb:admins"],["content","187314157994069"]],[["name","msapplication-TileColor"],["content","#ffffff"]],[["name","msapplication-TileImage"],["content","/assets/icons/ms-icon-144x144.png"]],[["name","theme-color"],["content","#ffffff"]]]
   htmlTitle = "Dictates of the King of Cascadia and Stories from the 'Puter of St. John's Jim"
 #-------- class end
-page = new a_hurricane_is_brewin
-rendered =  T.render page.html
 # ------- db start
 db = {} unless db
-
-
-db[id="59782448d3cfff7cc5f9260a"] =
-  title: "A Hurricane is Brewin"
-  slug: "a-hurricane-is-brewin"
-  category: "story"
-  site: "59781236d3cfff7cc5f92609"
-  accepted: false
-  index: false
-  headlines: [
-    "Why Bar Bets No Longer Work"
-    "There are 10,000 Bars in St. John's"
-  ]
-  tags: []
-  snippets: "{\"first name\":\"first name\"}"
-  memberOf: [
-    "PNW"
-  ]
-  created: "2010-10-29T18:45:41.000Z"
-  lastEdited: "2010-10-29T19:49:31.000Z"
-  published: "2010-10-29T19:49:31.000Z"
-  embargo: "2030-01-01T00:00:00.000Z"
-  captureDate: "2017-07-26T05:10:32.000Z"
-  TimeStamp: "1501045832000"
-  author: "Copyright 2010-2018 James A. Hinds: St. John's Jim -- King of Cascadia"
-  debug: ""
-  id: "59782448d3cfff7cc5f9260a"
-  name: "A Hurricane is Brewin"
-#
 
 
 

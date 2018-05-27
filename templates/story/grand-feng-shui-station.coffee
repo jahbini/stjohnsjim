@@ -1,5 +1,5 @@
 # #-------- class start
-class  grand_feng_shui_station extends stjohnsjimtemplate
+renderer = class  grand_feng_shui_station extends stjohnsjimtemplate
   # 
   # section html
   # 
@@ -24,7 +24,7 @@ class  grand_feng_shui_station extends stjohnsjimtemplate
   # 
   # section main
   # 
-  main: =>
+  mainUnused: =>
     T.div "#main", =>
       @post_grand_feng_shui_station()
   # 
@@ -53,7 +53,7 @@ class  grand_feng_shui_station extends stjohnsjimtemplate
       T.p => T.raw "All the Shui run on time at Grand Fung Shui Station."
       T.p =>
         T.raw "Slim’s TV is now showing Portland weathermen running around in circles screaming “The Snow is Falling.” Un-fricking-believable, snow in Portland? I’ll bet it looks more like"
-        T.em => T.raw "rain"
+        T.em => T.raw " rain "
         T.raw "— Still, just to be prudent, I go back home and get my avalanche proof coat for a friend. He only had a sweatshirt hoodie. I hope the muse doesn’t mind the time I took to grab it for him."
       T.p => T.raw "(Author’s note: I think Torquemada came up with this Tarot Draw today. It’s a tough one.)"
       T.p => T.raw "Destination: Three of cups — Celebration, transient pleasures."
@@ -94,11 +94,8 @@ class  grand_feng_shui_station extends stjohnsjimtemplate
   allMeta = [[["name","author"],["content","James A. Hinds: St. John's Jim -- King of Cascadia"]],[["http-equiv","Content-Type"],["content","text/html"],["charset","UTF-8"]],[["name","viewport"],["content","width=device-width, initial-scale=1"]],[["name","description"],["content","Stories from the 'Puter of St. John's Jim"]],[["name","keywords"],["content","Pier Park, Cathedral Park, fiction, North Portland,St. John's, st johns"]],[["property","fb:admins"],["content","187314157994069"]],[["name","msapplication-TileColor"],["content","#ffffff"]],[["name","msapplication-TileImage"],["content","/assets/icons/ms-icon-144x144.png"]],[["name","theme-color"],["content","#ffffff"]]]
   htmlTitle = "Dictates of the King of Cascadia and Stories from the 'Puter of St. John's Jim"
 #-------- class end
-page = new grand_feng_shui_station
-rendered =  T.render page.html
-# ------- db start
+## ------- db start
 db = {} unless db
-
 
 db[id="59782449d3cfff7cc5f9267b"] =
   title: "Grand Feng Shui Station"

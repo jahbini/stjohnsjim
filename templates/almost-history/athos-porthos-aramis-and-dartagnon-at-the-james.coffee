@@ -1,5 +1,5 @@
 # #-------- class start
-class  athos_porthos_aramis_and_dartagnon_at_the_james extends stjohnsjimtemplate
+renderer = class  athos_porthos_aramis_and_dartagnon_at_the_james extends stjohnsjimtemplate
   # 
   # section html
   # 
@@ -24,7 +24,7 @@ class  athos_porthos_aramis_and_dartagnon_at_the_james extends stjohnsjimtemplat
   # 
   # section main
   # 
-  main: =>
+  mainUnused: =>
     T.div "#main", =>
       @post_athos_porthos_aramis_and_dartagnon_at_the_james()
   # 
@@ -106,9 +106,7 @@ class  athos_porthos_aramis_and_dartagnon_at_the_james extends stjohnsjimtemplat
   allMeta = [[["name","author"],["content","James A. Hinds: St. John's Jim -- King of Cascadia"]],[["http-equiv","Content-Type"],["content","text/html"],["charset","UTF-8"]],[["name","viewport"],["content","width=device-width, initial-scale=1"]],[["name","description"],["content","Stories from the 'Puter of St. John's Jim"]],[["name","keywords"],["content","Pier Park, Cathedral Park, fiction, North Portland,St. John's, st johns"]],[["property","fb:admins"],["content","187314157994069"]],[["name","msapplication-TileColor"],["content","#ffffff"]],[["name","msapplication-TileImage"],["content","/assets/icons/ms-icon-144x144.png"]],[["name","theme-color"],["content","#ffffff"]]]
   htmlTitle = "Dictates of the King of Cascadia and Stories from the 'Puter of St. John's Jim"
 #-------- class end
-page = new athos_porthos_aramis_and_dartagnon_at_the_james
-rendered =  T.render page.html
-# ------- db start
+## ------- db start
 db = {} unless db
 
 

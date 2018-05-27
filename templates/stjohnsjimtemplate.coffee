@@ -1,6 +1,10 @@
 # 
 T = require 'halvalla'
+#include card.coffee
 module.exports = class stjohnsjimtemplate
+  #pass the db entry into the class so that the classes have access to it
+  constructor: (@db)->
+    
   # 
   # section html
   # 
@@ -168,6 +172,20 @@ FB.api('/me', 'get', {'fields':'first_name,gender'}, function(response) {
   # 
   # section main
   # 
+  main: =>
+    headlines = @db.headlines
+    headline = '---'
+    if l=headlines?.length
+      r = Math.floor (Math.random() * l)
+      headline = headlines[r ]
+    HalvallaCard "#main.bg-silver",{
+      shadow:"highest"
+      divider:true
+      footerText: "that's all--"
+      headerText: @db?.title
+      subHeaderText: headline
+      content: @bloviation
+      }
   # 
   # section post_a_hurricane_is_brewin
   # 

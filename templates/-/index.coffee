@@ -1,5 +1,21 @@
-# #-------- class start
-class  index extends stjohnsjimtemplate
+#
+# crd component
+#
+#include card.coffee
+#
+#-------- class start
+renderer= class index extends stjohnsjimtemplate
+  #
+  # class storyHeadMatter
+  #
+  storyHeadMatter: ->
+    #T.script type: "riot/tag", src: "draft/riot/riot/hello.tag"
+  afterBody: ->
+    return
+  #
+  # section FaceBook
+  #
+  FaceBook: ->   # just say no to FB
   # 
   # section html
   # 
@@ -24,28 +40,29 @@ class  index extends stjohnsjimtemplate
   # 
   # section main
   # 
-  main: =>
-    T.div "#main", =>
+  mainUnused: =>
+    HalvallaCard "#main.white.bg-lighten-1",{
+      shadow:"highest"
+      divider:true
+      footerText: "that's all--"
+      headerText:"Grand Visions from the 'Puter of St. John's Jim"
+      subHeaderText: "No longer, simply St. John’s Jim, I hereby crown myself as King of Cascadia. Protector of the coast against all enemies, both foreign and Governmental."
+      text: @post_index
+      }, =>
       @post_index()
   # 
   # section post_index
   # 
-  post_index: =>
+  post_index: =>   # this is where we might put in style or script stuff specific to this section
     T.div "#post-index.article.article-type-post", itemscope: "itemscope", itemprop: "blogPost", =>
       T.div ".article-inner.pb2", =>
-        T.div ".article-header", =>
-          T.h1 ".article-title", itemprop: "name", => T.raw "Grand Visions from the 'Puter of St. John's Jim"
-          @bloviation()
-        T.div ".article-footer.hide", =>
-          T.a ".article-share-link", "data-url": "http://localhost:3030/stjohnsjim/-/undefined", "data-id": "cik30i1ai005w88ohxnylw27q", => T.raw "Share"
-          T.ul ".article-tag-list", =>
-            T.li ".article-tag-list-item", =>
-              T.a ".article-tag-list-link", href: "/tags/story/", => T.raw "bobo-bado story"
+        @bloviation()
   # 
   # section bloviation
   # 
   bloviation: =>
-    T.div "#bloviation.article-entry.contents", "dangerously-set-inner-h-t-m-l": "[object Object]", =>
+    T.div "#bloviation.article-entry.contents", =>
+      #T.tag "rg-card","#bogo"
       @announcement_()
       @cascadia_free_forever_()
       @the_movement_is_on_us_()
@@ -112,42 +129,7 @@ our near-prosperous America.  The not quite third-world life that exists beneath
   allMeta = [[["name","author"],["content","James A. Hinds: St. John's Jim -- King of Cascadia"]],[["http-equiv","Content-Type"],["content","text/html"],["charset","UTF-8"]],[["name","viewport"],["content","width=device-width, initial-scale=1"]],[["name","description"],["content","Stories from the 'Puter of St. John's Jim"]],[["name","keywords"],["content","Pier Park, Cathedral Park, fiction, North Portland,St. John's, st johns"]],[["property","fb:admins"],["content","187314157994069"]],[["name","msapplication-TileColor"],["content","#ffffff"]],[["name","msapplication-TileImage"],["content","/assets/icons/ms-icon-144x144.png"]],[["name","theme-color"],["content","#ffffff"]]]
   htmlTitle = "Dictates of the King of Cascadia and Stories from the 'Puter of St. John's Jim"
 #-------- class end
-page = new index
-rendered =  T.render page.html
-# ------- db start
 db = {} unless db
-
-
-db[id="59782449d3cfff7cc5f92676"] =
-  title: "Grand Visions from the 'Puter of St. John's Jim"
-  slug: "index"
-  category: "-"
-  site: "59781236d3cfff7cc5f92609"
-  accepted: true
-  index: true
-  headlines: [
-    "Visions of Beauty Obscured"
-    "The Most Beautiful Bridge, But?!?!"
-    "Hookers Hook in the Great Northwest!"
-    "Tales from Pre-legalization!"
-  ]
-  tags: []
-  snippets: "{}"
-  memberOf: []
-  created: "2016-03-11T12:40:04.000Z"
-  lastEdited: "2016-03-11T14:20:28.000Z"
-  published: "2016-03-11T12:40:04.000Z"
-  embargo: "2016-03-11T12:40:04.000Z"
-  captureDate: "2017-07-26T05:10:33.484Z"
-  TimeStamp: "1501045833484"
-  author: "Copyright 2010-2018 James A. Hinds: St. John's Jim -- King of Cascadia"
-  debug: ""
-  id: "59782449d3cfff7cc5f92676"
-  name: "Grand Visions from the 'Puter of St. John's Jim"
-#
-
-
-
 db[id="stjohnsjim/-/index"] =
   title: "Grand Visions from the 'Puter of St. John's Jim"
   slug: "index"

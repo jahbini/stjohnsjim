@@ -1,5 +1,5 @@
 # #-------- class start
-class  ultimate_protection_of_the_geyser_shirt_of_bliss extends stjohnsjimtemplate
+renderer = class  ultimate_protection_of_the_geyser_shirt_of_bliss extends stjohnsjimtemplate
   # 
   # section html
   # 
@@ -24,7 +24,7 @@ class  ultimate_protection_of_the_geyser_shirt_of_bliss extends stjohnsjimtempla
   # 
   # section main
   # 
-  main: =>
+  mainUnused: =>
     T.div "#main", =>
       @post_ultimate_protection_of_the_geyser_shirt_of_bliss()
   # 
@@ -75,9 +75,7 @@ class  ultimate_protection_of_the_geyser_shirt_of_bliss extends stjohnsjimtempla
   allMeta = [[["name","author"],["content","James A. Hinds: St. John's Jim -- King of Cascadia"]],[["http-equiv","Content-Type"],["content","text/html"],["charset","UTF-8"]],[["name","viewport"],["content","width=device-width, initial-scale=1"]],[["name","description"],["content","Stories from the 'Puter of St. John's Jim"]],[["name","keywords"],["content","Pier Park, Cathedral Park, fiction, North Portland,St. John's, st johns"]],[["property","fb:admins"],["content","187314157994069"]],[["name","msapplication-TileColor"],["content","#ffffff"]],[["name","msapplication-TileImage"],["content","/assets/icons/ms-icon-144x144.png"]],[["name","theme-color"],["content","#ffffff"]]]
   htmlTitle = "Dictates of the King of Cascadia and Stories from the 'Puter of St. John's Jim"
 #-------- class end
-page = new ultimate_protection_of_the_geyser_shirt_of_bliss
-rendered =  T.render page.html
-# ------- db start
+## ------- db start
 db = {} unless db
 
 

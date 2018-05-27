@@ -1,5 +1,5 @@
 # #-------- class start
-class  messages_from_the_great_below extends stjohnsjimtemplate
+renderer = class  messages_from_the_great_below extends stjohnsjimtemplate
   # 
   # section html
   # 
@@ -24,7 +24,7 @@ class  messages_from_the_great_below extends stjohnsjimtemplate
   # 
   # section main
   # 
-  main: =>
+  mainUnused: =>
     T.div "#main", =>
       @post_messages_from_the_great_below()
   # 
@@ -86,9 +86,7 @@ class  messages_from_the_great_below extends stjohnsjimtemplate
   allMeta = [[["name","author"],["content","James A. Hinds: St. John's Jim -- King of Cascadia"]],[["http-equiv","Content-Type"],["content","text/html"],["charset","UTF-8"]],[["name","viewport"],["content","width=device-width, initial-scale=1"]],[["name","description"],["content","Stories from the 'Puter of St. John's Jim"]],[["name","keywords"],["content","Pier Park, Cathedral Park, fiction, North Portland,St. John's, st johns"]],[["property","fb:admins"],["content","187314157994069"]],[["name","msapplication-TileColor"],["content","#ffffff"]],[["name","msapplication-TileImage"],["content","/assets/icons/ms-icon-144x144.png"]],[["name","theme-color"],["content","#ffffff"]]]
   htmlTitle = "Dictates of the King of Cascadia and Stories from the 'Puter of St. John's Jim"
 #-------- class end
-page = new messages_from_the_great_below
-rendered =  T.render page.html
-# ------- db start
+## ------- db start
 db = {} unless db
 
 
