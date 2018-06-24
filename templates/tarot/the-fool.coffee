@@ -91,7 +91,7 @@ db[id="5978244ad3cfff7cc5f9269b"] =
   title: "The Fool"
   slug: "the-fool"
   category: "tarot"
-  site: "59781236d3cfff7cc5f92609"
+  site: "stjohnsjim"
   accepted: true
   index: false
   headlines: []
@@ -118,7 +118,7 @@ db[id="stjohnsjim/tarot/the-fool"] =
   title: "The Fool"
   slug: "the-fool"
   category: "tarot"
-  site: "59781236d3cfff7cc5f92609"
+  site: "stjohnsjim"
   accepted: true
   index: false
   headlines: []

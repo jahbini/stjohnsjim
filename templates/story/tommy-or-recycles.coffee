@@ -96,7 +96,7 @@ db[id="5978244ad3cfff7cc5f926a8"] =
   title: "Tommy, OR Recycles"
   slug: "tommy-or-recycles"
   category: "story"
-  site: "59781236d3cfff7cc5f92609"
+  site: "stjohnsjim"
   accepted: true
   index: false
   headlines: []
@@ -123,7 +123,7 @@ db[id="stjohnsjim/story/tommy-or-recycles"] =
   title: "Tommy, OR Recycles"
   slug: "tommy-or-recycles"
   category: "story"
-  site: "59781236d3cfff7cc5f92609"
+  site: "stjohnsjim"
   accepted: true
   index: false
   headlines: []

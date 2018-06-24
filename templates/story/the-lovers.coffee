@@ -113,7 +113,7 @@ db[id="5978244ad3cfff7cc5f926a0"] =
   title: "The Lovers"
   slug: "the-lovers"
   category: "story"
-  site: "59781236d3cfff7cc5f92609"
+  site: "stjohnsjim"
   accepted: true
   index: false
   headlines: []
@@ -140,7 +140,7 @@ db[id="stjohnsjim/story/the-lovers"] =
   title: "The Lovers"
   slug: "the-lovers"
   category: "story"
-  site: "59781236d3cfff7cc5f92609"
+  site: "stjohnsjim"
   accepted: true
   index: false
   headlines: []

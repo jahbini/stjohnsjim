@@ -106,7 +106,7 @@ db[id="59782449d3cfff7cc5f92633"] =
   title: "Pathy Warps to Plant Speed"
   slug: "pathy-warps-to-plant-speed"
   category: "story"
-  site: "59781236d3cfff7cc5f92609"
+  site: "stjohnsjim"
   accepted: true
   index: false
   headlines: []
@@ -135,7 +135,7 @@ db[id="stjohnsjim/story/pathy-warps-to-plant-speed"] =
   title: "Pathy Warps to Plant Speed"
   slug: "pathy-warps-to-plant-speed"
   category: "story"
-  site: "59781236d3cfff7cc5f92609"
+  site: "stjohnsjim"
   accepted: true
   index: false
   headlines: []

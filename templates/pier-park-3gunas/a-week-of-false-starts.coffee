@@ -124,7 +124,7 @@ db[id="59782449d3cfff7cc5f9265e"] =
   title: "A Week of False Starts"
   slug: "a-week-of-false-starts"
   category: "pier-park-3gunas"
-  site: "59781236d3cfff7cc5f92609"
+  site: "stjohnsjim"
   accepted: true
   index: false
   headlines: []
@@ -152,7 +152,7 @@ db[id="stjohnsjim/pier-park-3gunas/a-week-of-false-starts"] =
   title: "A Week of False Starts"
   slug: "a-week-of-false-starts"
   category: "pier-park-3gunas"
-  site: "59781236d3cfff7cc5f92609"
+  site: "stjohnsjim"
   accepted: true
   index: false
   headlines: []

@@ -1,7 +1,7 @@
 #
-# crd component
+# accordion component
 #
-#include card.coffee
+#include accordion.coffee
 							
 # 
 #-------- class start
@@ -10,13 +10,15 @@ renderer= class  riot extends stjohnsjimtemplate
   # class storyHeadMatter
   #
   storyHeadMatter: ->
+    #T.link rel: "stylesheet", href: "assets/css/vendor.css"
+    #T.link rel: "stylesheet", href: "assets/css/app.css"
     #T.script type: "riot/tag", src: "draft/riot/riot/hello.tag"
+    T.link rel:"stylesheet", href:"https://unpkg.com/blaze@4.0.0-14/scss/dist/blaze.min.css"
   afterBody: ->
     return
     T.coffeescript mountBogo
     
   mountBogo= -> $ ->
-    riot.mount '*' 
     do ->
       el = document.getElementById 'bogo'
       
@@ -85,15 +87,18 @@ renderer= class  riot extends stjohnsjimtemplate
       headerText:"Grand Visions from the 'Puter of St. John's Jim"
       subHeaderText: "No longer, simply St. John’s Jim, I hereby crown myself as King of Cascadia. Protector of the coast against all enemies, both foreign and Governmental."
       text: @post_index
-      }, =>
-      @post_index()
+      }
   # 
   # section post_index
   # 
   post_index: =>   # this is where we might put in style or script stuff specific to this section
-    T.div "#post-index.article.article-type-post", itemscope: "itemscope", itemprop: "blogPost", =>
-      T.div ".article-inner.pb2", =>
-        @bloviation()
+   HalvallaExpandable '#test.testClass', cards: [
+    {headline:"first big card", elements: "an element - 1"}
+    {headline:"second card", elements: "an element -snafu "}
+    {headline:"third card", elements: "an udder element"}
+    {headline:"fourth card", elements: "an elementi bogi"}
+    {headline:"fifth card", elements: "an element to finish up"}
+    ]
   # 
   # section bloviation
   # 
@@ -103,24 +108,13 @@ renderer= class  riot extends stjohnsjimtemplate
       @announcement_()
       @cascadia_free_forever_()
       @the_movement_is_on_us_()
-      T.p => T.raw "We have been duped by the Pimp Trump and hearded by his cowboys into our last truck ride."
-      T.p => T.raw """
-No longer, simply St. John’s Jim, I hereby crown myself as King of Cascadia.  Protector of the coast against
-all enemies, both foreign and Governmental.
-"""
-      T.p => T.raw """
-But what previously were simply stories: untruths meant only for idle minds, have now become blazing
-hot metaphors for the eternal struggle we are in.
-"""
-      T.p => T.raw """
-The evil of the Tommies of Oregon, the Rationality of the Rogers of Washington, and the magic of the
-Southwicks of California.
-"""
-      T.p => T.raw """
-For a magical time, I visited a land of great visions.  The vision of the fringes of
-our near-prosperous America.  The not quite third-world life that exists beneath the great spires and arches of the St. John’s Bridge.
-"""
-      T.p => T.raw "Here they are:  Read them and laugh."
+      HalvallaExpandable '#test.testClass', cards: [
+       {headline:"first big card", elements: "an element - 1"}
+       {headline:"second card", elements: "an element -snafu "}
+       {headline:"third card", elements: "an udder element"}
+       {headline:"fourth card", elements: "an elementi bogi"}
+       {headline:"fifth card", elements: "an element to finish up"}
+      ]
       @hail_cascadia_()
   # 
   # section hail_cascadia_
@@ -170,11 +164,12 @@ our near-prosperous America.  The not quite third-world life that exists beneath
 db = {} unless db
 
 #
+
 db[id="stjohnsjim/riot/riot"] =
   title: "riot"
   slug: "riot"
   category: "riot"
-  site: "59781236d3cfff7cc5f92609"
+  site: "stjohnsjim"
   accepted: false
   index: false
   sourcePath: ""
@@ -193,4 +188,3 @@ db[id="stjohnsjim/riot/riot"] =
   id: "stjohnsjim/riot/riot"
   name: "riot"
 #
-#end of story

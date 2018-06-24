@@ -102,7 +102,7 @@ db[id="5978244ad3cfff7cc5f926a4"] =
   title: "The Worst of Plans, the Best of Plans."
   slug: "the-worst-of-plans-the-best-of-plans"
   category: "story"
-  site: "59781236d3cfff7cc5f92609"
+  site: "stjohnsjim"
   accepted: true
   index: false
   headlines: []
@@ -131,7 +131,7 @@ db[id="stjohnsjim/story/the-worst-of-plans-the-best-of-plans"] =
   title: "The Worst of Plans, the Best of Plans."
   slug: "the-worst-of-plans-the-best-of-plans"
   category: "story"
-  site: "59781236d3cfff7cc5f92609"
+  site: "stjohnsjim"
   accepted: true
   index: false
   headlines: []

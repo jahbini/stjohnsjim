@@ -129,7 +129,7 @@ db[id="59782449d3cfff7cc5f92678"] =
   title: "Simple Scientific Reality"
   slug: "simple-scientific-reality"
   category: "story"
-  site: "59781236d3cfff7cc5f92609"
+  site: "stjohnsjim"
   accepted: true
   index: false
   headlines: []
@@ -158,7 +158,7 @@ db[id="stjohnsjim/story/simple-scientific-reality"] =
   title: "Simple Scientific Reality"
   slug: "simple-scientific-reality"
   category: "story"
-  site: "59781236d3cfff7cc5f92609"
+  site: "stjohnsjim"
   accepted: true
   index: false
   headlines: []

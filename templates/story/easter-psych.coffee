@@ -123,7 +123,7 @@ db[id="59782449d3cfff7cc5f9264a"] =
   title: "Easter... Psych!!"
   slug: "easter-psych"
   category: "story"
-  site: "59781236d3cfff7cc5f92609"
+  site: "stjohnsjim"
   accepted: true
   index: false
   headlines: []
@@ -152,7 +152,7 @@ db[id="stjohnsjim/story/easter-psych"] =
   title: "Easter... Psych!!"
   slug: "easter-psych"
   category: "story"
-  site: "59781236d3cfff7cc5f92609"
+  site: "stjohnsjim"
   accepted: true
   index: false
   headlines: []

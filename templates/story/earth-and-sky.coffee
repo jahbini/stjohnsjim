@@ -87,7 +87,7 @@ db[id="59782449d3cfff7cc5f92627"] =
   title: "Earth and Sky"
   slug: "earth-and-sky"
   category: "story"
-  site: "59781236d3cfff7cc5f92609"
+  site: "stjohnsjim"
   accepted: true
   index: false
   headlines: []
@@ -114,7 +114,7 @@ db[id="stjohnsjim/story/earth-and-sky"] =
   title: "Earth and Sky"
   slug: "earth-and-sky"
   category: "story"
-  site: "59781236d3cfff7cc5f92609"
+  site: "stjohnsjim"
   accepted: true
   index: false
   headlines: []

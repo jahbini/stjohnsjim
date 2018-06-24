@@ -102,7 +102,7 @@ db[id="59782449d3cfff7cc5f92632"] =
   title: "Jim Reads Tarot"
   slug: "jim-reads-tarot"
   category: "story"
-  site: "59781236d3cfff7cc5f92609"
+  site: "stjohnsjim"
   accepted: true
   index: false
   headlines: []
@@ -130,7 +130,7 @@ db[id="stjohnsjim/story/jim-reads-tarot"] =
   title: "Jim Reads Tarot"
   slug: "jim-reads-tarot"
   category: "story"
-  site: "59781236d3cfff7cc5f92609"
+  site: "stjohnsjim"
   accepted: true
   index: false
   headlines: []

@@ -93,7 +93,7 @@ db[id="59782449d3cfff7cc5f92656"] =
   title: "Rainy September Sunday"
   slug: "rainy-september-sunday"
   category: "story"
-  site: "59781236d3cfff7cc5f92609"
+  site: "stjohnsjim"
   accepted: true
   index: false
   headlines: []
@@ -121,7 +121,7 @@ db[id="stjohnsjim/story/rainy-september-sunday"] =
   title: "Rainy September Sunday"
   slug: "rainy-september-sunday"
   category: "story"
-  site: "59781236d3cfff7cc5f92609"
+  site: "stjohnsjim"
   accepted: true
   index: false
   headlines: []

@@ -98,7 +98,7 @@ db[id="59782449d3cfff7cc5f92658"] =
   title: "Boxing day"
   slug: "boxing-day"
   category: "story"
-  site: "59781236d3cfff7cc5f92609"
+  site: "stjohnsjim"
   accepted: true
   index: false
   headlines: []
@@ -126,7 +126,7 @@ db[id="stjohnsjim/story/boxing-day"] =
   title: "Boxing day"
   slug: "boxing-day"
   category: "story"
-  site: "59781236d3cfff7cc5f92609"
+  site: "stjohnsjim"
   accepted: true
   index: false
   headlines: []

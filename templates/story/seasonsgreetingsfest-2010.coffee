@@ -108,7 +108,7 @@ db[id="59782449d3cfff7cc5f9266d"] =
   title: "SeasonsGreetingsFest 2010"
   slug: "seasonsgreetingsfest-2010"
   category: "story"
-  site: "59781236d3cfff7cc5f92609"
+  site: "stjohnsjim"
   accepted: true
   index: false
   headlines: []
@@ -136,7 +136,7 @@ db[id="stjohnsjim/story/seasonsgreetingsfest-2010"] =
   title: "SeasonsGreetingsFest 2010"
   slug: "seasonsgreetingsfest-2010"
   category: "story"
-  site: "59781236d3cfff7cc5f92609"
+  site: "stjohnsjim"
   accepted: true
   index: false
   headlines: []

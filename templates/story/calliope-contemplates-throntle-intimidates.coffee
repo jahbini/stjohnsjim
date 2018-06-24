@@ -117,7 +117,7 @@ db[id="59782449d3cfff7cc5f9261a"] =
   title: "Calliope Contemplates, Throntle Intimidates"
   slug: "calliope-contemplates-throntle-intimidates"
   category: "story"
-  site: "59781236d3cfff7cc5f92609"
+  site: "stjohnsjim"
   accepted: true
   index: false
   headlines: []
@@ -146,7 +146,7 @@ db[id="stjohnsjim/story/calliope-contemplates-throntle-intimidates"] =
   title: "Calliope Contemplates, Throntle Intimidates"
   slug: "calliope-contemplates-throntle-intimidates"
   category: "story"
-  site: "59781236d3cfff7cc5f92609"
+  site: "stjohnsjim"
   accepted: true
   index: false
   headlines: []

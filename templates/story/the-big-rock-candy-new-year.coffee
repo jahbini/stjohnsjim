@@ -111,7 +111,7 @@ db[id="59782449d3cfff7cc5f9262e"] =
   title: "The Big Rock Candy New Year"
   slug: "the-big-rock-candy-new-year"
   category: "story"
-  site: "59781236d3cfff7cc5f92609"
+  site: "stjohnsjim"
   accepted: true
   index: false
   headlines: []
@@ -136,7 +136,7 @@ db[id="stjohnsjim/story/the-big-rock-candy-new-year"] =
   title: "The Big Rock Candy New Year"
   slug: "the-big-rock-candy-new-year"
   category: "story"
-  site: "59781236d3cfff7cc5f92609"
+  site: "stjohnsjim"
   accepted: true
   index: false
   headlines: []

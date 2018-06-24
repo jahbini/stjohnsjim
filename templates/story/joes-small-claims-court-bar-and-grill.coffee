@@ -99,7 +99,7 @@ db[id="59782449d3cfff7cc5f92612"] =
   title: "Joe's Small Claims Court / Bar and Grill"
   slug: "joes-small-claims-court-bar-and-grill"
   category: "story"
-  site: "59781236d3cfff7cc5f92609"
+  site: "stjohnsjim"
   accepted: true
   index: false
   headlines: []
@@ -126,7 +126,7 @@ db[id="stjohnsjim/story/joes-small-claims-court-bar-and-grill"] =
   title: "Joe's Small Claims Court / Bar and Grill"
   slug: "joes-small-claims-court-bar-and-grill"
   category: "story"
-  site: "59781236d3cfff7cc5f92609"
+  site: "stjohnsjim"
   accepted: true
   index: false
   headlines: []

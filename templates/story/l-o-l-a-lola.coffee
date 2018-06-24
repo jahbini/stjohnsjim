@@ -93,7 +93,7 @@ db[id="59782449d3cfff7cc5f9263c"] =
   title: "L O L A -- Lola!"
   slug: "l-o-l-a-lola"
   category: "story"
-  site: "59781236d3cfff7cc5f92609"
+  site: "stjohnsjim"
   accepted: true
   index: false
   headlines: []
@@ -120,7 +120,7 @@ db[id="stjohnsjim/story/l-o-l-a-lola"] =
   title: "L O L A -- Lola!"
   slug: "l-o-l-a-lola"
   category: "story"
-  site: "59781236d3cfff7cc5f92609"
+  site: "stjohnsjim"
   accepted: true
   index: false
   headlines: []

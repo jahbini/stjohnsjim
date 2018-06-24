@@ -93,7 +93,7 @@ db[id="59782449d3cfff7cc5f9262c"] =
   title: "National Exhale Week"
   slug: "national-exhale-week"
   category: "story"
-  site: "59781236d3cfff7cc5f92609"
+  site: "stjohnsjim"
   accepted: true
   index: false
   headlines: []
@@ -120,7 +120,7 @@ db[id="stjohnsjim/story/national-exhale-week"] =
   title: "National Exhale Week"
   slug: "national-exhale-week"
   category: "story"
-  site: "59781236d3cfff7cc5f92609"
+  site: "stjohnsjim"
   accepted: true
   index: false
   headlines: []

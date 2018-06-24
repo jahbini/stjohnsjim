@@ -103,7 +103,7 @@ db[id="5978244ad3cfff7cc5f92696"] =
   title: "Tommy's Web Catches Steven and Bambi"
   slug: "tommys-web-catches-steven-and-bambi"
   category: "story"
-  site: "59781236d3cfff7cc5f92609"
+  site: "stjohnsjim"
   accepted: true
   index: false
   headlines: []
@@ -130,7 +130,7 @@ db[id="stjohnsjim/story/tommys-web-catches-steven-and-bambi"] =
   title: "Tommy's Web Catches Steven and Bambi"
   slug: "tommys-web-catches-steven-and-bambi"
   category: "story"
-  site: "59781236d3cfff7cc5f92609"
+  site: "stjohnsjim"
   accepted: true
   index: false
   headlines: []

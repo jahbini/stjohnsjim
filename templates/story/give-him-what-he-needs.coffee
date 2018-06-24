@@ -115,7 +115,7 @@ db[id="59782449d3cfff7cc5f9264f"] =
   title: "Give Him What He Needs"
   slug: "give-him-what-he-needs"
   category: "story"
-  site: "59781236d3cfff7cc5f92609"
+  site: "stjohnsjim"
   accepted: true
   index: false
   headlines: []
@@ -140,7 +140,7 @@ db[id="stjohnsjim/story/give-him-what-he-needs"] =
   title: "Give Him What He Needs"
   slug: "give-him-what-he-needs"
   category: "story"
-  site: "59781236d3cfff7cc5f92609"
+  site: "stjohnsjim"
   accepted: true
   index: false
   headlines: []

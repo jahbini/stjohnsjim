@@ -97,7 +97,7 @@ db[id="59782449d3cfff7cc5f92610"] =
   title: "Anna Played Piana"
   slug: "anna-played-piana"
   category: "california"
-  site: "59781236d3cfff7cc5f92609"
+  site: "stjohnsjim"
   accepted: true
   index: false
   headlines: [
@@ -127,7 +127,7 @@ db[id="stjohnsjim/california/anna-played-piana"] =
   title: "Anna Played Piana"
   slug: "anna-played-piana"
   category: "california"
-  site: "59781236d3cfff7cc5f92609"
+  site: "stjohnsjim"
   accepted: true
   index: false
   headlines: [

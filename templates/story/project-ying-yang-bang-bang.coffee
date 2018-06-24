@@ -130,7 +130,7 @@ db[id="59782449d3cfff7cc5f9261d"] =
   title: "Project Ying Yang Bang Bang"
   slug: "project-ying-yang-bang-bang"
   category: "story"
-  site: "59781236d3cfff7cc5f92609"
+  site: "stjohnsjim"
   accepted: true
   index: false
   headlines: []
@@ -157,7 +157,7 @@ db[id="stjohnsjim/story/project-ying-yang-bang-bang"] =
   title: "Project Ying Yang Bang Bang"
   slug: "project-ying-yang-bang-bang"
   category: "story"
-  site: "59781236d3cfff7cc5f92609"
+  site: "stjohnsjim"
   accepted: true
   index: false
   headlines: []

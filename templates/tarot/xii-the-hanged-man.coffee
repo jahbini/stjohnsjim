@@ -89,7 +89,7 @@ db[id="5978244ad3cfff7cc5f926a6"] =
   title: "XII - The Hanged Man"
   slug: "xii-the-hanged-man"
   category: "tarot"
-  site: "59781236d3cfff7cc5f92609"
+  site: "stjohnsjim"
   accepted: true
   index: false
   headlines: []
@@ -116,7 +116,7 @@ db[id="stjohnsjim/tarot/xii-the-hanged-man"] =
   title: "XII - The Hanged Man"
   slug: "xii-the-hanged-man"
   category: "tarot"
-  site: "59781236d3cfff7cc5f92609"
+  site: "stjohnsjim"
   accepted: true
   index: false
   headlines: []

@@ -65,8 +65,9 @@ renderer= class index extends stjohnsjimtemplate
       #T.tag "rg-card","#bogo"
       @announcement_()
       @cascadia_free_forever_()
-      @the_movement_is_on_us_()
-      T.p => T.raw "We have been duped by the Pimp Trump and hearded by his cowboys into our last truck ride."
+      #@the_movement_is_on_us_()
+      T.p => "America, no, Western Civi...   No, all the civilizations of the World are in deep turmoil as
+we shift from rule by Objective Democracy to rule by Subjective Gangsta."
       T.p => T.raw """
 No longer, simply St. John’s Jim, I hereby crown myself as King of Cascadia.  Protector of the coast against
 all enemies, both foreign and Governmental.
@@ -77,7 +78,7 @@ hot metaphors for the eternal struggle we are in.
 """
       T.p => T.raw """
 The evil of the Tommies of Oregon, the Rationality of the Rogers of Washington, and the magic of the
-Southwicks of California.
+Southwicks of California.  It is all in these stories.
 """
       T.p => T.raw """
 For a magical time, I visited a land of great visions.  The vision of the fringes of
@@ -89,7 +90,12 @@ our near-prosperous America.  The not quite third-world life that exists beneath
   # section hail_cascadia_
   # 
   hail_cascadia_: =>
-    T.h2 "#hail-cascadia-", => T.raw "Hail! Cascadia!"
+    T.p ->
+      T.raw "Here is this weeks favorite --"
+      T.span ".h4","the Unique birth of the Roller Skating Legend, "
+      T.a href: "http://stjohnsjim.com/roller-derby/bouncy-boom-gets-her-skates.html", =>
+        T.span ".h3", "Bouncy Boom"
+      
   # 
   # section the_movement_is_on_us_
   # 
@@ -134,7 +140,7 @@ db[id="stjohnsjim/-/index"] =
   title: "Grand Visions from the 'Puter of St. John's Jim"
   slug: "index"
   category: "-"
-  site: "59781236d3cfff7cc5f92609"
+  site: "stjohnsjim"
   accepted: true
   index: true
   headlines: [

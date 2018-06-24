@@ -120,7 +120,7 @@ db[id="stjohnsjim/story/clash"] =
   title: "clash"
   slug: "clash"
   category: "story"
-  site: "59781236d3cfff7cc5f92609"
+  site: "stjohnsjim"
   accepted: false
   index: false
   sourcePath: ""

@@ -138,7 +138,7 @@ db[id="5978244ad3cfff7cc5f9269a"] =
   title: "You cant always get what you want"
   slug: "you-cant-always-get-what-you-want"
   category: "story"
-  site: "59781236d3cfff7cc5f92609"
+  site: "stjohnsjim"
   accepted: true
   index: false
   headlines: []
@@ -167,7 +167,7 @@ db[id="stjohnsjim/story/you-cant-always-get-what-you-want"] =
   title: "You cant always get what you want"
   slug: "you-cant-always-get-what-you-want"
   category: "story"
-  site: "59781236d3cfff7cc5f92609"
+  site: "stjohnsjim"
   accepted: true
   index: false
   headlines: []

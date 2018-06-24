@@ -101,7 +101,7 @@ db[id="59782449d3cfff7cc5f9267b"] =
   title: "Grand Feng Shui Station"
   slug: "grand-feng-shui-station"
   category: "story"
-  site: "59781236d3cfff7cc5f92609"
+  site: "stjohnsjim"
   accepted: true
   index: false
   headlines: []
@@ -130,7 +130,7 @@ db[id="stjohnsjim/story/grand-feng-shui-station"] =
   title: "Grand Feng Shui Station"
   slug: "grand-feng-shui-station"
   category: "story"
-  site: "59781236d3cfff7cc5f92609"
+  site: "stjohnsjim"
   accepted: true
   index: false
   headlines: []

@@ -131,7 +131,7 @@ db[id="59782449d3cfff7cc5f9266a"] =
   title: "Mooning the Squirrels"
   slug: "mooning-the-squirrels"
   category: "story"
-  site: "59781236d3cfff7cc5f92609"
+  site: "stjohnsjim"
   accepted: true
   index: false
   headlines: []
@@ -159,7 +159,7 @@ db[id="stjohnsjim/story/mooning-the-squirrels"] =
   title: "Mooning the Squirrels"
   slug: "mooning-the-squirrels"
   category: "story"
-  site: "59781236d3cfff7cc5f92609"
+  site: "stjohnsjim"
   accepted: true
   index: false
   headlines: []

@@ -132,7 +132,7 @@ db[id="59782449d3cfff7cc5f92613"] =
   title: "Angels and Creatures of the Night"
   slug: "angels-and-creatures-of-the-night"
   category: "story"
-  site: "59781236d3cfff7cc5f92609"
+  site: "stjohnsjim"
   accepted: true
   index: false
   headlines: []
@@ -161,7 +161,7 @@ db[id="stjohnsjim/story/angels-and-creatures-of-the-night"] =
   title: "Angels and Creatures of the Night"
   slug: "angels-and-creatures-of-the-night"
   category: "story"
-  site: "59781236d3cfff7cc5f92609"
+  site: "stjohnsjim"
   accepted: true
   index: false
   headlines: []

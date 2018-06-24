@@ -119,7 +119,7 @@ db[id="5978244ad3cfff7cc5f926b1"] =
   title: "Wrestling with Memes Again"
   slug: "wrestling-with-memes-again"
   category: "story"
-  site: "59781236d3cfff7cc5f92609"
+  site: "stjohnsjim"
   accepted: true
   index: false
   headlines: []
@@ -147,7 +147,7 @@ db[id="stjohnsjim/story/wrestling-with-memes-again"] =
   title: "Wrestling with Memes Again"
   slug: "wrestling-with-memes-again"
   category: "story"
-  site: "59781236d3cfff7cc5f92609"
+  site: "stjohnsjim"
   accepted: true
   index: false
   headlines: []

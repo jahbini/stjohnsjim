@@ -111,7 +111,7 @@ db[id="5978244ad3cfff7cc5f9269e"] =
   title: "They Leave the West Behind"
   slug: "they-leave-the-west-behind"
   category: "story"
-  site: "59781236d3cfff7cc5f92609"
+  site: "stjohnsjim"
   accepted: true
   index: false
   headlines: []
@@ -138,7 +138,7 @@ db[id="stjohnsjim/story/they-leave-the-west-behind"] =
   title: "They Leave the West Behind"
   slug: "they-leave-the-west-behind"
   category: "story"
-  site: "59781236d3cfff7cc5f92609"
+  site: "stjohnsjim"
   accepted: true
   index: false
   headlines: []

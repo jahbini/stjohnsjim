@@ -119,7 +119,7 @@ db[id="59782449d3cfff7cc5f92655"] =
   title: "Solitude, Spiders, and Cougars"
   slug: "solitude-spiders-and-cougars"
   category: "story"
-  site: "59781236d3cfff7cc5f92609"
+  site: "stjohnsjim"
   accepted: true
   index: false
   headlines: []
@@ -148,7 +148,7 @@ db[id="stjohnsjim/story/solitude-spiders-and-cougars"] =
   title: "Solitude, Spiders, and Cougars"
   slug: "solitude-spiders-and-cougars"
   category: "story"
-  site: "59781236d3cfff7cc5f92609"
+  site: "stjohnsjim"
   accepted: true
   index: false
   headlines: []

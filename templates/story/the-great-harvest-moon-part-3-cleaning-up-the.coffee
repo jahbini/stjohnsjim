@@ -107,7 +107,7 @@ db[id="5978244ad3cfff7cc5f9268e"] =
   title: "The Great Harvest Moon - Part 3 -- cleaning up the"
   slug: "the-great-harvest-moon-part-3-cleaning-up-the"
   category: "story"
-  site: "59781236d3cfff7cc5f92609"
+  site: "stjohnsjim"
   accepted: true
   index: false
   headlines: []
@@ -136,7 +136,7 @@ db[id="stjohnsjim/story/the-great-harvest-moon-part-3-cleaning-up-the"] =
   title: "The Great Harvest Moon - Part 3 -- cleaning up the"
   slug: "the-great-harvest-moon-part-3-cleaning-up-the"
   category: "story"
-  site: "59781236d3cfff7cc5f92609"
+  site: "stjohnsjim"
   accepted: true
   index: false
   headlines: []

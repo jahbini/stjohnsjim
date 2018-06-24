@@ -105,7 +105,7 @@ db[id="59782449d3cfff7cc5f9260c"] =
   title: "Guru City!"
   slug: "guru-city"
   category: "story"
-  site: "59781236d3cfff7cc5f92609"
+  site: "stjohnsjim"
   accepted: true
   index: false
   headlines: []
@@ -133,7 +133,7 @@ db[id="stjohnsjim/story/guru-city"] =
   title: "Guru City!"
   slug: "guru-city"
   category: "story"
-  site: "59781236d3cfff7cc5f92609"
+  site: "stjohnsjim"
   accepted: true
   index: false
   headlines: []

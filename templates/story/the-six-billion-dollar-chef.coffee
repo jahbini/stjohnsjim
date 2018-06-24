@@ -122,7 +122,7 @@ db[id="5978244ad3cfff7cc5f926b6"] =
   title: "The Six Billion Dollar Chef"
   slug: "the-six-billion-dollar-chef"
   category: "story"
-  site: "59781236d3cfff7cc5f92609"
+  site: "stjohnsjim"
   accepted: true
   index: false
   headlines: []
@@ -150,7 +150,7 @@ db[id="stjohnsjim/story/the-six-billion-dollar-chef"] =
   title: "The Six Billion Dollar Chef"
   slug: "the-six-billion-dollar-chef"
   category: "story"
-  site: "59781236d3cfff7cc5f92609"
+  site: "stjohnsjim"
   accepted: true
   index: false
   headlines: []

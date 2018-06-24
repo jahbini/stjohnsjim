@@ -122,7 +122,7 @@ db[id="59782449d3cfff7cc5f9262a"] =
   title: "Dentists, Electrons and Kings"
   slug: "dentists-electrons-and-kings"
   category: "story"
-  site: "59781236d3cfff7cc5f92609"
+  site: "stjohnsjim"
   accepted: true
   index: false
   headlines: []
@@ -151,7 +151,7 @@ db[id="stjohnsjim/story/dentists-electrons-and-kings"] =
   title: "Dentists, Electrons and Kings"
   slug: "dentists-electrons-and-kings"
   category: "story"
-  site: "59781236d3cfff7cc5f92609"
+  site: "stjohnsjim"
   accepted: true
   index: false
   headlines: []

@@ -123,7 +123,7 @@ db[id="5978244ad3cfff7cc5f926b3"] =
   title: "The Gift of \"Who Are You?\""
   slug: "the-gift-of-who-are-you"
   category: "story"
-  site: "59781236d3cfff7cc5f92609"
+  site: "stjohnsjim"
   accepted: true
   index: false
   headlines: []
@@ -150,7 +150,7 @@ db[id="stjohnsjim/story/the-gift-of-who-are-you"] =
   title: "The Gift of \"Who Are You?\""
   slug: "the-gift-of-who-are-you"
   category: "story"
-  site: "59781236d3cfff7cc5f92609"
+  site: "stjohnsjim"
   accepted: true
   index: false
   headlines: []

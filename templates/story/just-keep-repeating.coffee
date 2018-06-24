@@ -110,7 +110,7 @@ db[id="59782449d3cfff7cc5f9265a"] =
   title: "Just keep repeating..."
   slug: "just-keep-repeating"
   category: "story"
-  site: "59781236d3cfff7cc5f92609"
+  site: "stjohnsjim"
   accepted: true
   index: false
   headlines: []
@@ -137,7 +137,7 @@ db[id="stjohnsjim/story/just-keep-repeating"] =
   title: "Just keep repeating..."
   slug: "just-keep-repeating"
   category: "story"
-  site: "59781236d3cfff7cc5f92609"
+  site: "stjohnsjim"
   accepted: true
   index: false
   headlines: []

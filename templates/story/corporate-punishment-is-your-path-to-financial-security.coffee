@@ -110,7 +110,7 @@ db[id="59782449d3cfff7cc5f9267a"] =
   title: "Corporate Punishment is Your Path to Financial Security"
   slug: "corporate-punishment-is-your-path-to-financial-security"
   category: "story"
-  site: "59781236d3cfff7cc5f92609"
+  site: "stjohnsjim"
   accepted: true
   index: false
   headlines: [
@@ -142,7 +142,7 @@ db[id="stjohnsjim/story/corporate-punishment-is-your-path-to-financial-security"
   title: "Corporate Punishment is Your Path to Financial Security"
   slug: "corporate-punishment-is-your-path-to-financial-security"
   category: "story"
-  site: "59781236d3cfff7cc5f92609"
+  site: "stjohnsjim"
   accepted: true
   index: false
   headlines: [

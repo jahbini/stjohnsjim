@@ -93,7 +93,7 @@ db[id="59782449d3cfff7cc5f92634"] =
   title: "Southwick's report on Al's Crotch-Rocket"
   slug: "southwicks-report-on-als-crotch-rocket"
   category: "story"
-  site: "59781236d3cfff7cc5f92609"
+  site: "stjohnsjim"
   accepted: true
   index: false
   headlines: []
@@ -122,7 +122,7 @@ db[id="stjohnsjim/story/southwicks-report-on-als-crotch-rocket"] =
   title: "Southwick's report on Al's Crotch-Rocket"
   slug: "southwicks-report-on-als-crotch-rocket"
   category: "story"
-  site: "59781236d3cfff7cc5f92609"
+  site: "stjohnsjim"
   accepted: true
   index: false
   headlines: []

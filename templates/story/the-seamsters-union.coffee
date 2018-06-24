@@ -88,7 +88,7 @@ db[id="5978244ad3cfff7cc5f9269d"] =
   title: "The Seamster's Union"
   slug: "the-seamsters-union"
   category: "story"
-  site: "59781236d3cfff7cc5f92609"
+  site: "stjohnsjim"
   accepted: true
   index: false
   headlines: []
@@ -113,7 +113,7 @@ db[id="stjohnsjim/story/the-seamsters-union"] =
   title: "The Seamster's Union"
   slug: "the-seamsters-union"
   category: "story"
-  site: "59781236d3cfff7cc5f92609"
+  site: "stjohnsjim"
   accepted: true
   index: false
   headlines: []

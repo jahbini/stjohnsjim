@@ -111,7 +111,7 @@ db[id="59782449d3cfff7cc5f92647"] =
   title: "Shanghai Squirrels: Poison's Poses and the Pioneer"
   slug: "shanghai-squirrels-poisons-poses-and-the-pioneer"
   category: "story"
-  site: "59781236d3cfff7cc5f92609"
+  site: "stjohnsjim"
   accepted: true
   index: false
   headlines: []
@@ -139,7 +139,7 @@ db[id="stjohnsjim/story/shanghai-squirrels-poisons-poses-and-the-pioneer"] =
   title: "Shanghai Squirrels: Poison's Poses and the Pioneer"
   slug: "shanghai-squirrels-poisons-poses-and-the-pioneer"
   category: "story"
-  site: "59781236d3cfff7cc5f92609"
+  site: "stjohnsjim"
   accepted: true
   index: false
   headlines: []

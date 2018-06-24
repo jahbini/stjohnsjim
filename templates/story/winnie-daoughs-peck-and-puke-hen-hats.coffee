@@ -102,7 +102,7 @@ db[id="5978244ad3cfff7cc5f92690"] =
   title: "Winnie Daough's Peck-and-Puke Hen Hats"
   slug: "winnie-daoughs-peck-and-puke-hen-hats"
   category: "story"
-  site: "59781236d3cfff7cc5f92609"
+  site: "stjohnsjim"
   accepted: true
   index: false
   headlines: []
@@ -130,7 +130,7 @@ db[id="stjohnsjim/story/winnie-daoughs-peck-and-puke-hen-hats"] =
   title: "Winnie Daough's Peck-and-Puke Hen Hats"
   slug: "winnie-daoughs-peck-and-puke-hen-hats"
   category: "story"
-  site: "59781236d3cfff7cc5f92609"
+  site: "stjohnsjim"
   accepted: true
   index: false
   headlines: []

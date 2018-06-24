@@ -91,7 +91,7 @@ db[id="59782449d3cfff7cc5f9261b"] =
   title: "Fugue State"
   slug: "fugue-state"
   category: "story"
-  site: "59781236d3cfff7cc5f92609"
+  site: "stjohnsjim"
   accepted: true
   index: false
   headlines: [
@@ -120,7 +120,7 @@ db[id="stjohnsjim/story/fugue-state"] =
   title: "Fugue State"
   slug: "fugue-state"
   category: "story"
-  site: "59781236d3cfff7cc5f92609"
+  site: "stjohnsjim"
   accepted: true
   index: false
   headlines: [

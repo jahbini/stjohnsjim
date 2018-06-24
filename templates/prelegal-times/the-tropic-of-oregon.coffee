@@ -97,7 +97,7 @@ db[id="5978244ad3cfff7cc5f926ad"] =
   title: "The Tropic of Oregon"
   slug: "the-tropic-of-oregon"
   category: "prelegal-times"
-  site: "59781236d3cfff7cc5f92609"
+  site: "stjohnsjim"
   accepted: true
   index: false
   headlines: []
@@ -126,7 +126,7 @@ db[id="stjohnsjim/prelegal-times/the-tropic-of-oregon"] =
   title: "The Tropic of Oregon"
   slug: "the-tropic-of-oregon"
   category: "prelegal-times"
-  site: "59781236d3cfff7cc5f92609"
+  site: "stjohnsjim"
   accepted: true
   index: false
   headlines: []

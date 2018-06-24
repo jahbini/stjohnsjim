@@ -111,7 +111,7 @@ db[id="59782449d3cfff7cc5f9262f"] =
   title: "Cougars, DT Champions, and more"
   slug: "cougars-dt-champions-and-more"
   category: "story"
-  site: "59781236d3cfff7cc5f92609"
+  site: "stjohnsjim"
   accepted: true
   index: false
   headlines: []
@@ -140,7 +140,7 @@ db[id="stjohnsjim/story/cougars-dt-champions-and-more"] =
   title: "Cougars, DT Champions, and more"
   slug: "cougars-dt-champions-and-more"
   category: "story"
-  site: "59781236d3cfff7cc5f92609"
+  site: "stjohnsjim"
   accepted: true
   index: false
   headlines: []

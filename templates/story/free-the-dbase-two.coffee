@@ -103,7 +103,7 @@ db[id="59782449d3cfff7cc5f92659"] =
   title: "Free the DBase Two"
   slug: "free-the-dbase-two"
   category: "story"
-  site: "59781236d3cfff7cc5f92609"
+  site: "stjohnsjim"
   accepted: true
   index: false
   headlines: []
@@ -131,7 +131,7 @@ db[id="stjohnsjim/story/free-the-dbase-two"] =
   title: "Free the DBase Two"
   slug: "free-the-dbase-two"
   category: "story"
-  site: "59781236d3cfff7cc5f92609"
+  site: "stjohnsjim"
   accepted: true
   index: false
   headlines: []

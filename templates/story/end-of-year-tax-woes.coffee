@@ -142,7 +142,7 @@ db[id="59782449d3cfff7cc5f92665"] =
   title: "End of Year Tax Woes?"
   slug: "end-of-year-tax-woes"
   category: "story"
-  site: "59781236d3cfff7cc5f92609"
+  site: "stjohnsjim"
   accepted: true
   index: false
   headlines: []
@@ -169,7 +169,7 @@ db[id="stjohnsjim/story/end-of-year-tax-woes"] =
   title: "End of Year Tax Woes?"
   slug: "end-of-year-tax-woes"
   category: "story"
-  site: "59781236d3cfff7cc5f92609"
+  site: "stjohnsjim"
   accepted: true
   index: false
   headlines: []

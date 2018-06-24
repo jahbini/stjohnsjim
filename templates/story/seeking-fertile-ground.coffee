@@ -104,7 +104,7 @@ db[id="59782449d3cfff7cc5f92622"] =
   title: "Seeking Fertile Ground"
   slug: "seeking-fertile-ground"
   category: "story"
-  site: "59781236d3cfff7cc5f92609"
+  site: "stjohnsjim"
   accepted: true
   index: false
   headlines: []
@@ -134,7 +134,7 @@ db[id="stjohnsjim/story/seeking-fertile-ground"] =
   title: "Seeking Fertile Ground"
   slug: "seeking-fertile-ground"
   category: "story"
-  site: "59781236d3cfff7cc5f92609"
+  site: "stjohnsjim"
   accepted: true
   index: false
   headlines: []

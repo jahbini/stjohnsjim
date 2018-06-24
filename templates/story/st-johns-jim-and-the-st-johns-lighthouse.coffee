@@ -93,7 +93,7 @@ db[id="59782449d3cfff7cc5f9263e"] =
   title: "St. John's Jim and the St. John's Lighthouse"
   slug: "st-johns-jim-and-the-st-johns-lighthouse"
   category: "story"
-  site: "59781236d3cfff7cc5f92609"
+  site: "stjohnsjim"
   accepted: true
   index: false
   headlines: []
@@ -121,7 +121,7 @@ db[id="stjohnsjim/story/st-johns-jim-and-the-st-johns-lighthouse"] =
   title: "St. John's Jim and the St. John's Lighthouse"
   slug: "st-johns-jim-and-the-st-johns-lighthouse"
   category: "story"
-  site: "59781236d3cfff7cc5f92609"
+  site: "stjohnsjim"
   accepted: true
   index: false
   headlines: []

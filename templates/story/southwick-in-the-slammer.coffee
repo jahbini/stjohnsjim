@@ -110,7 +110,7 @@ db[id="59782449d3cfff7cc5f92685"] =
   title: "Southwick in the Slammer??!!!"
   slug: "southwick-in-the-slammer"
   category: "story"
-  site: "59781236d3cfff7cc5f92609"
+  site: "stjohnsjim"
   accepted: true
   index: false
   headlines: []
@@ -139,7 +139,7 @@ db[id="stjohnsjim/story/southwick-in-the-slammer"] =
   title: "Southwick in the Slammer??!!!"
   slug: "southwick-in-the-slammer"
   category: "story"
-  site: "59781236d3cfff7cc5f92609"
+  site: "stjohnsjim"
   accepted: true
   index: false
   headlines: []

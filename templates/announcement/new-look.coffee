@@ -106,7 +106,7 @@ db[id="59782449d3cfff7cc5f92677"] =
   title: "New Look!"
   slug: "new-look"
   category: "announcement"
-  site: "59781236d3cfff7cc5f92609"
+  site: "stjohnsjim"
   accepted: false
   index: false
   headlines: [
@@ -134,7 +134,7 @@ db[id="stjohnsjim/announcement/new-look"] =
   title: "New Look!"
   slug: "new-look"
   category: "announcement"
-  site: "59781236d3cfff7cc5f92609"
+  site: "stjohnsjim"
   accepted: false
   index: false
   headlines: [

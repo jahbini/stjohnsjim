@@ -95,7 +95,7 @@ db[id="59782449d3cfff7cc5f92617"] =
   title: "Skydiving with Lord Ego"
   slug: "skydiving-with-lord-ego"
   category: "story"
-  site: "59781236d3cfff7cc5f92609"
+  site: "stjohnsjim"
   accepted: true
   index: false
   headlines: []
@@ -122,7 +122,7 @@ db[id="stjohnsjim/story/skydiving-with-lord-ego"] =
   title: "Skydiving with Lord Ego"
   slug: "skydiving-with-lord-ego"
   category: "story"
-  site: "59781236d3cfff7cc5f92609"
+  site: "stjohnsjim"
   accepted: true
   index: false
   headlines: []

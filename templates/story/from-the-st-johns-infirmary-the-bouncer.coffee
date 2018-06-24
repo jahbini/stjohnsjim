@@ -122,7 +122,7 @@ db[id="59782449d3cfff7cc5f92686"] =
   title: "From the St. John's Infirmary -- The Bouncer"
   slug: "from-the-st-johns-infirmary-the-bouncer"
   category: "story"
-  site: "59781236d3cfff7cc5f92609"
+  site: "stjohnsjim"
   accepted: true
   index: false
   headlines: []
@@ -150,7 +150,7 @@ db[id="stjohnsjim/story/from-the-st-johns-infirmary-the-bouncer"] =
   title: "From the St. John's Infirmary -- The Bouncer"
   slug: "from-the-st-johns-infirmary-the-bouncer"
   category: "story"
-  site: "59781236d3cfff7cc5f92609"
+  site: "stjohnsjim"
   accepted: true
   index: false
   headlines: []

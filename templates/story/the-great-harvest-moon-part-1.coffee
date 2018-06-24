@@ -104,7 +104,7 @@ db[id="5978244ad3cfff7cc5f926b4"] =
   title: "The Great Harvest Moon - Part 1"
   slug: "the-great-harvest-moon-part-1"
   category: "story"
-  site: "59781236d3cfff7cc5f92609"
+  site: "stjohnsjim"
   accepted: true
   index: false
   headlines: []
@@ -133,7 +133,7 @@ db[id="stjohnsjim/story/the-great-harvest-moon-part-1"] =
   title: "The Great Harvest Moon - Part 1"
   slug: "the-great-harvest-moon-part-1"
   category: "story"
-  site: "59781236d3cfff7cc5f92609"
+  site: "stjohnsjim"
   accepted: true
   index: false
   headlines: []

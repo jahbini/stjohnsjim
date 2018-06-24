@@ -120,7 +120,7 @@ db[id="stjohnsjimpartyhearty-boyz"] =
   title: "hearty-boyz"
   slug: "hearty-boyz"
   category: "party"
-  site: "59781236d3cfff7cc5f92609"
+  site: "stjohnsjim"
   accepted: false
   index: false
   sourcePath: ""

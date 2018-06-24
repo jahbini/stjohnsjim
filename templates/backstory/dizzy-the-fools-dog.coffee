@@ -81,7 +81,7 @@ db[id="59782449d3cfff7cc5f92673"] =
   title: "Dizzy -- The Fool's Dog"
   slug: "dizzy-the-fools-dog"
   category: "backstory"
-  site: "59781236d3cfff7cc5f92609"
+  site: "stjohnsjim"
   accepted: true
   index: false
   headlines: []
@@ -108,7 +108,7 @@ db[id="stjohnsjim/backstory/dizzy-the-fools-dog"] =
   title: "Dizzy -- The Fool's Dog"
   slug: "dizzy-the-fools-dog"
   category: "backstory"
-  site: "59781236d3cfff7cc5f92609"
+  site: "stjohnsjim"
   accepted: true
   index: false
   headlines: []

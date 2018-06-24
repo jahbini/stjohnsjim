@@ -106,7 +106,7 @@ db[id="59782449d3cfff7cc5f92662"] =
   title: "Deadwood?"
   slug: "deadwood"
   category: "almost-history"
-  site: "59781236d3cfff7cc5f92609"
+  site: "stjohnsjim"
   accepted: true
   index: false
   headlines: [
@@ -134,7 +134,7 @@ db[id="stjohnsjim/almost-history/deadwood"] =
   title: "Deadwood?"
   slug: "deadwood"
   category: "almost-history"
-  site: "59781236d3cfff7cc5f92609"
+  site: "stjohnsjim"
   accepted: true
   index: false
   headlines: [

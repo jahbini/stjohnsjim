@@ -145,7 +145,7 @@ db[id="59782449d3cfff7cc5f9267c"] =
   title: "Lonesome Al and the Space Door"
   slug: "lonesome-al-and-the-space-door"
   category: "story"
-  site: "59781236d3cfff7cc5f92609"
+  site: "stjohnsjim"
   accepted: true
   index: false
   headlines: []
@@ -174,7 +174,7 @@ db[id="stjohnsjim/story/lonesome-al-and-the-space-door"] =
   title: "Lonesome Al and the Space Door"
   slug: "lonesome-al-and-the-space-door"
   category: "story"
-  site: "59781236d3cfff7cc5f92609"
+  site: "stjohnsjim"
   accepted: true
   index: false
   headlines: []

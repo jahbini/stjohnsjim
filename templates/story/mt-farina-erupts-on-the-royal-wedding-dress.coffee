@@ -102,7 +102,7 @@ db[id="59782449d3cfff7cc5f92621"] =
   title: "Mt. Farina erupts on the Royal Wedding Dress"
   slug: "mt-farina-erupts-on-the-royal-wedding-dress"
   category: "story"
-  site: "59781236d3cfff7cc5f92609"
+  site: "stjohnsjim"
   accepted: true
   index: false
   headlines: []
@@ -129,7 +129,7 @@ db[id="stjohnsjim/story/mt-farina-erupts-on-the-royal-wedding-dress"] =
   title: "Mt. Farina erupts on the Royal Wedding Dress"
   slug: "mt-farina-erupts-on-the-royal-wedding-dress"
   category: "story"
-  site: "59781236d3cfff7cc5f92609"
+  site: "stjohnsjim"
   accepted: true
   index: false
   headlines: []

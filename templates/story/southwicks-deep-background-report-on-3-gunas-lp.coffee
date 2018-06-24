@@ -150,7 +150,7 @@ db[id="59782449d3cfff7cc5f9261f"] =
   title: "Southwick's Deep Background Report on 3 Gunas Lp"
   slug: "southwicks-deep-background-report-on-3-gunas-lp"
   category: "story"
-  site: "59781236d3cfff7cc5f92609"
+  site: "stjohnsjim"
   accepted: true
   index: false
   headlines: []
@@ -178,7 +178,7 @@ db[id="stjohnsjim/story/southwicks-deep-background-report-on-3-gunas-lp"] =
   title: "Southwick's Deep Background Report on 3 Gunas Lp"
   slug: "southwicks-deep-background-report-on-3-gunas-lp"
   category: "story"
-  site: "59781236d3cfff7cc5f92609"
+  site: "stjohnsjim"
   accepted: true
   index: false
   headlines: []

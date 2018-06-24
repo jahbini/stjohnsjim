@@ -118,7 +118,7 @@ db[id="59782449d3cfff7cc5f92675"] =
   title: "Enkidu and Dog Tits"
   slug: "enkidu-and-dog-tits"
   category: "story"
-  site: "59781236d3cfff7cc5f92609"
+  site: "stjohnsjim"
   accepted: true
   index: false
   headlines: []
@@ -146,7 +146,7 @@ db[id="stjohnsjim/story/enkidu-and-dog-tits"] =
   title: "Enkidu and Dog Tits"
   slug: "enkidu-and-dog-tits"
   category: "story"
-  site: "59781236d3cfff7cc5f92609"
+  site: "stjohnsjim"
   accepted: true
   index: false
   headlines: []

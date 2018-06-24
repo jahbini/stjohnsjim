@@ -95,7 +95,7 @@ db[id="59782449d3cfff7cc5f92623"] =
   title: "The Aloha Account"
   slug: "the-aloha-account"
   category: "story"
-  site: "59781236d3cfff7cc5f92609"
+  site: "stjohnsjim"
   accepted: true
   index: false
   headlines: []
@@ -122,7 +122,7 @@ db[id="stjohnsjim/story/the-aloha-account"] =
   title: "The Aloha Account"
   slug: "the-aloha-account"
   category: "story"
-  site: "59781236d3cfff7cc5f92609"
+  site: "stjohnsjim"
   accepted: true
   index: false
   headlines: []

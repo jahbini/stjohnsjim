@@ -119,7 +119,7 @@ db[id="5978244ad3cfff7cc5f92697"] =
   title: "The Kung Fu Lion's Roar"
   slug: "the-kung-fu-lions-roar"
   category: "story"
-  site: "59781236d3cfff7cc5f92609"
+  site: "stjohnsjim"
   accepted: true
   index: false
   headlines: []
@@ -146,7 +146,7 @@ db[id="stjohnsjim/story/the-kung-fu-lions-roar"] =
   title: "The Kung Fu Lion's Roar"
   slug: "the-kung-fu-lions-roar"
   category: "story"
-  site: "59781236d3cfff7cc5f92609"
+  site: "stjohnsjim"
   accepted: true
   index: false
   headlines: []

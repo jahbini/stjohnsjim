@@ -106,7 +106,7 @@ db[id="59782449d3cfff7cc5f92670"] =
   title: "The Catalyst of August"
   slug: "the-catalyst-of-august"
   category: "story"
-  site: "59781236d3cfff7cc5f92609"
+  site: "stjohnsjim"
   accepted: true
   index: false
   headlines: []
@@ -134,7 +134,7 @@ db[id="stjohnsjim/story/the-catalyst-of-august"] =
   title: "The Catalyst of August"
   slug: "the-catalyst-of-august"
   category: "story"
-  site: "59781236d3cfff7cc5f92609"
+  site: "stjohnsjim"
   accepted: true
   index: false
   headlines: []

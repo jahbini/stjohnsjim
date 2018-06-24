@@ -153,7 +153,7 @@ db[id="59782449d3cfff7cc5f9264e"] =
   title: "Coala: Harbor Cat"
   slug: "coala-harbor-cat"
   category: "california"
-  site: "59781236d3cfff7cc5f92609"
+  site: "stjohnsjim"
   accepted: true
   index: false
   headlines: [
@@ -184,7 +184,7 @@ db[id="stjohnsjim/california/coala-harbor-cat"] =
   title: "Coala: Harbor Cat"
   slug: "coala-harbor-cat"
   category: "california"
-  site: "59781236d3cfff7cc5f92609"
+  site: "stjohnsjim"
   accepted: true
   index: false
   headlines: [

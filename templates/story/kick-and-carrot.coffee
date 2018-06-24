@@ -88,7 +88,7 @@ db[id="59782449d3cfff7cc5f9261c"] =
   title: "Kick and Carrot"
   slug: "kick-and-carrot"
   category: "story"
-  site: "59781236d3cfff7cc5f92609"
+  site: "stjohnsjim"
   accepted: true
   index: false
   headlines: []
@@ -115,7 +115,7 @@ db[id="stjohnsjim/story/kick-and-carrot"] =
   title: "Kick and Carrot"
   slug: "kick-and-carrot"
   category: "story"
-  site: "59781236d3cfff7cc5f92609"
+  site: "stjohnsjim"
   accepted: true
   index: false
   headlines: []

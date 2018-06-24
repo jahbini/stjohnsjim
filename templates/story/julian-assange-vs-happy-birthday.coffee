@@ -93,7 +93,7 @@ db[id="59782449d3cfff7cc5f9264d"] =
   title: "Julian Assange Vs Happy Birthday"
   slug: "julian-assange-vs-happy-birthday"
   category: "story"
-  site: "59781236d3cfff7cc5f92609"
+  site: "stjohnsjim"
   accepted: true
   index: false
   headlines: []
@@ -118,7 +118,7 @@ db[id="stjohnsjim/story/julian-assange-vs-happy-birthday"] =
   title: "Julian Assange Vs Happy Birthday"
   slug: "julian-assange-vs-happy-birthday"
   category: "story"
-  site: "59781236d3cfff7cc5f92609"
+  site: "stjohnsjim"
   accepted: true
   index: false
   headlines: []

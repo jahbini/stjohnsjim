@@ -110,7 +110,7 @@ db[id="59782449d3cfff7cc5f9268b"] =
   title: "Thanksgiving"
   slug: "thanksgiving"
   category: "story"
-  site: "59781236d3cfff7cc5f92609"
+  site: "stjohnsjim"
   accepted: true
   index: false
   headlines: []
@@ -139,7 +139,7 @@ db[id="stjohnsjim/story/thanksgiving"] =
   title: "Thanksgiving"
   slug: "thanksgiving"
   category: "story"
-  site: "59781236d3cfff7cc5f92609"
+  site: "stjohnsjim"
   accepted: true
   index: false
   headlines: []

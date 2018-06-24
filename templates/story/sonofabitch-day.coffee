@@ -96,7 +96,7 @@ db[id="59782449d3cfff7cc5f92671"] =
   title: "SonOfABitch Day!"
   slug: "sonofabitch-day"
   category: "story"
-  site: "59781236d3cfff7cc5f92609"
+  site: "stjohnsjim"
   accepted: true
   index: false
   headlines: []
@@ -124,7 +124,7 @@ db[id="stjohnsjim/story/sonofabitch-day"] =
   title: "SonOfABitch Day!"
   slug: "sonofabitch-day"
   category: "story"
-  site: "59781236d3cfff7cc5f92609"
+  site: "stjohnsjim"
   accepted: true
   index: false
   headlines: []

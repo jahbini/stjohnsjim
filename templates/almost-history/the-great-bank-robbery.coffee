@@ -106,7 +106,7 @@ db[id="5978244ad3cfff7cc5f926a1"] =
   title: "The Great Bank Robbery"
   slug: "the-great-bank-robbery"
   category: "almost-history"
-  site: "59781236d3cfff7cc5f92609"
+  site: "stjohnsjim"
   accepted: false
   index: false
   headlines: [
@@ -133,7 +133,7 @@ db[id="stjohnsjim/almost-history/the-great-bank-robbery"] =
   title: "The Great Bank Robbery"
   slug: "the-great-bank-robbery"
   category: "almost-history"
-  site: "59781236d3cfff7cc5f92609"
+  site: "stjohnsjim"
   accepted: false
   index: false
   headlines: [

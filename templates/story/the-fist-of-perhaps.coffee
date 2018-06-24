@@ -91,7 +91,7 @@ db[id="5978244ad3cfff7cc5f926a2"] =
   title: "The Fist of Perhaps"
   slug: "the-fist-of-perhaps"
   category: "story"
-  site: "59781236d3cfff7cc5f92609"
+  site: "stjohnsjim"
   accepted: true
   index: false
   headlines: []
@@ -118,7 +118,7 @@ db[id="stjohnsjim/story/the-fist-of-perhaps"] =
   title: "The Fist of Perhaps"
   slug: "the-fist-of-perhaps"
   category: "story"
-  site: "59781236d3cfff7cc5f92609"
+  site: "stjohnsjim"
   accepted: true
   index: false
   headlines: []

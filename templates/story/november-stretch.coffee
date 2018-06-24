@@ -142,7 +142,7 @@ db[id="59782449d3cfff7cc5f92684"] =
   title: "November Stretch"
   slug: "november-stretch"
   category: "story"
-  site: "59781236d3cfff7cc5f92609"
+  site: "stjohnsjim"
   accepted: true
   index: false
   headlines: []
@@ -171,7 +171,7 @@ db[id="stjohnsjim/story/november-stretch"] =
   title: "November Stretch"
   slug: "november-stretch"
   category: "story"
-  site: "59781236d3cfff7cc5f92609"
+  site: "stjohnsjim"
   accepted: true
   index: false
   headlines: []

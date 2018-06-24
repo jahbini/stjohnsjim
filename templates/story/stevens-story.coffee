@@ -121,7 +121,7 @@ db[id="59782449d3cfff7cc5f9268a"] =
   title: "Steven's Story"
   slug: "stevens-story"
   category: "story"
-  site: "59781236d3cfff7cc5f92609"
+  site: "stjohnsjim"
   accepted: true
   index: false
   headlines: []
@@ -149,7 +149,7 @@ db[id="stjohnsjim/story/stevens-story"] =
   title: "Steven's Story"
   slug: "stevens-story"
   category: "story"
-  site: "59781236d3cfff7cc5f92609"
+  site: "stjohnsjim"
   accepted: true
   index: false
   headlines: []

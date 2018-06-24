@@ -108,7 +108,7 @@ db[id="59782449d3cfff7cc5f9265c"] =
   title: "Godda Love an Old Dog"
   slug: "godda-love-an-old-dog"
   category: "story"
-  site: "59781236d3cfff7cc5f92609"
+  site: "stjohnsjim"
   accepted: true
   index: false
   headlines: []
@@ -136,7 +136,7 @@ db[id="stjohnsjim/story/godda-love-an-old-dog"] =
   title: "Godda Love an Old Dog"
   slug: "godda-love-an-old-dog"
   category: "story"
-  site: "59781236d3cfff7cc5f92609"
+  site: "stjohnsjim"
   accepted: true
   index: false
   headlines: []

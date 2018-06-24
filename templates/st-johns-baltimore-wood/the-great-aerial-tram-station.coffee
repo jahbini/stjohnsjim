@@ -120,7 +120,7 @@ db[id="5978244ad3cfff7cc5f926aa"] =
   title: "The Great Aerial Tram Station"
   slug: "the-great-aerial-tram-station"
   category: "st-johns-baltimore-wood"
-  site: "59781236d3cfff7cc5f92609"
+  site: "stjohnsjim"
   accepted: true
   index: false
   headlines: [
@@ -150,7 +150,7 @@ db[id="stjohnsjim/st-johns-baltimore-wood/the-great-aerial-tram-station"] =
   title: "The Great Aerial Tram Station"
   slug: "the-great-aerial-tram-station"
   category: "st-johns-baltimore-wood"
-  site: "59781236d3cfff7cc5f92609"
+  site: "stjohnsjim"
   accepted: true
   index: false
   headlines: [

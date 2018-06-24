@@ -119,7 +119,7 @@ db[id="5978244ad3cfff7cc5f92691"] =
   title: "The St. John's Excuse-My-Reuse Warehouse"
   slug: "the-st-johns-excuse-my-reuse-warehouse"
   category: "story"
-  site: "59781236d3cfff7cc5f92609"
+  site: "stjohnsjim"
   accepted: true
   index: false
   headlines: []
@@ -148,7 +148,7 @@ db[id="stjohnsjim/story/the-st-johns-excuse-my-reuse-warehouse"] =
   title: "The St. John's Excuse-My-Reuse Warehouse"
   slug: "the-st-johns-excuse-my-reuse-warehouse"
   category: "story"
-  site: "59781236d3cfff7cc5f92609"
+  site: "stjohnsjim"
   accepted: true
   index: false
   headlines: []

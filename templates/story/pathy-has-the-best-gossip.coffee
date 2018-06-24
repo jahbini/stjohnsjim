@@ -114,7 +114,7 @@ db[id="59782449d3cfff7cc5f9261e"] =
   title: "Pathy Has the Best Gossip"
   slug: "pathy-has-the-best-gossip"
   category: "story"
-  site: "59781236d3cfff7cc5f92609"
+  site: "stjohnsjim"
   accepted: true
   index: false
   headlines: []
@@ -143,7 +143,7 @@ db[id="stjohnsjim/story/pathy-has-the-best-gossip"] =
   title: "Pathy Has the Best Gossip"
   slug: "pathy-has-the-best-gossip"
   category: "story"
-  site: "59781236d3cfff7cc5f92609"
+  site: "stjohnsjim"
   accepted: true
   index: false
   headlines: []

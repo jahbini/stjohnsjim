@@ -94,7 +94,7 @@ db[id="59782449d3cfff7cc5f92637"] =
   title: "Messages from the Great Below"
   slug: "messages-from-the-great-below"
   category: "story"
-  site: "59781236d3cfff7cc5f92609"
+  site: "stjohnsjim"
   accepted: true
   index: false
   headlines: []
@@ -121,7 +121,7 @@ db[id="stjohnsjim/story/messages-from-the-great-below"] =
   title: "Messages from the Great Below"
   slug: "messages-from-the-great-below"
   category: "story"
-  site: "59781236d3cfff7cc5f92609"
+  site: "stjohnsjim"
   accepted: true
   index: false
   headlines: []

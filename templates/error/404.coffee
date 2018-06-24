@@ -81,7 +81,7 @@ db[id="stjohnsjimerror404"] =
   title: "404"
   slug: "404"
   category: "error"
-  site: "59781236d3cfff7cc5f92609"
+  site: "stjohnsjim"
   accepted: true
   index: false
   headlines: []
@@ -106,7 +106,7 @@ db[id="stjohnsjim/error/404"] =
   title: "404"
   slug: "404"
   category: "error"
-  site: "59781236d3cfff7cc5f92609"
+  site: "stjohnsjim"
   accepted: true
   index: false
   headlines: []

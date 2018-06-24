@@ -99,7 +99,7 @@ db[id="5978244ad3cfff7cc5f9268f"] =
   title: "The Ghost of GBS walks St. John's"
   slug: "the-ghost-of-gbs-walks-st-johns"
   category: "story"
-  site: "59781236d3cfff7cc5f92609"
+  site: "stjohnsjim"
   accepted: true
   index: false
   headlines: []
@@ -124,7 +124,7 @@ db[id="stjohnsjim/story/the-ghost-of-gbs-walks-st-johns"] =
   title: "The Ghost of GBS walks St. John's"
   slug: "the-ghost-of-gbs-walks-st-johns"
   category: "story"
-  site: "59781236d3cfff7cc5f92609"
+  site: "stjohnsjim"
   accepted: true
   index: false
   headlines: []

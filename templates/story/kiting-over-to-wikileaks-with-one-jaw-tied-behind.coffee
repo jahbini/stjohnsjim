@@ -132,7 +132,7 @@ db[id="59782449d3cfff7cc5f92650"] =
   title: "Kiting over to WikiLeaks with one jaw tied behind "
   slug: "kiting-over-to-wikileaks-with-one-jaw-tied-behind"
   category: "story"
-  site: "59781236d3cfff7cc5f92609"
+  site: "stjohnsjim"
   accepted: true
   index: false
   headlines: []
@@ -159,7 +159,7 @@ db[id="stjohnsjim/story/kiting-over-to-wikileaks-with-one-jaw-tied-behind"] =
   title: "Kiting over to WikiLeaks with one jaw tied behind "
   slug: "kiting-over-to-wikileaks-with-one-jaw-tied-behind"
   category: "story"
-  site: "59781236d3cfff7cc5f92609"
+  site: "stjohnsjim"
   accepted: true
   index: false
   headlines: []

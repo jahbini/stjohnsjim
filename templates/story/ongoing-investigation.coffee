@@ -93,7 +93,7 @@ db[id="59782449d3cfff7cc5f92653"] =
   title: "Ongoing Investigation"
   slug: "ongoing-investigation"
   category: "story"
-  site: "59781236d3cfff7cc5f92609"
+  site: "stjohnsjim"
   accepted: true
   index: false
   headlines: []
@@ -122,7 +122,7 @@ db[id="stjohnsjim/story/ongoing-investigation"] =
   title: "Ongoing Investigation"
   slug: "ongoing-investigation"
   category: "story"
-  site: "59781236d3cfff7cc5f92609"
+  site: "stjohnsjim"
   accepted: true
   index: false
   headlines: []

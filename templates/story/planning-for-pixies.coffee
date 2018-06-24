@@ -135,7 +135,7 @@ db[id="59782449d3cfff7cc5f92688"] =
   title: "Planning for Pixies."
   slug: "planning-for-pixies"
   category: "story"
-  site: "59781236d3cfff7cc5f92609"
+  site: "stjohnsjim"
   accepted: true
   index: false
   headlines: []
@@ -162,7 +162,7 @@ db[id="stjohnsjim/story/planning-for-pixies"] =
   title: "Planning for Pixies."
   slug: "planning-for-pixies"
   category: "story"
-  site: "59781236d3cfff7cc5f92609"
+  site: "stjohnsjim"
   accepted: true
   index: false
   headlines: []

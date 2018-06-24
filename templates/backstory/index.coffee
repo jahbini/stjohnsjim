@@ -78,7 +78,7 @@ db[id="59782449d3cfff7cc5f92645"] =
   title: "Backstories"
   slug: "index"
   category: "backstory"
-  site: "59781236d3cfff7cc5f92609"
+  site: "stjohnsjim"
   accepted: false
   index: true
   headlines: [
@@ -109,7 +109,7 @@ db[id="stjohnsjim/backstory/index"] =
   title: "Backstories"
   slug: "index"
   category: "backstory"
-  site: "59781236d3cfff7cc5f92609"
+  site: "stjohnsjim"
   accepted: false
   index: true
   headlines: [

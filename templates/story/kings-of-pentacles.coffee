@@ -131,7 +131,7 @@ db[id="59782449d3cfff7cc5f92687"] =
   title: "Kings of Pentacles"
   slug: "kings-of-pentacles"
   category: "story"
-  site: "59781236d3cfff7cc5f92609"
+  site: "stjohnsjim"
   accepted: true
   index: false
   headlines: []
@@ -158,7 +158,7 @@ db[id="stjohnsjim/story/kings-of-pentacles"] =
   title: "Kings of Pentacles"
   slug: "kings-of-pentacles"
   category: "story"
-  site: "59781236d3cfff7cc5f92609"
+  site: "stjohnsjim"
   accepted: true
   index: false
   headlines: []

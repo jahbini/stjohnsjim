@@ -98,7 +98,7 @@ db[id="59782449d3cfff7cc5f9260e"] =
   title: "Roger Dojer -- more reliable than death"
   slug: "roger-dojer-more-reliable-than-death"
   category: "story"
-  site: "59781236d3cfff7cc5f92609"
+  site: "stjohnsjim"
   accepted: true
   index: false
   headlines: []
@@ -125,7 +125,7 @@ db[id="stjohnsjim/story/roger-dojer-more-reliable-than-death"] =
   title: "Roger Dojer -- more reliable than death"
   slug: "roger-dojer-more-reliable-than-death"
   category: "story"
-  site: "59781236d3cfff7cc5f92609"
+  site: "stjohnsjim"
   accepted: true
   index: false
   headlines: []

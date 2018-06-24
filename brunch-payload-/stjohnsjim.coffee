@@ -25,6 +25,6 @@ module.exports = class StjohnsjimLook
     title = attrs.title
     delete attrs.title
     attrs.className = "widget-wrap"
-    T.div attrs , ->
-      T.h3 ".widget-title", title
-      T.div ".widget", ()->contents
+    T.div '.container.widget-wrap.p-2.my-1', attrs , ->
+      T.h3 '.widget-title',  title unless !title
+      T.div '.btn-group.btn-group-vertical.widget.my-2.p-2', ->contents

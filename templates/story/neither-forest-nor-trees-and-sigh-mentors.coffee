@@ -141,7 +141,7 @@ db[id="59782449d3cfff7cc5f92646"] =
   title: "Neither Forest Nor Trees and, sigh,  Mentors"
   slug: "neither-forest-nor-trees-and-sigh-mentors"
   category: "story"
-  site: "59781236d3cfff7cc5f92609"
+  site: "stjohnsjim"
   accepted: true
   index: false
   headlines: []
@@ -169,7 +169,7 @@ db[id="stjohnsjim/story/neither-forest-nor-trees-and-sigh-mentors"] =
   title: "Neither Forest Nor Trees and, sigh,  Mentors"
   slug: "neither-forest-nor-trees-and-sigh-mentors"
   category: "story"
-  site: "59781236d3cfff7cc5f92609"
+  site: "stjohnsjim"
   accepted: true
   index: false
   headlines: []

@@ -115,7 +115,7 @@ db[id="59782449d3cfff7cc5f92640"] =
   title: "Halloween 2011 -- Midnight Frights!"
   slug: "halloween-2011-midnight-frights"
   category: "story"
-  site: "59781236d3cfff7cc5f92609"
+  site: "stjohnsjim"
   accepted: true
   index: false
   headlines: []
@@ -143,7 +143,7 @@ db[id="stjohnsjim/story/halloween-2011-midnight-frights"] =
   title: "Halloween 2011 -- Midnight Frights!"
   slug: "halloween-2011-midnight-frights"
   category: "story"
-  site: "59781236d3cfff7cc5f92609"
+  site: "stjohnsjim"
   accepted: true
   index: false
   headlines: []

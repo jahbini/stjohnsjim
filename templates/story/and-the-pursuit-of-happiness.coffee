@@ -153,7 +153,7 @@ db[id="59782449d3cfff7cc5f92625"] =
   title: "And the Pursuit of Happiness"
   slug: "and-the-pursuit-of-happiness"
   category: "story"
-  site: "59781236d3cfff7cc5f92609"
+  site: "stjohnsjim"
   accepted: true
   index: false
   headlines: [
@@ -186,7 +186,7 @@ db[id="stjohnsjim/story/and-the-pursuit-of-happiness"] =
   title: "And the Pursuit of Happiness"
   slug: "and-the-pursuit-of-happiness"
   category: "story"
-  site: "59781236d3cfff7cc5f92609"
+  site: "stjohnsjim"
   accepted: true
   index: false
   headlines: [

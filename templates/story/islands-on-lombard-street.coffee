@@ -126,7 +126,7 @@ db[id="59782449d3cfff7cc5f92683"] =
   title: "Islands on Lombard Street."
   slug: "islands-on-lombard-street"
   category: "story"
-  site: "59781236d3cfff7cc5f92609"
+  site: "stjohnsjim"
   accepted: true
   index: false
   headlines: []
@@ -154,7 +154,7 @@ db[id="stjohnsjim/story/islands-on-lombard-street"] =
   title: "Islands on Lombard Street."
   slug: "islands-on-lombard-street"
   category: "story"
-  site: "59781236d3cfff7cc5f92609"
+  site: "stjohnsjim"
   accepted: true
   index: false
   headlines: []

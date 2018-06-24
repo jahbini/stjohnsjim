@@ -89,7 +89,7 @@ db[id="59782449d3cfff7cc5f92689"] =
   title: "St. John's Gives Spring the Pink Slip"
   slug: "st-johns-gives-spring-the-pink-slip"
   category: "story"
-  site: "59781236d3cfff7cc5f92609"
+  site: "stjohnsjim"
   accepted: true
   index: false
   headlines: []
@@ -116,7 +116,7 @@ db[id="stjohnsjim/story/st-johns-gives-spring-the-pink-slip"] =
   title: "St. John's Gives Spring the Pink Slip"
   slug: "st-johns-gives-spring-the-pink-slip"
   category: "story"
-  site: "59781236d3cfff7cc5f92609"
+  site: "stjohnsjim"
   accepted: true
   index: false
   headlines: []

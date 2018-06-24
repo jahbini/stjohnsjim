@@ -87,7 +87,7 @@ db[id="5978244ad3cfff7cc5f926b5"] =
   title: "Too Young?"
   slug: "too-young"
   category: "story"
-  site: "59781236d3cfff7cc5f92609"
+  site: "stjohnsjim"
   accepted: true
   index: false
   headlines: []
@@ -112,7 +112,7 @@ db[id="stjohnsjim/story/too-young"] =
   title: "Too Young?"
   slug: "too-young"
   category: "story"
-  site: "59781236d3cfff7cc5f92609"
+  site: "stjohnsjim"
   accepted: true
   index: false
   headlines: []

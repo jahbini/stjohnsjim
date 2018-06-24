@@ -127,7 +127,7 @@ db[id="59782449d3cfff7cc5f92614"] =
   title: "Drizzly November, Grizzly Spinners and Steinbeck"
   slug: "drizzly-november-grizzly-spinners-and-steinbeck"
   category: "story"
-  site: "59781236d3cfff7cc5f92609"
+  site: "stjohnsjim"
   accepted: true
   index: false
   headlines: []
@@ -156,7 +156,7 @@ db[id="stjohnsjim/story/drizzly-november-grizzly-spinners-and-steinbeck"] =
   title: "Drizzly November, Grizzly Spinners and Steinbeck"
   slug: "drizzly-november-grizzly-spinners-and-steinbeck"
   category: "story"
-  site: "59781236d3cfff7cc5f92609"
+  site: "stjohnsjim"
   accepted: true
   index: false
   headlines: []

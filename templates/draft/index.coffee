@@ -79,7 +79,7 @@ db[id="59782449d3cfff7cc5f92660"] =
   title: "Things not ready for human consumption"
   slug: "index"
   category: "draft"
-  site: "59781236d3cfff7cc5f92609"
+  site: "stjohnsjim"
   accepted: false
   index: true
   headlines: [
@@ -108,7 +108,7 @@ db[id="stjohnsjim/draft/index"] =
   title: "Things not ready for human consumption"
   slug: "index"
   category: "draft"
-  site: "59781236d3cfff7cc5f92609"
+  site: "stjohnsjim"
   accepted: false
   index: true
   headlines: [

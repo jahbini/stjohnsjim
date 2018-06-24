@@ -100,7 +100,7 @@ db[id="59782449d3cfff7cc5f9266f"] =
   title: "Shanghai Tunnel Tales - Part 1"
   slug: "shanghai-tunnel-tales-part-1"
   category: "story"
-  site: "59781236d3cfff7cc5f92609"
+  site: "stjohnsjim"
   accepted: true
   index: false
   headlines: []
@@ -130,7 +130,7 @@ db[id="stjohnsjim/story/shanghai-tunnel-tales-part-1"] =
   title: "Shanghai Tunnel Tales - Part 1"
   slug: "shanghai-tunnel-tales-part-1"
   category: "story"
-  site: "59781236d3cfff7cc5f92609"
+  site: "stjohnsjim"
   accepted: true
   index: false
   headlines: []

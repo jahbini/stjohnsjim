@@ -98,7 +98,7 @@ db[id="59782449d3cfff7cc5f9267f"] =
   title: "Herding Elephants with Spider Cowboys"
   slug: "herding-elephants-with-spider-cowboys"
   category: "story"
-  site: "59781236d3cfff7cc5f92609"
+  site: "stjohnsjim"
   accepted: true
   index: false
   headlines: []
@@ -126,7 +126,7 @@ db[id="stjohnsjim/story/herding-elephants-with-spider-cowboys"] =
   title: "Herding Elephants with Spider Cowboys"
   slug: "herding-elephants-with-spider-cowboys"
   category: "story"
-  site: "59781236d3cfff7cc5f92609"
+  site: "stjohnsjim"
   accepted: true
   index: false
   headlines: []

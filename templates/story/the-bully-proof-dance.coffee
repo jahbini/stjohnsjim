@@ -99,7 +99,7 @@ db[id="59782449d3cfff7cc5f92648"] =
   title: "The Bully Proof Dance"
   slug: "the-bully-proof-dance"
   category: "story"
-  site: "59781236d3cfff7cc5f92609"
+  site: "stjohnsjim"
   accepted: true
   index: false
   headlines: []
@@ -128,7 +128,7 @@ db[id="stjohnsjim/story/the-bully-proof-dance"] =
   title: "The Bully Proof Dance"
   slug: "the-bully-proof-dance"
   category: "story"
-  site: "59781236d3cfff7cc5f92609"
+  site: "stjohnsjim"
   accepted: true
   index: false
   headlines: []

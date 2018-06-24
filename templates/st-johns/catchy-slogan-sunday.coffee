@@ -99,7 +99,7 @@ db[id="59782449d3cfff7cc5f92635"] =
   title: "Catchy Slogan Sunday"
   slug: "catchy-slogan-sunday"
   category: "st-johns"
-  site: "59781236d3cfff7cc5f92609"
+  site: "stjohnsjim"
   accepted: true
   index: false
   headlines: [
@@ -129,7 +129,7 @@ db[id="stjohnsjim/st-johns/catchy-slogan-sunday"] =
   title: "Catchy Slogan Sunday"
   slug: "catchy-slogan-sunday"
   category: "st-johns"
-  site: "59781236d3cfff7cc5f92609"
+  site: "stjohnsjim"
   accepted: true
   index: false
   headlines: [

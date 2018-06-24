@@ -105,7 +105,7 @@ db[id="59782449d3cfff7cc5f92626"] =
   title: "Angel Flakes"
   slug: "angel-flakes"
   category: "story"
-  site: "59781236d3cfff7cc5f92609"
+  site: "stjohnsjim"
   accepted: true
   index: false
   headlines: []
@@ -133,7 +133,7 @@ db[id="stjohnsjim/story/angel-flakes"] =
   title: "Angel Flakes"
   slug: "angel-flakes"
   category: "story"
-  site: "59781236d3cfff7cc5f92609"
+  site: "stjohnsjim"
   accepted: true
   index: false
   headlines: []

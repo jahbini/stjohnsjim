@@ -94,7 +94,7 @@ db[id="59782449d3cfff7cc5f92642"] =
   title: "Saying goodbye to air with writer's block"
   slug: "saying-goodbye-to-air-with-writers-block"
   category: "story"
-  site: "59781236d3cfff7cc5f92609"
+  site: "stjohnsjim"
   accepted: true
   index: false
   headlines: []
@@ -119,7 +119,7 @@ db[id="stjohnsjim/story/saying-goodbye-to-air-with-writers-block"] =
   title: "Saying goodbye to air with writer's block"
   slug: "saying-goodbye-to-air-with-writers-block"
   category: "story"
-  site: "59781236d3cfff7cc5f92609"
+  site: "stjohnsjim"
   accepted: true
   index: false
   headlines: []

@@ -103,7 +103,7 @@ db[id="59782449d3cfff7cc5f92638"] =
   title: "Roger Dojer's Obituary"
   slug: "roger-dojers-obituary"
   category: "story"
-  site: "59781236d3cfff7cc5f92609"
+  site: "stjohnsjim"
   accepted: true
   index: false
   headlines: []
@@ -130,7 +130,7 @@ db[id="stjohnsjim/story/roger-dojers-obituary"] =
   title: "Roger Dojer's Obituary"
   slug: "roger-dojers-obituary"
   category: "story"
-  site: "59781236d3cfff7cc5f92609"
+  site: "stjohnsjim"
   accepted: true
   index: false
   headlines: []

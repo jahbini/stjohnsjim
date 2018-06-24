@@ -110,7 +110,7 @@ db[id="59782449d3cfff7cc5f92636"] =
   title: "Gard Rales here"
   slug: "gard-rales-here"
   category: "story"
-  site: "59781236d3cfff7cc5f92609"
+  site: "stjohnsjim"
   accepted: true
   index: false
   headlines: []
@@ -137,7 +137,7 @@ db[id="stjohnsjim/story/gard-rales-here"] =
   title: "Gard Rales here"
   slug: "gard-rales-here"
   category: "story"
-  site: "59781236d3cfff7cc5f92609"
+  site: "stjohnsjim"
   accepted: true
   index: false
   headlines: []

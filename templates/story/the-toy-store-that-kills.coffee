@@ -98,7 +98,7 @@ db[id="5978244ad3cfff7cc5f92695"] =
   title: "The Toy Store that Kills"
   slug: "the-toy-store-that-kills"
   category: "story"
-  site: "59781236d3cfff7cc5f92609"
+  site: "stjohnsjim"
   accepted: true
   index: false
   headlines: []
@@ -127,7 +127,7 @@ db[id="stjohnsjim/story/the-toy-store-that-kills"] =
   title: "The Toy Store that Kills"
   slug: "the-toy-store-that-kills"
   category: "story"
-  site: "59781236d3cfff7cc5f92609"
+  site: "stjohnsjim"
   accepted: true
   index: false
   headlines: []

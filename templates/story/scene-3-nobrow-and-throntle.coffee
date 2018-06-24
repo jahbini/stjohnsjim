@@ -103,7 +103,7 @@ db[id="59782449d3cfff7cc5f92681"] =
   title: "Scene 3, Nobrow and Throntle"
   slug: "scene-3-nobrow-and-throntle"
   category: "story"
-  site: "59781236d3cfff7cc5f92609"
+  site: "stjohnsjim"
   accepted: true
   index: false
   headlines: []
@@ -131,7 +131,7 @@ db[id="stjohnsjim/story/scene-3-nobrow-and-throntle"] =
   title: "Scene 3, Nobrow and Throntle"
   slug: "scene-3-nobrow-and-throntle"
   category: "story"
-  site: "59781236d3cfff7cc5f92609"
+  site: "stjohnsjim"
   accepted: true
   index: false
   headlines: []

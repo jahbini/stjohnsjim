@@ -96,7 +96,7 @@ db[id="59782449d3cfff7cc5f9263b"] =
   title: "The Daough Sister's Sustainable Cat Lips"
   slug: "the-daough-sisters-sustainable-cat-lips"
   category: "story"
-  site: "59781236d3cfff7cc5f92609"
+  site: "stjohnsjim"
   accepted: true
   index: false
   headlines: []
@@ -124,7 +124,7 @@ db[id="stjohnsjim/story/the-daough-sisters-sustainable-cat-lips"] =
   title: "The Daough Sister's Sustainable Cat Lips"
   slug: "the-daough-sisters-sustainable-cat-lips"
   category: "story"
-  site: "59781236d3cfff7cc5f92609"
+  site: "stjohnsjim"
   accepted: true
   index: false
   headlines: []

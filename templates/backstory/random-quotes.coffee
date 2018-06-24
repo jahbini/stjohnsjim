@@ -79,7 +79,7 @@ db[id="59782449d3cfff7cc5f9266b"] =
   title: "Random quotes"
   slug: "random-quotes"
   category: "backstory"
-  site: "59781236d3cfff7cc5f92609"
+  site: "stjohnsjim"
   accepted: true
   index: false
   headlines: []
@@ -106,7 +106,7 @@ db[id="stjohnsjim/backstory/random-quotes"] =
   title: "Random quotes"
   slug: "random-quotes"
   category: "backstory"
-  site: "59781236d3cfff7cc5f92609"
+  site: "stjohnsjim"
   accepted: true
   index: false
   headlines: []

@@ -96,7 +96,7 @@ db[id="stjohnsjim/story/a-hurricane-is-brewin"] =
   title: "A Hurricane is Brewin"
   slug: "a-hurricane-is-brewin"
   category: "story"
-  site: "59781236d3cfff7cc5f92609"
+  site: "stjohnsjim"
   accepted: false
   index: false
   headlines: [

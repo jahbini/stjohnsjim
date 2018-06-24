@@ -245,7 +245,7 @@ db[id="5978244ad3cfff7cc5f92693"] =
   title: "Wands"
   slug: "wands"
   category: "tarot"
-  site: "59781236d3cfff7cc5f92609"
+  site: "stjohnsjim"
   accepted: true
   index: false
   headlines: []
@@ -272,7 +272,7 @@ db[id="stjohnsjim/tarot/wands"] =
   title: "Wands"
   slug: "wands"
   category: "tarot"
-  site: "59781236d3cfff7cc5f92609"
+  site: "stjohnsjim"
   accepted: true
   index: false
   headlines: []

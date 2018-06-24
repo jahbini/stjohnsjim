@@ -114,7 +114,7 @@ db[id="59782449d3cfff7cc5f92620"] =
   title: "In Nature, All Colors Go Together"
   slug: "in-nature-all-colors-go-together"
   category: "story"
-  site: "59781236d3cfff7cc5f92609"
+  site: "stjohnsjim"
   accepted: true
   index: false
   headlines: []
@@ -141,7 +141,7 @@ db[id="stjohnsjim/story/in-nature-all-colors-go-together"] =
   title: "In Nature, All Colors Go Together"
   slug: "in-nature-all-colors-go-together"
   category: "story"
-  site: "59781236d3cfff7cc5f92609"
+  site: "stjohnsjim"
   accepted: true
   index: false
   headlines: []

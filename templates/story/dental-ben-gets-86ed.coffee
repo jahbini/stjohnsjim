@@ -107,7 +107,7 @@ db[id="59782449d3cfff7cc5f92619"] =
   title: "Dental Ben gets 86ed"
   slug: "dental-ben-gets-86ed"
   category: "story"
-  site: "59781236d3cfff7cc5f92609"
+  site: "stjohnsjim"
   accepted: true
   index: false
   headlines: []
@@ -136,7 +136,7 @@ db[id="stjohnsjim/story/dental-ben-gets-86ed"] =
   title: "Dental Ben gets 86ed"
   slug: "dental-ben-gets-86ed"
   category: "story"
-  site: "59781236d3cfff7cc5f92609"
+  site: "stjohnsjim"
   accepted: true
   index: false
   headlines: []

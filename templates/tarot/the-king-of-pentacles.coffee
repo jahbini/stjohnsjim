@@ -79,7 +79,7 @@ db[id="5978244ad3cfff7cc5f926a9"] =
   title: "The King of Pentacles"
   slug: "the-king-of-pentacles"
   category: "tarot"
-  site: "59781236d3cfff7cc5f92609"
+  site: "stjohnsjim"
   accepted: true
   index: false
   headlines: []
@@ -106,7 +106,7 @@ db[id="stjohnsjim/tarot/the-king-of-pentacles"] =
   title: "The King of Pentacles"
   slug: "the-king-of-pentacles"
   category: "tarot"
-  site: "59781236d3cfff7cc5f92609"
+  site: "stjohnsjim"
   accepted: true
   index: false
   headlines: []

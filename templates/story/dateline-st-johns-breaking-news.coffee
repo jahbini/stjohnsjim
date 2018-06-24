@@ -109,7 +109,7 @@ db[id="59782449d3cfff7cc5f9265f"] =
   title: "Dateline: St. John's! Breaking News!"
   slug: "dateline-st-johns-breaking-news"
   category: "story"
-  site: "59781236d3cfff7cc5f92609"
+  site: "stjohnsjim"
   accepted: true
   index: false
   headlines: []
@@ -138,7 +138,7 @@ db[id="stjohnsjim/story/dateline-st-johns-breaking-news"] =
   title: "Dateline: St. John's! Breaking News!"
   slug: "dateline-st-johns-breaking-news"
   category: "story"
-  site: "59781236d3cfff7cc5f92609"
+  site: "stjohnsjim"
   accepted: true
   index: false
   headlines: []

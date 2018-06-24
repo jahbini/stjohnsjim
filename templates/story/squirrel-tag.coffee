@@ -108,7 +108,7 @@ db[id="59782449d3cfff7cc5f92669"] =
   title: "Squirrel Tag"
   slug: "squirrel-tag"
   category: "story"
-  site: "59781236d3cfff7cc5f92609"
+  site: "stjohnsjim"
   accepted: true
   index: false
   headlines: []
@@ -135,7 +135,7 @@ db[id="stjohnsjim/story/squirrel-tag"] =
   title: "Squirrel Tag"
   slug: "squirrel-tag"
   category: "story"
-  site: "59781236d3cfff7cc5f92609"
+  site: "stjohnsjim"
   accepted: true
   index: false
   headlines: []

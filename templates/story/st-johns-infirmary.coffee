@@ -110,7 +110,7 @@ db[id="59782449d3cfff7cc5f92624"] =
   title: "St John's Infirmary"
   slug: "st-johns-infirmary"
   category: "story"
-  site: "59781236d3cfff7cc5f92609"
+  site: "stjohnsjim"
   accepted: true
   index: false
   headlines: []
@@ -137,7 +137,7 @@ db[id="stjohnsjim/story/st-johns-infirmary"] =
   title: "St John's Infirmary"
   slug: "st-johns-infirmary"
   category: "story"
-  site: "59781236d3cfff7cc5f92609"
+  site: "stjohnsjim"
   accepted: true
   index: false
   headlines: []

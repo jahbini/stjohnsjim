@@ -83,7 +83,7 @@ db[id="59782449d3cfff7cc5f9268d"] =
   title: "The Finish Line."
   slug: "the-finish-line"
   category: "pnw-winter"
-  site: "59781236d3cfff7cc5f92609"
+  site: "stjohnsjim"
   accepted: true
   index: false
   headlines: []
@@ -110,7 +110,7 @@ db[id="stjohnsjim/pnw-winter/the-finish-line"] =
   title: "The Finish Line."
   slug: "the-finish-line"
   category: "pnw-winter"
-  site: "59781236d3cfff7cc5f92609"
+  site: "stjohnsjim"
   accepted: true
   index: false
   headlines: []

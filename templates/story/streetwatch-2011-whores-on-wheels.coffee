@@ -120,7 +120,7 @@ db[id="59782449d3cfff7cc5f9260f"] =
   title: "Streetwatch 2011: Whores On Wheels"
   slug: "streetwatch-2011-whores-on-wheels"
   category: "story"
-  site: "59781236d3cfff7cc5f92609"
+  site: "stjohnsjim"
   accepted: true
   index: false
   headlines: []
@@ -149,7 +149,7 @@ db[id="stjohnsjim/story/streetwatch-2011-whores-on-wheels"] =
   title: "Streetwatch 2011: Whores On Wheels"
   slug: "streetwatch-2011-whores-on-wheels"
   category: "story"
-  site: "59781236d3cfff7cc5f92609"
+  site: "stjohnsjim"
   accepted: true
   index: false
   headlines: []

@@ -107,7 +107,7 @@ db[id="59782449d3cfff7cc5f9264b"] =
   title: "Batten down"
   slug: "batten-down"
   category: "winter"
-  site: "59781236d3cfff7cc5f92609"
+  site: "stjohnsjim"
   accepted: true
   index: false
   headlines: [
@@ -140,7 +140,7 @@ db[id="stjohnsjim/winter/batten-down"] =
   title: "Batten down"
   slug: "batten-down"
   category: "winter"
-  site: "59781236d3cfff7cc5f92609"
+  site: "stjohnsjim"
   accepted: true
   index: false
   headlines: [

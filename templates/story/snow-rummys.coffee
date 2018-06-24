@@ -117,7 +117,7 @@ db[id="59782449d3cfff7cc5f9263a"] =
   title: "Snow Rummys"
   slug: "snow-rummys"
   category: "story"
-  site: "59781236d3cfff7cc5f92609"
+  site: "stjohnsjim"
   accepted: true
   index: false
   headlines: []
@@ -145,7 +145,7 @@ db[id="stjohnsjim/story/snow-rummys"] =
   title: "Snow Rummys"
   slug: "snow-rummys"
   category: "story"
-  site: "59781236d3cfff7cc5f92609"
+  site: "stjohnsjim"
   accepted: true
   index: false
   headlines: []

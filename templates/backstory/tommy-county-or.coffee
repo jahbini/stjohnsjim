@@ -81,7 +81,7 @@ db[id="5978244ad3cfff7cc5f92692"] =
   title: "Tommy County, OR"
   slug: "tommy-county-or"
   category: "backstory"
-  site: "59781236d3cfff7cc5f92609"
+  site: "stjohnsjim"
   accepted: true
   index: false
   headlines: []
@@ -108,7 +108,7 @@ db[id="stjohnsjim/backstory/tommy-county-or"] =
   title: "Tommy County, OR"
   slug: "tommy-county-or"
   category: "backstory"
-  site: "59781236d3cfff7cc5f92609"
+  site: "stjohnsjim"
   accepted: true
   index: false
   headlines: []

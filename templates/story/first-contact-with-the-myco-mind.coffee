@@ -97,7 +97,7 @@ db[id="59782449d3cfff7cc5f9264c"] =
   title: "First Contact with the Myco Mind"
   slug: "first-contact-with-the-myco-mind"
   category: "story"
-  site: "59781236d3cfff7cc5f92609"
+  site: "stjohnsjim"
   accepted: true
   index: false
   headlines: []
@@ -125,7 +125,7 @@ db[id="stjohnsjim/story/first-contact-with-the-myco-mind"] =
   title: "First Contact with the Myco Mind"
   slug: "first-contact-with-the-myco-mind"
   category: "story"
-  site: "59781236d3cfff7cc5f92609"
+  site: "stjohnsjim"
   accepted: true
   index: false
   headlines: []

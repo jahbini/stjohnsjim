@@ -102,7 +102,7 @@ db[id="59782449d3cfff7cc5f92611"] =
   title: "Ex - Employee Spring Given Forcible Escort Out of "
   slug: "ex-employee-spring-given-forcible-escort-out-of"
   category: "story"
-  site: "59781236d3cfff7cc5f92609"
+  site: "stjohnsjim"
   accepted: true
   index: false
   headlines: []
@@ -130,7 +130,7 @@ db[id="stjohnsjim/story/ex-employee-spring-given-forcible-escort-out-of"] =
   title: "Ex - Employee Spring Given Forcible Escort Out of "
   slug: "ex-employee-spring-given-forcible-escort-out-of"
   category: "story"
-  site: "59781236d3cfff7cc5f92609"
+  site: "stjohnsjim"
   accepted: true
   index: false
   headlines: []

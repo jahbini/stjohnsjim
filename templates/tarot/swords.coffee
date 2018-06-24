@@ -245,7 +245,7 @@ db[id="59782449d3cfff7cc5f92643"] =
   title: "Swords"
   slug: "swords"
   category: "tarot"
-  site: "59781236d3cfff7cc5f92609"
+  site: "stjohnsjim"
   accepted: true
   index: false
   headlines: []
@@ -272,7 +272,7 @@ db[id="stjohnsjim/tarot/swords"] =
   title: "Swords"
   slug: "swords"
   category: "tarot"
-  site: "59781236d3cfff7cc5f92609"
+  site: "stjohnsjim"
   accepted: true
   index: false
   headlines: []

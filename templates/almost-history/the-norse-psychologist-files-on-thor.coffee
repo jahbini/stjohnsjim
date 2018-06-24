@@ -101,7 +101,7 @@ db[id="5978244ad3cfff7cc5f926a3"] =
   title: "The Norse Psychologist Files on Thor"
   slug: "the-norse-psychologist-files-on-thor"
   category: "almost-history"
-  site: "59781236d3cfff7cc5f92609"
+  site: "stjohnsjim"
   accepted: true
   index: false
   headlines: [
@@ -132,7 +132,7 @@ db[id="stjohnsjim/almost-history/the-norse-psychologist-files-on-thor"] =
   title: "The Norse Psychologist Files on Thor"
   slug: "the-norse-psychologist-files-on-thor"
   category: "almost-history"
-  site: "59781236d3cfff7cc5f92609"
+  site: "stjohnsjim"
   accepted: true
   index: false
   headlines: [

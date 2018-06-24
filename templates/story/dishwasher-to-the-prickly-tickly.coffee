@@ -120,7 +120,7 @@ db[id="59782449d3cfff7cc5f92644"] =
   title: "Dishwasher to the Prickly Tickly"
   slug: "dishwasher-to-the-prickly-tickly"
   category: "story"
-  site: "59781236d3cfff7cc5f92609"
+  site: "stjohnsjim"
   accepted: true
   index: false
   headlines: []
@@ -149,7 +149,7 @@ db[id="stjohnsjim/story/dishwasher-to-the-prickly-tickly"] =
   title: "Dishwasher to the Prickly Tickly"
   slug: "dishwasher-to-the-prickly-tickly"
   category: "story"
-  site: "59781236d3cfff7cc5f92609"
+  site: "stjohnsjim"
   accepted: true
   index: false
   headlines: []

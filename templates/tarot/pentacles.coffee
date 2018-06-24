@@ -196,7 +196,7 @@ db[id="59782449d3cfff7cc5f92668"] =
   title: "Pentacles"
   slug: "pentacles"
   category: "tarot"
-  site: "59781236d3cfff7cc5f92609"
+  site: "stjohnsjim"
   accepted: true
   index: false
   headlines: []
@@ -223,7 +223,7 @@ db[id="stjohnsjim/tarot/pentacles"] =
   title: "Pentacles"
   slug: "pentacles"
   category: "tarot"
-  site: "59781236d3cfff7cc5f92609"
+  site: "stjohnsjim"
   accepted: true
   index: false
   headlines: []

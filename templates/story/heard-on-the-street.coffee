@@ -104,7 +104,7 @@ db[id="59782449d3cfff7cc5f92663"] =
   title: "Heard on the Street"
   slug: "heard-on-the-street"
   category: "story"
-  site: "59781236d3cfff7cc5f92609"
+  site: "stjohnsjim"
   accepted: true
   index: false
   headlines: []
@@ -133,7 +133,7 @@ db[id="stjohnsjim/story/heard-on-the-street"] =
   title: "Heard on the Street"
   slug: "heard-on-the-street"
   category: "story"
-  site: "59781236d3cfff7cc5f92609"
+  site: "stjohnsjim"
   accepted: true
   index: false
   headlines: []

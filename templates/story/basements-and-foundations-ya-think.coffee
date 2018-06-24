@@ -125,7 +125,7 @@ db[id="59782449d3cfff7cc5f92674"] =
   title: "Basements and Foundations, Ya Think?"
   slug: "basements-and-foundations-ya-think"
   category: "story"
-  site: "59781236d3cfff7cc5f92609"
+  site: "stjohnsjim"
   accepted: true
   index: false
   headlines: [
@@ -158,7 +158,7 @@ db[id="stjohnsjim/story/basements-and-foundations-ya-think"] =
   title: "Basements and Foundations, Ya Think?"
   slug: "basements-and-foundations-ya-think"
   category: "story"
-  site: "59781236d3cfff7cc5f92609"
+  site: "stjohnsjim"
   accepted: true
   index: false
   headlines: [

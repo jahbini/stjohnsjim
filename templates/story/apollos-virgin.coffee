@@ -100,7 +100,7 @@ db[id="59782449d3cfff7cc5f92649"] =
   title: "Apollo's Virgin"
   slug: "apollos-virgin"
   category: "story"
-  site: "59781236d3cfff7cc5f92609"
+  site: "stjohnsjim"
   accepted: true
   index: false
   headlines: [
@@ -132,7 +132,7 @@ db[id="stjohnsjim/story/apollos-virgin"] =
   title: "Apollo's Virgin"
   slug: "apollos-virgin"
   category: "story"
-  site: "59781236d3cfff7cc5f92609"
+  site: "stjohnsjim"
   accepted: true
   index: false
   headlines: [

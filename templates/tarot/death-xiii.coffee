@@ -93,7 +93,7 @@ db[id="59782449d3cfff7cc5f9267e"] =
   title: "Death - XIII"
   slug: "death-xiii"
   category: "tarot"
-  site: "59781236d3cfff7cc5f92609"
+  site: "stjohnsjim"
   accepted: true
   index: false
   headlines: []
@@ -120,7 +120,7 @@ db[id="stjohnsjim/tarot/death-xiii"] =
   title: "Death - XIII"
   slug: "death-xiii"
   category: "tarot"
-  site: "59781236d3cfff7cc5f92609"
+  site: "stjohnsjim"
   accepted: true
   index: false
   headlines: []

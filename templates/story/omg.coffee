@@ -130,7 +130,7 @@ db[id="59782449d3cfff7cc5f92667"] =
   title: "OMG"
   slug: "omg"
   category: "story"
-  site: "59781236d3cfff7cc5f92609"
+  site: "stjohnsjim"
   accepted: true
   index: false
   headlines: []
@@ -159,7 +159,7 @@ db[id="stjohnsjim/story/omg"] =
   title: "OMG"
   slug: "omg"
   category: "story"
-  site: "59781236d3cfff7cc5f92609"
+  site: "stjohnsjim"
   accepted: true
   index: false
   headlines: []

@@ -106,7 +106,7 @@ db[id="59782449d3cfff7cc5f92661"] =
   title: "Big Doin's at the Hooker Derby"
   slug: "big-doins-at-the-hooker-derby"
   category: "pier-park"
-  site: "59781236d3cfff7cc5f92609"
+  site: "stjohnsjim"
   accepted: true
   index: false
   headlines: [
@@ -137,7 +137,7 @@ db[id="stjohnsjim/pier-park/big-doins-at-the-hooker-derby"] =
   title: "Big Doin's at the Hooker Derby"
   slug: "big-doins-at-the-hooker-derby"
   category: "pier-park"
-  site: "59781236d3cfff7cc5f92609"
+  site: "stjohnsjim"
   accepted: true
   index: false
   headlines: [

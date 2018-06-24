@@ -104,7 +104,7 @@ db[id="5978244ad3cfff7cc5f926ab"] =
   title: "What's Across the Bridge -- #1"
   slug: "whats-across-the-bridge-1"
   category: "story"
-  site: "59781236d3cfff7cc5f92609"
+  site: "stjohnsjim"
   accepted: true
   index: false
   headlines: []
@@ -132,7 +132,7 @@ db[id="stjohnsjim/story/whats-across-the-bridge-1"] =
   title: "What's Across the Bridge -- #1"
   slug: "whats-across-the-bridge-1"
   category: "story"
-  site: "59781236d3cfff7cc5f92609"
+  site: "stjohnsjim"
   accepted: true
   index: false
   headlines: []

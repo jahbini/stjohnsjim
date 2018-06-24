@@ -99,7 +99,7 @@ db[id="59782449d3cfff7cc5f92680"] =
   title: "Mother's Day and the Parade of the Johns"
   slug: "mothers-day-and-the-parade-of-the-johns"
   category: "story"
-  site: "59781236d3cfff7cc5f92609"
+  site: "stjohnsjim"
   accepted: true
   index: false
   headlines: []
@@ -128,7 +128,7 @@ db[id="stjohnsjim/story/mothers-day-and-the-parade-of-the-johns"] =
   title: "Mother's Day and the Parade of the Johns"
   slug: "mothers-day-and-the-parade-of-the-johns"
   category: "story"
-  site: "59781236d3cfff7cc5f92609"
+  site: "stjohnsjim"
   accepted: true
   index: false
   headlines: []

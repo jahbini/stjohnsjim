@@ -85,7 +85,7 @@ db[id="59782449d3cfff7cc5f92616"] =
   title: "NoBrow"
   slug: "nobrow"
   category: "story"
-  site: "59781236d3cfff7cc5f92609"
+  site: "stjohnsjim"
   accepted: true
   index: false
   headlines: []
@@ -113,7 +113,7 @@ db[id="stjohnsjim/story/nobrow"] =
   title: "NoBrow"
   slug: "nobrow"
   category: "story"
-  site: "59781236d3cfff7cc5f92609"
+  site: "stjohnsjim"
   accepted: true
   index: false
   headlines: []

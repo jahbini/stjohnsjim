@@ -108,7 +108,7 @@ db[id="59782449d3cfff7cc5f9266c"] =
   title: "Stan and Valerie"
   slug: "stan-and-valerie"
   category: "story"
-  site: "59781236d3cfff7cc5f92609"
+  site: "stjohnsjim"
   accepted: true
   index: false
   headlines: []
@@ -135,7 +135,7 @@ db[id="stjohnsjim/story/stan-and-valerie"] =
   title: "Stan and Valerie"
   slug: "stan-and-valerie"
   category: "story"
-  site: "59781236d3cfff7cc5f92609"
+  site: "stjohnsjim"
   accepted: true
   index: false
   headlines: []

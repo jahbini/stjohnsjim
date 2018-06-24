@@ -126,7 +126,7 @@ db[id="59782449d3cfff7cc5f92682"] =
   title: "Big Rocks, Burgers and Birds"
   slug: "big-rocks-burgers-and-birds"
   category: "story"
-  site: "59781236d3cfff7cc5f92609"
+  site: "stjohnsjim"
   accepted: true
   index: false
   headlines: []
@@ -155,7 +155,7 @@ db[id="stjohnsjim/story/big-rocks-burgers-and-birds"] =
   title: "Big Rocks, Burgers and Birds"
   slug: "big-rocks-burgers-and-birds"
   category: "story"
-  site: "59781236d3cfff7cc5f92609"
+  site: "stjohnsjim"
   accepted: true
   index: false
   headlines: []

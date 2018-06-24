@@ -81,7 +81,7 @@ db[id="59782449d3cfff7cc5f92618"] =
   title: "The Cougar's Secret Identity"
   slug: "the-cougars-secret-identity"
   category: "story"
-  site: "59781236d3cfff7cc5f92609"
+  site: "stjohnsjim"
   accepted: true
   index: false
   headlines: []
@@ -108,7 +108,7 @@ db[id="stjohnsjim/story/the-cougars-secret-identity"] =
   title: "The Cougar's Secret Identity"
   slug: "the-cougars-secret-identity"
   category: "story"
-  site: "59781236d3cfff7cc5f92609"
+  site: "stjohnsjim"
   accepted: true
   index: false
   headlines: []

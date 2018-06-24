@@ -111,7 +111,7 @@ db[id="59782449d3cfff7cc5f9263f"] =
   title: "Day of the miser"
   slug: "day-of-the-miser"
   category: "story"
-  site: "59781236d3cfff7cc5f92609"
+  site: "stjohnsjim"
   accepted: true
   index: false
   headlines: []
@@ -138,7 +138,7 @@ db[id="stjohnsjim/story/day-of-the-miser"] =
   title: "Day of the miser"
   slug: "day-of-the-miser"
   category: "story"
-  site: "59781236d3cfff7cc5f92609"
+  site: "stjohnsjim"
   accepted: true
   index: false
   headlines: []

@@ -134,7 +134,7 @@ db[id="59782449d3cfff7cc5f9266e"] =
   title: "Tastes, Aromas and Earthquakes"
   slug: "tastes-aromas-and-earthquakes"
   category: "story"
-  site: "59781236d3cfff7cc5f92609"
+  site: "stjohnsjim"
   accepted: true
   index: false
   headlines: []
@@ -162,7 +162,7 @@ db[id="stjohnsjim/story/tastes-aromas-and-earthquakes"] =
   title: "Tastes, Aromas and Earthquakes"
   slug: "tastes-aromas-and-earthquakes"
   category: "story"
-  site: "59781236d3cfff7cc5f92609"
+  site: "stjohnsjim"
   accepted: true
   index: false
   headlines: []

@@ -83,7 +83,7 @@ db[id="5978244ad3cfff7cc5f926a5"] =
   title: "Ultimate Protection of the Geyser Shirt of Bliss"
   slug: "ultimate-protection-of-the-geyser-shirt-of-bliss"
   category: "story"
-  site: "59781236d3cfff7cc5f92609"
+  site: "stjohnsjim"
   accepted: true
   index: false
   headlines: []
@@ -108,7 +108,7 @@ db[id="stjohnsjim/story/ultimate-protection-of-the-geyser-shirt-of-bliss"] =
   title: "Ultimate Protection of the Geyser Shirt of Bliss"
   slug: "ultimate-protection-of-the-geyser-shirt-of-bliss"
   category: "story"
-  site: "59781236d3cfff7cc5f92609"
+  site: "stjohnsjim"
   accepted: true
   index: false
   headlines: []

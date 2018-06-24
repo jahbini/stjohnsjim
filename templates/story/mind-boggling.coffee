@@ -102,7 +102,7 @@ db[id="59782449d3cfff7cc5f92641"] =
   title: "Mind Boggling"
   slug: "mind-boggling"
   category: "story"
-  site: "59781236d3cfff7cc5f92609"
+  site: "stjohnsjim"
   accepted: true
   index: false
   headlines: []
@@ -129,7 +129,7 @@ db[id="stjohnsjim/story/mind-boggling"] =
   title: "Mind Boggling"
   slug: "mind-boggling"
   category: "story"
-  site: "59781236d3cfff7cc5f92609"
+  site: "stjohnsjim"
   accepted: true
   index: false
   headlines: []

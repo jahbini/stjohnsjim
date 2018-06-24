@@ -3,7 +3,7 @@ T = require 'halvalla'
 #include card.coffee
 module.exports = class stjohnsjimtemplate
   #pass the db entry into the class so that the classes have access to it
-  constructor: (@db)->
+  constructor: (@db,@allDB)->
     
   # 
   # section html
@@ -20,82 +20,7 @@ module.exports = class stjohnsjimtemplate
         T.meta name: "description", content: "Stories from the 'Puter of St. John's Jim"
         T.meta name: "keywords", content: "Pier Park, Cathedral Park, fiction, North Portland,St. John's, st johns"
         T.meta property: "fb:admins", content: "187314157994069"
-        T.script """
-// This is called with the results from from FB.getLoginStatus().
-function statusChangeCallback(response) {
-//console.log('statusChangeCallback');
-//console.log(response);
-// The response object is returned with a status field that lets the
-// app know the current login status of the person.
-// Full docs on the response object can be found in the documentation
-// for FB.getLoginStatus().
-if (response.status === 'connected') {
-  // Logged into your app and Facebook.
-  testAPI();
-} else {
-  // The person is not logged into your app or we are unable to tell.
-  document.getElementById('fb-status').innerHTML = 'Please log ' +
-    'into this app.';
-}
-}
-
-// This function is called when someone finishes with the Login
-// Button.  See the onlogin handler attached to it in the sample
-// code below.
-function checkLoginState() {
-FB.getLoginStatus(function(response) {
-  statusChangeCallback(response);
-});
-}
-
-window.fbAsyncInit = function() {
-FB.init({
-appId      : '187314157994069',
-cookie     : true,  // enable cookies to allow the server to access 
-                    // the session
-xfbml      : true,  // parse social plugins on this page
-version    : 'v2.8' // use graph api version 2.8
-});
-
-// Now that we've initialized the JavaScript SDK, we call 
-// FB.getLoginStatus().  This function gets the state of the
-// person visiting this page and can return one of three states to
-// the callback you provide.  They can be:
-//
-// 1. Logged into your app ('connected')
-// 2. Logged into Facebook, but not your app ('not_authorized')
-// 3. Not logged into Facebook and can't tell if they are logged into
-//    your app or not.
-//
-// These three cases are handled in the callback function.
-
-FB.getLoginStatus(function(response) {
-statusChangeCallback(response);
-});
-
-};
-
-// Load the SDK asynchronously
-(function(d, s, id) {
-var js, fjs = d.getElementsByTagName(s)[0];
-if (d.getElementById(id)) return;
-js = d.createElement(s); js.id = id;
-js.src = \"//connect.facebook.net/en_US/sdk.js\";
-fjs.parentNode.insertBefore(js, fjs);
-}(document, 'script', 'facebook-jssdk'));
-
-// Here we run a very simple test of the Graph API after login is
-// successful.  See statusChangeCallback() for when this call is made.
-function testAPI() {
-//console.log('Welcome!  Fetching your information.... ');
-FB.api('/me', 'get', {'fields':'first_name,gender'}, function(response) {
-  //console.log('Successful login for: ', response);
-  $('.FBname').text(response.first_name);
-  document.getElementById('fb-status').innerHTML =
-    'Thanks for logging in, ' + response.first_name + '!';
-});
-}
-"""
+        #include fb-script.teacup
         T.script "document.styling = {\"palx\":\"#03c\",\"black\":\"#000\",\"white\":\"#fff\"}"
         T.link rel: "apple-touch-icon", sizes: "57x57", href: "/assets/icons/apple-icon-57x57.png"
         T.link rel: "apple-touch-icon", sizes: "60x60", href: "/assets/icons/apple-icon-60x60.png"
@@ -117,6 +42,7 @@ FB.api('/me', 'get', {'fields':'first_name,gender'}, function(response) {
         #T.link rel: "stylesheet", href: "assets/css/vendor.css", "-content--encoding": "gzip"
         #T.link rel: "stylesheet", href: "assets/css/app.css", "-content--encoding": "gzip"
         T.link rel: "stylesheet", href: "app.css", "-content--encoding": "gzip"
+        T.style media:"print",".hidden-print { display: none !important; }"
         T.link rel: "shortcut icon", href: "assets/icons/favicon.ico", type: "image/x-icon"
         T.link rel: "icon", href: "assets/icons/favicon.ico", type: "image/x-icon"
         T.script src: "allstories.json"
@@ -124,8 +50,14 @@ FB.api('/me', 'get', {'fields':'first_name,gender'}, function(response) {
         T.script src: "assets/js/vendor.js", "-content--type": "text/javascript", "-content--encoding": "gzip"
         T.script src: "assets/js/app.js", "-content--type": "text/javascript", "-content--encoding": "gzip"
         T.script "siteHandle = 'stjohnsjim'; topDomain = 'stjohnsjim.com'; require('initialize');"
-      T.body =>
+        @storyHeadMatter()
+        
+      T.body ".bg-gray", =>
         @stjohnsjim_body()
+  #
+  # class storyHeadMatter
+  #
+  storyHeadMatter: ->        
   # 
   # section stjohnsjim_body
   # 
@@ -136,16 +68,15 @@ FB.api('/me', 'get', {'fields':'first_name,gender'}, function(response) {
   # section container
   # 
   container: =>
-    T.div "#container", =>
-      T.div ".c-hero.o-grid__cell.u-higher", =>
-        @header()
-        @story()
-        @footer()
+    T.div "#container.container-fluid", =>
+      @header()
+      @story()
+      @footer()
   # 
   # section footer
   # 
   footer: =>
-    T.div "#footer", =>
+    T.div "#footer.row", =>
       T.div ".outer", =>
         @footer_info()
   # 
@@ -161,25 +92,27 @@ FB.api('/me', 'get', {'fields':'first_name,gender'}, function(response) {
   # section story
   # 
   story: =>
-    T.div "#story.outer", =>
-      @main()
-      @sidebar()
+    T.div "#story.row", =>
+      T.div ".col.col-12.col-md-9.order-first",=>
+        @storyBar()
+      T.div ".col.col-12.col-md-3",=>
+        @sidebar()
   # 
   # section sidebar
   # 
   sidebar: =>
-    T.aside "#sidebar"
+    T.aside "#sidebar.hidden-print.col-3"
   # 
-  # section main
+  # section storyBar
   # 
-  main: =>
+  storyBar: =>
     headlines = @db.headlines
     headline = '---'
     if l=headlines?.length
       r = Math.floor (Math.random() * l)
       headline = headlines[r ]
-    HalvallaCard "#main.bg-silver",{
-      shadow:"highest"
+    HalvallaCard "#main-ish.bg-silver",{
+      shadow:"shadow"
       divider:true
       footerText: "that's all--"
       headerText: @db?.title
@@ -199,11 +132,12 @@ FB.api('/me', 'get', {'fields':'first_name,gender'}, function(response) {
   # section header
   # 
   header: =>
-    T.div "#header.flex.flex-column.justify-between", =>
-      @banner()
+    T.div "#header.flex.flex-column.justify-between", style: "min-height:320px; background:center 32% no-repeat url(assets/images/banner.jpg)",=>
       T.div ".flex.justify-around", =>
         T.a ".sm-hide.xs-hide.pt4.pl2.col-3.self-bottom", href: "/", =>
-          T.img ".circle.right", style: "-moz-transform:scaleX(-1);-o-transform:scaleX(-1);-webkit-transform:scaleX(-1);transform:scaleX(-1);filter:FlipH;-ms-filter:FlipH", src: "http://www.gravatar.com/avatar/c105eda1978979dfb13059b8878ef95d?s=90"
+          T.img ".circle.right", 
+            style: "-moz-transform:scaleX(-1);-o-transform:scaleX(-1);-webkit-transform:scaleX(-1);transform:scaleX(-1);filter:FlipH;-ms-filter:FlipH"
+            src: "http://www.gravatar.com/avatar/c105eda1978979dfb13059b8878ef95d?s=120"
         T.div ".col-6.white", height: "250px", =>
           T.h1 ".center", => T.raw "King St. John's Jim"
           T.h2 ".center", => T.raw """
@@ -211,7 +145,7 @@ Factisms from Cascadia's Protector
  --- Both a Saint AND a King.
 """
         T.a ".pt4.pr2.col-3", href: "/", =>
-          T.img ".circle.left", src: "http://www.gravatar.com/avatar/c105eda1978979dfb13059b8878ef95d?s=90"
+          T.img ".circle.left", src: "http://www.gravatar.com/avatar/c105eda1978979dfb13059b8878ef95d?s=120"
       T.div ".flex.align-bottom", =>
         @header_inner()
         @sidecar()
@@ -249,6 +183,6 @@ Factisms from Cascadia's Protector
   # section banner
   # 
   banner: =>
-    T.div "#banner.bogo", style: "background-image:url(assets/images/banner.jpg)"
+  
   allMeta = [[["name","author"],["content","James A. Hinds: St. John's Jim -- King of Cascadia"]],[["http-equiv","Content-Type"],["content","text/html"],["charset","UTF-8"]],[["name","viewport"],["content","width=device-width, initial-scale=1"]],[["name","description"],["content","Stories from the 'Puter of St. John's Jim"]],[["name","keywords"],["content","Pier Park, Cathedral Park, fiction, North Portland,St. John's, st johns"]],[["property","fb:admins"],["content","187314157994069"]],[["name","msapplication-TileColor"],["content","#ffffff"]],[["name","msapplication-TileImage"],["content","/assets/icons/ms-icon-144x144.png"]],[["name","theme-color"],["content","#ffffff"]]]
   htmlTitle = "Dictates of the King of Cascadia and Stories from the 'Puter of St. John's Jim"

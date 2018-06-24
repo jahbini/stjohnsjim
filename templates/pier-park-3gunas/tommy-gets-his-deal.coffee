@@ -94,7 +94,7 @@ db[id="5978244ad3cfff7cc5f926af"] =
   title: "Tommy gets his deal"
   slug: "tommy-gets-his-deal"
   category: "pier-park-3gunas"
-  site: "59781236d3cfff7cc5f92609"
+  site: "stjohnsjim"
   accepted: true
   index: false
   headlines: []
@@ -121,7 +121,7 @@ db[id="stjohnsjim/pier-park-3gunas/tommy-gets-his-deal"] =
   title: "Tommy gets his deal"
   slug: "tommy-gets-his-deal"
   category: "pier-park-3gunas"
-  site: "59781236d3cfff7cc5f92609"
+  site: "stjohnsjim"
   accepted: true
   index: false
   headlines: []

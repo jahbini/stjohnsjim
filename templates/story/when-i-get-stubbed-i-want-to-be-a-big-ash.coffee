@@ -98,7 +98,7 @@ db[id="5978244ad3cfff7cc5f926a7"] =
   title: "When I Get Stubbed, I Want to be a Big Ash"
   slug: "when-i-get-stubbed-i-want-to-be-a-big-ash"
   category: "story"
-  site: "59781236d3cfff7cc5f92609"
+  site: "stjohnsjim"
   accepted: true
   index: false
   headlines: []
@@ -123,7 +123,7 @@ db[id="stjohnsjim/story/when-i-get-stubbed-i-want-to-be-a-big-ash"] =
   title: "When I Get Stubbed, I Want to be a Big Ash"
   slug: "when-i-get-stubbed-i-want-to-be-a-big-ash"
   category: "story"
-  site: "59781236d3cfff7cc5f92609"
+  site: "stjohnsjim"
   accepted: true
   index: false
   headlines: []

@@ -84,7 +84,7 @@ db[id="59782449d3cfff7cc5f9260b"] =
   title: "Contact Machines and the World of the Tarot"
   slug: "contact-machines-and-the-world-of-the-tarot"
   category: "backstory"
-  site: "59781236d3cfff7cc5f92609"
+  site: "stjohnsjim"
   accepted: true
   index: false
   headlines: []
@@ -111,7 +111,7 @@ db[id="stjohnsjim/backstory/contact-machines-and-the-world-of-the-tarot"] =
   title: "Contact Machines and the World of the Tarot"
   slug: "contact-machines-and-the-world-of-the-tarot"
   category: "backstory"
-  site: "59781236d3cfff7cc5f92609"
+  site: "stjohnsjim"
   accepted: true
   index: false
   headlines: []

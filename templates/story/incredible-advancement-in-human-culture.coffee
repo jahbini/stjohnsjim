@@ -182,7 +182,7 @@ db[id="59782449d3cfff7cc5f9262b"] =
   title: "Incredible Advancement In Human Culture"
   slug: "incredible-advancement-in-human-culture"
   category: "story"
-  site: "59781236d3cfff7cc5f92609"
+  site: "stjohnsjim"
   accepted: true
   index: false
   headlines: []
@@ -207,7 +207,7 @@ db[id="stjohnsjim/story/incredible-advancement-in-human-culture"] =
   title: "Incredible Advancement In Human Culture"
   slug: "incredible-advancement-in-human-culture"
   category: "story"
-  site: "59781236d3cfff7cc5f92609"
+  site: "stjohnsjim"
   accepted: true
   index: false
   headlines: []

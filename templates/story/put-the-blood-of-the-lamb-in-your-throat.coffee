@@ -110,7 +110,7 @@ db[id="59782449d3cfff7cc5f9263d"] =
   title: "Put the Blood of the Lamb in Your Throat"
   slug: "put-the-blood-of-the-lamb-in-your-throat"
   category: "story"
-  site: "59781236d3cfff7cc5f92609"
+  site: "stjohnsjim"
   accepted: true
   index: false
   headlines: []
@@ -139,7 +139,7 @@ db[id="stjohnsjim/story/put-the-blood-of-the-lamb-in-your-throat"] =
   title: "Put the Blood of the Lamb in Your Throat"
   slug: "put-the-blood-of-the-lamb-in-your-throat"
   category: "story"
-  site: "59781236d3cfff7cc5f92609"
+  site: "stjohnsjim"
   accepted: true
   index: false
   headlines: []

@@ -93,7 +93,7 @@ db[id="59782449d3cfff7cc5f92679"] =
   title: "The Cougar Returns!"
   slug: "the-cougar-returns"
   category: "story"
-  site: "59781236d3cfff7cc5f92609"
+  site: "stjohnsjim"
   accepted: true
   index: false
   headlines: []
@@ -120,7 +120,7 @@ db[id="stjohnsjim/story/the-cougar-returns"] =
   title: "The Cougar Returns!"
   slug: "the-cougar-returns"
   category: "story"
-  site: "59781236d3cfff7cc5f92609"
+  site: "stjohnsjim"
   accepted: true
   index: false
   headlines: []

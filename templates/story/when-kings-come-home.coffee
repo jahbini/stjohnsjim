@@ -120,7 +120,7 @@ db[id="5978244ad3cfff7cc5f926b8"] =
   title: "When Kings Come Home"
   slug: "when-kings-come-home"
   category: "story"
-  site: "59781236d3cfff7cc5f92609"
+  site: "stjohnsjim"
   accepted: true
   index: false
   headlines: []
@@ -147,7 +147,7 @@ db[id="stjohnsjim/story/when-kings-come-home"] =
   title: "When Kings Come Home"
   slug: "when-kings-come-home"
   category: "story"
-  site: "59781236d3cfff7cc5f92609"
+  site: "stjohnsjim"
   accepted: true
   index: false
   headlines: []

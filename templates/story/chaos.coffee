@@ -143,7 +143,7 @@ db[id="59782449d3cfff7cc5f9265b"] =
   title: "Chaos"
   slug: "chaos"
   category: "story"
-  site: "59781236d3cfff7cc5f92609"
+  site: "stjohnsjim"
   accepted: true
   index: false
   headlines: []
@@ -172,7 +172,7 @@ db[id="stjohnsjim/story/chaos"] =
   title: "Chaos"
   slug: "chaos"
   category: "story"
-  site: "59781236d3cfff7cc5f92609"
+  site: "stjohnsjim"
   accepted: true
   index: false
   headlines: []

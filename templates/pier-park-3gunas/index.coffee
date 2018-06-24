@@ -78,7 +78,7 @@ db[id="59782449d3cfff7cc5f92615"] =
   title: "The House of the three opposites"
   slug: "index"
   category: "pier-park-3gunas"
-  site: "59781236d3cfff7cc5f92609"
+  site: "stjohnsjim"
   accepted: true
   index: true
   headlines: [
@@ -107,7 +107,7 @@ db[id="stjohnsjim/pier-park-3gunas/index"] =
   title: "The House of the three opposites"
   slug: "index"
   category: "pier-park-3gunas"
-  site: "59781236d3cfff7cc5f92609"
+  site: "stjohnsjim"
   accepted: true
   index: true
   headlines: [

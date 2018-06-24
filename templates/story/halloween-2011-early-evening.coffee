@@ -106,7 +106,7 @@ db[id="59782449d3cfff7cc5f92630"] =
   title: "Halloween 2011 -- Early Evening"
   slug: "halloween-2011-early-evening"
   category: "story"
-  site: "59781236d3cfff7cc5f92609"
+  site: "stjohnsjim"
   accepted: true
   index: false
   headlines: []
@@ -135,7 +135,7 @@ db[id="stjohnsjim/story/halloween-2011-early-evening"] =
   title: "Halloween 2011 -- Early Evening"
   slug: "halloween-2011-early-evening"
   category: "story"
-  site: "59781236d3cfff7cc5f92609"
+  site: "stjohnsjim"
   accepted: true
   index: false
   headlines: []
