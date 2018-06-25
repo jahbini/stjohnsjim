@@ -45,7 +45,11 @@ renderer = class  index extends stjohnsjimtemplate
   # section bloviation
   # 
   bloviation: =>
-    T.div "#bloviation.article-entry.contents", "dangerously-set-inner-h-t-m-l": "[object Object]"
+    T.div "#bloviation.article-entry.contents", =>
+      T.p "There is Tommy -- Tamasik in all its gory glory -- Bravado, Bragadocio, Bully and Bullpucky.  Most of the chaos involves him.  Mostly because he started it."
+      T.p "and Roger Dojer -- Rajasik and regular -- Takes care of all the details, has two fire extinguishers with him at all times."
+      T.p "and Southwick -- Sattvik wanna be -- learning to be what he needs to be to make a bridge between reality and heaven"
+  
   # 
   # section header
   # 
