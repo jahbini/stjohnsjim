@@ -137,7 +137,7 @@ module.exports = class stjohnsjimtemplate
         T.a ".sm-hide.xs-hide.pt4.pl2.col-3.self-bottom", href: "/", =>
           T.img ".circle.right", 
             style: "-moz-transform:scaleX(-1);-o-transform:scaleX(-1);-webkit-transform:scaleX(-1);transform:scaleX(-1);filter:FlipH;-ms-filter:FlipH"
-            src: "http://www.gravatar.com/avatar/c105eda1978979dfb13059b8878ef95d?s=120"
+            src: "https://www.gravatar.com/avatar/c105eda1978979dfb13059b8878ef95d?s=120"
         T.div ".col-6.white", height: "250px", =>
           T.h1 ".center", => T.raw "King St. John's Jim"
           T.h2 ".center", => T.raw """
@@ -145,7 +145,7 @@ Factisms from Cascadia's Protector
  --- Both a Saint AND a King.
 """
         T.a ".pt4.pr2.col-3", href: "/", =>
-          T.img ".circle.left", src: "http://www.gravatar.com/avatar/c105eda1978979dfb13059b8878ef95d?s=120"
+          T.img ".circle.left", src: "https://www.gravatar.com/avatar/c105eda1978979dfb13059b8878ef95d?s=120"
       T.div ".flex.align-bottom", =>
         @header_inner()
         @sidecar()
