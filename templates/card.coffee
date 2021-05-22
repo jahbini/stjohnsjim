@@ -5,8 +5,8 @@ HalvallaCard = T.bless class cardComponent extends T.Component
   view: (card)=>  # T.render =>
     @image =card.image
     @shadow=card.shadow || ''
-    @headerText = card.headerText 
-    @subHeaderText = card.subHeaderText
+    @headerText = card.headerText || ''
+    @subHeaderText = card.subHeaderText || ''
     @headerStyle = card.headerStyle
     @footerStyle = card.footerStyle
     @divider = card.headerDivider

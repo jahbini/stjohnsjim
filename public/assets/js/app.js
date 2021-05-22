@@ -248,7 +248,11 @@ module.exports = B.Model.extend({
 });
 
 require.register("components/fibonacci.coffee", function(exports, require, module) {
+<<<<<<< HEAD
 var B, Fibonacci, T, Template, template,
+=======
+var B, Fibonacci, T,
+>>>>>>> c2d0831 (from the sky)
   boundMethodCheck = function(instance, Constructor) { if (!(instance instanceof Constructor)) { throw new Error('Bound instance method accessed before binding'); } };
 
 T = Pylon.Halvalla;
@@ -256,6 +260,7 @@ T = Pylon.Halvalla;
 B = require('backbone');
 
 //{  Panel, PanelHeader, Link } = Pylon.Rebass
+<<<<<<< HEAD
 
 //Panel = T.bless Panel
 //Link = T.bless Link
@@ -264,6 +269,12 @@ Template = require(`payload-/${siteHandle}.coffee`);
 
 template = new Template(T);
 
+=======
+
+//Panel = T.bless Panel
+//Link = T.bless Link
+//PanelHeader = T.bless PanelHeader
+>>>>>>> c2d0831 (from the sky)
 module.exports = T.bless(Fibonacci = (function() {
   var Lozenge, ratioToPixels, rollSquare;
 
@@ -478,7 +489,11 @@ B = require('backbone');
 //Panel = T.bless Panel
 //Link = T.bless Link
 //PanelHeader = T.bless PanelHeader
+<<<<<<< HEAD
 Template = require(`payload-/${siteHandle}.coffee`);
+=======
+Template = require("payload-/run-time-template.coffee");
+>>>>>>> c2d0831 (from the sky)
 
 template = new Template(T);
 
@@ -951,13 +966,21 @@ PylonTemplate = Backbone.Model.extend({
   Halvalla: require('halvalla/lib/halvalla-mithril'),
   Palx: require('palx'),
   Utils: require('./lib/utils'),
-  Underscore: require('underscore')
+  Underscore: require('underscore'),
+  Backbone: Backbone
 });
 
 window.Pylon = Pylon = new PylonTemplate;
 
+<<<<<<< HEAD
 Pylon.Button = require('./components/button'); // Pylon is assumed to be a global for this guy
 
+=======
+window._$_ = Pylon;
+
+Pylon.Button = require('./components/button'); // Pylon is assumed to be a global for this guy
+
+>>>>>>> c2d0831 (from the sky)
 Pylon.on('all', function(event, ...rest) {
   var mim;
   mim = event.match(/((.*):.*):/);
@@ -993,7 +1016,11 @@ newColors.black = document.styling.black;
 newColors.white = document.styling.white;
 
 // gather the global JSONs into Backbone collections 
+<<<<<<< HEAD
 ({myStories, allStories} = require('models/stories'));
+=======
+({myStories, allStories} = require('./models/stories'));
+>>>>>>> c2d0831 (from the sky)
 
 // suppress react styling
 /*
@@ -1085,6 +1112,7 @@ module.exports.Panel =   class Panel extends B.Model
       borderStyle: 'solid'
   view: ()=>
       T.div style: @style @props.style,children: @props.children
+<<<<<<< HEAD
 
 module.exports.PanelHeader =   class PanelHeader extends B.Model
   displayName: 'PanelHeader'
@@ -1102,6 +1130,25 @@ module.exports.PanelHeader =   class PanelHeader extends B.Model
 
 */
 
+=======
+
+module.exports.PanelHeader =   class PanelHeader extends B.Model
+  displayName: 'PanelHeader'
+  constructor: (@vnode)->
+    @props= f:2, p:2
+    console.log "PanelHeader constructor",@vnode
+    @
+
+  style: (props)=>
+    fontWeight: bold(props),
+    borderBottomWidth: px(1),
+    borderBottomStyle: 'solid',
+  view: ()->
+      T.crel 'Header', style: @style @vode.style
+
+*/
+
+>>>>>>> c2d0831 (from the sky)
 });
 
 ;require.register("lib/utils.coffee", function(exports, require, module) {
@@ -1634,6 +1681,7 @@ module.exports = Collection = class Collection extends Backbone.Collection.exten
 var Backbone, Model;
 
 Backbone = require('backbone');
+<<<<<<< HEAD
 
 module.exports = Model = class Model extends Backbone.Model.extend({
     state: {}
@@ -1665,18 +1713,26 @@ module.exports = Navigation = (function() {
       }
     ]
   };
+=======
+>>>>>>> c2d0831 (from the sky)
 
-  return Navigation;
+module.exports = Model = class Model extends Backbone.Model.extend({
+    state: {}
+  }) {};
 
+<<<<<<< HEAD
 }).call(this);
+=======
+// Place your application-specific model features here
+>>>>>>> c2d0831 (from the sky)
 
 });
 
-require.register("models/stories.coffee", function(exports, require, module) {
+;require.register("models/stories.coffee", function(exports, require, module) {
 var Collection, Stories, Story,
   boundMethodCheck = function(instance, Constructor) { if (!(instance instanceof Constructor)) { throw new Error('Bound instance method accessed before binding'); } };
 
-Collection = require('models/base/collection', Story = require('models/story'));
+Collection = require('../models/base/collection.coffee', Story = require('../models/story.coffee'));
 
 //allStories is global, as is myStories
 'use strict';
@@ -1723,7 +1779,7 @@ require.register("models/story.coffee", function(exports, require, module) {
 var Model, Story,
   boundMethodCheck = function(instance, Constructor) { if (!(instance instanceof Constructor)) { throw new Error('Bound instance method accessed before binding'); } };
 
-Model = require('models/base/model');
+Model = require('../models/base/model.coffee');
 
 'use strict';
 
@@ -1749,6 +1805,7 @@ module.exports = Story = class Story extends Model {
   initialize() {
     return super.initialize();
   }
+<<<<<<< HEAD
 
 };
 
@@ -1764,6 +1821,10 @@ Model = require('models/base/model');
 module.exports = User = class User extends Model {};
 
 // This model is intentionally left blank
+=======
+
+};
+>>>>>>> c2d0831 (from the sky)
 
 });
 
@@ -1913,7 +1974,11 @@ require.register("payload-/js/script.js", function(exports, require, module) {
 
 });
 
+<<<<<<< HEAD
 require.register("payload-/stjohnsjim.coffee", function(exports, require, module) {
+=======
+require.register("payload-/run-time-template.coffee", function(exports, require, module) {
+>>>>>>> c2d0831 (from the sky)
 /*
 #global Pylon
  */

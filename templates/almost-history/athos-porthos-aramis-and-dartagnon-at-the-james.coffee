@@ -110,33 +110,6 @@ renderer = class  athos_porthos_aramis_and_dartagnon_at_the_james extends stjohn
 db = {} unless db
 
 
-db[id="59782449d3cfff7cc5f92664"] =
-  title: "Athos, Porthos, Aramis and Dartagnon at the James "
-  slug: "athos-porthos-aramis-and-dartagnon-at-the-james"
-  category: "almost-history"
-  site: "stjohnsjim"
-  accepted: true
-  index: false
-  headlines: []
-  tags: []
-  snippets: "{}"
-  memberOf: [
-    "TAROT"
-    "PDX"
-  ]
-  created: "2011-04-17T12:16:38.000Z"
-  lastEdited: "2011-04-17T12:38:45.000Z"
-  published: "2011-04-17T12:38:45.000Z"
-  embargo: "2017-12-31T23:59:59.000Z"
-  captureDate: "2017-07-26T05:10:33.000Z"
-  TimeStamp: "1501045833000"
-  author: "Copyright 2010-2018 James A. Hinds: St. John's Jim -- King of Cascadia"
-  debug: ""
-  id: "59782449d3cfff7cc5f92664"
-  name: "Athos, Porthos, Aramis and Dartagnon at the James "
-#
-
-
 
 db[id="stjohnsjim/almost-history/athos-porthos-aramis-and-dartagnon-at-the-james"] =
   title: "Athos, Porthos, Aramis and Dartagnon at the James "

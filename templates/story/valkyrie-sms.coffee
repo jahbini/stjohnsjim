@@ -87,15 +87,15 @@ renderer = class  valkyrie_sms extends stjohnsjimtemplate
         T.raw "“"
       T.p => T.raw "The following is intended to be a real-time corporate messaging between two myth-twits (mythical tweeters) – hey, who says spiritual beings cant be on the internet."
       T.div ".card-group", =>
-        T.div ".card", =>
+        T.div ".card.p2", =>
           T.img ".card-img-top", src: "story/valkyrie-sms/harpi.png", alt: "aubrun"
           T.h5 '.card-title', "Aubrun - Valkyrie"
           T.p ".card-text", "Harpie Junior Grade Aubrun Reports, Sir!"
-        T.div ".card", =>
+        T.div ".card.p2", =>
           T.img ".card-img-top", src:  "story/valkyrie-sms/harpie-aveugle.jpg", alt: "Aveugle"
           T.h5 ".card-title", "Skuld - Senior Valkyrie – Take no lip, give no tit"
           T.p  ".card-text", "I am ready for my close-up, Mr. DeMille"
-        T.div ".card", =>
+        T.div ".card.p2", =>
           T.img ".card-img-top", src: "story/valkyrie-sms/sessrumnir-t.jpg", alt: "Sessrumnir"
           T.p ".card-text", =>
             T.raw ": – Valhalla’s waiting station, A giant hall of limbo with wooden benches for the dead."
