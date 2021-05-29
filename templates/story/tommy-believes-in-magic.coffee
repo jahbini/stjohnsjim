@@ -1,5 +1,5 @@
 # #-------- class start
-renderer = class  tommy_believes_in_magic extends stjohnsjimtemplate
+renderer = class  tommy_believes_in_magic extends siteTemplate
   # 
   # section html
   # 

@@ -1,5 +1,5 @@
 # #-------- class start
-renderer = class  put_the_blood_of_the_lamb_in_your_throat extends stjohnsjimtemplate
+renderer = class  put_the_blood_of_the_lamb_in_your_throat extends siteTemplate
   # 
   # section html
   # 

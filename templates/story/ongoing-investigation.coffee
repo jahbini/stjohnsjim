@@ -1,5 +1,5 @@
 # #-------- class start
-renderer = class  ongoing_investigation extends stjohnsjimtemplate
+renderer = class  ongoing_investigation extends siteTemplate
   # 
   # section html
   # 

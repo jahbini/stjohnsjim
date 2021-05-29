@@ -1,5 +1,5 @@
 # #-------- class start
-renderer = class  the_monk_in_the_kingdom_of_prosperity extends stjohnsjimtemplate
+renderer = class  the_monk_in_the_kingdom_of_prosperity extends siteTemplate
   # 
   # section html
   # 

@@ -1,5 +1,5 @@
 # #-------- class start
-renderer = class  calliope_contemplates_throntle_intimidates extends stjohnsjimtemplate
+renderer = class  calliope_contemplates_throntle_intimidates extends siteTemplate
   # 
   # section html
   # 

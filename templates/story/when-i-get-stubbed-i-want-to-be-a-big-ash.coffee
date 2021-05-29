@@ -1,5 +1,5 @@
 # #-------- class start
-renderer = class  when_i_get_stubbed_i_want_to_be_a_big_ash extends stjohnsjimtemplate
+renderer = class  when_i_get_stubbed_i_want_to_be_a_big_ash extends siteTemplate
   # 
   # section html
   # 

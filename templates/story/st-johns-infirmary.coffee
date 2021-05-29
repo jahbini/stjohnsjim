@@ -1,5 +1,5 @@
 # #-------- class start
-renderer = class  st_johns_infirmary extends stjohnsjimtemplate
+renderer = class  st_johns_infirmary extends siteTemplate
   # 
   # section html
   # 

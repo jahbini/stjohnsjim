@@ -1,5 +1,5 @@
 # #-------- class start
-renderer = class  from_the_st_johns_infirmary_the_bouncer extends stjohnsjimtemplate
+renderer = class  from_the_st_johns_infirmary_the_bouncer extends siteTemplate
   # 
   # section html
   # 

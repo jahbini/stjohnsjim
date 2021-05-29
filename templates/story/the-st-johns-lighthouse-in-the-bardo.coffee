@@ -1,5 +1,5 @@
 # #-------- class start
-renderer = class  the_st_johns_lighthouse_in_the_bardo extends stjohnsjimtemplate
+renderer = class  the_st_johns_lighthouse_in_the_bardo extends siteTemplate
   # 
   # section html
   # 

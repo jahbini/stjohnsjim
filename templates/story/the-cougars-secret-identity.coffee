@@ -1,5 +1,5 @@
 # #-------- class start
-renderer = class  the_cougars_secret_identity extends stjohnsjimtemplate
+renderer = class  the_cougars_secret_identity extends siteTemplate
   # 
   # section html
   # 

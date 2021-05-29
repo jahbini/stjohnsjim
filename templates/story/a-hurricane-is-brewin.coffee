@@ -1,5 +1,5 @@
 # #-------- class start
-renderer = class  a_hurricane_is_brewin extends stjohnsjimtemplate
+renderer = class  a_hurricane_is_brewin extends siteTemplate
   # 
   # section html
   # 

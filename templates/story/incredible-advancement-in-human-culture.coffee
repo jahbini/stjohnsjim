@@ -1,5 +1,5 @@
 # #-------- class start
-renderer = class  incredible_advancement_in_human_culture extends stjohnsjimtemplate
+renderer = class  incredible_advancement_in_human_culture extends siteTemplate
   # 
   # section html
   # 

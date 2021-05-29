@@ -1,5 +1,5 @@
 # #-------- class start
-renderer = class  corporate_punishment_is_your_path_to_financial_security extends stjohnsjimtemplate
+renderer = class  corporate_punishment_is_your_path_to_financial_security extends siteTemplate
   # 
   # section html
   # 

@@ -1,5 +1,5 @@
 # #-------- class start
-renderer = class  southwick_in_the_slammer extends stjohnsjimtemplate
+renderer = class  southwick_in_the_slammer extends siteTemplate
   # 
   # section html
   # 
