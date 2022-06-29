@@ -1,7 +1,4 @@
 #
-# crd component
-#
-#include card.coffee
 #
 #-------- class start
 renderer= class index extends siteTemplate
