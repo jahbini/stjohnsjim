@@ -1,0 +1,52 @@
+<script>
+//story/cougars-dt-champions-and-more
+</script>
+
+<template lang="pug">
+#main-ish.shadow.bg-silver.card.bg-transparent
+  header.card-header
+    h2.card-title
+      | Cougars, DT Champions, and more
+      .card-subtitle.text-muted ---
+  .card-body
+    .m1.bg-darken-1
+      #bloviation.article-entry.contents(dangerously-set-inner-h-t-m-l='[object Object]')
+        p Rate the Pubs Department:
+        p
+          span.FBname Friend
+          | , You might want to check out the
+          em Hope for Health
+          | bar serving "inner cleanse ale" as indicated by the oddly smelling puddles in the parking lot.  The _Hope for Health_bar, so named for an asian pun, caters to a clientelle who have so many medical problems, they come here to hope for health.  A whopping 4.5 pukes!
+        p
+          | At least one wild cougar has been terrorizing Downtown Honolulu: The reports indicate that the cougars nab man-cubs with their wild ways, grab them kitten fashion up twenty story buildings.  These 20 to 25 year old man-cubs stand no chance of avoiding the charms of these Yakuza of Grrl power,
+          span.FBname Friend
+          | . Over time, these men find their groove, are released back into the wild months to years later bewildered at how the time has passed.  They sometimes write
+          a(href='http://www.youtube.com/watch?v=TEoc13bwCw0') great music
+          | .  
+        p
+          | Down in San Francisco, the dental blues are keeping whole neighborhoods awake with the pained screams of the victims.  Teeth are not just a convienience for chewing food, they have rich blood supplies that go straight to your brain.  Very bad Juju. Keep your body healthy,
+          span.FBname Friend
+          | : it is your gateway to reality.  Diminish your body, and you greatly diminish your ability to relate to reality. Choose wisely.  I wonder what
+          a(href='http://en.wikipedia.org/wiki/Cthulhu') Cthulu’s denta
+          | l needs were.
+        p
+          | On the subject of bacterial infections, St. John’s is officially
+          a(href='http://en.wikipedia.org/wiki/Amoeba_%28genus%29') Amoeba
+          | Free!
+        p The city council has told me they want me to push St. John’s as the "amoeba free district."  The facts about amoeba density in St. Johns needs to be brought out: amoebas are just not tolerated in St. John’s.  Bambi, of the city council went on:  "Published statistics about amoeba density in St. John’s are vastly skewed to prevent true knowledge of the facts"
+        p
+          | OK, so we don’t allow amoebas here.  No shop is required to accept money from one of these low-lifes! Bambi explains: "A
+          a(href='http://www.youtube.com/watch?v=ljVnlYVz6ac') Nice Fox
+          | , maybe, That don’t mean anything at all.  Raccoons neither."
+        p
+          | Sandy told me about the big hairy spiders.  The _big_ones.  Sandy woke up this morning at the corner of
+          a(href='http://www.google.com/maps/ms?ie=UTF8&hl=en&msa=0&ll=45.5917,-122.75622&spn=0.002516,0.003551&t=h&z=18&msid=114144299215869109392.000492fe5f96ca1a0454a') Chicago and Dumpster
+          |   and said he saw one.  High up in a tree.  As the sun came up it went away – back across the bridge, Sandy says. Southwick says I should trust him, He is a county champion of Tommy, OR. He won the Delirium Tremens three years in a row…  It’s a special thing for public transportation.  Maybe Tri-Met gives you a badge and everything.
+        p Sandy says: "Bear-Spinners cross over the St. John’s Bridge every fall.  I seen ‘um.  I heard stories from old-timers for years, but now, I seen ‘em!"
+        p It seems these Bear-spinners can snatch a baby off the back of a Harley Davidson on a mountain road. Now, these evil things are trying to gain a foothold in the 140’ evergreens of Pier Park.  So far, they have been held back by the neighborhood search and siezure parade on October 31st.  Kids scare ‘em somehow.
+  footer.card-footer
+    p.text-muted that's all--
+</template>
+
+<style>
+</style>
