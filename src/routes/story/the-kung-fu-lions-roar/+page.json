@@ -1,0 +1,26 @@
+{
+  "id": "stjohnsjim/story/the-kung-fu-lions-roar",
+  "name": "The Kung Fu Lion's Roar",
+  "fields": {
+    "title": "The Kung Fu Lion's Roar",
+    "slug": "the-kung-fu-lions-roar",
+    "category": "story",
+    "site": "stjohnsjim",
+    "accepted": true,
+    "index": false,
+    "headlines": [],
+    "tags": [],
+    "snippets": "{}",
+    "memberOf": [
+      "PDX"
+    ],
+    "published": "2010-10-16T16:47:35.000Z",
+    "embargo": "2017-12-31T23:59:59.000Z",
+    "author": "Copyright 2010-2018 James A. Hinds: St. John's Jim -- King of Cascadia",
+    "debug": "snippet",
+    "created": "2010-10-16T14:49:56.000Z",
+    "lastEdited": "2011-11-08T14:51:21.000Z",
+    "captureDate": "2017-07-26T05:10:34.141Z",
+    "TimeStamp": "1501045834141"
+  }
+}

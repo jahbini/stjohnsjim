@@ -7,7 +7,7 @@
   header.card-header
     h2.card-title
       | A Hurricane is Brewin
-      .card-subtitle.text-muted Why Bar Bets No Longer Work
+      .card-subtitle.text-muted There are 10,000 Bars in St. John's
   .card-body
     .m1.bg-darken-1
       #bloviation.article-entry.contents(dangerously-set-inner-h-t-m-l='[object Object]')

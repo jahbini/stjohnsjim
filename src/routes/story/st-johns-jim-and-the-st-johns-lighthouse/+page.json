@@ -1,0 +1,27 @@
+{
+  "id": "stjohnsjim/story/st-johns-jim-and-the-st-johns-lighthouse",
+  "name": "St. John's Jim and the St. John's Lighthouse",
+  "fields": {
+    "title": "St. John's Jim and the St. John's Lighthouse",
+    "slug": "st-johns-jim-and-the-st-johns-lighthouse",
+    "category": "story",
+    "site": "stjohnsjim",
+    "accepted": true,
+    "index": false,
+    "headlines": [],
+    "tags": [],
+    "snippets": "{}",
+    "memberOf": [
+      "TAROT",
+      "PDX"
+    ],
+    "published": "2010-10-07T16:08:50.000Z",
+    "embargo": "2017-12-31T23:59:59.000Z",
+    "author": "Copyright 2010-2018 James A. Hinds: St. John's Jim -- King of Cascadia",
+    "debug": "",
+    "created": "2010-10-07T16:05:13.000Z",
+    "lastEdited": "2010-10-07T16:08:50.000Z",
+    "captureDate": "2017-07-26T05:10:33.164Z",
+    "TimeStamp": "1501045833164"
+  }
+}

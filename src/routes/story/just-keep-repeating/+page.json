@@ -1,0 +1,26 @@
+{
+  "id": "stjohnsjim/story/just-keep-repeating",
+  "name": "Just keep repeating...",
+  "fields": {
+    "title": "Just keep repeating...",
+    "slug": "just-keep-repeating",
+    "category": "story",
+    "site": "stjohnsjim",
+    "accepted": true,
+    "index": false,
+    "headlines": [],
+    "tags": [],
+    "snippets": "{}",
+    "memberOf": [
+      "TAROT"
+    ],
+    "published": "2010-10-23T16:55:21.000Z",
+    "embargo": "2017-12-31T23:59:59.000Z",
+    "author": "Copyright 2010-2018 James A. Hinds: St. John's Jim -- King of Cascadia",
+    "debug": "",
+    "created": "2010-10-23T16:40:50.000Z",
+    "lastEdited": "2010-10-23T16:55:21.000Z",
+    "captureDate": "2017-07-26T05:10:33.379Z",
+    "TimeStamp": "1501045833379"
+  }
+}

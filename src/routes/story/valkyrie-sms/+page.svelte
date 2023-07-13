@@ -7,7 +7,7 @@
   header.card-header
     h2.card-title
       | Valkyrie On-Line
-      .card-subtitle.text-muted life before the afterlife
+      .card-subtitle.text-muted Notes from the Norse Battlefields
   .card-body
     .m1.bg-darken-1
       #bloviation.article-entry.contents

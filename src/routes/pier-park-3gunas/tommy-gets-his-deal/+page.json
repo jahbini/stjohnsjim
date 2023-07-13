@@ -1,0 +1,26 @@
+{
+  "id": "stjohnsjim/pier-park-3gunas/tommy-gets-his-deal",
+  "name": "Tommy gets his deal",
+  "fields": {
+    "title": "Tommy gets his deal",
+    "slug": "tommy-gets-his-deal",
+    "category": "pier-park-3gunas",
+    "site": "stjohnsjim",
+    "accepted": true,
+    "index": false,
+    "headlines": [],
+    "tags": [],
+    "snippets": "{\"3gunas\":\"3gunas\"}",
+    "memberOf": [
+      "GUNAS"
+    ],
+    "published": "2011-10-02T12:40:04.000Z",
+    "embargo": "2017-12-31T23:59:59.000Z",
+    "author": "Copyright 2010-2018 James A. Hinds: St. John's Jim -- King of Cascadia",
+    "debug": "",
+    "created": "2011-10-02T12:40:04.000Z",
+    "lastEdited": "2011-10-03T14:20:28.000Z",
+    "captureDate": "2017-07-26T05:10:34.000Z",
+    "TimeStamp": "1501045834000"
+  }
+}

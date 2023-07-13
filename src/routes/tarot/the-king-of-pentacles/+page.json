@@ -1,0 +1,26 @@
+{
+  "id": "stjohnsjim/tarot/the-king-of-pentacles",
+  "name": "The King of Pentacles",
+  "fields": {
+    "title": "The King of Pentacles",
+    "slug": "the-king-of-pentacles",
+    "category": "tarot",
+    "site": "stjohnsjim",
+    "accepted": true,
+    "index": false,
+    "headlines": [],
+    "tags": [],
+    "snippets": "{}",
+    "memberOf": [
+      "TAROT"
+    ],
+    "published": "2011-08-24T13:59:37.000Z",
+    "embargo": "2017-12-31T23:59:59.000Z",
+    "author": "Copyright 2010-2018 James A. Hinds: St. John's Jim -- King of Cascadia",
+    "debug": "",
+    "created": "2011-08-24T13:59:37.000Z",
+    "lastEdited": "2011-11-13T12:08:23.000Z",
+    "captureDate": "2017-07-26T05:10:34.187Z",
+    "TimeStamp": "1501045834187"
+  }
+}

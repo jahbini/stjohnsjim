@@ -1,0 +1,27 @@
+{
+  "id": "stjohnsjim/story/southwicks-deep-background-report-on-3-gunas-lp",
+  "name": "Southwick's Deep Background Report on 3 Gunas Lp",
+  "fields": {
+    "title": "Southwick's Deep Background Report on 3 Gunas Lp",
+    "slug": "southwicks-deep-background-report-on-3-gunas-lp",
+    "category": "story",
+    "site": "stjohnsjim",
+    "accepted": true,
+    "index": false,
+    "headlines": [],
+    "tags": [],
+    "snippets": "{}",
+    "memberOf": [
+      "GUNAS",
+      "TAROT"
+    ],
+    "published": "2010-11-13T18:15:27.000Z",
+    "embargo": "2017-12-31T23:59:59.000Z",
+    "author": "Copyright 2010-2018 James A. Hinds: St. John's Jim -- King of Cascadia",
+    "debug": "",
+    "created": "2010-11-13T15:26:15.000Z",
+    "lastEdited": "2011-10-03T12:23:02.000Z",
+    "captureDate": "2017-07-26T05:10:33.107Z",
+    "TimeStamp": "1501045833107"
+  }
+}

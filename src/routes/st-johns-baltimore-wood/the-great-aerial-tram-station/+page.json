@@ -1,0 +1,29 @@
+{
+  "id": "stjohnsjim/st-johns-baltimore-wood/the-great-aerial-tram-station",
+  "name": "The Great Aerial Tram Station",
+  "fields": {
+    "title": "The Great Aerial Tram Station",
+    "slug": "the-great-aerial-tram-station",
+    "category": "st-johns-baltimore-wood",
+    "site": "stjohnsjim",
+    "accepted": true,
+    "index": false,
+    "headlines": [
+      "Leo and Station's Very Odd Internet School",
+      "Treetop Transportation from Recycled Materials"
+    ],
+    "tags": [],
+    "snippets": "{}",
+    "memberOf": [
+      "TAO"
+    ],
+    "published": "2011-08-05T18:54:38.000Z",
+    "embargo": "2016-04-15T00:00:00.000Z",
+    "author": "Copyright 2010-2018 James A. Hinds: St. John's Jim -- King of Cascadia",
+    "debug": "",
+    "created": "2011-08-05T18:38:57.000Z",
+    "lastEdited": "2016-04-15T00:00:00.000Z",
+    "captureDate": "2017-07-26T05:10:34.000Z",
+    "TimeStamp": "1501045834000"
+  }
+}

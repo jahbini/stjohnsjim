@@ -7,7 +7,7 @@
   header.card-header
     h2.card-title
       | Big Doin's at the Hooker Derby
-      .card-subtitle.text-muted PNW Hookers Lament the Late Liz Taylor
+      .card-subtitle.text-muted Pier Park at 3AM?
   .card-body
     .m1.bg-darken-1
       #bloviation.article-entry.contents(dangerously-set-inner-h-t-m-l='[object Object]')

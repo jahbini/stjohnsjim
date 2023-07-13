@@ -1,0 +1,27 @@
+{
+  "id": "stjohnsjim/story/seasonsgreetingsfest-2010",
+  "name": "SeasonsGreetingsFest 2010",
+  "fields": {
+    "title": "SeasonsGreetingsFest 2010",
+    "slug": "seasonsgreetingsfest-2010",
+    "category": "story",
+    "site": "stjohnsjim",
+    "accepted": true,
+    "index": false,
+    "headlines": [],
+    "tags": [],
+    "snippets": "{\"first name\":\"first name\"}",
+    "memberOf": [
+      "GUNAS",
+      "TAROT"
+    ],
+    "published": "2010-12-06T16:56:56.000Z",
+    "embargo": "2017-12-31T23:59:59.000Z",
+    "author": "Copyright 2010-2018 James A. Hinds: St. John's Jim -- King of Cascadia",
+    "debug": "",
+    "created": "2010-12-06T15:39:48.000Z",
+    "lastEdited": "2010-12-06T16:56:56.000Z",
+    "captureDate": "2017-07-26T05:10:33.382Z",
+    "TimeStamp": "1501045833382"
+  }
+}

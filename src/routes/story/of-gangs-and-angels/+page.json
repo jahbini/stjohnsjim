@@ -1,0 +1,24 @@
+{
+  "id": "stjohnsjim/story/of-gangs-and-angels",
+  "name": "Of Gangs and Angels",
+  "fields": {
+    "title": "Of Gangs and Angels",
+    "slug": "of-gangs-and-angels",
+    "category": "story",
+    "site": "stjohnsjim",
+    "accepted": true,
+    "index": false,
+    "headlines": [],
+    "tags": [],
+    "snippets": "{}",
+    "memberOf": [],
+    "published": "2011-02-28T11:14:01.000Z",
+    "embargo": "2017-12-31T23:59:59.000Z",
+    "author": "Copyright 2010-2018 James A. Hinds: St. John's Jim -- King of Cascadia",
+    "debug": "",
+    "created": "2011-02-28T10:59:02.000Z",
+    "lastEdited": "2011-02-28T11:14:01.000Z",
+    "captureDate": "2017-07-26T05:10:33.286Z",
+    "TimeStamp": "1501045833286"
+  }
+}

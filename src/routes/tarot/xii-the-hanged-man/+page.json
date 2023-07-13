@@ -1,0 +1,26 @@
+{
+  "id": "stjohnsjim/tarot/xii-the-hanged-man",
+  "name": "XII - The Hanged Man",
+  "fields": {
+    "title": "XII - The Hanged Man",
+    "slug": "xii-the-hanged-man",
+    "category": "tarot",
+    "site": "stjohnsjim",
+    "accepted": true,
+    "index": false,
+    "headlines": [],
+    "tags": [],
+    "snippets": "{}",
+    "memberOf": [
+      "TAROT"
+    ],
+    "published": "2011-08-18T13:43:58.000Z",
+    "embargo": "2017-12-31T23:59:59.000Z",
+    "author": "Copyright 2010-2018 James A. Hinds: St. John's Jim -- King of Cascadia",
+    "debug": "",
+    "created": "2011-08-17T14:49:59.000Z",
+    "lastEdited": "2011-08-18T13:43:58.000Z",
+    "captureDate": "2017-07-26T05:10:34.169Z",
+    "TimeStamp": "1501045834169"
+  }
+}

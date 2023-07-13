@@ -1,0 +1,25 @@
+{
+  "id": "stjohnsjim/bamboo-tales/napolean",
+  "name": "napolean",
+  "fields": {
+    "title": "napolean",
+    "slug": "napolean",
+    "category": "bamboo-tales",
+    "site": "stjohnsjim",
+    "accepted": false,
+    "index": false,
+    "sourcePath": "",
+    "headlines": [],
+    "tags": [],
+    "snippets": "{\"first name\":\"first name\"}",
+    "memberOf": [],
+    "created": "2020-12-15T05:15:22.526Z",
+    "lastEdited": "2020-12-15T05:15:22.527Z",
+    "published": "2020-12-15T05:15:22.527Z",
+    "embargo": "2020-12-15T05:15:22.527Z",
+    "captureDate": "2020-12-15T05:15:22.527Z",
+    "TimeStamp": 1608009322527,
+    "debug": "",
+    "author": "James A. Hinds: St. John's Jim -- King of Cascadia"
+  }
+}

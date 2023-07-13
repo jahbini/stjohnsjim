@@ -7,7 +7,7 @@
   header.card-header
     h2.card-title
       | Aloha 'Oe to Something
-      .card-subtitle.text-muted Did We Ever Get It Right?
+      .card-subtitle.text-muted Memories Are Today's Myth
   .card-body
     .m1.bg-darken-1
       #bloviation.article-entry.contents(dangerously-set-inner-h-t-m-l='[object Object]')

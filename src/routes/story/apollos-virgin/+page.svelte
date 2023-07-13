@@ -7,7 +7,7 @@
   header.card-header
     h2.card-title
       | Apollo's Virgin
-      .card-subtitle.text-muted one weird trick!
+      .card-subtitle.text-muted It was true centuries ago!
   .card-body
     .m1.bg-darken-1
       #bloviation.article-entry.contents(dangerously-set-inner-h-t-m-l='[object Object]')

@@ -1,0 +1,28 @@
+{
+  "id": "stjohnsjim/story/big-rocks-burgers-and-birds",
+  "name": "Big Rocks, Burgers and Birds",
+  "fields": {
+    "title": "Big Rocks, Burgers and Birds",
+    "slug": "big-rocks-burgers-and-birds",
+    "category": "story",
+    "site": "stjohnsjim",
+    "accepted": true,
+    "index": false,
+    "headlines": [],
+    "tags": [],
+    "snippets": "{\"first name\":\"first name\"}",
+    "memberOf": [
+      "GUNAS",
+      "TAROT",
+      "PDX"
+    ],
+    "published": "2010-12-23T17:10:49.000Z",
+    "embargo": "2017-12-31T23:59:59.000Z",
+    "author": "Copyright 2010-2018 James A. Hinds: St. John's Jim -- King of Cascadia",
+    "debug": "",
+    "created": "2010-12-23T16:14:14.000Z",
+    "lastEdited": "2010-12-23T17:10:49.000Z",
+    "captureDate": "2017-07-26T05:10:33.481Z",
+    "TimeStamp": "1501045833481"
+  }
+}

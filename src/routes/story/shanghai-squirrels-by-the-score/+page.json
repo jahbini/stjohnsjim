@@ -1,0 +1,28 @@
+{
+  "id": "stjohnsjim/story/shanghai-squirrels-by-the-score",
+  "name": "Shanghai Squirrels by the Score",
+  "fields": {
+    "title": "Shanghai Squirrels by the Score",
+    "slug": "shanghai-squirrels-by-the-score",
+    "category": "story",
+    "site": "stjohnsjim",
+    "accepted": true,
+    "index": false,
+    "headlines": [],
+    "tags": [],
+    "snippets": "{}",
+    "memberOf": [
+      "GUNAS",
+      "TAROT",
+      "PDX"
+    ],
+    "published": "2011-07-01T17:59:43.000Z",
+    "embargo": "2017-12-31T23:59:59.000Z",
+    "author": "Copyright 2010-2018 James A. Hinds: St. John's Jim -- King of Cascadia",
+    "debug": "",
+    "created": "2011-07-01T16:40:13.000Z",
+    "lastEdited": "2011-07-01T17:59:43.000Z",
+    "captureDate": "2017-07-26T05:10:33.162Z",
+    "TimeStamp": "1501045833162"
+  }
+}

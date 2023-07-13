@@ -7,7 +7,7 @@
   header.card-header
     h2.card-title
       | The Norse Psychologist Files on Thor
-      .card-subtitle.text-muted Could The End Times be This Bizarre?
+      .card-subtitle.text-muted Modern Psychology for the Elder Gods
   .card-body
     .m1.bg-darken-1
       #bloviation.article-entry.contents(dangerously-set-inner-h-t-m-l='[object Object]')

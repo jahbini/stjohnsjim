@@ -7,7 +7,7 @@
   header.card-header
     h2.card-title
       | Basements and Foundations, Ya Think?
-      .card-subtitle.text-muted Will Baltimore Wood Slide into the River?
+      .card-subtitle.text-muted Tommy and Roger Prove Southwick is selfish
   .card-body
     .m1.bg-darken-1
       #bloviation.article-entry.contents(dangerously-set-inner-h-t-m-l='[object Object]')

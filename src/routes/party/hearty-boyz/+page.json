@@ -1,0 +1,25 @@
+{
+  "id": "stjohnsjim/party/hearty-boyz",
+  "name": "hearty-boyz",
+  "fields": {
+    "title": "hearty-boyz",
+    "slug": "hearty-boyz",
+    "category": "party",
+    "site": "stjohnsjim",
+    "accepted": false,
+    "index": false,
+    "sourcePath": "",
+    "headlines": [],
+    "tags": [],
+    "snippets": "{\"first name\":\"first name\"}",
+    "memberOf": [],
+    "created": "2018-03-01T03:42:36.319Z",
+    "lastEdited": "2018-03-01T03:42:36.320Z",
+    "published": "2018-03-01T03:42:36.320Z",
+    "embargo": "2018-03-01T03:42:36.320Z",
+    "captureDate": "2018-03-01T03:42:36.320Z",
+    "TimeStamp": 1519875756320,
+    "debug": "",
+    "author": "James A. Hinds: St. John's Jim -- King of Cascadia"
+  }
+}

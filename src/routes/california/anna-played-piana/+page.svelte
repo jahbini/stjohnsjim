@@ -7,7 +7,7 @@
   header.card-header
     h2.card-title
       | Anna Played Piana
-      .card-subtitle.text-muted What evil lurks in the minds of headline writers?
+      .card-subtitle.text-muted Strange, but unlikely
   .card-body
     .m1.bg-darken-1
       #bloviation.article-entry.contents(dangerously-set-inner-h-t-m-l='[object Object]')
