@@ -35,5 +35,6 @@
     border-radius: 4px;
     padding: 1rem;
     grid-area: Aside;
+    background: rgb(245, 245, 220, .35);
   }
 </style>

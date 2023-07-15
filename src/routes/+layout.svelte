@@ -70,4 +70,7 @@ svelte:head
     grid-template-areas: "None Main Aside";
     min-height: 100vh;
   }
+#stjohnsjim-body {
+  background:#cce6ff;
+}
 </style>
