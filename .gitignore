@@ -4,6 +4,7 @@ node_modules
 svelte
 /.svelte-kit
 /package
+*.swp
 .env
 .env.*
 !.env.example

@@ -5,17 +5,14 @@
   let info = _.groupBy(JSON.parse(stories),'category');
   delete info['-'];
   info = _.toArray(info);
-  console.log('INFO',info);
-    console.log("info has length", info.length);
 </script>
 
 <div class="aside">
   {#each info as category,indexx}
-  <details>
-  <summary>{info[indexx][0].category}</summary>
-  <ul>
+  <details role="list">
+  <summary aria-haspopup="listbox" >{info[indexx][0].category}</summary>
+  <ul role="listbox">
   {#each info[indexx] as story}
-    {@debug}
   <li>  <a href="{story.category}/{story.slug}" >{story.title}</a></li>
   {/each}
   <ul>
@@ -35,7 +32,6 @@
   }
 
   .aside {
-    background-color: beige;
     border-radius: 4px;
     padding: 1rem;
     grid-area: Aside;
