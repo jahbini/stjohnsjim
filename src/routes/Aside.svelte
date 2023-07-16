@@ -1,18 +1,19 @@
 <script>
   export const identifier = "aside";
-  export let stories;
+  let stories = import.meta.glob("/src/routes/**/+page.json",{eager:true, import:"fields"});
   import _ from 'underscore';
-  let info = _.groupBy(JSON.parse(stories),'category');
-  delete info['-'];
-  info = _.toArray(info);
+  _.map(stories,(value,key)=> {value.location=key.slice(12,key.length-11) ; return value} );
+  stories = _.groupBy(stories,'category');
+  delete stories['-'];
+  stories = _.toArray(stories);
 </script>
 
 <div class="aside">
-  {#each info as category,indexx}
+  {#each stories as category,indexx}
   <details role="list">
-  <summary aria-haspopup="listbox" >{info[indexx][0].category}</summary>
+  <summary aria-haspopup="listbox" >{stories[indexx][0].category}</summary>
   <ul role="listbox">
-  {#each info[indexx] as story}
+  {#each stories[indexx] as story}
   <li>  <a href="{story.category}/{story.slug}" >{story.title}</a></li>
   {/each}
   <ul>
