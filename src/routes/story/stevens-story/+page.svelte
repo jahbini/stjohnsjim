@@ -1,16 +1,11 @@
 <script>
 //story/stevens-story
+import Card from '$lib/Card.svelte';
+import storyMeta from './+page.json';
 </script>
 
 <template lang="pug">
-#main-ish.shadow.bg-silver.card.bg-transparent
-  header.card-header
-    h2.card-title
-      | Steven's Story
-      .card-subtitle.text-muted ---
-  .card-body
-    .m1.bg-darken-1
-      #bloviation.article-entry.contents(dangerously-set-inner-h-t-m-l='[object Object]')
+  Card(props="{storyMeta}" )
         p S — “When she goes anyplace the eyes are on her. And she makes sure I know it, and keeps me looking at her. It’s bloody demeaning.
         p And then she can drop it instantly and be stone cold formal. And then I feel like I’m three years old. And then she turns on the charm, and 30 seconds later I’m hard as a rock.
         p It’s like she knows what emotion you are having before you have it. It’s magic. I need to resist it, but I don’t know how. It scares the shit out of me.

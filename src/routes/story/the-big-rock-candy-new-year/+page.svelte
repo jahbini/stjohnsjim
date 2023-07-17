@@ -1,16 +1,11 @@
 <script>
 //story/the-big-rock-candy-new-year
+import Card from '$lib/Card.svelte';
+import storyMeta from './+page.json';
 </script>
 
 <template lang="pug">
-#main-ish.shadow.bg-silver.card.bg-transparent
-  header.card-header
-    h2.card-title
-      | The Big Rock Candy New Year
-      .card-subtitle.text-muted ---
-  .card-body
-    .m1.bg-darken-1
-      #bloviation.article-entry.contents(dangerously-set-inner-h-t-m-l='[object Object]')
+  Card(props="{storyMeta}" )
         p I’m starting this year as if everything will be fabulous. Screw the resolutions, Let’s go for end-times perfection. Hey, let’s plan big in 2011.
         p Try these rhymes to the tune of Big Rock Candy Mountain.  You know: where the flying pigs wear lipstick.
         blockquote

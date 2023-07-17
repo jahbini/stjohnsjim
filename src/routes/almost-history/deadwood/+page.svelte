@@ -1,16 +1,11 @@
 <script>
 //almost-history/deadwood
+import Card from '$lib/Card.svelte';
+import storyMeta from './+page.json';
 </script>
 
 <template lang="pug">
-#main-ish.shadow.bg-silver.card.bg-transparent
-  header.card-header
-    h2.card-title
-      | Deadwood?
-      .card-subtitle.text-muted Legend of the Old West
-  .card-body
-    .m1.bg-darken-1
-      #bloviation.article-entry.contents(dangerously-set-inner-h-t-m-l='[object Object]')
+  Card(props="{storyMeta}" )
         p
           em Wet, Cold, Biting: harsh reality. Maybe why I’m writing on exactly the opposite. This is a fictional backstory for something out of the old west. Situations, motivations and facts have been made up (ha, ha, that’s fiction.) But I think it will make a good bit of fun to reach the end. And even then, the facts don’t fit, that only adds to the fun the
           a(href='http://www.theonion.com/articles/war-on-string-may-be-unwinnable-says-cat-general,9636/')

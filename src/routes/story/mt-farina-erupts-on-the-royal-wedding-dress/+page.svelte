@@ -1,16 +1,11 @@
 <script>
 //story/mt-farina-erupts-on-the-royal-wedding-dress
+import Card from '$lib/Card.svelte';
+import storyMeta from './+page.json';
 </script>
 
 <template lang="pug">
-#main-ish.shadow.bg-silver.card.bg-transparent
-  header.card-header
-    h2.card-title
-      | Mt. Farina erupts on the Royal Wedding Dress
-      .card-subtitle.text-muted ---
-  .card-body
-    .m1.bg-darken-1
-      #bloviation.article-entry.contents(dangerously-set-inner-h-t-m-l='[object Object]')
+  Card(props="{storyMeta}" )
         p I’m trying to cook breakfast.  I make a layered mini-casserole of it: hot cereal with maca and toasted flax layered with yoghurt and Honey Bunches of Oats and milk.  My secret recipe. The TV in the next room is blaring about the Royal Wedding. Both the Huffington Post and the Drudge Report reek of nuptuals. The in-your-face, in your room, in your breakfast excitement rivals the Olympics.
         p
           | We got a WEDDING! Wow, oh, wow, wow. The excitement of excess!!! But excess isn’t really all that exciting when you stop and think about it. It is mostly wasted motion, fun little trinkets of plates and silverware specially made for the occasion, lots of bells (no wonder the peasants wanted to revolt), flowers, corsages and nosegays for every nostril, specialty foods created of unique ingredients with DNA spliced genes specially made for this historic, nay,

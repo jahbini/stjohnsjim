@@ -1,16 +1,11 @@
 <script>
 //story/november-stretch
+import Card from '$lib/Card.svelte';
+import storyMeta from './+page.json';
 </script>
 
 <template lang="pug">
-#main-ish.shadow.bg-silver.card.bg-transparent
-  header.card-header
-    h2.card-title
-      | November Stretch
-      .card-subtitle.text-muted ---
-  .card-body
-    .m1.bg-darken-1
-      #bloviation.article-entry.contents(dangerously-set-inner-h-t-m-l='[object Object]')
+  Card(props="{storyMeta}" )
         p (Author’s note, I have some subscribers who wish to read on their handheld. This is OK, and I hope you are able to follow. Some formatting is lost in text-only mode, and I will attempt to make your reading easy. Thanks for your patience.)
         p
           | Hormel makes a tasty (?) meat based product that does NOT clog up your e-mail system. The Politically Correct folks here in Oregon (PC-PNW) require us to refer to this e-mail thing as

@@ -1,16 +1,11 @@
 <script>
 //story/shanghai-squirrels-poisons-poses-and-the-pioneer
+import Card from '$lib/Card.svelte';
+import storyMeta from './+page.json';
 </script>
 
 <template lang="pug">
-#main-ish.shadow.bg-silver.card.bg-transparent
-  header.card-header
-    h2.card-title
-      | Shanghai Squirrels: Poison's Poses and the Pioneer
-      .card-subtitle.text-muted ---
-  .card-body
-    .m1.bg-darken-1
-      #bloviation.article-entry.contents(dangerously-set-inner-h-t-m-l='[object Object]')
+  Card(props="{storyMeta}" )
         p I want a squirrel tail for my hat.  Southwick is taking me on a tour of back-woods St. John’s, deep into Tommy County to find out what uses they have found for a permanent Pacific Northwest resource: the common squirrel.  The residents there say the county line is 50 feet around the nearest cop.
         p Southwick tells me that Ella used to work at Waterfront U.  There was a scandal about embezzling that Ella got caught up in, and that Tommy was instrumental in keeping Ella out of jail.
         p Ella has small house near a wildlife preserve.  Ella laughs a lot. Weird laugh. She is small and shriveled. It looks like a life of cigarette smoke has sucked her vital essences and replaced them with creosote. She could be 75, she could be 45. Impossible to tell. There is a bench and vials of odd chemicals, tools and jigs for carving, shaping and mounting.

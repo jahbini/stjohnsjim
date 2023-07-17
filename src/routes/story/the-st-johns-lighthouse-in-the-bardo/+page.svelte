@@ -1,16 +1,11 @@
 <script>
 //story/the-st-johns-lighthouse-in-the-bardo
+import Card from '$lib/Card.svelte';
+import storyMeta from './+page.json';
 </script>
 
 <template lang="pug">
-#main-ish.shadow.bg-silver.card.bg-transparent
-  header.card-header
-    h2.card-title
-      | The St. John's Lighthouse in the Bardo
-      .card-subtitle.text-muted ---
-  .card-body
-    .m1.bg-darken-1
-      #bloviation.article-entry.contents(dangerously-set-inner-h-t-m-l='[object Object]')
+  Card(props="{storyMeta}" )
         p St. John’s is lost.  It was a vigorous area of Portland with mills, shops, shipping.  And now, just the workers remain.  Mostly in the bars.
         p Too many of these unemployed workers around to make the real switch to a gentrified neighborhood – continual reminders of poverty DO tend to make the gentry squeamish.
         p

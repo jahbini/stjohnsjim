@@ -1,16 +1,11 @@
 <script>
 //story/of-gangs-and-angels
+import Card from '$lib/Card.svelte';
+import storyMeta from './+page.json';
 </script>
 
 <template lang="pug">
-#main-ish.shadow.bg-silver.card.bg-transparent
-  header.card-header
-    h2.card-title
-      | Of Gangs and Angels
-      .card-subtitle.text-muted ---
-  .card-body
-    .m1.bg-darken-1
-      #bloviation.article-entry.contents(dangerously-set-inner-h-t-m-l='[object Object]')
+  Card(props="{storyMeta}" )
         p I wr   ote this piece a few days ago. I tabled it because it didn’t flow right. Even though it had the aroma of moth-balls when I scanned it this morning, a few sprinkles of edit-rewrite clorox did the job.  The guy on this bus is an old memory: You may know him if you have ever ridden on the Ho   nolulu Bus system: He’s the guy holding his baggy pants up with one hand, and a plastic foam cup in his other — he waddles to the rear of the bus, sits down, stands up, moves, sits down. A rather amazing performance. I dedicate this piece to his unknown name.
         p I’m riding the bus to the county clinic appointment for an anti-virus shot. I can’t be late. This doctor is just a cog in the wheel, too. More of that Pentacle energy. Not my strong suit. I hope the bus is on time.  I rely on it to move my cogs, you know.
         p The bus is full and three members of the local franchise of the Hock-a-Loogie Gang just got on. The bush leagues for the real gangs, but these adolescents are the training ground for the real ones. These guys are pretty civilized to us older folks. We don’t present a threat, and it’s considered bad form to mug an old guy on the bus. Still, the vibe is there. We Portlanders tolerate each other, but the testosterone knows all.

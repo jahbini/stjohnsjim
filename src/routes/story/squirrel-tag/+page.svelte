@@ -1,16 +1,11 @@
 <script>
 //story/squirrel-tag
+import Card from '$lib/Card.svelte';
+import storyMeta from './+page.json';
 </script>
 
 <template lang="pug">
-#main-ish.shadow.bg-silver.card.bg-transparent
-  header.card-header
-    h2.card-title
-      | Squirrel Tag
-      .card-subtitle.text-muted ---
-  .card-body
-    .m1.bg-darken-1
-      #bloviation.article-entry.contents(dangerously-set-inner-h-t-m-l='[object Object]')
+  Card(props="{storyMeta}" )
         p This year is the year of the rodent.  The squirrel, that is.  We got more squirrels than working cars in St. John’s.  As rodents go, they got at least one thing going for ‘em – the tail.
         p I have been envious of the squirrels’ tails. Big, fluffy. Fits with my PNW color scheme. A fashion statement. Crazy PNW guy should have crazy sustainable local fur.
         p The trouble is, I can only claim the prize if I fight the squirrel in mano-a-mano combat. No rules, save good respect for a noble enemy. I will get your tail. Know that, sucka!

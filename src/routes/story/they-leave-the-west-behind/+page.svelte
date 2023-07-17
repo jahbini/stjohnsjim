@@ -1,16 +1,11 @@
 <script>
 //story/they-leave-the-west-behind
+import Card from '$lib/Card.svelte';
+import storyMeta from './+page.json';
 </script>
 
 <template lang="pug">
-#main-ish.shadow.bg-silver.card.bg-transparent
-  header.card-header
-    h2.card-title
-      | They Leave the West Behind
-      .card-subtitle.text-muted ---
-  .card-body
-    .m1.bg-darken-1
-      #bloviation.article-entry.contents(dangerously-set-inner-h-t-m-l='[object Object]')
+  Card(props="{storyMeta}" )
         p All the way the paper bag was on my knee. — Lennon & McCartney
         p I met Leo and Station early last month. I have been given the OK by both of them to tell their story here. It involves a computer chip I found in my bar of soap.
         p Georgia’s always on my mi mi mi mi mi mi mi mind. — Lennon & McCartney

@@ -1,16 +1,11 @@
 <script>
 //story/the-catalyst-of-august
+import Card from '$lib/Card.svelte';
+import storyMeta from './+page.json';
 </script>
 
 <template lang="pug">
-#main-ish.shadow.bg-silver.card.bg-transparent
-  header.card-header
-    h2.card-title
-      | The Catalyst of August
-      .card-subtitle.text-muted ---
-  .card-body
-    .m1.bg-darken-1
-      #bloviation.article-entry.contents(dangerously-set-inner-h-t-m-l='[object Object]')
+  Card(props="{storyMeta}" )
         p Make things as serious as you want, but never more than they need – St. John’s Jim
         p August is like Summer’s catalyst that forces plants into harvest mode. The plants know. They have known for eons. They just take that catalyst and product what we harvest. What that exact catalyst might be is different for each species. Duration of the day? Spectrum of light? Humidity? Some wierd pheromone secreted by slugs?
         p It’s Saturday market day in St. John’s. It’s August. Nice. It will stay that way all day. I’m walking over to the James John Cafe and have to cover my tracks to keep it’s location secret. I take the complicated route through the farmer’s market. Just then, a father comes trudging by on his way to the car. His son, a cute poster-boy for the terrible twos, is about to make his big move.

@@ -1,16 +1,11 @@
 <script>
 //story/a-hurricane-is-brewin
+import Card from '$lib/Card.svelte';
+import storyMeta from './+page.json';
 </script>
 
 <template lang="pug">
-#main-ish.shadow.bg-silver.card.bg-transparent
-  header.card-header
-    h2.card-title
-      | A Hurricane is Brewin
-      .card-subtitle.text-muted There are 10,000 Bars in St. John's
-  .card-body
-    .m1.bg-darken-1
-      #bloviation.article-entry.contents(dangerously-set-inner-h-t-m-l='[object Object]')
+  Card(props="{storyMeta}" )
         h2#intruder-alert- Intruder Alert!
         p
           | Hurricane Visionary demolished my fortress of solitude today. It is slowly being re-built. Visionary, it seems, is planning a whopping art show in a few days at the North End Gallery. He descended onto stage cool-zero with sweeping glances into the very corners of the hall. Nothing escaped his glance and inclusion into a grand plan: A true

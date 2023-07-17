@@ -1,16 +1,11 @@
 <script>
 //story/joes-small-claims-court-bar-and-grill
+import Card from '$lib/Card.svelte';
+import storyMeta from './+page.json';
 </script>
 
 <template lang="pug">
-#main-ish.shadow.bg-silver.card.bg-transparent
-  header.card-header
-    h2.card-title
-      | Joe's Small Claims Court / Bar and Grill
-      .card-subtitle.text-muted ---
-  .card-body
-    .m1.bg-darken-1
-      #bloviation.article-entry.contents(dangerously-set-inner-h-t-m-l='[object Object]')
+  Card(props="{storyMeta}" )
         p
           span.FBname Friend
           | , I have been under tremendous psychic pressure. But now, since I know for sure, that I’m not Oprah’s sister, the Gates of Literary Creation have opened. How long? Who knows. Literary obsessions come and go like boy bands. Here is Joe:

@@ -1,16 +1,11 @@
 <script>
 //story/saying-goodbye-to-air-with-writers-block
+import Card from '$lib/Card.svelte';
+import storyMeta from './+page.json';
 </script>
 
 <template lang="pug">
-#main-ish.shadow.bg-silver.card.bg-transparent
-  header.card-header
-    h2.card-title
-      | Saying goodbye to air with writer's block
-      .card-subtitle.text-muted ---
-  .card-body
-    .m1.bg-darken-1
-      #bloviation.article-entry.contents(dangerously-set-inner-h-t-m-l='[object Object]')
+  Card(props="{storyMeta}" )
         p Everybody already has this figured out, but I’ll say it again:  I notice things here in Portland.  Mostly things that contrast with what I’ve known for the last 20 years in Hawaii.  Things that mainlanders take for granted.  Things that Kama Aina take for granted.
         p I’m needing to take drastic action on a relationship that I can no longer avoid.  It pains me greatly. It’s a problem in my love affair with St. john’s. It is the air.
         p Oregon air is good. clean ocean air meets big trees.

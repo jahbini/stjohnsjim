@@ -1,16 +1,11 @@
 <script>
 //story/lonesome-al-and-the-space-door
+import Card from '$lib/Card.svelte';
+import storyMeta from './+page.json';
 </script>
 
 <template lang="pug">
-#main-ish.shadow.bg-silver.card.bg-transparent
-  header.card-header
-    h2.card-title
-      | Lonesome Al and the Space Door
-      .card-subtitle.text-muted ---
-  .card-body
-    .m1.bg-darken-1
-      #bloviation.article-entry.contents(dangerously-set-inner-h-t-m-l='[object Object]')
+  Card(props="{storyMeta}" )
         p
           span.FBname Friend
           | , as I’m sitting in the James John Cafe this afternoon, I notice a twenty something wearing sweatpants, a hoodie, and a huge feather headdress from a Los Vegas show. It’s sea green with shimmering blue sparklies. The ceiling fan makes the feathers swirl around like a dancing shiva and the colored sparklies play fairy games on the walls.  Actually, I wouldn’t really notice, except she pronounces the state as

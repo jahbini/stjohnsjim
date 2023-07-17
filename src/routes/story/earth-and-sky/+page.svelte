@@ -1,16 +1,11 @@
 <script>
 //story/earth-and-sky
+import Card from '$lib/Card.svelte';
+import storyMeta from './+page.json';
 </script>
 
 <template lang="pug">
-#main-ish.shadow.bg-silver.card.bg-transparent
-  header.card-header
-    h2.card-title
-      | Earth and Sky
-      .card-subtitle.text-muted ---
-  .card-body
-    .m1.bg-darken-1
-      #bloviation.article-entry.contents(dangerously-set-inner-h-t-m-l='[object Object]')
+  Card(props="{storyMeta}" )
         p have two children: Lightning and Cloud. They live near me on the bluffs of St. John’s exclusive Malibu district.
         p Lightning plays near us. She has a little toy in her hands: like any five year old she is full of happy smiles and giggles. Maybe she is a bit too zealous, but that’s what Lightning is all about, isn’t she? She puts the toy in my hands. I look at it: It’s a short plastic tube has a screen on one end and a rotating magnifying glass on the other.
         p Lightning tells me it is a bug-catcher-watcher-holder. Sky tells me that a fan sucks the bugs in and then you can pivot the magnifying glass into the closed position to inspect the cooties. I figure it out in microseconds: “You mean you collect bugs to inspect?”

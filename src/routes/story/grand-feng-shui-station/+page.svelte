@@ -1,16 +1,11 @@
 <script>
 //story/grand-feng-shui-station
+import Card from '$lib/Card.svelte';
+import storyMeta from './+page.json';
 </script>
 
 <template lang="pug">
-#main-ish.shadow.bg-silver.card.bg-transparent
-  header.card-header
-    h2.card-title
-      | Grand Feng Shui Station
-      .card-subtitle.text-muted ---
-  .card-body
-    .m1.bg-darken-1
-      #bloviation.article-entry.contents(dangerously-set-inner-h-t-m-l='[object Object]')
+  Card(props="{storyMeta}" )
         p I’m at Slim’s — Grand Fung Shui station — It’s got good energy all through the day. A good mix of active and passive zones.
         p As I wrote this, I needed the spelling of this odd word: Phunsway? Fun shway? So I ask the guy next to me. He has no idea. Instead, he picks up his iFaux and starts shouting “FUNG SHUI, FUNG SHUI” — The phone goes silent. In a few seconds it’s screen dark. It is saying “Fung U.”
         p The guy looks confused. He so much wanted to show off his toy, but it’s not the real deal.

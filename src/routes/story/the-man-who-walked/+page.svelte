@@ -1,16 +1,11 @@
 <script>
 //story/the-man-who-walked
+import Card from '$lib/Card.svelte';
+import storyMeta from './+page.json';
 </script>
 
 <template lang="pug">
-#main-ish.shadow.bg-silver.card.bg-transparent
-  header.card-header
-    h2.card-title
-      | The Man Who Walked
-      .card-subtitle.text-muted ---
-  .card-body
-    .m1.bg-darken-1
-      #bloviation.article-entry.contents(dangerously-set-inner-h-t-m-l='[object Object]')
+  Card(props="{storyMeta}" )
         p The man who walked did exactly that: Walk. A whole lot. And he wore shoes. And the shoes died.
         p And so the man bought another pair of shoes. And walked until they died, too.
         p And it went on this way until one day, the man said to himself: “I think my shoes are dieing more quickly now.”

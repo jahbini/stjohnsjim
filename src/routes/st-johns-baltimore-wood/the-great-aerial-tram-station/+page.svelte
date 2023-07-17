@@ -1,16 +1,11 @@
 <script>
 //st-johns-baltimore-wood/the-great-aerial-tram-station
+import Card from '$lib/Card.svelte';
+import storyMeta from './+page.json';
 </script>
 
 <template lang="pug">
-#main-ish.shadow.bg-silver.card.bg-transparent
-  header.card-header
-    h2.card-title
-      | The Great Aerial Tram Station
-      .card-subtitle.text-muted Leo and Station's Very Odd Internet School
-  .card-body
-    .m1.bg-darken-1
-      #bloviation.article-entry.contents(dangerously-set-inner-h-t-m-l='[object Object]')
+  Card(props="{storyMeta}" )
         p The Great Willamette River passes by St. John’s, leaving great flat hips and sharp slopes on the land. That’s what Baltimore Wood is: the near useless bluff between the industrial flat hip and the downtown nipples we call the bars of St. John’s. It has the best semi-obstructed view of the gorgeous St. John’s Bridge.
         p If Portland was Los Angeles, Baltimore Wood would be Malibu. It’s where the Daough sisters, Winnie and Pathy live along with Leo and his partner, Station.
         p

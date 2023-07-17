@@ -1,16 +1,11 @@
 <script>
 //backstory/contact-machines-and-the-world-of-the-tarot
+import Card from '$lib/Card.svelte';
+import storyMeta from './+page.json';
 </script>
 
 <template lang="pug">
-#main-ish.shadow.bg-silver.card.bg-transparent
-  header.card-header
-    h2.card-title
-      | Contact Machines and the World of the Tarot
-      .card-subtitle.text-muted ---
-  .card-body
-    .m1.bg-darken-1
-      #bloviation.article-entry.contents(dangerously-set-inner-h-t-m-l='[object Object]')
+  Card(props="{storyMeta}" )
         p Our tarot world seems very different than our real world –
         p Things are different at the world in tune with Celarien, and have resolved out of necessity. The meek inherited the earth, it seems.
         p All the old companies are there, but they mostly do different things now than before, now that we built machines that could jump us through space. Contact machines.

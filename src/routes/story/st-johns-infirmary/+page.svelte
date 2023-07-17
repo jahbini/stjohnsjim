@@ -1,16 +1,11 @@
 <script>
 //story/st-johns-infirmary
+import Card from '$lib/Card.svelte';
+import storyMeta from './+page.json';
 </script>
 
 <template lang="pug">
-#main-ish.shadow.bg-silver.card.bg-transparent
-  header.card-header
-    h2.card-title
-      | St John's Infirmary
-      .card-subtitle.text-muted ---
-  .card-body
-    .m1.bg-darken-1
-      #bloviation.article-entry.contents(dangerously-set-inner-h-t-m-l='[object Object]')
+  Card(props="{storyMeta}" )
         p Torquemada, feared Grand Inquisitor, used to commission buildings which were essentially prisons, infirmaries and poorhouses. He had a strong belief that the wandering soul must be goaded to improve. Part of that improvement was the following proviso for his vision of Purgatory on Earth.
         p “An inmate must have tiny views of something very very beautiful. A large work of a great master. The view must never be complete, and must be brief. It was best if the inmate must imagine large sections or half-remember ghosts he may never see again. This is the unreachable hope for the soul, if not in this life. And if not, it is the ultimate false hope for the unredeemed.”
         p

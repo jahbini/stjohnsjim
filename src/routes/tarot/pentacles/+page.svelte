@@ -1,16 +1,11 @@
 <script>
 //tarot/pentacles
+import Card from '$lib/Card.svelte';
+import storyMeta from './+page.json';
 </script>
 
 <template lang="pug">
-#main-ish.shadow.bg-silver.card.bg-transparent
-  header.card-header
-    h2.card-title
-      | Pentacles
-      .card-subtitle.text-muted ---
-  .card-body
-    .m1.bg-darken-1
-      #bloviation.article-entry.contents(dangerously-set-inner-h-t-m-l='[object Object]')
+  Card(props="{storyMeta}" )
         h1#pentacles-dilligent-earthy-prosperity-bound- Pentacles – Dilligent. Earthy. Prosperity bound.
         p The pentacles are workers creating value through craft, labor and the bounties of nature. Pentacle energy sustains the sacred space. On the scale of Maslow’s Heirarchy, the pentacles fill up most of the lower rungs - Physiological needs, economic security, and are enablers for other rungs: family, belonging, education. Maslow’s higher stages of actualization: authenticitity, meaningfulness, creativity, en-theos, are not inherently pentacular.
         p Pentacle efforts are totally under the control of swords, that is, pentacles need the protection afforded by external laws and internal vigilence. Swords protect the sacred spaces where pentacles produce the fruit. Swords steal and destroy the fruits and capabilites of the pentacle. An uneasy balance.

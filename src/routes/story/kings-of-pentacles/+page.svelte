@@ -1,16 +1,11 @@
 <script>
 //story/kings-of-pentacles
+import Card from '$lib/Card.svelte';
+import storyMeta from './+page.json';
 </script>
 
 <template lang="pug">
-#main-ish.shadow.bg-silver.card.bg-transparent
-  header.card-header
-    h2.card-title
-      | Kings of Pentacles
-      .card-subtitle.text-muted ---
-  .card-body
-    .m1.bg-darken-1
-      #bloviation.article-entry.contents(dangerously-set-inner-h-t-m-l='[object Object]')
+  Card(props="{storyMeta}" )
         p Did you know that the reason you sneeze when you swab your ears?  It’s because there is a tiny puff of air that comes out of the damn thing: It only goes off in your ear —  amazing microtechnology.
         p
           | I am helping Bambi of the City Council push this “Amoeba Free Zone” thing to business owners here in St. John’s.  I’m on a first name basis with many of these Kings of Pentacles, Randy, Theo, Suzanne, Hamid, and possibly you,

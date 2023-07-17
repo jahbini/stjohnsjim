@@ -1,16 +1,11 @@
 <script>
 //story/kick-and-carrot
+import Card from '$lib/Card.svelte';
+import storyMeta from './+page.json';
 </script>
 
 <template lang="pug">
-#main-ish.shadow.bg-silver.card.bg-transparent
-  header.card-header
-    h2.card-title
-      | Kick and Carrot
-      .card-subtitle.text-muted ---
-  .card-body
-    .m1.bg-darken-1
-      #bloviation.article-entry.contents(dangerously-set-inner-h-t-m-l='[object Object]')
+  Card(props="{storyMeta}" )
         p The trick or treat parade of last week reminded me of this academic trick or treat:
         p I’ve been thinking about starting back my class-load at an on-line university. I teach web technology via the internet. Fabulous. We are just learning how to do that, and the technology is improving daily. Still, it has defects of it’s own, as well as the defects in any educational system. One defect is a real pain for me.
         p By far, It’s the least fun I can imagine having while teaching.

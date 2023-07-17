@@ -1,16 +1,11 @@
 <script>
 //story/neither-forest-nor-trees-and-sigh-mentors
+import Card from '$lib/Card.svelte';
+import storyMeta from './+page.json';
 </script>
 
 <template lang="pug">
-#main-ish.shadow.bg-silver.card.bg-transparent
-  header.card-header
-    h2.card-title
-      | Neither Forest Nor Trees and, sigh, Mentors
-      .card-subtitle.text-muted ---
-  .card-body
-    .m1.bg-darken-1
-      #bloviation.article-entry.contents(dangerously-set-inner-h-t-m-l='[object Object]')
+  Card(props="{storyMeta}" )
         p
           | Late Fraking Blash! The Factory Underground has morphed into a new location above ground at
           a(href='http://maps.google.com/maps/ms?ie=UTF8&hl=en&msa=0&ll=45.590669,-122.754756&spn=0.002516,0.003551&t=h&z=18&msid=114144299215869109392.0004969fe04ec6e3cc721') John’s Tavern

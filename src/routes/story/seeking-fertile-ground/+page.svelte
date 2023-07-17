@@ -1,16 +1,11 @@
 <script>
 //story/seeking-fertile-ground
+import Card from '$lib/Card.svelte';
+import storyMeta from './+page.json';
 </script>
 
 <template lang="pug">
-#main-ish.shadow.bg-silver.card.bg-transparent
-  header.card-header
-    h2.card-title
-      | Seeking Fertile Ground
-      .card-subtitle.text-muted ---
-  .card-body
-    .m1.bg-darken-1
-      #bloviation.article-entry.contents(dangerously-set-inner-h-t-m-l='[object Object]')
+  Card(props="{storyMeta}" )
         p  Rain in St. John’s.  Sunday.  I notice large numbers of kids dragging their parents through the rain to the movie theatre.  I look at the Marque.  "The Network" and "JackAss 3" – I get all gooey inside when I think of the kids being interested in either.  Of course, I get sympathy pains whenever Johnny Knoxville gets slammed in the nuts.  Better him than me, he’s a professional, I’m only an amateur jackass.
         p Kids brains are fertile ground. Are they really interested in the innuendos of social networking?  Or to idolize bad behavior?  Or both?
         p I’m relieved when I find out they are having a special children’s matinee with the latest Shreck.  The St. John’s theatre has children’s matinee’s each weekend; the kind of entertainment I remember as a kid.  A few ads for junk food, maybe some paper airplanes, maybe some popcorn in the air, and then some seriously silly fun up on the screen.  These kids aren’t yet into networks or jackasses, families have enough to deal with as the blessed baby-asses they are still.

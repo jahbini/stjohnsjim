@@ -1,16 +1,11 @@
 <script>
 //story/when-kings-come-home
+import Card from '$lib/Card.svelte';
+import storyMeta from './+page.json';
 </script>
 
 <template lang="pug">
-#main-ish.shadow.bg-silver.card.bg-transparent
-  header.card-header
-    h2.card-title
-      | When Kings Come Home
-      .card-subtitle.text-muted ---
-  .card-body
-    .m1.bg-darken-1
-      #bloviation.article-entry.contents(dangerously-set-inner-h-t-m-l='[object Object]')
+  Card(props="{storyMeta}" )
         p New report demonstrates readers of “The St. John’s LightHouse” can add up to 1/4 pound of neurons or more! While it restores bad breath!— remember, you read it first here. 
         p A person who can quiet a toy terrier with a kindly and straightforward “well done”  has a rare talent:  It will be very useful for dealing with Kindergartners and City Council members. 
         p I keep thinking that the Tarot Deck we normally use needs more archetypes that are adapted to our different social structures, modern stuff, bla, bla, bla.   Some of the Major Arcana can be changed, or a few more options added.  There could be more "negative" cards, but the whole thing is pretty optimistic and focuses on "white magic:"

@@ -1,16 +1,11 @@
 <script>
 //story/fugue-state
+import Card from '$lib/Card.svelte';
+import storyMeta from './+page.json';
 </script>
 
 <template lang="pug">
-#main-ish.shadow.bg-silver.card.bg-transparent
-  header.card-header
-    h2.card-title
-      | Fugue State
-      .card-subtitle.text-muted From the Casebook of St. John&rsquo;s Jim: Psychic Bodyguard
-  .card-body
-    .m1.bg-darken-1
-      #bloviation.article-entry.contents(dangerously-set-inner-h-t-m-l='[object Object]')
+  Card(props="{storyMeta}" )
         p I ran into a man in a fugue state yesterday. Not me this time, but him. And seriously. He seemed happy, open and eager and intelligent and wanted one of my “Bliss Quest” sessions. I explained what it is and what it is intended to do.
         p A bliss quest session revolves around a person connecting with themselves at a very deep level and so I start with an easy question. It’s kind of a test and a conduit. If the person connects with some significant emotional event, that might indicate a value that’s been whacked: like a stubbed toe.
         p I asked Bob “What is the most disturbing or upsetting thing that has happened in the past few days?”

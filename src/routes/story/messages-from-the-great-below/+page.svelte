@@ -1,16 +1,11 @@
 <script>
 //story/messages-from-the-great-below
+import Card from '$lib/Card.svelte';
+import storyMeta from './+page.json';
 </script>
 
 <template lang="pug">
-#main-ish.shadow.bg-silver.card.bg-transparent
-  header.card-header
-    h2.card-title
-      | Messages from the Great Below
-      .card-subtitle.text-muted ---
-  .card-body
-    .m1.bg-darken-1
-      #bloviation.article-entry.contents(dangerously-set-inner-h-t-m-l='[object Object]')
+  Card(props="{storyMeta}" )
         p I woke up this morning with this cryptic note on my computer. I have no explanation except that Southwick has been telling me too many alien abduction stories lately.  I think one of them has caught up with me - as I read it I wondered if I am I an alien that has abducted myself?
         p I think you will find the logic of this story easier to follow —
         p In the early days, we all lived together as one. We lived in the Pacific Northwest and created the ancient, great civilization of thought and passion. Since that time our privilege has been to bring new life back from death, harvesting it again only when it fell. Every tree, plant and blade of grass is our charge, our flock and our connection with life above where there is the light that burns and kills.

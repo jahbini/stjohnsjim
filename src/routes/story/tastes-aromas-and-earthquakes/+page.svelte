@@ -1,16 +1,11 @@
 <script>
 //story/tastes-aromas-and-earthquakes
+import Card from '$lib/Card.svelte';
+import storyMeta from './+page.json';
 </script>
 
 <template lang="pug">
-#main-ish.shadow.bg-silver.card.bg-transparent
-  header.card-header
-    h2.card-title
-      | Tastes, Aromas and Earthquakes
-      .card-subtitle.text-muted ---
-  .card-body
-    .m1.bg-darken-1
-      #bloviation.article-entry.contents(dangerously-set-inner-h-t-m-l='[object Object]')
+  Card(props="{storyMeta}" )
         p (Author’s note:  This one is more imagery than narrative.  A friend asked if I could add one more dimension to the writing, and well, this is my response.  The narrative was bent.   Sometimes that happens. As a result, the relationships between paragraphs is less structured, I hope you enjoy.)
         p
           | It’s all scientific.  Science tells us: on one 

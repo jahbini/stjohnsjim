@@ -1,16 +1,11 @@
 <script>
 //roller-derby/bouncy-boom-gets-her-skates
+import Card from '$lib/Card.svelte';
+import storyMeta from './+page.json';
 </script>
 
 <template lang="pug">
-#main-ish.shadow.bg-silver.card.bg-transparent
-  header.card-header
-    h2.card-title
-      | Bouncy Boom Gets Her Skates
-      .card-subtitle.text-muted ---
-  .card-body
-    .m1.bg-darken-1
-      #bloviation.article-entry.contents
+  Card(props="{storyMeta}" )
         p Every great industry has a folk hero: Paul Bunyan, John Henry, Pecos Bill all represent mainstream working class archetypes. All men. Roller Derby is bigger than all of those old industries: Logging, Railroading or Cattle. Roller Derby is too much for mere men. Only the finest amazons allowed, you know.
         p In the inner most circle of Roller Derby, the tales of Bouncy Boom are the biggest and wildest.
         p Maybe you have heard some of the stories, or seen the pictures: a willowy skater who inherited her mom’s distinctive skating ability and combined it with legs powerful enough to flip over an 18 wheeler. She could slither into the tightest formations and explode the opposing team members like bowling pins into the stands. Using her five foot braids like whips, she could boost a team mate into overdrive through the other team.

@@ -1,16 +1,11 @@
 <script>
 //story/southwicks-deep-background-report-on-3-gunas-lp
+import Card from '$lib/Card.svelte';
+import storyMeta from './+page.json';
 </script>
 
 <template lang="pug">
-#main-ish.shadow.bg-silver.card.bg-transparent
-  header.card-header
-    h2.card-title
-      | Southwick's Deep Background Report on 3 Gunas Lp
-      .card-subtitle.text-muted ---
-  .card-body
-    .m1.bg-darken-1
-      #bloviation.article-entry.contents(dangerously-set-inner-h-t-m-l='[object Object]')
+  Card(props="{storyMeta}" )
         h3#southwick Southwick
         p Southwick, over at 3 Gunas Loop lives in shared housing. There are two reasons he does that.
         ol

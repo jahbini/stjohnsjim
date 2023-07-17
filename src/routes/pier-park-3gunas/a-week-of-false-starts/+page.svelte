@@ -1,16 +1,11 @@
 <script>
 //pier-park-3gunas/a-week-of-false-starts
+import Card from '$lib/Card.svelte';
+import storyMeta from './+page.json';
 </script>
 
 <template lang="pug">
-#main-ish.shadow.bg-silver.card.bg-transparent
-  header.card-header
-    h2.card-title
-      | A Week of False Starts
-      .card-subtitle.text-muted ---
-  .card-body
-    .m1.bg-darken-1
-      #bloviation.article-entry.contents(dangerously-set-inner-h-t-m-l='[object Object]')
+  Card(props="{storyMeta}" )
         p > I got a huge backlog of one or two sentence introductions to this issue of the St. John’s but none with even a hope of kick-starting my new MuseCycle 900.
         p
           | > -Everything from

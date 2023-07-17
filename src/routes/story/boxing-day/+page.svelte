@@ -1,16 +1,11 @@
 <script>
 //story/boxing-day
+import Card from '$lib/Card.svelte';
+import storyMeta from './+page.json';
 </script>
 
 <template lang="pug">
-#main-ish.shadow.bg-silver.card.bg-transparent
-  header.card-header
-    h2.card-title
-      | Boxing day
-      .card-subtitle.text-muted ---
-  .card-body
-    .m1.bg-darken-1
-      #bloviation.article-entry.contents(dangerously-set-inner-h-t-m-l='[object Object]')
+  Card(props="{storyMeta}" )
         p I woke up under the bridge: my Christmas present is new lodgings on Portland’s rustic Malibu. The lodgings are more convenient, more congenial and more spacious. I give up easy access to Pier Park, but gain a garden. It offers a great view, but the whole thing might fall into the water.
         p I asked Southwick to consult the mycological mat under our feet. Southwick’s nightly alien Myco-probes tell him the topsoil under this part of St. John’s is healthy, and wish to thank all the folks who have proper run-off. The myco-Minds under the soil are happy with the extra water, but dislike being referred to as pond-scum.
         p

@@ -1,16 +1,11 @@
 <script>
 //story/seasonsgreetingsfest-2010
+import Card from '$lib/Card.svelte';
+import storyMeta from './+page.json';
 </script>
 
 <template lang="pug">
-#main-ish.shadow.bg-silver.card.bg-transparent
-  header.card-header
-    h2.card-title
-      | SeasonsGreetingsFest 2010
-      .card-subtitle.text-muted ---
-  .card-body
-    .m1.bg-darken-1
-      #bloviation.article-entry.contents(dangerously-set-inner-h-t-m-l='[object Object]')
+  Card(props="{storyMeta}" )
         p
           | St. John’s has come to life this last weekend — Parties, Open houses, decorations, carolers in top hats and tiaras. And the red cape,
           span.FBname Friend

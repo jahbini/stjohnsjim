@@ -1,16 +1,11 @@
 <script>
 //story/the-great-harvest-moon-part-1
+import Card from '$lib/Card.svelte';
+import storyMeta from './+page.json';
 </script>
 
 <template lang="pug">
-#main-ish.shadow.bg-silver.card.bg-transparent
-  header.card-header
-    h2.card-title
-      | The Great Harvest Moon - Part 1
-      .card-subtitle.text-muted ---
-  .card-body
-    .m1.bg-darken-1
-      #bloviation.article-entry.contents(dangerously-set-inner-h-t-m-l='[object Object]')
+  Card(props="{storyMeta}" )
         p  The Great Harvest moon is over, it’s Tuesday morning and I’m safe, for now, at the James John Cafe.
         p Where do I begin?  with Southwick’s saga from 3 Gunas Loop?  With the extra hugs and kisses from unexpected ladies?  With the very odd requests for Tarot readings?
         p

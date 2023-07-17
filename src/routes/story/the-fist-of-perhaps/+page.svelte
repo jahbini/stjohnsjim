@@ -1,16 +1,11 @@
 <script>
 //story/the-fist-of-perhaps
+import Card from '$lib/Card.svelte';
+import storyMeta from './+page.json';
 </script>
 
 <template lang="pug">
-#main-ish.shadow.bg-silver.card.bg-transparent
-  header.card-header
-    h2.card-title
-      | The Fist of Perhaps
-      .card-subtitle.text-muted ---
-  .card-body
-    .m1.bg-darken-1
-      #bloviation.article-entry.contents(dangerously-set-inner-h-t-m-l='[object Object]')
+  Card(props="{storyMeta}" )
         p People sometimes use phrases that I can’t figure out. Is it slang? Is it English? Something Gov. Paris Palin said? There are lots of subcultures that I miss out on. I heard the headline phrase come out of the Muse’s mouth not too long ago. Whassit mean? "The Fist of Perhaps" — 
         p My long distance readers, the Ten Foot Teen and the Mamacita de Luz, want a Tarot Reading, by e-mail. OK. Let’s try this.
         p If you are local to Portland, though, a face to face reading is best.

@@ -1,16 +1,11 @@
 <script>
 //st-johns/catchy-slogan-sunday
+import Card from '$lib/Card.svelte';
+import storyMeta from './+page.json';
 </script>
 
 <template lang="pug">
-#main-ish.shadow.bg-silver.card.bg-transparent
-  header.card-header
-    h2.card-title
-      | Catchy Slogan Sunday
-      .card-subtitle.text-muted Wherin We Meet Bambi Brew
-  .card-body
-    .m1.bg-darken-1
-      #bloviation.article-entry.contents(dangerously-set-inner-h-t-m-l='[object Object]')
+  Card(props="{storyMeta}" )
         p The James John Cafe ran out of hollandaise sauce. Rats. The eggs benedict are fit for a pope. Wahh, my stomach cries for comfort food, which is a no-brainer: I order the awesome chops. Mmm, very tasty. It’s Sunday in October and the weather in St. John’s today has the trademark stamp of San Francisco’s bone chilling Summers. This is the kind of day that you think twice about closing a door because the great refrigerator light in the sky might go out.
         div
         p The kind of day that speaks of Winter’s ice slosh in the socks. The G.I. Bill paid for my two degrees in Computer Science, but without much left over for shoes, creating a huge gap in my impoverished student armor against the half-frozen slop that covered the ground. A little salted ice between the toes can really make a boring lecture intolerable.

@@ -1,16 +1,11 @@
 <script>
 //story/scene-3-nobrow-and-throntle
+import Card from '$lib/Card.svelte';
+import storyMeta from './+page.json';
 </script>
 
 <template lang="pug">
-#main-ish.shadow.bg-silver.card.bg-transparent
-  header.card-header
-    h2.card-title
-      | Scene 3, Nobrow and Throntle
-      .card-subtitle.text-muted ---
-  .card-body
-    .m1.bg-darken-1
-      #bloviation.article-entry.contents(dangerously-set-inner-h-t-m-l='[object Object]')
+  Card(props="{storyMeta}" )
         p Nobrow is a pretty cool guy. When it comes to hassle, nasty, or emotions, you might say that he does a very good job of keeping upwind.
         p Nobrow lives in a shack near a fertilizer warehouse that is mostly smell free. It’s big for one, and Uni has a deal with the watchman to let him know if they are going to need to open the gates. Even pays “rent”.
         p There’s no worry about that for Nobrow: Fertilizer is a zero dollar commodity till spring, and Nobrow can have as much as he wants. Nobody is going to bother much. Like I say, he keeps upwind.

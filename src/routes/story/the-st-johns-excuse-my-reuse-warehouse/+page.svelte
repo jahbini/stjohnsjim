@@ -1,16 +1,11 @@
 <script>
 //story/the-st-johns-excuse-my-reuse-warehouse
+import Card from '$lib/Card.svelte';
+import storyMeta from './+page.json';
 </script>
 
 <template lang="pug">
-#main-ish.shadow.bg-silver.card.bg-transparent
-  header.card-header
-    h2.card-title
-      | The St. John's Excuse-My-Reuse Warehouse
-      .card-subtitle.text-muted ---
-  .card-body
-    .m1.bg-darken-1
-      #bloviation.article-entry.contents(dangerously-set-inner-h-t-m-l='[object Object]')
+  Card(props="{storyMeta}" )
         p
           span.FBname Friend
           | , You may remember Winnie Daough. She runs the St. John’s Recycle Warehouse. It’s a volunteer thing. She runs it out of her basement. If she has it somewhere, she’ll let you borrow it or use it.

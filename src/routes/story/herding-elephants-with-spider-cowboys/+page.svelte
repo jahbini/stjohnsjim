@@ -1,16 +1,11 @@
 <script>
 //story/herding-elephants-with-spider-cowboys
+import Card from '$lib/Card.svelte';
+import storyMeta from './+page.json';
 </script>
 
 <template lang="pug">
-#main-ish.shadow.bg-silver.card.bg-transparent
-  header.card-header
-    h2.card-title
-      | Herding Elephants with Spider Cowboys
-      .card-subtitle.text-muted ---
-  .card-body
-    .m1.bg-darken-1
-      #bloviation.article-entry.contents(dangerously-set-inner-h-t-m-l='[object Object]')
+  Card(props="{storyMeta}" )
         p I saw Southwick walking over The Bridge into St. John’s early this AM. He was covered with spider webs. Last time I saw him come into St. John’s in the pre-dawn hours, he had been worked over by the cops.
         p Me: “Southwick, buddy, are you all right?”
         p Southwick: “Life is fabulous! She’s OK! You should see the ranch she has. And the view? It’s incredible.”

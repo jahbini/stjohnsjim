@@ -1,16 +1,11 @@
 <script>
 //story/southwicks-report-on-als-crotch-rocket
+import Card from '$lib/Card.svelte';
+import storyMeta from './+page.json';
 </script>
 
 <template lang="pug">
-#main-ish.shadow.bg-silver.card.bg-transparent
-  header.card-header
-    h2.card-title
-      | Southwick's report on Al's Crotch-Rocket
-      .card-subtitle.text-muted ---
-  .card-body
-    .m1.bg-darken-1
-      #bloviation.article-entry.contents(dangerously-set-inner-h-t-m-l='[object Object]')
+  Card(props="{storyMeta}" )
         p Hi, this is Southwick.  St. John’s Jim had to leave the James John Cafe early to get to a dental appointment.  Since the Cafe is at a secret location, it takes quite a while to escort him blindfolded out.  He asked me to fill in.
         p I rent a room in Tommy’s house at 3 Gunas Loop.  Roger lives there, too.  Roger is a retired Navy Guy.  Tommy can’t retire. I’m not sure he can grow up.
         p Let me tell you about Al’s new motorcycle.  No, not Al Pacino but Al who lives next door:  He comes over frequently, and is a shining dark star for Tommy to admire.  In another galaxy, they might be exchanging dark-force Midi-chlorians.  Here, they are just "Street Smart"

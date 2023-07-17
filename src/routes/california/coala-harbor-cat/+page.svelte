@@ -1,16 +1,11 @@
 <script>
 //california/coala-harbor-cat
+import Card from '$lib/Card.svelte';
+import storyMeta from './+page.json';
 </script>
 
 <template lang="pug">
-#main-ish.shadow.bg-silver.card.bg-transparent
-  header.card-header
-    h2.card-title
-      | Coala: Harbor Cat
-      .card-subtitle.text-muted Dead Cat Tells All!
-  .card-body
-    .m1.bg-darken-1
-      #bloviation.article-entry.contents(dangerously-set-inner-h-t-m-l='[object Object]')
+  Card(props="{storyMeta}" )
         p I had two cats, Cobbee and Coala, when I lived on my boat in Santa Barbara Harbor. I’m enlisting my old buddy Southwick from Pier Park – He runs seances and stuff like that.
         p Jim: Southwick, here’s your assignment. Make a voyage to the akashic bar and grill, where all the fogged memories of mankind are stored, and get Coala’s statement.
         p Southwick: Woo, Woo, Woo, Bookoo Snafoo. Akashic records now I view.

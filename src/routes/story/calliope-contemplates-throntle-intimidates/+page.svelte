@@ -1,16 +1,11 @@
 <script>
 //story/calliope-contemplates-throntle-intimidates
+import Card from '$lib/Card.svelte';
+import storyMeta from './+page.json';
 </script>
 
 <template lang="pug">
-#main-ish.shadow.bg-silver.card.bg-transparent
-  header.card-header
-    h2.card-title
-      | Calliope Contemplates, Throntle Intimidates
-      .card-subtitle.text-muted ---
-  .card-body
-    .m1.bg-darken-1
-      #bloviation.article-entry.contents(dangerously-set-inner-h-t-m-l='[object Object]')
+  Card(props="{storyMeta}" )
         p It was very cold last night, leaves and grass hidden in shade crunch a bit in their Indian Winter blanket. Our Overseas weather supplier is shipping early to avoid the holiday rush. Yup, cold to the bone. Followed by rain, rinse, and repeat with clear evening skies. This is fine, handcrafted early winter. Kudo’s to our Overseas supplier: we wish you could have given us the same service with Summer.
         p
           | I’m sitting with Calliope and Enkidu at Slim’s on a Sunday morning, they are playing Gin Rummy. It’s obvious both are master players. They ask if Southwick wants to play, He replies: “

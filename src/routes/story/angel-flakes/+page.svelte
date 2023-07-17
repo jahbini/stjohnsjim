@@ -1,16 +1,11 @@
 <script>
 //story/angel-flakes
+import Card from '$lib/Card.svelte';
+import storyMeta from './+page.json';
 </script>
 
 <template lang="pug">
-#main-ish.shadow.bg-silver.card.bg-transparent
-  header.card-header
-    h2.card-title
-      | Angel Flakes
-      .card-subtitle.text-muted ---
-  .card-body
-    .m1.bg-darken-1
-      #bloviation.article-entry.contents(dangerously-set-inner-h-t-m-l='[object Object]')
+  Card(props="{storyMeta}" )
         p Mr. Weatherman:
         p    Ha! The sky didn’t fall, Chicken Little!  The one to three inches of snow was the latest of overblown stories.  But we did get cold.  The very same weathermen say It is not supposed to thaw today at all.  Now that’s worthy.  Cold and dry.   Much better than a PNW day of cold and wet.
         p The worst part of cold is all the layers of cloth I have to deal with in the Men’s room.  Layer upon layer, each with some highly byzantine secret hand sign to pass to the next layer to free the prisoner within.  It’s sure to end badly at the urinal at Slim’s.  Pray for my sphincters.

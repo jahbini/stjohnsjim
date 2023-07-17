@@ -1,16 +1,11 @@
 <script>
 //story/the-six-billion-dollar-chef
+import Card from '$lib/Card.svelte';
+import storyMeta from './+page.json';
 </script>
 
 <template lang="pug">
-#main-ish.shadow.bg-silver.card.bg-transparent
-  header.card-header
-    h2.card-title
-      | The Six Billion Dollar Chef
-      .card-subtitle.text-muted ---
-  .card-body
-    .m1.bg-darken-1
-      #bloviation.article-entry.contents(dangerously-set-inner-h-t-m-l='[object Object]')
+  Card(props="{storyMeta}" )
         blockquote.right.key-author.right-align.h6.p2.bg-white.bg-darken-1.border.rounded
           | This e-mail is for my amigos and amigas at the NeuroBiological Learning Society. The papers in the link might make for an an interesting starting point for a night of inquiry. A recent web-link that I saw was a bit on the way we
           a(href='http://www.weizmann.ac.il/neurobiology/worg/publications.html') smell

@@ -1,16 +1,11 @@
 <script>
 //story/national-exhale-week
+import Card from '$lib/Card.svelte';
+import storyMeta from './+page.json';
 </script>
 
 <template lang="pug">
-#main-ish.shadow.bg-silver.card.bg-transparent
-  header.card-header
-    h2.card-title
-      | National Exhale Week
-      .card-subtitle.text-muted ---
-  .card-body
-    .m1.bg-darken-1
-      #bloviation.article-entry.contents(dangerously-set-inner-h-t-m-l='[object Object]')
+  Card(props="{storyMeta}" )
         p  By the time you read this, the nation is exhaling the Christmas of 2010. Right now, though, it is a mad dash to Christmas Eve.
         p The many merchants of St. John’s are frantic in the last moments of seasonal buying. Established Cafes and Bars are at ‘cruise control,’ retailers can be a bit more frantic, and the biggest struggles hit the very most seasonal retailers: Christmas Tree Lots.
         p The foot traffic didn’t come, even though you spent $500 on a sandwich board and had Joe Schlump walk around town with it. Come to think of it, where is Joe?  Nobody’s seen him for two weeks. D’ya think he’s not walking around with the sign? And sitting around waiting for a customer is driving you nuts.  Even your dog can tell.

@@ -1,16 +1,11 @@
 <script>
 //almost-history/the-norse-psychologist-files-on-thor
+import Card from '$lib/Card.svelte';
+import storyMeta from './+page.json';
 </script>
 
 <template lang="pug">
-#main-ish.shadow.bg-silver.card.bg-transparent
-  header.card-header
-    h2.card-title
-      | The Norse Psychologist Files on Thor
-      .card-subtitle.text-muted Modern Psychology for the Elder Gods
-  .card-body
-    .m1.bg-darken-1
-      #bloviation.article-entry.contents(dangerously-set-inner-h-t-m-l='[object Object]')
+  Card(props="{storyMeta}" )
         p Thor came to the writer’s office shortly after the third lesser ice age. Initial presenting symptom was depression on a societal level.
         p Thor: “My People are weak and unhealthy during the winter. They fish down by the fjords during the winter and don’t get much exercise”
         p Writer: “Well, sir, That’s not my area of psychology, I’m not a social psychologist, but i’ll do what I can: It’s seasonal depression. Have people build a big community house in each village to work and feast in, encourage an active village social life. Have them do competitions. It keeps the sexual urges going, the adrenaline high, you’ll love it”

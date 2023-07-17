@@ -1,16 +1,11 @@
 <script>
 //tarot/swords
+import Card from '$lib/Card.svelte';
+import storyMeta from './+page.json';
 </script>
 
 <template lang="pug">
-#main-ish.shadow.bg-silver.card.bg-transparent
-  header.card-header
-    h2.card-title
-      | Swords
-      .card-subtitle.text-muted ---
-  .card-body
-    .m1.bg-darken-1
-      #bloviation.article-entry.contents(dangerously-set-inner-h-t-m-l='[object Object]')
+  Card(props="{storyMeta}" )
         p section{suit of swords}
         p paragraph{The suit of Swords is suit of the military – Stormin’ Norman. Clint Eastwood. Shifting and opportunistic loyalty. You may fight against an army one day, and fight with that same army the next. And you must be able to handle those changing loyalties. Not like the loyalty of the pentacles, who stick together and vote as one value driven block.}
         p subsubsection{Ace of Swords}

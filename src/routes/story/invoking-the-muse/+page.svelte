@@ -1,16 +1,11 @@
 <script>
 //story/invoking-the-muse
+import Card from '$lib/Card.svelte';
+import storyMeta from './+page.json';
 </script>
 
 <template lang="pug">
-#main-ish.shadow.bg-silver.card.bg-transparent
-  header.card-header
-    h2.card-title
-      | Invoking the Muse
-      .card-subtitle.text-muted ---
-  .card-body
-    .m1.bg-darken-1
-      #bloviation.article-entry.contents(dangerously-set-inner-h-t-m-l='[object Object]')
+  Card(props="{storyMeta}" )
         p
           span.FBname Friend
           | , a tradition in literature reaches back thousands of years, likely longer. It touches on old ideas regarding creativity and deity. The ideas that only a god could be truly creative, and man was only creative when channelling a spirit.

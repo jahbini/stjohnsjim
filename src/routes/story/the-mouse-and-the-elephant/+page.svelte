@@ -1,16 +1,11 @@
 <script>
 //story/the-mouse-and-the-elephant
+import Card from '$lib/Card.svelte';
+import storyMeta from './+page.json';
 </script>
 
 <template lang="pug">
-#main-ish.shadow.bg-silver.card.bg-transparent
-  header.card-header
-    h2.card-title
-      | The Mouse and The Elephant
-      .card-subtitle.text-muted ---
-  .card-body
-    .m1.bg-darken-1
-      #bloviation.article-entry.contents(dangerously-set-inner-h-t-m-l='[object Object]')
+  Card(props="{storyMeta}" )
         p  Our houses are under attack!  Mice.  Well, mouse.  It’s cold, and wet outside.  I’d want to keep warm and dry too.
         p Over at 3 Gunas Lp, Southwick tells me that Roger let the mouse in.  Well, that’s the story that Tommy is telling everyone.  It’s a big deal to Tommy.  Not that he is afraid of them, or particularly worried about the hygiene of these critters.  They pretty much follow Tommy’s standards. Maybe it’s because they don’t pay rent.  That would be a big problem for Tommy.  Roger didn’t hang around to find out, because, well… it’s none of his business.
         p

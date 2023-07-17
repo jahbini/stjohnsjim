@@ -1,16 +1,11 @@
 <script>
 //story/dateline-st-johns-breaking-news
+import Card from '$lib/Card.svelte';
+import storyMeta from './+page.json';
 </script>
 
 <template lang="pug">
-#main-ish.shadow.bg-silver.card.bg-transparent
-  header.card-header
-    h2.card-title
-      | Dateline: St. John's! Breaking News!
-      .card-subtitle.text-muted ---
-  .card-body
-    .m1.bg-darken-1
-      #bloviation.article-entry.contents(dangerously-set-inner-h-t-m-l='[object Object]')
+  Card(props="{storyMeta}" )
         p It is a spring day in St. John’s - Dehydration for everybody! No matter where you are in St. Johns, You can’t see all of the glorious bridge! Slim’s has run out of Pabst again! Dog fights at Cathedral Park! Kinks songs still not playing at the James John Cafe.
         p On a more cheerful note: The food and atmosphere at the James John Cafe are among the highest pleasures attainable in mortal lifetime. Unless they have the dog playing the harmonica again. Just the one on the harmonica, the other ones are A-OK.
         h2#first-page-throntle- First Page: Throntle!

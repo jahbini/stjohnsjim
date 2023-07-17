@@ -1,16 +1,11 @@
 <script>
 //story/st-johns-gives-spring-the-pink-slip
+import Card from '$lib/Card.svelte';
+import storyMeta from './+page.json';
 </script>
 
 <template lang="pug">
-#main-ish.shadow.bg-silver.card.bg-transparent
-  header.card-header
-    h2.card-title
-      | St. John's Gives Spring the Pink Slip
-      .card-subtitle.text-muted ---
-  .card-body
-    .m1.bg-darken-1
-      #bloviation.article-entry.contents(dangerously-set-inner-h-t-m-l='[object Object]')
+  Card(props="{storyMeta}" )
         p I’m walking up into St. John’s early. It’s a little after 8AM. It’s the breezy part of March. Wayne is cutting hair. People are in front of Slim’s enjoying the weather and watching the passing parade. I walk on to Starbuck’s. The thought hits me: “Enjoying the Weather.”
         p People In Front of Slim’s Enjoying the Weather. That is an indicator of, no… It may be the Most Important, Most Required and Most Reliable Indicator of Summer. Yes, I have said it.  The unimportant facts of high winds, 50’s temperatures, intermittent sprinkles, unemployment, foreclosures or poverty have nothing to do with St. John’s reality.
         p I hereby declare that March 10, Year of Our Lord 2011. Hebrew Calendar 4th of Adar II, 5771, Hijri Calender Rabi Al-Thani 5, 1432. as St. John’s First Day of Summer.

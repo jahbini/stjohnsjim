@@ -1,16 +1,11 @@
 <script>
 //story/rainy-september-sunday
+import Card from '$lib/Card.svelte';
+import storyMeta from './+page.json';
 </script>
 
 <template lang="pug">
-#main-ish.shadow.bg-silver.card.bg-transparent
-  header.card-header
-    h2.card-title
-      | Rainy September Sunday
-      .card-subtitle.text-muted ---
-  .card-body
-    .m1.bg-darken-1
-      #bloviation.article-entry.contents(dangerously-set-inner-h-t-m-l='[object Object]')
+  Card(props="{storyMeta}" )
         p (Jim’s note:  I got a big backlog of stories, and hope to get this distribution thing working with as few surprises as possible.  Thanks for your patience as I get all the subscribe/unsubscribe HTML links in place and under control)
         p Yesterday was warm and bright and humid.  As the afternoon sun mellowed a bit, the light filtering through the trees brought out the tiny zits on the face of our sweet nature pentacle goddess: Portland.  Nature, for all her beauty, is intimate with a few ookie things that we rather ignore.
         p Not yesterday:  The bugs were everywhere.  Tiny midges thick in air of the avenues.  When the sun dims behind a cloud, the midges magically disappear: I breath easier, then I realize the flies are still there, and each breath is likely sucking in three or four of these protein filled vermin.  So what do I do about it?  Continue walking.  Get to Storybook Theatre before Happy Hour ends and find a great story to write.  In fact, a King of Pentacles shared his secret with me, but that’s another story.

@@ -1,16 +1,11 @@
 <script>
 //story/the-ghost-of-gbs-walks-st-johns
+import Card from '$lib/Card.svelte';
+import storyMeta from './+page.json';
 </script>
 
 <template lang="pug">
-#main-ish.shadow.bg-silver.card.bg-transparent
-  header.card-header
-    h2.card-title
-      | The Ghost of GBS walks St. John's
-      .card-subtitle.text-muted ---
-  .card-body
-    .m1.bg-darken-1
-      #bloviation.article-entry.contents(dangerously-set-inner-h-t-m-l='[object Object]')
+  Card(props="{storyMeta}" )
         p Rumors have it that George Bernard Shaw once lived and walked the Streets of St. John’s. As he strolled by, one of the local louts came up and asked if he had any money. GBS said that he did, by golly and was quite happy about that, and wished that the man also had money.
         p The bummy replied that he had so many needs and so little income that he was destitute. GBS replied that the man might endeavor to look for resources.
         p This happened several times. The bum was quite persistent with his trade-mark simple delivery. GBS was very amused by the man’s cheek and thought there might just be a spark of energy there.

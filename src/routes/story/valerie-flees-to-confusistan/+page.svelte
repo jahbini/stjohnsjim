@@ -1,16 +1,11 @@
 <script>
 //story/valerie-flees-to-confusistan
+import Card from '$lib/Card.svelte';
+import storyMeta from './+page.json';
 </script>
 
 <template lang="pug">
-#main-ish.shadow.bg-silver.card.bg-transparent
-  header.card-header
-    h2.card-title
-      | Valerie flees to Confusistan
-      .card-subtitle.text-muted ---
-  .card-body
-    .m1.bg-darken-1
-      #bloviation.article-entry.contents(dangerously-set-inner-h-t-m-l='[object Object]')
+  Card(props="{storyMeta}" )
         p
           em This chapter of the ongoing saga of Stan and Valerie is brought to you by the Six of Swords and The Moon
         p Stan’s joints had completely relaxed from the afterglow of an Iron Man session of orgasms. He lay there until way passed sun-up under the willow at the St. John’s Bridge.

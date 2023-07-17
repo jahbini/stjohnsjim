@@ -1,16 +1,11 @@
 <script>
 //story/shanghai-tunnel-tales-part-1
+import Card from '$lib/Card.svelte';
+import storyMeta from './+page.json';
 </script>
 
 <template lang="pug">
-#main-ish.shadow.bg-silver.card.bg-transparent
-  header.card-header
-    h2.card-title
-      | Shanghai Tunnel Tales - Part 1
-      .card-subtitle.text-muted ---
-  .card-body
-    .m1.bg-darken-1
-      #bloviation.article-entry.contents(dangerously-set-inner-h-t-m-l='[object Object]')
+  Card(props="{storyMeta}" )
         p They have tried to suppress the rumors for a very long time. Every time I ask about the Shanghai Tunnels under the James John Cafe, the owners kind of put their eyes skyward and say they don’t know anything about it. In fact, nobody in St. John’s is talking. Obviously a conspiracy to hide the truth.
         p The only person that even had a clue was Tommy, the Dean of Damaged Cargo at Waterfront U, when he said: “You won’t find anything above the water line.” I immediately had Winnie Daough give me SCUBA training. She didn’t know anything about SCUBA but that’s never stopped her from doing anything, and that’s good enough for me. She taught me all about pressure, tanks, and procedures. Everything from scaring sharks with underwater loogies to how to make a tourniquet out of seaweed and barnacles.
         p I suited up, filled my tanks at the Seven Eleven’s gas station using an adapter flange that Winnie had cobbled together with duct tape, and went down to the Willamette River. I decided that I should comb the St. John’s side of the river just downstream of the bridge. I blocked it out in geometrical precision and did a careful search. On the third night, I found it!

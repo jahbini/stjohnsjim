@@ -1,16 +1,11 @@
 <script>
 //island-life-honolulu/aloha-oe-to-something
+import Card from "$lib/Card.svelte";
+import storyMeta from "./+page.json"
 </script>
 
 <template lang="pug">
-#main-ish.shadow.bg-silver.card.bg-transparent
-  header.card-header
-    h2.card-title
-      | Aloha 'Oe to Something
-      .card-subtitle.text-muted Memories Are Today's Myth
-  .card-body
-    .m1.bg-darken-1
-      #bloviation.article-entry.contents(dangerously-set-inner-h-t-m-l='[object Object]')
+  Card(props="{storyMeta}" )
         p Once upon a time, I remember the airports in Hawaii used to have blind vendors. Many of the blind had joined an association that gave them employment selling the little trinkets that travelers always need in the last few minutes before the airplane shuts it’s doors. That was before. Now it’s only a memory of how Hawaii had been in the past.
         p
         div

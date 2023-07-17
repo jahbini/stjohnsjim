@@ -1,16 +1,11 @@
 <script>
 //story/julian-assange-vs-happy-birthday
+import Card from '$lib/Card.svelte';
+import storyMeta from './+page.json';
 </script>
 
 <template lang="pug">
-#main-ish.shadow.bg-silver.card.bg-transparent
-  header.card-header
-    h2.card-title
-      | Julian Assange Vs Happy Birthday
-      .card-subtitle.text-muted ---
-  .card-body
-    .m1.bg-darken-1
-      #bloviation.article-entry.contents(dangerously-set-inner-h-t-m-l='[object Object]')
+  Card(props="{storyMeta}" )
         p
           span.FBname Friend
           | , you may remember from a Tag:dentalki:story last December}}} that I was able to decode the WikiLeaks atom bomb, poison pill, stick a pin-in-your-eye-hope-to-die ultra secret file. I had the key! (I’m sure that just saying that will prompt a visit to my door by some three letter agency.)

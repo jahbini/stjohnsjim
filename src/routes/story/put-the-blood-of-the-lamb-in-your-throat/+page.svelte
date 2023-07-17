@@ -1,16 +1,11 @@
 <script>
 //story/put-the-blood-of-the-lamb-in-your-throat
+import Card from '$lib/Card.svelte';
+import storyMeta from './+page.json';
 </script>
 
 <template lang="pug">
-#main-ish.shadow.bg-silver.card.bg-transparent
-  header.card-header
-    h2.card-title
-      | Put the Blood of the Lamb in Your Throat
-      .card-subtitle.text-muted ---
-  .card-body
-    .m1.bg-darken-1
-      #bloviation.article-entry.contents(dangerously-set-inner-h-t-m-l='[object Object]')
+  Card(props="{storyMeta}" )
         p  I have held off ordering the Pork Chops, Grits and Eggs at the James John Cafe for about five or six days.  Friends:  This is the combination of tastes, aromas and textures that turns your mouth into a concert hall.  I, St. John’s Jim have so declared.
         p
           | Today, I can wait no longer.  Lust overcomes me and I know what I must have.  The comfort food.  Only grits and eggs has the power to energize the

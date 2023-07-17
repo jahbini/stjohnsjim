@@ -1,16 +1,11 @@
 <script>
 //almost-history/athos-porthos-aramis-and-dartagnon-at-the-james
+import Card from '$lib/Card.svelte';
+import storyMeta from './+page.json';
 </script>
 
 <template lang="pug">
-#main-ish.shadow.bg-silver.card.bg-transparent
-  header.card-header
-    h2.card-title
-      | Athos, Porthos, Aramis and Dartagnon at the James
-      .card-subtitle.text-muted ---
-  .card-body
-    .m1.bg-darken-1
-      #bloviation.article-entry.contents(dangerously-set-inner-h-t-m-l='[object Object]')
+  Card(props="{storyMeta}" )
         p > Author’s note. Alas, the James John Cafe really has moved to a new location in the Akashic Records of our minds. It is still in plain sight for those fortunate ones who have dined and worked there. Corner!
         p I have not had an opportunity to speak of the James John Cafe in several weeks. The James John Cafe hides in the obscurity of plain sight. It’s a secret location, known only to a select few. That’s the way it has always been. I have located Historic Documents regarding this town and especially it’s finest Cafe.
         p The time is back a few years. It’s the Portland, Oregon, district of medieval France. King Louis XII de Deanie Martinie reigns. St John’s is the last northern bastion of sacred France on this side of the Columbia: The battles in the wars with England at the river’s edge are just miles away.

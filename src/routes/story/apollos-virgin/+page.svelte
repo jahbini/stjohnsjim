@@ -1,16 +1,11 @@
 <script>
 //story/apollos-virgin
+import Card from '$lib/Card.svelte';
+import storyMeta from './+page.json';
 </script>
 
 <template lang="pug">
-#main-ish.shadow.bg-silver.card.bg-transparent
-  header.card-header
-    h2.card-title
-      | Apollo's Virgin
-      .card-subtitle.text-muted It was true centuries ago!
-  .card-body
-    .m1.bg-darken-1
-      #bloviation.article-entry.contents(dangerously-set-inner-h-t-m-l='[object Object]')
+  Card(props="{storyMeta}" )
         blockquote.right.key-author.right-align.h6.p2.bg-white.bg-darken-1.border.rounded My friend Southwick says he channeled this from the Akashic Records – I think it has a message for our times in here somewhere.
         p
           span.FBname Friend

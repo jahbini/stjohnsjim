@@ -1,16 +1,11 @@
 <script>
 //story/the-worst-of-plans-the-best-of-plans
+import Card from '$lib/Card.svelte';
+import storyMeta from './+page.json';
 </script>
 
 <template lang="pug">
-#main-ish.shadow.bg-silver.card.bg-transparent
-  header.card-header
-    h2.card-title
-      | The Worst of Plans, the Best of Plans.
-      .card-subtitle.text-muted ---
-  .card-body
-    .m1.bg-darken-1
-      #bloviation.article-entry.contents(dangerously-set-inner-h-t-m-l='[object Object]')
+  Card(props="{storyMeta}" )
         p The House at 3 Gunas Lp belongs to Tommy.  Actually, it might be called Tommy, OR in honor of of the first citizen.  There are lots of these Tommy, OR homes.  Mostly, these are old-growth families, pre-60’s locals.  They have come a long way from their old public behaviors, but the values of the working class of that time rules:  "It’s my RIGHT to open a chain-saw recreation area!" , and of course, "The river cleans itself."  Fifty years later, it still is there.  I remember it.  It’s in my roots too.  Deep change takes time.
         p Southwick tells me that Tommy’s "sweetheart" of Great Harvest Moon fame has been calling: The story that ended in the primate cage: Ook-Ook. 
         p  

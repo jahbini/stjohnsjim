@@ -1,16 +1,11 @@
 <script>
 //story/just-keep-repeating
+import Card from '$lib/Card.svelte';
+import storyMeta from './+page.json';
 </script>
 
 <template lang="pug">
-#main-ish.shadow.bg-silver.card.bg-transparent
-  header.card-header
-    h2.card-title
-      | Just keep repeating...
-      .card-subtitle.text-muted ---
-  .card-body
-    .m1.bg-darken-1
-      #bloviation.article-entry.contents(dangerously-set-inner-h-t-m-l='[object Object]')
+  Card(props="{storyMeta}" )
         p  We are running into scary season.  Halloween?  Giant Spiders for Jesus?  Icky stuff at the bottom of the pipe?  NO, dad gum it, Elections!  The time we have to choose the person to screw us: Sophie had it easy.   That’s scary.
         p  
         p Elections are scary, but once in a while, we voters are actually asked an IMPORTANT question.

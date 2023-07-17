@@ -1,16 +1,11 @@
 <script>
 //story/big-rocks-burgers-and-birds
+import Card from '$lib/Card.svelte';
+import storyMeta from './+page.json';
 </script>
 
 <template lang="pug">
-#main-ish.shadow.bg-silver.card.bg-transparent
-  header.card-header
-    h2.card-title
-      | Big Rocks, Burgers and Birds
-      .card-subtitle.text-muted ---
-  .card-body
-    .m1.bg-darken-1
-      #bloviation.article-entry.contents(dangerously-set-inner-h-t-m-l='[object Object]')
+  Card(props="{storyMeta}" )
         h3#from-the-famed-gutbuster-institute-of-the-st-john-rsquo-s-infirmary From the Famed GutBuster Institute of The St. John’s Infirmary
         h4#-mdash-nbsp-for-immediate-release — For immediate release
         p Dr. Bernard Gutbuster announced success with retraining the emotional responses of hardened criminals. In a measure of prisonyard violence at the Big Rock Men’s Prison, the volunteers in his gut retraining regimen eliminated their rate of violent interaction with other inmates from 80 to 100 percent. In fact, the subjects that did were involved in breaking up a prison yard altercation, not instigation.

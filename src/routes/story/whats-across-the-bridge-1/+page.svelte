@@ -1,16 +1,11 @@
 <script>
 //story/whats-across-the-bridge-1
+import Card from '$lib/Card.svelte';
+import storyMeta from './+page.json';
 </script>
 
 <template lang="pug">
-#main-ish.shadow.bg-silver.card.bg-transparent
-  header.card-header
-    h2.card-title
-      | What's Across the Bridge -- #1
-      .card-subtitle.text-muted ---
-  .card-body
-    .m1.bg-darken-1
-      #bloviation.article-entry.contents(dangerously-set-inner-h-t-m-l='[object Object]')
+  Card(props="{storyMeta}" )
         p Last night, the Oregon rain reached the millisecond 100% saturation point: Everything instantly wet, through and through. Even my backpack. That’s pretty amazing.
         p As I lay my tarot out to dry on the pool table of my cathedral of solitude under the Art Gallery, I hit upon this incredible scheme to wake the Muse. Shuffle and pick three cards: A destination, and two motif cards. The destination is “across the bridge” and the two motif cards are what might happen.
         p

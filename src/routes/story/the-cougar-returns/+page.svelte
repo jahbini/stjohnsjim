@@ -1,16 +1,11 @@
 <script>
 //story/the-cougar-returns
+import Card from '$lib/Card.svelte';
+import storyMeta from './+page.json';
 </script>
 
 <template lang="pug">
-#main-ish.shadow.bg-silver.card.bg-transparent
-  header.card-header
-    h2.card-title
-      | The Cougar Returns!
-      .card-subtitle.text-muted ---
-  .card-body
-    .m1.bg-darken-1
-      #bloviation.article-entry.contents(dangerously-set-inner-h-t-m-l='[object Object]')
+  Card(props="{storyMeta}" )
         p Thereasa hangs up the phone and her mind races with possibilities — What happened to her current cub? He was supposed to keep the shop running while she presented her research papers to the secret gathering of NonSaneO and C.I.X. agents. If even one of her “beasties” turned up in the wrong hands, there could be public outrage — rioting in the streets as people realized the dangers of venomous eight legged web-spinning raccoons, bats, and even bears.
         p Thereasa recognized that the missing Steven was only a small part of her problem. And having to report to Detective Tamworth was the first step. That would be an easy fix:
         p Thereasa looks across the banquet room until she spots what she is looking for. She walks up and says: “Hello again Stan, One of your detectives just called me. A guy named Tamworth. I’m to see him at 10 on Monday. Make sure he pronounces my name right.”

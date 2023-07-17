@@ -1,16 +1,11 @@
 <script>
 //story/easter-psych
+import Card from '$lib/Card.svelte';
+import storyMeta from './+page.json';
 </script>
 
 <template lang="pug">
-#main-ish.shadow.bg-silver.card.bg-transparent
-  header.card-header
-    h2.card-title
-      | Easter... Psych!!
-      .card-subtitle.text-muted ---
-  .card-body
-    .m1.bg-darken-1
-      #bloviation.article-entry.contents(dangerously-set-inner-h-t-m-l='[object Object]')
+  Card(props="{storyMeta}" )
         p Easter Weekend.  What a bust.  Friday and Saturday were ablaze with hope and fury.  It seemed like Easter would be a fabulous day, and St John’s city council could be happy about our purely business decision of dumping Spring in favor of Summer.
         p I bought into the hope.  The bunny patrol even took me to bunny mansion.  Everything was bunnylicious.
         p Sunday: dreary Sunday–

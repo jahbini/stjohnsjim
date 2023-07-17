@@ -1,16 +1,11 @@
 <script>
 //story/the-aloha-account
+import Card from '$lib/Card.svelte';
+import storyMeta from './+page.json';
 </script>
 
 <template lang="pug">
-#main-ish.shadow.bg-silver.card.bg-transparent
-  header.card-header
-    h2.card-title
-      | The Aloha Account
-      .card-subtitle.text-muted ---
-  .card-body
-    .m1.bg-darken-1
-      #bloviation.article-entry.contents(dangerously-set-inner-h-t-m-l='[object Object]')
+  Card(props="{storyMeta}" )
         p I have run into lean times lately: until I get my Honorary Ph.D. in Literature from CRUD University and have my best selling novels carry me into economic bliss, I have to deal with limited income and OMG debts.
         p None of this should be news to anyone (if it is, then pretend you didn’t hear it, OK?)
         p I am dealing with some Mind-watering economic concepts: Every time I try to look at my bank statement, my mind turns to water. Only the threat of early death due to starvation is forcing me to actually deal with the economic nasty. Wish me luck. On the plus side, I am having a bit of good experience with mint.com, but I really don’t like all my financials collected in the cloud. However, the convenience overrides prudence in privacy, and I am seldom prudent. I’m a good american that way — in the USA we have learned that citizens almost always go for convenience instead of prudence. Just say’n.

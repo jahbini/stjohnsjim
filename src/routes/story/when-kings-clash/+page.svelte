@@ -1,16 +1,11 @@
 <script>
 //story/when-kings-clash
+import Card from '$lib/Card.svelte';
+import storyMeta from './+page.json';
 </script>
 
 <template lang="pug">
-#main-ish.shadow.bg-silver.card.bg-transparent
-  header.card-header
-    h2.card-title
-      | When Kings Clash
-      .card-subtitle.text-muted ---
-  .card-body
-    .m1.bg-darken-1
-      #bloviation.article-entry.contents(dangerously-set-inner-h-t-m-l='[object Object]')
+  Card(props="{storyMeta}" )
         p Recent events have inspired some of us to revel in victory, some to take joy in revenge, some to dig in and say "prove it," and some to say "A trial is needed."
         p Kings, presidents, sovereigns, generals, armies and warlords.  Which end is up?
         p Here is a complete fantasy, but one that is entirely technically feasible.  It strips out the non-essential elements and simply shows the mechanism of sovereigns.  You know, "the buck stops here" kind of stuff.  I apologize if it is not as humorous as I usually require.

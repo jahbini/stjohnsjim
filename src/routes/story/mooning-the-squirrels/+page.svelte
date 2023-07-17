@@ -1,16 +1,11 @@
 <script>
 //story/mooning-the-squirrels
+import Card from '$lib/Card.svelte';
+import storyMeta from './+page.json';
 </script>
 
 <template lang="pug">
-#main-ish.shadow.bg-silver.card.bg-transparent
-  header.card-header
-    h2.card-title
-      | Mooning the Squirrels
-      .card-subtitle.text-muted ---
-  .card-body
-    .m1.bg-darken-1
-      #bloviation.article-entry.contents(dangerously-set-inner-h-t-m-l='[object Object]')
+  Card(props="{storyMeta}" )
         p Squirrels are moving slower. They are less spooky — maybe the blue jays have been banished from their realm and squirrels are at peace. They are certainly fatter and climb in spurts. Southwick says they are reading the phase of the moon. As a species, they have had Mama Nature’s rewards and punishments drilled into their DNA. And Mother Nature tends to live a very long time. Centuries? Longer? And there is no operating manual for Mother Nature.
         p
           | It’s like that when Mother Nature moons the

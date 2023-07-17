@@ -1,16 +1,11 @@
 <script>
 //pier-park/big-doins-at-the-hooker-derby
+import Card from '$lib/Card.svelte';
+import storyMeta from './+page.json';
 </script>
 
 <template lang="pug">
-#main-ish.shadow.bg-silver.card.bg-transparent
-  header.card-header
-    h2.card-title
-      | Big Doin's at the Hooker Derby
-      .card-subtitle.text-muted Pier Park at 3AM?
-  .card-body
-    .m1.bg-darken-1
-      #bloviation.article-entry.contents(dangerously-set-inner-h-t-m-l='[object Object]')
+  Card(props="{storyMeta}" )
         p The street people are coming back! Sandy, the winner of the Oregon Filth Flee Range Delerium Tremens for three years running is back and bubbling with new stories and news from the street.
         p
           | I had mentioned to Sandy that I was sorry to miss the

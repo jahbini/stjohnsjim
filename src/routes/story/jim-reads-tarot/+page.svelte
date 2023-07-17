@@ -1,16 +1,11 @@
 <script>
 //story/jim-reads-tarot
+import Card from '$lib/Card.svelte';
+import storyMeta from './+page.json';
 </script>
 
 <template lang="pug">
-#main-ish.shadow.bg-silver.card.bg-transparent
-  header.card-header
-    h2.card-title
-      | Jim Reads Tarot
-      .card-subtitle.text-muted ---
-  .card-body
-    .m1.bg-darken-1
-      #bloviation.article-entry.contents(dangerously-set-inner-h-t-m-l='[object Object]')
+  Card(props="{storyMeta}" )
         p Free – Just keep reading.  Chaos time.  crap.  The James John Cafe is closed this week.   Throws every damn thing off.  If I control the chaos, then it’s no longer chaos.  And believe me, I can’t control the requirements of the JJC to take their well deserved holiday, nor the butterfly effect consequences.
         p
           | I find the Falafel Plate at

@@ -1,16 +1,11 @@
 <script>
 //story/valkyrie-sms
+import Card from '$lib/Card.svelte';
+import storyMeta from './+page.json';
 </script>
 
 <template lang="pug">
-#main-ish.shadow.bg-silver.card.bg-transparent
-  header.card-header
-    h2.card-title
-      | Valkyrie On-Line
-      .card-subtitle.text-muted Notes from the Norse Battlefields
-  .card-body
-    .m1.bg-darken-1
-      #bloviation.article-entry.contents
+  Card(props="{storyMeta}" )
         p Per a reader’s request for a story for diary entries about a Valkyrie. I changed the "diary" idea into using on-line messaging instead; more of a challenge.
         p
           | I got some background at this site –

@@ -1,16 +1,11 @@
 <script>
 //story/stan-and-valerie
+import Card from '$lib/Card.svelte';
+import storyMeta from './+page.json';
 </script>
 
 <template lang="pug">
-#main-ish.shadow.bg-silver.card.bg-transparent
-  header.card-header
-    h2.card-title
-      | Stan and Valerie
-      .card-subtitle.text-muted ---
-  .card-body
-    .m1.bg-darken-1
-      #bloviation.article-entry.contents(dangerously-set-inner-h-t-m-l='[object Object]')
+  Card(props="{storyMeta}" )
         p Stan performed on the streets of Portland — Valerie kept Stan alive emotionally so he could scrape together only enough for one. They split the one 50-50.
         p Stan: “Let’s go. This corner is a bummer.”
         p Valerie: “You bet, Stan, let’s go to the park up by the Subway and 7-11. We should be able to get $5 before they close.”

@@ -1,16 +1,11 @@
 <script>
 //story/tommy-starts-a-bed-and-breakfast
+import Card from '$lib/Card.svelte';
+import storyMeta from './+page.json';
 </script>
 
 <template lang="pug">
-#main-ish.shadow.bg-silver.card.bg-transparent
-  header.card-header
-    h2.card-title
-      | Tommy Starts A Bed and Breakfast
-      .card-subtitle.text-muted ---
-  .card-body
-    .m1.bg-darken-1
-      #bloviation.article-entry.contents(dangerously-set-inner-h-t-m-l='[object Object]')
+  Card(props="{storyMeta}" )
         p
           span.FBname Friend
           | , Every so often one of you give me a reply that gives me hope for humanity. And gives me a great image.  I hope you recognize it below and approve.

@@ -1,16 +1,11 @@
 <script>
 //california/anna-played-piana
+import Card from '$lib/Card.svelte';
+import storyMeta from './+page.json';
 </script>
 
 <template lang="pug">
-#main-ish.shadow.bg-silver.card.bg-transparent
-  header.card-header
-    h2.card-title
-      | Anna Played Piana
-      .card-subtitle.text-muted Strange, but unlikely
-  .card-body
-    .m1.bg-darken-1
-      #bloviation.article-entry.contents(dangerously-set-inner-h-t-m-l='[object Object]')
+  Card(props="{storyMeta}" )
         p
           | "
           em My Anna played Piana in a bar in Singapore, till one day a sailor man from turkey-stan came knocking at the door.

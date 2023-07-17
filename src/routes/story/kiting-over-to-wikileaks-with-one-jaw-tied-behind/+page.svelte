@@ -1,16 +1,11 @@
 <script>
 //story/kiting-over-to-wikileaks-with-one-jaw-tied-behind
+import Card from '$lib/Card.svelte';
+import storyMeta from './+page.json';
 </script>
 
 <template lang="pug">
-#main-ish.shadow.bg-silver.card.bg-transparent
-  header.card-header
-    h2.card-title
-      | Kiting over to WikiLeaks with one jaw tied behind
-      .card-subtitle.text-muted ---
-  .card-body
-    .m1.bg-darken-1
-      #bloviation.article-entry.contents(dangerously-set-inner-h-t-m-l='[object Object]')
+  Card(props="{storyMeta}" )
         p I had an appointment this day for more dental work. I have heard that dentists are suffering because people’s teeth have fewer cavities nowadays. As a response, dental research has found that the optimum number of teeth is 128 instead of 32. Clone research is very close to a breakthrough on this topic. Economic research says that four times more teeth will boost profit after taxes by 326% — expect more teeth than you ever thought possible coming to a mouth near your tongue.
         p Seriously, the kid does good work. A craftsman in training. First he made a kite, maybe 100 foot across, and wired my jaw to it. Starting the wind machine, my jaw kind of sailed into the clouds with me suspended a few feet below. Remember that Dentistry was the third cousin to Benjamin Franklin. Sailing into the clouds makes it likely that lightning will strike, thus slightly numbing my mouth. After the third lightning strike, he declared that if I walk into the light, he will have my new mouth waiting on the other end.
         blockquote

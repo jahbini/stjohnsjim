@@ -1,16 +1,11 @@
 <script>
 //almost-history/susannas-song
+import Card from '$lib/Card.svelte';
+import storyMeta from './+page.json';
 </script>
 
 <template lang="pug">
-#main-ish.shadow.bg-silver.card.bg-transparent
-  header.card-header
-    h2.card-title
-      | Susanna's Song
-      .card-subtitle.text-muted Girl Power!
-  .card-body
-    .m1.bg-darken-1
-      #bloviation.article-entry.contents(dangerously-set-inner-h-t-m-l='[object Object]')
+  Card(props="{storyMeta}" )
         p Looking out over the prairie, Susanna fingered her white dress nervously. The thunder storm was quickly getting too close: distant flashes and long kettledrum rolls had changed to sharp cracks. She would get her best dress soaked and her hair drenched up by the time she got to the Kenton place.
         p The family had left for the meeting over at the Kenton place about an hour earlier, but Susanna had wanted to take the extra time to look especially good when she saw Kenny Kenton. Susanna’s mom looked at her and said: “Not if I have anything to say about it. Come along.”
         p Susanna let that phrase bounce in her head: “Not if I have anything to say about it.” Then she thought: “Well, OK, think of something to say about it.”

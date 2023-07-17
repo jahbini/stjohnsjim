@@ -1,16 +1,11 @@
 <script>
 //story/from-the-st-johns-infirmary-the-bouncer
+import Card from '$lib/Card.svelte';
+import storyMeta from './+page.json';
 </script>
 
 <template lang="pug">
-#main-ish.shadow.bg-silver.card.bg-transparent
-  header.card-header
-    h2.card-title
-      | From the St. John's Infirmary -- The Bouncer
-      .card-subtitle.text-muted ---
-  .card-body
-    .m1.bg-darken-1
-      #bloviation.article-entry.contents(dangerously-set-inner-h-t-m-l='[object Object]')
+  Card(props="{storyMeta}" )
         p The house lights go down. The stage is a black backdrop where images of trees and streets are projected. We see Nobrow and Southwick talking at the St. John’s town square bus stop. It is early morning, but Lombard is busy.
         p Southwick sees his friend Nobrow waiting for the bus and walks up. They haven’t seen each other in weeks. They exchange pleasantries.
         p Nobrow: I gotta get that woman out of my life. She’s getting way out of hand. I thought she was going to go in one direction but she is getting worse, worse, worse. She bought $50 worth of heroin at ten last night, and she’s still out. She is totally out of control. She has a $100 a day heroin habit, drinks all the time, and smokes two packs of cigarettes a day.

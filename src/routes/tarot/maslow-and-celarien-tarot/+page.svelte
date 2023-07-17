@@ -1,16 +1,11 @@
 <script>
 //tarot/maslow-and-celarien-tarot
+import Card from '$lib/Card.svelte';
+import storyMeta from './+page.json';
 </script>
 
 <template lang="pug">
-#main-ish.shadow.bg-silver.card.bg-transparent
-  header.card-header
-    h2.card-title
-      | Maslow and Celarien Tarot
-      .card-subtitle.text-muted ---
-  .card-body
-    .m1.bg-darken-1
-      #bloviation.article-entry.contents(dangerously-set-inner-h-t-m-l='[object Object]')
+  Card(props="{storyMeta}" )
         p The Tarot is a set of 72 archetypes. There are archetypes that describe roles (e.g. High Priestess, Heirophant), situations (e.g. The tower, most of the Minor Arcana), and achievements: (e.g. the star, the sun) – (the Tarot does not address the change of situations as the I Ching does)
         p The Tarot is often associated with fortune telling or predicting the future. Rather, it simply describes situations or relationships that will always be in your life. Drawing them in a reading will often help a client find new ways to view a personal situation.
         p A recent book addressing men’s psychological issues “King, Warrior, Magician, Lover” suggests that a man is measured by how competent he is in all of these areas. The similarity of warrior to “king of swords” and lover to “king of hearts” seemed obvious, and created a way to relate the Tarot to these same men’s issues: becoming a person that is competent as a protector, lover, magician, and provider. These correspond to the kings of the four suits: Swords for dominion and protection, Cups for human relationships, Wands for creating change and adapting to change, Pentacles for prosperity.

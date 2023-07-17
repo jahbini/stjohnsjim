@@ -1,16 +1,11 @@
 <script>
 //story/shanghai-squirrels-by-the-score
+import Card from '$lib/Card.svelte';
+import storyMeta from './+page.json';
 </script>
 
 <template lang="pug">
-#main-ish.shadow.bg-silver.card.bg-transparent
-  header.card-header
-    h2.card-title
-      | Shanghai Squirrels by the Score
-      .card-subtitle.text-muted ---
-  .card-body
-    .m1.bg-darken-1
-      #bloviation.article-entry.contents(dangerously-set-inner-h-t-m-l='[object Object]')
+  Card(props="{storyMeta}" )
         p  
         p The squirrels have taken over. I am writing this as I watch helplessly as they forage all day long.  I want their fuzzy tail for my hat, but all my traps have been sprung by raccoons using duct tape. How the hell did raccoons figure out duct tape is beyond me, but my sources are honest, WGAF church-goers from the Hope for Health Bar and Grease Pit.
         p In fact, Southwick tells me a buddy of Tommy, his landlord, is making big money from the squirrel-racoon-nutria triangle near Pier Park. In fact, that he is making a fortune from the internet cloud crowd.

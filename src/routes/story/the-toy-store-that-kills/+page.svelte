@@ -1,16 +1,11 @@
 <script>
 //story/the-toy-store-that-kills
+import Card from '$lib/Card.svelte';
+import storyMeta from './+page.json';
 </script>
 
 <template lang="pug">
-#main-ish.shadow.bg-silver.card.bg-transparent
-  header.card-header
-    h2.card-title
-      | The Toy Store that Kills
-      .card-subtitle.text-muted ---
-  .card-body
-    .m1.bg-darken-1
-      #bloviation.article-entry.contents(dangerously-set-inner-h-t-m-l='[object Object]')
+  Card(props="{storyMeta}" )
         p
           span.FBname Friend
           | , the City Council had their annual Parade of the Passions to kick off the holiday celebrations.  Yup, already, the “Passion Partners” are presiding over meetings to make Christmas decorations all over St. John’s.  Maxine Power, wearing a button reading: “consensus uber alles,” said “Passion Partners are certified in

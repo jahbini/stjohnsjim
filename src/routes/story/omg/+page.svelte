@@ -1,16 +1,11 @@
 <script>
 //story/omg
+import Card from '$lib/Card.svelte';
+import storyMeta from './+page.json';
 </script>
 
 <template lang="pug">
-#main-ish.shadow.bg-silver.card.bg-transparent
-  header.card-header
-    h2.card-title
-      | OMG
-      .card-subtitle.text-muted ---
-  .card-body
-    .m1.bg-darken-1
-      #bloviation.article-entry.contents(dangerously-set-inner-h-t-m-l='[object Object]')
+  Card(props="{storyMeta}" )
         p
           | It’s a bright and clear Fall morning.  The rain has stopped and the spiders are out again.  Spinning webs.  Spiderfest 2010 hopeful
           a(href='http://www.google.com/maps/ms?ie=UTF8&hl=en&msa=0&msid=114144299215869109392.0004920b87d0a9c46bbd7&t=h&z=20') Bamboo Willy

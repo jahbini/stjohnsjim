@@ -1,16 +1,11 @@
 <script>
 //story/leo-and-stations-healing
+import Card from '$lib/Card.svelte';
+import storyMeta from './+page.json';
 </script>
 
 <template lang="pug">
-#main-ish.shadow.bg-silver.card.bg-transparent
-  header.card-header
-    h2.card-title
-      | Leo and Station's healing
-      .card-subtitle.text-muted ---
-  .card-body
-    .m1.bg-darken-1
-      #bloviation.article-entry.contents(dangerously-set-inner-h-t-m-l='[object Object]')
+  Card(props="{storyMeta}" )
         p June 12, 2099. St John’s.  Portland, Oregon.  Where the Columbia and the Willamette and the Summer and Spring come together.  And get restraining orders.
         p The San Francisco morning will soon change into a Death Valley afternoon by way of the Donner party’s Winter all join together here in St. John’s. Perfectly normal.  SSDD. Same Shit, Different Day.
         p What IS different, is that I have not been really free to talk about Leo and Station for quite some while.  Leo is the defrocked pope of the internet and Station is his estranged Pacific Island companion.

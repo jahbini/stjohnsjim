@@ -1,16 +1,11 @@
 <script>
 //announcement/new-look
+import Card from '$lib/Card.svelte';
+import storyMeta from './+page.json';
 </script>
 
 <template lang="pug">
-#main-ish.shadow.bg-silver.card.bg-transparent
-  header.card-header
-    h2.card-title
-      | New Look!
-      .card-subtitle.text-muted New Presses Roll on St John's Jim Stories!
-  .card-body
-    .m1.bg-darken-1
-      #bloviation.article-entry.contents(dangerously-set-inner-h-t-m-l='[object Object]')
+  Card(props="{storyMeta}" )
         h2 wowzers!
         p.circle.border
           | I'm writing this new article without a wysiwig editor: I'm going primitive! Everything is now in

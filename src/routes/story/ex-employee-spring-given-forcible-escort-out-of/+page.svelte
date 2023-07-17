@@ -1,16 +1,11 @@
 <script>
 //story/ex-employee-spring-given-forcible-escort-out-of
+import Card from '$lib/Card.svelte';
+import storyMeta from './+page.json';
 </script>
 
 <template lang="pug">
-#main-ish.shadow.bg-silver.card.bg-transparent
-  header.card-header
-    h2.card-title
-      | Ex - Employee Spring Given Forcible Escort Out of
-      .card-subtitle.text-muted ---
-  .card-body
-    .m1.bg-darken-1
-      #bloviation.article-entry.contents(dangerously-set-inner-h-t-m-l='[object Object]')
+  Card(props="{storyMeta}" )
         p
           span.FBname Friend
           | , Don’t you hate it when a retired worker keeps coming back to the factory and trying to fit in at the old job?

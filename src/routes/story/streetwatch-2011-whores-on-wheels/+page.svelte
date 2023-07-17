@@ -1,16 +1,11 @@
 <script>
 //story/streetwatch-2011-whores-on-wheels
+import Card from '$lib/Card.svelte';
+import storyMeta from './+page.json';
 </script>
 
 <template lang="pug">
-#main-ish.shadow.bg-silver.card.bg-transparent
-  header.card-header
-    h2.card-title
-      | Streetwatch 2011: Whores On Wheels
-      .card-subtitle.text-muted ---
-  .card-body
-    .m1.bg-darken-1
-      #bloviation.article-entry.contents(dangerously-set-inner-h-t-m-l='[object Object]')
+  Card(props="{storyMeta}" )
         p
           span.FBname Friend
           | , what did I tell you about St. John’s resiliancy? Huh? You thought I was just talking through my tookus, but I found out the most fabulous bit of new-age, secular WGAF, entrepreneurial, high-tech low-life that you can imagine.

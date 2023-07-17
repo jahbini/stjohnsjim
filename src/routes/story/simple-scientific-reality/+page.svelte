@@ -1,16 +1,11 @@
 <script>
 //story/simple-scientific-reality
+import Card from '$lib/Card.svelte';
+import storyMeta from './+page.json';
 </script>
 
 <template lang="pug">
-#main-ish.shadow.bg-silver.card.bg-transparent
-  header.card-header
-    h2.card-title
-      | Simple Scientific Reality
-      .card-subtitle.text-muted ---
-  .card-body
-    .m1.bg-darken-1
-      #bloviation.article-entry.contents(dangerously-set-inner-h-t-m-l='[object Object]')
+  Card(props="{storyMeta}" )
         p
           | I had another dentist appointment.  It took about two hours for them to find the right anasthetic.  As the third round of injections kicked in I had enough time to read the National Scientific magazine.  In there it mentioned that Science now believes
           a(href='http://www.scientificamerican.com/article.cfm?id=is-time-an-illusion') time is an illusion

@@ -1,16 +1,11 @@
 <script>
 //story/and-the-pursuit-of-happiness
+import Card from '$lib/Card.svelte';
+import storyMeta from './+page.json';
 </script>
 
 <template lang="pug">
-#main-ish.shadow.bg-silver.card.bg-transparent
-  header.card-header
-    h2.card-title
-      | And the Pursuit of Happiness
-      .card-subtitle.text-muted Bambi Brew sez- All Amoebas are Outlaws!
-  .card-body
-    .m1.bg-darken-1
-      #bloviation.article-entry.contents(dangerously-set-inner-h-t-m-l='[object Object]')
+  Card(props="{storyMeta}" )
         p
           span.FBname Friend
           | , my closest friends have lamented that I’m not telling MY story.  What’s happening in Jim’s life?  While the details are incredibly boring, Not Safe For Work (NSFW), and would simply be indiscrete to mention here, I can give you a pretty accurate view of “whassup!?”  So while

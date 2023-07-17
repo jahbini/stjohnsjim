@@ -1,16 +1,11 @@
 <script>
 //story/gard-rales-here
+import Card from '$lib/Card.svelte';
+import storyMeta from './+page.json';
 </script>
 
 <template lang="pug">
-#main-ish.shadow.bg-silver.card.bg-transparent
-  header.card-header
-    h2.card-title
-      | Gard Rales here
-      .card-subtitle.text-muted ---
-  .card-body
-    .m1.bg-darken-1
-      #bloviation.article-entry.contents(dangerously-set-inner-h-t-m-l='[object Object]')
+  Card(props="{storyMeta}" )
         blockquote
           p There is a national shortage of metals. Well, not really a shortage, but the cost of copper or aluminum is very high and counties are needing to replace guard rails that have been stolen for the resale value of the metal. This is a look behind the scenes at an amazing sub-culture built up around the guard rail craze of 2010.
         p The Pickup is parked on the shoulder of the unpaved road. A bad place to be in this rain. Short of AAA, this truck isn’t going anywhere until the ground dries out. A plywood slab is propped up on the cab reading: “Gard Rales here” with an arrow pointing off to the right.

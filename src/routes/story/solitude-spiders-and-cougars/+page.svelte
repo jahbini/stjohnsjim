@@ -1,16 +1,11 @@
 <script>
 //story/solitude-spiders-and-cougars
+import Card from '$lib/Card.svelte';
+import storyMeta from './+page.json';
 </script>
 
 <template lang="pug">
-#main-ish.shadow.bg-silver.card.bg-transparent
-  header.card-header
-    h2.card-title
-      | Solitude, Spiders, and Cougars
-      .card-subtitle.text-muted ---
-  .card-body
-    .m1.bg-darken-1
-      #bloviation.article-entry.contents(dangerously-set-inner-h-t-m-l='[object Object]')
+  Card(props="{storyMeta}" )
         p
           |  I’m writing this from my alternate writing location: The “
           a(href='http://en.wikipedia.org/wiki/Fortress_of_Solitude') Fortress of Solitude

@@ -8,8 +8,8 @@
     "site": "stjohnsjim",
     "accepted": true,
     "index": false,
-    "headlines": [],
-    "tags": [],
+    "headlines": ["the Discernment of Good" ],
+    "tags": ["tarot","thefool","backstory"],
     "snippets": "{}",
     "memberOf": [
       "TAROT"
@@ -24,3 +24,4 @@
     "TimeStamp": "1501045833000"
   }
 }
+

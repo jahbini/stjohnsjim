@@ -1,16 +1,11 @@
 <script>
 //story/nobrow
+import Card from '$lib/Card.svelte';
+import storyMeta from './+page.json';
 </script>
 
 <template lang="pug">
-#main-ish.shadow.bg-silver.card.bg-transparent
-  header.card-header
-    h2.card-title
-      | NoBrow
-      .card-subtitle.text-muted ---
-  .card-body
-    .m1.bg-darken-1
-      #bloviation.article-entry.contents(dangerously-set-inner-h-t-m-l='[object Object]')
+  Card(props="{storyMeta}" )
         p A cheerful guy, for a street person. Cheerful and connected. He looks normal, only tiny bit odd, until you notice that he has no eyebrows at all. Everybody calls him Nobrow.
         p He sleeps in a junkyard. Has a girlfriend on heroin. She wanted $20 for a fix, and Nobrow wouldn’t give it to her. She went off an hour earlier with another guy who was going to get her a fix.
         p He sipped his beer and often looked across the street at the bus stop and replayed that moment. He described the look they had exchanged through the bus window. A mixture of defiance, surrender and regret all rolled into one. Nobrow wistfully said he was going to spend a month at a friend’s farm and live outside until the cold came on strong.

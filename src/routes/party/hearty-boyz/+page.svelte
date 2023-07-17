@@ -1,16 +1,11 @@
 <script>
 //party/hearty-boyz
+import Card from '$lib/Card.svelte';
+import storyMeta from './+page.json';
 </script>
 
 <template lang="pug">
-#main-ish.shadow.bg-silver.card.bg-transparent
-  header.card-header
-    h2.card-title
-      | hearty-boyz
-      .card-subtitle.text-muted ---
-  .card-body
-    .m1.bg-darken-1
-      #bloviation.article-entry.contents(dangerously-set-inner-h-t-m-l='[object Object]')
+  Card(props="{storyMeta}" )
         h1#announcement- Announcement!
         h2#cascadia-free-forever- Cascadia Free Forever!
         h3#the-movement-is-on-us- the movement is on us!

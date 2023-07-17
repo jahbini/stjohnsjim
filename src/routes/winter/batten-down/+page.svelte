@@ -1,16 +1,11 @@
 <script>
 //winter/batten-down
+import Card from '$lib/Card.svelte';
+import storyMeta from './+page.json';
 </script>
 
 <template lang="pug">
-#main-ish.shadow.bg-silver.card.bg-transparent
-  header.card-header
-    h2.card-title
-      | Batten down
-      .card-subtitle.text-muted Roger Doger to earn Ph.D!
-  .card-body
-    .m1.bg-darken-1
-      #bloviation.article-entry.contents(dangerously-set-inner-h-t-m-l='[object Object]')
+  Card(props="{storyMeta}" )
         p
           em Portland is battened down for the Winter, Sir. Very good, cadet, carry on
           | .

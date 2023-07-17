@@ -1,16 +1,11 @@
 <script>
 //story/st-johns-jim-and-the-st-johns-lighthouse
+import Card from '$lib/Card.svelte';
+import storyMeta from './+page.json';
 </script>
 
 <template lang="pug">
-#main-ish.shadow.bg-silver.card.bg-transparent
-  header.card-header
-    h2.card-title
-      | St. John's Jim and the St. John's Lighthouse
-      .card-subtitle.text-muted ---
-  .card-body
-    .m1.bg-darken-1
-      #bloviation.article-entry.contents(dangerously-set-inner-h-t-m-l='[object Object]')
+  Card(props="{storyMeta}" )
         p  St. John’s has lots of stories,  I transcribe the ones that stick to my mind because they are vivid.  I try to express that energy in as few words as possible.  I’’m not wasting anybodies time, you know.  Just subscribe and you can get a story like this one in your e-mail.  About one a day.  Unsubscribe if you want.
         p FORM
         h3#nobrow- NoBrow.

@@ -1,16 +1,11 @@
 <script>
 //story/free-the-dbase-two
+import Card from '$lib/Card.svelte';
+import storyMeta from './+page.json';
 </script>
 
 <template lang="pug">
-#main-ish.shadow.bg-silver.card.bg-transparent
-  header.card-header
-    h2.card-title
-      | Free the DBase Two
-      .card-subtitle.text-muted ---
-  .card-body
-    .m1.bg-darken-1
-      #bloviation.article-entry.contents(dangerously-set-inner-h-t-m-l='[object Object]')
+  Card(props="{storyMeta}" )
         p I don’t think Jug lives in Tommy, OR — He is a very civilized guy, retired bank teller or something.  A real detail person, but very outgoing.  
         p Jug likes to collect recipes.  It’s his main hobby.  He has them written on scraps of paper, margins of books, all sorts of places.  He actually never thought of putting them on his computer until Jug found a book in the clearance bin.
         p We have a great little bookstore here in St. Johns.  Mankind’s greatest invention was the book.  Damn straight.

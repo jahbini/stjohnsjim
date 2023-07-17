@@ -1,16 +1,11 @@
 <script>
 //story/too-young
+import Card from '$lib/Card.svelte';
+import storyMeta from './+page.json';
 </script>
 
 <template lang="pug">
-#main-ish.shadow.bg-silver.card.bg-transparent
-  header.card-header
-    h2.card-title
-      | Too Young?
-      .card-subtitle.text-muted ---
-  .card-body
-    .m1.bg-darken-1
-      #bloviation.article-entry.contents(dangerously-set-inner-h-t-m-l='[object Object]')
+  Card(props="{storyMeta}" )
         p I saw a performance by a Jackie Evancho, a truly gifted child with a fabulous voice. It is the kind of voice that inspires any well-connected agent to call God directly and schedule her try-out for the voice that announces the Second Coming of Christ. In song, she carries the Gravitas of Morgan Freeman, The World-Wise qualities of Nelson Mandela and the resonance of Kate Smith. She is equally at ease in duets with Barbra Streisand or Susan Boyle.
         p Like I said, fabulous. But with an odd hitch. Watching her sing weirded me out. Not just me, a couple of other people mentioned the same thing. Why should excellence be weird?
         p My guess is that it had to do with her child like nature. A kid is not supposed to know all about the emotional depths of intense life and death romantic love that is needed to understand Bernstein’s “There’s a Place for Us.” But this kid conveyed that emotion perfectly.

@@ -1,16 +1,11 @@
 <script>
 //story/corporate-punishment-is-your-path-to-financial-security
+import Card from '$lib/Card.svelte';
+import storyMeta from './+page.json';
 </script>
 
 <template lang="pug">
-#main-ish.shadow.bg-silver.card.bg-transparent
-  header.card-header
-    h2.card-title
-      | Corporate Punishment is Your Path to Financial Security
-      .card-subtitle.text-muted Don't Think of it as Prison, but...
-  .card-body
-    .m1.bg-darken-1
-      #bloviation.article-entry.contents(dangerously-set-inner-h-t-m-l='[object Object]')
+  Card(props="{storyMeta}" )
         p We recently had a Supreme Court decision that allows corporations to have the same rights of freedom of speech as us human citizens.
         p Let’s just follow that logic for a moment.
         p

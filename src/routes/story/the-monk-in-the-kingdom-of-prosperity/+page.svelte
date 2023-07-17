@@ -1,16 +1,11 @@
 <script>
 //story/the-monk-in-the-kingdom-of-prosperity
+import Card from '$lib/Card.svelte';
+import storyMeta from './+page.json';
 </script>
 
 <template lang="pug">
-#main-ish.shadow.bg-silver.card.bg-transparent
-  header.card-header
-    h2.card-title
-      | The Monk in the Kingdom of Prosperity
-      .card-subtitle.text-muted ---
-  .card-body
-    .m1.bg-darken-1
-      #bloviation.article-entry.contents(dangerously-set-inner-h-t-m-l='[object Object]')
+  Card(props="{storyMeta}" )
         p
           | The muse popped out of my Tarot deck screaming Get Strength from The King of Pentacles and The Hermit.  
           em Hey, that really was the draw, I’m helpless when the Tarot speaks.  The Tarot make me do it.

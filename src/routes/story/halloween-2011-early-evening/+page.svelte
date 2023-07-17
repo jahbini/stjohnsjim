@@ -1,16 +1,11 @@
 <script>
 //story/halloween-2011-early-evening
+import Card from '$lib/Card.svelte';
+import storyMeta from './+page.json';
 </script>
 
 <template lang="pug">
-#main-ish.shadow.bg-silver.card.bg-transparent
-  header.card-header
-    h2.card-title
-      | Halloween 2011 -- Early Evening
-      .card-subtitle.text-muted ---
-  .card-body
-    .m1.bg-darken-1
-      #bloviation.article-entry.contents(dangerously-set-inner-h-t-m-l='[object Object]')
+  Card(props="{storyMeta}" )
         p Halloween night, 2011. It is a new moon and the darkness falls quickly in the Portland Autumn.
         p Pathy has volunteered to take a group of kids for trick-or-treat in downtown St. John’s. She sewed her own costume this year as every year. Last year she dressed up as as Carmen Miranda with a tutti-frutti hat. This year she decided to be a sunflower with glowing golden petals surround her face. She figured that sewing little lights to the back of each petal would help light the way.
         p Instead, she is nearly blinded by the lights around her face and the children are holding her hands to keep her from bumping the telephone poles.

@@ -1,16 +1,11 @@
 <script>
 //story/wrestling-with-memes-again
+import Card from '$lib/Card.svelte';
+import storyMeta from './+page.json';
 </script>
 
 <template lang="pug">
-#main-ish.shadow.bg-silver.card.bg-transparent
-  header.card-header
-    h2.card-title
-      | Wrestling with Memes Again
-      .card-subtitle.text-muted ---
-  .card-body
-    .m1.bg-darken-1
-      #bloviation.article-entry.contents(dangerously-set-inner-h-t-m-l='[object Object]')
+  Card(props="{storyMeta}" )
         p The local Aikido fountainhead at L’ecole de Budo send me an email inviting me to an intense exercise weekend of swimming upstream with salmon.  Make sure your wear your bear repellent.
         p I replied that he may want to get his thyroid checked. And wish him a very happy birthday celebration. And, of course, is it really salmon run season?
         p

@@ -1,16 +1,11 @@
 <script>
 //story/islands-on-lombard-street
+import Card from '$lib/Card.svelte';
+import storyMeta from './+page.json';
 </script>
 
 <template lang="pug">
-#main-ish.shadow.bg-silver.card.bg-transparent
-  header.card-header
-    h2.card-title
-      | Islands on Lombard Street.
-      .card-subtitle.text-muted ---
-  .card-body
-    .m1.bg-darken-1
-      #bloviation.article-entry.contents(dangerously-set-inner-h-t-m-l='[object Object]')
+  Card(props="{storyMeta}" )
         p
           | I’m writing too much, I seem to live to write.  (Is this a symptom of mania?  Very likely.  Shoot me.)  But the difficulty is that the more I write, the LESS I am on the streets of St. John’s.  The less I’m on the streets means less inspiration.  A big trouble is that Storybook Theatre is closed for the season.  You know, Lombard Street’s tavern fed, sun-drenched table fests of last summer.  Now 
           em there

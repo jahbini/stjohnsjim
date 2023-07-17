@@ -1,16 +1,11 @@
 <script>
 //story/when-i-get-stubbed-i-want-to-be-a-big-ash
+import Card from '$lib/Card.svelte';
+import storyMeta from './+page.json';
 </script>
 
 <template lang="pug">
-#main-ish.shadow.bg-silver.card.bg-transparent
-  header.card-header
-    h2.card-title
-      | When I Get Stubbed, I Want to be a Big Ash
-      .card-subtitle.text-muted ---
-  .card-body
-    .m1.bg-darken-1
-      #bloviation.article-entry.contents(dangerously-set-inner-h-t-m-l='[object Object]')
+  Card(props="{storyMeta}" )
         p People used to smoke.  Lots.  Many still do, I’m not ag’in it.  People are vegetarians now.  I’m not ag’in it.
         p If butts could talk, the only way we could tell them is by the brand.
         hr

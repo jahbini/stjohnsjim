@@ -1,16 +1,11 @@
 <script>
 //tarot/xii-the-hanged-man
+import Card from '$lib/Card.svelte';
+import storyMeta from './+page.json';
 </script>
 
 <template lang="pug">
-#main-ish.shadow.bg-silver.card.bg-transparent
-  header.card-header
-    h2.card-title
-      | XII - The Hanged Man
-      .card-subtitle.text-muted ---
-  .card-body
-    .m1.bg-darken-1
-      #bloviation.article-entry.contents(dangerously-set-inner-h-t-m-l='[object Object]')
+  Card(props="{storyMeta}" )
         p I walked down the hill to the water flowing below. I was thirsty and this was the freshest water around. Certified by the government, you know. The closest good water to here is 5 days walk south, and it does not taste as good as this. Soon this river will join the sea and it will be worthless. Best to drink it here.
         p The old bridge is still there. It can still be used, but we don’t need to have trucks carrying things around anymore. Just like grand central station. We just don’t ride trains anymore, but we still keep it up and working. There are other, better ways to get most things around. And it’s the same with the bridge. Very few trucks, but we use it just enough to keep it up and in perfect condition. People just walk more now. We figured it was better than cars which burned fuel. Bad for the planet. Better to keep it going. Technology helps, like the weekly contact machines.
         p Anyway, as I got to the bottom near the bridge supports, I heard a shout from above, a cry actually, but one of joy rather than terror or pain. When I look up I see an old man falling head first with a cord tied on his foot. He is bungee jumping. I have heard of it, but never seen anyone do it anymore. It used to be in vogue, but now is very rare. He bounces up and down a few times and I climbed up the support a ways to better talk with him as his bouncing slowed and he just hung there for a while.

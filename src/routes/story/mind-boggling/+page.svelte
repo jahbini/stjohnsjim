@@ -1,16 +1,11 @@
 <script>
 //story/mind-boggling
+import Card from '$lib/Card.svelte';
+import storyMeta from './+page.json';
 </script>
 
 <template lang="pug">
-#main-ish.shadow.bg-silver.card.bg-transparent
-  header.card-header
-    h2.card-title
-      | Mind Boggling
-      .card-subtitle.text-muted ---
-  .card-body
-    .m1.bg-darken-1
-      #bloviation.article-entry.contents(dangerously-set-inner-h-t-m-l='[object Object]')
+  Card(props="{storyMeta}" )
         p OK, my Dancing Water Amiga from Niagara Falls, I accept your mind-boggling challenge to make this offering funny.  Well, at least I tried.  (to my other readers, I do accept challenges. ) BTW, this is one of those interleaved stories,  a bit harder to read without HTML, but, well, it’s less cryptic than the Bible.
         p I got lucky when I was a kid and saw something mind boggling. It’s not fun getting your mind boggled, and it might boggle yours, but Xin Loi Bah. Sorry bout that.
         p –How valuable is my life? I put a pretty high price on it. I’ll defend it to the gutter — and Beyond!!! But that’s not how valuable a life really is. Not by how much turf I can defend, but how much I can contribute.

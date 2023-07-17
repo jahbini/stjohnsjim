@@ -1,16 +1,11 @@
 <script>
 //story/tommy-or-recycles
+import Card from '$lib/Card.svelte';
+import storyMeta from './+page.json';
 </script>
 
 <template lang="pug">
-#main-ish.shadow.bg-silver.card.bg-transparent
-  header.card-header
-    h2.card-title
-      | Tommy, OR Recycles
-      .card-subtitle.text-muted ---
-  .card-body
-    .m1.bg-darken-1
-      #bloviation.article-entry.contents(dangerously-set-inner-h-t-m-l='[object Object]')
+  Card(props="{storyMeta}" )
         p This is a special edition for the Dancing Waitresses of Niagara Falls:
         p I’m sitting on the back stoop over at 3 Gunas Lp.  Tommy and Southwick are there.  Roger, 70, veteran of service aboard the “USS Homer Simpson,” is very comfortable with predictable stupidity and reliable chaos.  So he gets along with both Southwick and Tommy, just by saying “yep” or “ya think?” Mostly Roger rides his Harley over to his lady’s place.  She doesn’t ride: she isn’t a “Harley” chick, but at 67, few are.  Roger decides to park his Harley under her bed this night.
         p Southwick is new to Oregon, and Honolulu is 30 years behind the times when it comes to recycling.  So he asks Tommy, who says: “Business got a reality check in the ’70’s.  All that “clean up the environment” claptrap.  Business is the same to me: They paid us to dump crap into the river, and now they pay us to get the crap out of the river.  Same either way.”

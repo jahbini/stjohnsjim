@@ -1,16 +1,11 @@
 <script>
 //story/godda-love-an-old-dog
+import Card from '$lib/Card.svelte';
+import storyMeta from './+page.json';
 </script>
 
 <template lang="pug">
-#main-ish.shadow.bg-silver.card.bg-transparent
-  header.card-header
-    h2.card-title
-      | Godda Love an Old Dog
-      .card-subtitle.text-muted ---
-  .card-body
-    .m1.bg-darken-1
-      #bloviation.article-entry.contents(dangerously-set-inner-h-t-m-l='[object Object]')
+  Card(props="{storyMeta}" )
         p  I’m walking into town, it’s cold and I’m thinking the crema on James John Cafe espresso is thicker than the blankets in Honolulu.  Maybe some St. John’s blankets, too.
         p I wrap up my left-brain into my back-pack about 10AM.  Tech stuff done for the day.  My right-brain says it wants to go for a walk, huh, huh, please??  I make a deal with the right brain: make sure we have something to write by the time we get to our secret cafe.  You come up with the idea, and I’ll put it in words.
         p So I’m walking: right brain happy to be outside and marking all the telephone poles and fire hydrants. Ideas for writing?  Nothing.  Something.  "I went to India?" Nope.  "India went to Jim?"  Possible.  Might work.  Actually happened, too…

@@ -1,16 +1,11 @@
 <script>
 //tarot/the-fool
+import Card from '$lib/Card.svelte';
+import storyMeta from './+page.json';
 </script>
 
 <template lang="pug">
-#main-ish.shadow.bg-silver.card.bg-transparent
-  header.card-header
-    h2.card-title
-      | The Fool
-      .card-subtitle.text-muted ---
-  .card-body
-    .m1.bg-darken-1
-      #bloviation.article-entry.contents(dangerously-set-inner-h-t-m-l='[object Object]')
+  Card(props="{storyMeta}" )
         p ZZZZ–POP! The fool appears. He has a look of surprise and confusion as he sets his Tag:Dizzy:dog}}}, down. The pup races around, sniffs nearly everything and dances happily around his feet.
         p “What was that? Oh, yeah, the Tag:Contact:contact machines}}}. They always spin me around when I use them. Kind of makes me feel like I have two left feet. Where is this anyway? Sure different here. What a pretty flower.”
         p He sits on an old log. He takes a moment to go through his belongings: the sword of confidence, the wand of capability, the pentacle of prosperity and the cup of integrity. His dog, Dizzy, sniffs his boots. He continues: “I think I like this place. Hey Dizzy, I’m tired of thinking, anyway, and you sure like it here. And that’s just fine.”

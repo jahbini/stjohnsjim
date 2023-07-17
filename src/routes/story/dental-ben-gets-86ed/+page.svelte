@@ -1,16 +1,11 @@
 <script>
 //story/dental-ben-gets-86ed
+import Card from '$lib/Card.svelte';
+import storyMeta from './+page.json';
 </script>
 
 <template lang="pug">
-#main-ish.shadow.bg-silver.card.bg-transparent
-  header.card-header
-    h2.card-title
-      | Dental Ben gets 86ed
-      .card-subtitle.text-muted ---
-  .card-body
-    .m1.bg-darken-1
-      #bloviation.article-entry.contents(dangerously-set-inner-h-t-m-l='[object Object]')
+  Card(props="{storyMeta}" )
         p I just got to the James John Cafe. I took out my ‘puter for a writing session, sat down. I looked up to find someone in a bear costume with a blue t-shirt that says: "Dental Ben." Ben is dancing to entertain kids. There are no kids. Ben can’t see out of the tiny holes in his bear mask and dances anyway. Dancing Bears are not allowed in St. John’s. Joe Rilla, the bouncer, tells Ben: "Our speakeasy license won’t allow for dancing, come back when you can keep yourself under control." And then throws Ben into the street in the pouring rain.
         p The sun comes out and Ben is totally dry before he hits the pavement. Oregon weather is changeable. The News Weathermen walk around town with rain gauges, stop every 10 feet and ask: "Is it raining yet?" Yes, rain and cold. Lots of both.
         p

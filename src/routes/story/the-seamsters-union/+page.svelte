@@ -1,16 +1,11 @@
 <script>
 //story/the-seamsters-union
+import Card from '$lib/Card.svelte';
+import storyMeta from './+page.json';
 </script>
 
 <template lang="pug">
-#main-ish.shadow.bg-silver.card.bg-transparent
-  header.card-header
-    h2.card-title
-      | The Seamster's Union
-      .card-subtitle.text-muted ---
-  .card-body
-    .m1.bg-darken-1
-      #bloviation.article-entry.contents(dangerously-set-inner-h-t-m-l='[object Object]')
+  Card(props="{storyMeta}" )
         p
           | Seamstress.  A woman who sews.  Not a man who sews.  But try as I might, there is no unisex term that I know of.  The word would be seamster.  But seamster isn’t a word.  You have never heard it in use. ipso facto, Tempus Fugit, Notary Sojak,
           em IT AINT A WORD

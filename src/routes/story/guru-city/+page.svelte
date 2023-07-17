@@ -1,16 +1,11 @@
 <script>
 //story/guru-city
+import Card from '$lib/Card.svelte';
+import storyMeta from './+page.json';
 </script>
 
 <template lang="pug">
-#main-ish.shadow.bg-silver.card.bg-transparent
-  header.card-header
-    h2.card-title
-      | Guru City!
-      .card-subtitle.text-muted ---
-  .card-body
-    .m1.bg-darken-1
-      #bloviation.article-entry.contents(dangerously-set-inner-h-t-m-l='[object Object]')
+  Card(props="{storyMeta}" )
         p I apologize for the uneven nature of yesterdays "wrestling with memes" – There is a good story there someplace, but… I hope this, smaller piece is better.
         p St. John’s is a festival of lights this season, non blinking white, against a centerpiece in each intersection that goes from red to green, then yellow and back to red again! Our St. John’s imagination is rampant with sterility! (At this point, Kermit yells “Yaaayyyy, Sterility!”)
         p Last night the Puking Mule tavern had a celebration that included more tree-trimming and song at 2AM – The caroake-carolers from the puking mule tavern came over and sang “I trimmed it MYYYYY Way”!

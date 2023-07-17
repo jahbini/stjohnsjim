@@ -1,16 +1,11 @@
 <script>
 //story/ongoing-investigation
+import Card from '$lib/Card.svelte';
+import storyMeta from './+page.json';
 </script>
 
 <template lang="pug">
-#main-ish.shadow.bg-silver.card.bg-transparent
-  header.card-header
-    h2.card-title
-      | Ongoing Investigation
-      .card-subtitle.text-muted ---
-  .card-body
-    .m1.bg-darken-1
-      #bloviation.article-entry.contents(dangerously-set-inner-h-t-m-l='[object Object]')
+  Card(props="{storyMeta}" )
         p I’m at the James John Cafe, where Seraphim make espresso with a crema so perfect, it puts velvet fog on your tongue.
         p This cafe (at a secret location, don’t ask) has a homey harvest warm PNW primitive motif that fits perfectly with the real homey harvest PNW outside.  Unpretentious, Mmmmmmmgglgl.
         p One of St. John’s ballsiest Knights of Pentacles — The worker guys, you know, is 100% the wildest guy I know.  He says “I got the LAW on my side.  I’m part of an Ongoing Investigation!”

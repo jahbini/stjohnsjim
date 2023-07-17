@@ -1,16 +1,11 @@
 <script>
 //story/l-o-l-a-lola
+import Card from '$lib/Card.svelte';
+import storyMeta from './+page.json';
 </script>
 
 <template lang="pug">
-#main-ish.shadow.bg-silver.card.bg-transparent
-  header.card-header
-    h2.card-title
-      | L O L A -- Lola!
-      .card-subtitle.text-muted ---
-  .card-body
-    .m1.bg-darken-1
-      #bloviation.article-entry.contents(dangerously-set-inner-h-t-m-l='[object Object]')
+  Card(props="{storyMeta}" )
         p
           span.FBname Friend
           | , some of my friends have let me know that they have real problems. Cancer, deportation, addiction, lost loves, and nasty crap like that. I sense that my oath to "90 seconds to belly laugh" promise is a guilty pleasure. Yes, let me remove that guilt slightly, but just remember: You will laugh. Or else.

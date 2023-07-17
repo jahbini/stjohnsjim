@@ -1,16 +1,11 @@
 <script>
 //story/dishwasher-to-the-prickly-tickly
+import Card from '$lib/Card.svelte';
+import storyMeta from './+page.json';
 </script>
 
 <template lang="pug">
-#main-ish.shadow.bg-silver.card.bg-transparent
-  header.card-header
-    h2.card-title
-      | Dishwasher to the Prickly Tickly
-      .card-subtitle.text-muted ---
-  .card-body
-    .m1.bg-darken-1
-      #bloviation.article-entry.contents(dangerously-set-inner-h-t-m-l='[object Object]')
+  Card(props="{storyMeta}" )
         p Veterans Day, 2010:  Mark your calendars — this is the day the Portland starts wearing longjohns 24/7 — Whizzing has just gotten astronomically more difficult.
         p Veterans Day, a holiday.  I celebrate with a walk over to Pier Park to enjoy a sweet steam breath PNW morning.  The big evergreens are having discussions high above: you don’t think they talk to each other with their trunks do you?  No, Their lofty discussions are echoed in bird calls and rustling branches. They keep their discussions on a high level.
         p

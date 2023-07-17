@@ -1,16 +1,11 @@
 <script>
 //story/snow-rummys
+import Card from '$lib/Card.svelte';
+import storyMeta from './+page.json';
 </script>
 
 <template lang="pug">
-#main-ish.shadow.bg-silver.card.bg-transparent
-  header.card-header
-    h2.card-title
-      | Snow Rummys
-      .card-subtitle.text-muted ---
-  .card-body
-    .m1.bg-darken-1
-      #bloviation.article-entry.contents(dangerously-set-inner-h-t-m-l='[object Object]')
+  Card(props="{storyMeta}" )
         p One of my best dumpster diving correspondents on the street has gone missing.  No one has seen Ulysses for about a month, and I am wondering if he is one of those fabled “Snow Rummys,”  You know, bums who can go south for the winter and north for the summer.   He was pretty active, and always had his hand out, along with the same well recited lines.
         p Southwick did find this out on the Internet:
         hr
