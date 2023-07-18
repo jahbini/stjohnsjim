@@ -1,6 +1,6 @@
 <script>
 // src/routes/+layout.svelte
-let styling = {"palx":"#03c","black":"#000","white":"#fff"}
+let styling = {"palx":"#03c","black":"#000","white":"#fff"};
 import allStories from './allstories.json';
 import stories from './mystories.json?raw';
 const siteHandle = 'stjohnsjim';
@@ -20,9 +20,6 @@ svelte:head
   meta(name='description', content='Stories from the \'Puter of St. John\'s Jim')
   meta(name='keywords', content='Pier Park, Cathedral Park, fiction, North Portland,St. John\'s, st johns')
   meta(property='fb:admins', content='187314157994069')
-  link(rel='apple-touch-icon', sizes='57x57', href='/assets/icons/apple-icon-57x57.png')
-  link(rel='apple-touch-icon', sizes='60x60', href='/assets/icons/apple-icon-60x60.png')
-  link(rel='apple-touch-icon', sizes='72x72', href='/assets/icons/apple-icon-72x72.png')
   link(rel='apple-touch-icon', sizes='76x76', href='/assets/icons/apple-icon-76x76.png')
   link(rel='apple-touch-icon', sizes='114x114', href='/assets/icons/apple-icon-114x114.png')
   link(rel='apple-touch-icon', sizes='120x120', href='/assets/icons/apple-icon-120x120.png')
