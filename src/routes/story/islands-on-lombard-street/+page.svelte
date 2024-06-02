@@ -1,7 +1,7 @@
 <script>
-//story/islands-on-lombard-street
-import Card from '$lib/Card.svelte';
-import storyMeta from './+page.json';
+  //story/islands-on-lombard-street
+  import Card from '$lib/Card.svelte';
+  import storyMeta from './+page.json';
 </script>
 
 <template lang="pug">

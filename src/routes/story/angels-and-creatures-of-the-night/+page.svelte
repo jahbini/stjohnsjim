@@ -1,7 +1,7 @@
 <script>
-//story/angels-and-creatures-of-the-night
-import Card from '$lib/Card.svelte';
-import storyMeta from './+page.json';
+  //story/angels-and-creatures-of-the-night
+  import Card from '$lib/Card.svelte';
+  import storyMeta from './+page.json';
 </script>
 
 <template lang="pug">

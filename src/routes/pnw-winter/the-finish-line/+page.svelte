@@ -1,7 +1,7 @@
 <script>
-//pnw-winter/the-finish-line
-import Card from '$lib/Card.svelte';
-import storyMeta from './+page.json';
+  //pnw-winter/the-finish-line
+  import Card from '$lib/Card.svelte';
+  import storyMeta from './+page.json';
 </script>
 
 <template lang="pug">

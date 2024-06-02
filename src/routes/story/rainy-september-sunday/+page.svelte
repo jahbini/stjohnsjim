@@ -1,7 +1,7 @@
 <script>
-//story/rainy-september-sunday
-import Card from '$lib/Card.svelte';
-import storyMeta from './+page.json';
+  //story/rainy-september-sunday
+  import Card from '$lib/Card.svelte';
+  import storyMeta from './+page.json';
 </script>
 
 <template lang="pug">

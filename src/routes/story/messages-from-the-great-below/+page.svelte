@@ -1,7 +1,7 @@
 <script>
-//story/messages-from-the-great-below
-import Card from '$lib/Card.svelte';
-import storyMeta from './+page.json';
+  //story/messages-from-the-great-below
+  import Card from '$lib/Card.svelte';
+  import storyMeta from './+page.json';
 </script>
 
 <template lang="pug">

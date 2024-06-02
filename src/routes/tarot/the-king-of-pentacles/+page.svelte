@@ -1,7 +1,7 @@
 <script>
-//tarot/the-king-of-pentacles
-import Card from '$lib/Card.svelte';
-import storyMeta from './+page.json';
+  //tarot/the-king-of-pentacles
+  import Card from '$lib/Card.svelte';
+  import storyMeta from './+page.json';
 </script>
 
 <template lang="pug">

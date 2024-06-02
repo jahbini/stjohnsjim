@@ -1,7 +1,7 @@
 <script>
-//story/solitude-spiders-and-cougars
-import Card from '$lib/Card.svelte';
-import storyMeta from './+page.json';
+  //story/solitude-spiders-and-cougars
+  import Card from '$lib/Card.svelte';
+  import storyMeta from './+page.json';
 </script>
 
 <template lang="pug">

@@ -1,7 +1,7 @@
 <script>
-//story/saying-goodbye-to-air-with-writers-block
-import Card from '$lib/Card.svelte';
-import storyMeta from './+page.json';
+  //story/saying-goodbye-to-air-with-writers-block
+  import Card from '$lib/Card.svelte';
+  import storyMeta from './+page.json';
 </script>
 
 <template lang="pug">

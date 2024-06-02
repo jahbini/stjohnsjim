@@ -1,7 +1,7 @@
 <script>
-//story/halloween-2011-midnight-frights
-import Card from '$lib/Card.svelte';
-import storyMeta from './+page.json';
+  //story/halloween-2011-midnight-frights
+  import Card from '$lib/Card.svelte';
+  import storyMeta from './+page.json';
 </script>
 
 <template lang="pug">

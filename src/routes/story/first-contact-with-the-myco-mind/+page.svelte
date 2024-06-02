@@ -1,7 +1,7 @@
 <script>
-//story/first-contact-with-the-myco-mind
-import Card from '$lib/Card.svelte';
-import storyMeta from './+page.json';
+  //story/first-contact-with-the-myco-mind
+  import Card from '$lib/Card.svelte';
+  import storyMeta from './+page.json';
 </script>
 
 <template lang="pug">

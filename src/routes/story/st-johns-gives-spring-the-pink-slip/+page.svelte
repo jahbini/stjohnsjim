@@ -1,7 +1,7 @@
 <script>
-//story/st-johns-gives-spring-the-pink-slip
-import Card from '$lib/Card.svelte';
-import storyMeta from './+page.json';
+  //story/st-johns-gives-spring-the-pink-slip
+  import Card from '$lib/Card.svelte';
+  import storyMeta from './+page.json';
 </script>
 
 <template lang="pug">

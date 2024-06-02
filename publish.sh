@@ -1,1 +1,1 @@
-rsync -rv public/* root@box.cambodianbamboostudies.com:/home/user-data/www/stjohnsjim.com
+rsync --del -rv public/* root@box.cambodianbamboostudies.com:/home/user-data/www/stjohnsjim.com

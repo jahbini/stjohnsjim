@@ -1,7 +1,7 @@
 <script>
-//story/the-fist-of-perhaps
-import Card from '$lib/Card.svelte';
-import storyMeta from './+page.json';
+  //story/the-fist-of-perhaps
+  import Card from '$lib/Card.svelte';
+  import storyMeta from './+page.json';
 </script>
 
 <template lang="pug">

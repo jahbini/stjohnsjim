@@ -1,7 +1,7 @@
 <script>
-//story/when-kings-clash
-import Card from '$lib/Card.svelte';
-import storyMeta from './+page.json';
+  //story/when-kings-clash
+  import Card from '$lib/Card.svelte';
+  import storyMeta from './+page.json';
 </script>
 
 <template lang="pug">

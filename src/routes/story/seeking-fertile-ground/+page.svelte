@@ -1,7 +1,7 @@
 <script>
-//story/seeking-fertile-ground
-import Card from '$lib/Card.svelte';
-import storyMeta from './+page.json';
+  //story/seeking-fertile-ground
+  import Card from '$lib/Card.svelte';
+  import storyMeta from './+page.json';
 </script>
 
 <template lang="pug">

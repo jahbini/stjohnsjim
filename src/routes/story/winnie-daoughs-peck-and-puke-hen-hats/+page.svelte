@@ -1,7 +1,7 @@
 <script>
-//story/winnie-daoughs-peck-and-puke-hen-hats
-import Card from '$lib/Card.svelte';
-import storyMeta from './+page.json';
+  //story/winnie-daoughs-peck-and-puke-hen-hats
+  import Card from '$lib/Card.svelte';
+  import storyMeta from './+page.json';
 </script>
 
 <template lang="pug">

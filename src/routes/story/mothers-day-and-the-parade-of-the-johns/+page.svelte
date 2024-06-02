@@ -1,7 +1,7 @@
 <script>
-//story/mothers-day-and-the-parade-of-the-johns
-import Card from '$lib/Card.svelte';
-import storyMeta from './+page.json';
+  //story/mothers-day-and-the-parade-of-the-johns
+  import Card from '$lib/Card.svelte';
+  import storyMeta from './+page.json';
 </script>
 
 <template lang="pug">

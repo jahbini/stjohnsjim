@@ -1,0 +1,24 @@
+{
+  "id": "stjohnsjim/tarot/wands",
+  "name": "Wands",
+  "fields": {
+    "title": "Wands",
+    "slug": "wands",
+    "category": "tarot",
+    "site": "stjohnsjim",
+    "accepted": true,
+    "index": false,
+    "headlines": [],
+    "tags": [],
+    "snippets": "{}",
+    "memberOf": ["TAROT"],
+    "published": "2011-11-13T13:59:28.000Z",
+    "embargo": "2017-12-31T23:59:59.000Z",
+    "author": "Copyright 2010-2018 James A. Hinds: St. John's Jim -- King of Cascadia",
+    "debug": "",
+    "created": "2011-11-13T13:59:27.000Z",
+    "lastEdited": "2011-11-13T13:59:28.000Z",
+    "captureDate": "2017-07-26T05:10:34.128Z",
+    "TimeStamp": "1501045834128"
+  }
+}

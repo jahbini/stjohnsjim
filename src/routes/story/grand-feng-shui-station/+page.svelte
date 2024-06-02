@@ -1,7 +1,7 @@
 <script>
-//story/grand-feng-shui-station
-import Card from '$lib/Card.svelte';
-import storyMeta from './+page.json';
+  //story/grand-feng-shui-station
+  import Card from '$lib/Card.svelte';
+  import storyMeta from './+page.json';
 </script>
 
 <template lang="pug">

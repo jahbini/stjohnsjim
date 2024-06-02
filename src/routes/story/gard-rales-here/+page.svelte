@@ -1,7 +1,7 @@
 <script>
-//story/gard-rales-here
-import Card from '$lib/Card.svelte';
-import storyMeta from './+page.json';
+  //story/gard-rales-here
+  import Card from '$lib/Card.svelte';
+  import storyMeta from './+page.json';
 </script>
 
 <template lang="pug">

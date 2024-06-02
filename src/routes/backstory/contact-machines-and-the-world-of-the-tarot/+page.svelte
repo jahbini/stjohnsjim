@@ -1,7 +1,7 @@
 <script>
-//backstory/contact-machines-and-the-world-of-the-tarot
-import Card from '$lib/Card.svelte';
-import storyMeta from './+page.json';
+  //backstory/contact-machines-and-the-world-of-the-tarot
+  import Card from '$lib/Card.svelte';
+  import storyMeta from './+page.json';
 </script>
 
 <template lang="pug">

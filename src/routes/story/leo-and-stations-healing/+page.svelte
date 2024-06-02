@@ -1,7 +1,7 @@
 <script>
-//story/leo-and-stations-healing
-import Card from '$lib/Card.svelte';
-import storyMeta from './+page.json';
+  //story/leo-and-stations-healing
+  import Card from '$lib/Card.svelte';
+  import storyMeta from './+page.json';
 </script>
 
 <template lang="pug">

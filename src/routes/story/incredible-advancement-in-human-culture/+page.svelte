@@ -1,7 +1,7 @@
 <script>
-//story/incredible-advancement-in-human-culture
-import Card from '$lib/Card.svelte';
-import storyMeta from './+page.json';
+  //story/incredible-advancement-in-human-culture
+  import Card from '$lib/Card.svelte';
+  import storyMeta from './+page.json';
 </script>
 
 <template lang="pug">

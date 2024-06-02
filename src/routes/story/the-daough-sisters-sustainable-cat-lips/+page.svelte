@@ -1,7 +1,7 @@
 <script>
-//story/the-daough-sisters-sustainable-cat-lips
-import Card from '$lib/Card.svelte';
-import storyMeta from './+page.json';
+  //story/the-daough-sisters-sustainable-cat-lips
+  import Card from '$lib/Card.svelte';
+  import storyMeta from './+page.json';
 </script>
 
 <template lang="pug">

@@ -1,7 +1,7 @@
 <script>
-//tarot/xii-the-hanged-man
-import Card from '$lib/Card.svelte';
-import storyMeta from './+page.json';
+  //tarot/xii-the-hanged-man
+  import Card from '$lib/Card.svelte';
+  import storyMeta from './+page.json';
 </script>
 
 <template lang="pug">

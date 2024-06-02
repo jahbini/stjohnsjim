@@ -1,7 +1,7 @@
 <script>
-//story/project-ying-yang-bang-bang
-import Card from '$lib/Card.svelte';
-import storyMeta from './+page.json';
+  //story/project-ying-yang-bang-bang
+  import Card from '$lib/Card.svelte';
+  import storyMeta from './+page.json';
 </script>
 
 <template lang="pug">

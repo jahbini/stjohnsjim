@@ -1,7 +1,7 @@
 <script>
-//story/cougars-dt-champions-and-more
-import Card from '$lib/Card.svelte';
-import storyMeta from './+page.json';
+  //story/cougars-dt-champions-and-more
+  import Card from '$lib/Card.svelte';
+  import storyMeta from './+page.json';
 </script>
 
 <template lang="pug">

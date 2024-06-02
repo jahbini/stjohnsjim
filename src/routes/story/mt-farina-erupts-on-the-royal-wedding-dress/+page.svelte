@@ -1,7 +1,7 @@
 <script>
-//story/mt-farina-erupts-on-the-royal-wedding-dress
-import Card from '$lib/Card.svelte';
-import storyMeta from './+page.json';
+  //story/mt-farina-erupts-on-the-royal-wedding-dress
+  import Card from '$lib/Card.svelte';
+  import storyMeta from './+page.json';
 </script>
 
 <template lang="pug">

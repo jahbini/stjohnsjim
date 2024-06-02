@@ -1,7 +1,7 @@
 <script>
-//story/big-rocks-burgers-and-birds
-import Card from '$lib/Card.svelte';
-import storyMeta from './+page.json';
+  //story/big-rocks-burgers-and-birds
+  import Card from '$lib/Card.svelte';
+  import storyMeta from './+page.json';
 </script>
 
 <template lang="pug">

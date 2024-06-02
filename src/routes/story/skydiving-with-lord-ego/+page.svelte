@@ -1,7 +1,7 @@
 <script>
-//story/skydiving-with-lord-ego
-import Card from '$lib/Card.svelte';
-import storyMeta from './+page.json';
+  //story/skydiving-with-lord-ego
+  import Card from '$lib/Card.svelte';
+  import storyMeta from './+page.json';
 </script>
 
 <template lang="pug">

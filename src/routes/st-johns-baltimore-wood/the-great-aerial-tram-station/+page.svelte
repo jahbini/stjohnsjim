@@ -1,7 +1,7 @@
 <script>
-//st-johns-baltimore-wood/the-great-aerial-tram-station
-import Card from '$lib/Card.svelte';
-import storyMeta from './+page.json';
+  //st-johns-baltimore-wood/the-great-aerial-tram-station
+  import Card from '$lib/Card.svelte';
+  import storyMeta from './+page.json';
 </script>
 
 <template lang="pug">

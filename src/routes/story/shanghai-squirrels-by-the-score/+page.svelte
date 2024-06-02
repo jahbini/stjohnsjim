@@ -1,7 +1,7 @@
 <script>
-//story/shanghai-squirrels-by-the-score
-import Card from '$lib/Card.svelte';
-import storyMeta from './+page.json';
+  //story/shanghai-squirrels-by-the-score
+  import Card from '$lib/Card.svelte';
+  import storyMeta from './+page.json';
 </script>
 
 <template lang="pug">

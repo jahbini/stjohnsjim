@@ -1,7 +1,7 @@
 <script>
-//story/dental-ben-gets-86ed
-import Card from '$lib/Card.svelte';
-import storyMeta from './+page.json';
+  //story/dental-ben-gets-86ed
+  import Card from '$lib/Card.svelte';
+  import storyMeta from './+page.json';
 </script>
 
 <template lang="pug">

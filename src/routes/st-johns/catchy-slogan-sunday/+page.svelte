@@ -1,7 +1,7 @@
 <script>
-//st-johns/catchy-slogan-sunday
-import Card from '$lib/Card.svelte';
-import storyMeta from './+page.json';
+  //st-johns/catchy-slogan-sunday
+  import Card from '$lib/Card.svelte';
+  import storyMeta from './+page.json';
 </script>
 
 <template lang="pug">

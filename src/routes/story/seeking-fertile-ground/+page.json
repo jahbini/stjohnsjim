@@ -11,12 +11,7 @@
     "headlines": [],
     "tags": [],
     "snippets": "{}",
-    "memberOf": [
-      "TAO",
-      "GUNAS",
-      "TAROT",
-      "PDX"
-    ],
+    "memberOf": ["TAO", "GUNAS", "TAROT", "PDX"],
     "published": "2010-10-24T15:14:07.000Z",
     "embargo": "2017-12-31T23:59:59.000Z",
     "author": "Copyright 2010-2018 James A. Hinds: St. John's Jim -- King of Cascadia",

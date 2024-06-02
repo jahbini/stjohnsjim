@@ -1,7 +1,7 @@
 <script>
-//story/put-the-blood-of-the-lamb-in-your-throat
-import Card from '$lib/Card.svelte';
-import storyMeta from './+page.json';
+  //story/put-the-blood-of-the-lamb-in-your-throat
+  import Card from '$lib/Card.svelte';
+  import storyMeta from './+page.json';
 </script>
 
 <template lang="pug">

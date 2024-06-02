@@ -1,7 +1,7 @@
 <script>
-//story/the-monk-in-the-kingdom-of-prosperity
-import Card from '$lib/Card.svelte';
-import storyMeta from './+page.json';
+  //story/the-monk-in-the-kingdom-of-prosperity
+  import Card from '$lib/Card.svelte';
+  import storyMeta from './+page.json';
 </script>
 
 <template lang="pug">

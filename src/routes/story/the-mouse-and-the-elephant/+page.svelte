@@ -1,7 +1,7 @@
 <script>
-//story/the-mouse-and-the-elephant
-import Card from '$lib/Card.svelte';
-import storyMeta from './+page.json';
+  //story/the-mouse-and-the-elephant
+  import Card from '$lib/Card.svelte';
+  import storyMeta from './+page.json';
 </script>
 
 <template lang="pug">

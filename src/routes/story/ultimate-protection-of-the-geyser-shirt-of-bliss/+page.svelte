@@ -1,7 +1,7 @@
 <script>
-//story/ultimate-protection-of-the-geyser-shirt-of-bliss
-import Card from '$lib/Card.svelte';
-import storyMeta from './+page.json';
+  //story/ultimate-protection-of-the-geyser-shirt-of-bliss
+  import Card from '$lib/Card.svelte';
+  import storyMeta from './+page.json';
 </script>
 
 <template lang="pug">

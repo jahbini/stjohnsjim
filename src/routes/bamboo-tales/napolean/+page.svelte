@@ -1,7 +1,7 @@
 <script>
-//bamboo-tales/napolean
-import Card from '$lib/Card.svelte';
-import storyMeta from './+page.json';
+  //bamboo-tales/napolean
+  import Card from '$lib/Card.svelte';
+  import storyMeta from './+page.json';
 </script>
 
 <template lang="pug">

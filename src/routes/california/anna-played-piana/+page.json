@@ -8,15 +8,10 @@
     "site": "stjohnsjim",
     "accepted": true,
     "index": false,
-    "headlines": [
-      "Strange, but unlikely",
-      "What evil lurks in the minds of headline writers?"
-    ],
+    "headlines": ["Strange, but unlikely", "What evil lurks in the minds of headline writers?"],
     "tags": [],
     "snippets": "{}",
-    "memberOf": [
-      "TAROT"
-    ],
+    "memberOf": ["TAROT"],
     "published": "2012-04-03T15:30:27.000Z",
     "embargo": "2012-04-03T15:30:27.000Z",
     "author": "Copyright 2010-2018 James A. Hinds: St. John's Jim -- King of Cascadia",

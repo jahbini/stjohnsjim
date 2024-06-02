@@ -1,7 +1,7 @@
 <script>
-//story/drizzly-november-grizzly-spinners-and-steinbeck
-import Card from '$lib/Card.svelte';
-import storyMeta from './+page.json';
+  //story/drizzly-november-grizzly-spinners-and-steinbeck
+  import Card from '$lib/Card.svelte';
+  import storyMeta from './+page.json';
 </script>
 
 <template lang="pug">

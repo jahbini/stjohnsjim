@@ -1,7 +1,7 @@
 <script>
-//story/calliope-contemplates-throntle-intimidates
-import Card from '$lib/Card.svelte';
-import storyMeta from './+page.json';
+  //story/calliope-contemplates-throntle-intimidates
+  import Card from '$lib/Card.svelte';
+  import storyMeta from './+page.json';
 </script>
 
 <template lang="pug">

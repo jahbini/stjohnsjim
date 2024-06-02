@@ -1,7 +1,7 @@
 <script>
-//story/shanghai-tunnel-tales-part-1
-import Card from '$lib/Card.svelte';
-import storyMeta from './+page.json';
+  //story/shanghai-tunnel-tales-part-1
+  import Card from '$lib/Card.svelte';
+  import storyMeta from './+page.json';
 </script>
 
 <template lang="pug">

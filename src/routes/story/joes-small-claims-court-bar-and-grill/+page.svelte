@@ -1,7 +1,7 @@
 <script>
-//story/joes-small-claims-court-bar-and-grill
-import Card from '$lib/Card.svelte';
-import storyMeta from './+page.json';
+  //story/joes-small-claims-court-bar-and-grill
+  import Card from '$lib/Card.svelte';
+  import storyMeta from './+page.json';
 </script>
 
 <template lang="pug">

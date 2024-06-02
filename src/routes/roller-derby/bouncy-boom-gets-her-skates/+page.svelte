@@ -1,7 +1,7 @@
 <script>
-//roller-derby/bouncy-boom-gets-her-skates
-import Card from '$lib/Card.svelte';
-import storyMeta from './+page.json';
+  //roller-derby/bouncy-boom-gets-her-skates
+  import Card from '$lib/Card.svelte';
+  import storyMeta from './+page.json';
 </script>
 
 <template lang="pug">

@@ -1,7 +1,7 @@
 <script>
-//story/november-stretch
-import Card from '$lib/Card.svelte';
-import storyMeta from './+page.json';
+  //story/november-stretch
+  import Card from '$lib/Card.svelte';
+  import storyMeta from './+page.json';
 </script>
 
 <template lang="pug">

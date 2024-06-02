@@ -9,10 +9,7 @@
     "headlines": [],
     "tags": [],
     "snippets": "{\"comment,soto\":\"comment,soto\",\"comment,voce\":\"comment,voce\",\"roar\":\"roar\"}",
-    "memberOf": [
-      "GUNAS",
-      "TAROT"
-    ],
+    "memberOf": ["GUNAS", "TAROT"],
     "published": "2011-01-10T17:30:49.000Z",
     "embargo": "2017-12-31T23:59:59.000Z",
     "author": "Copyright 2010-2018 James A. Hinds: St. John's Jim -- King of Cascadia",
@@ -57,11 +54,7 @@
     ],
     "tags": [],
     "snippets": "{\"first name\":\"first name\"}",
-    "memberOf": [
-      "GUNAS",
-      "TAROT",
-      "PDX"
-    ],
+    "memberOf": ["GUNAS", "TAROT", "PDX"],
     "published": "2010-11-14T16:02:17.000Z",
     "embargo": "2017-12-31T23:59:59.000Z",
     "author": "Copyright 2010-2018 James A. Hinds: St. John's Jim -- King of Cascadia",
@@ -79,10 +72,7 @@
     "headlines": [],
     "tags": [],
     "snippets": "{\"first name\":\"first name\"}",
-    "memberOf": [
-      "TAROT",
-      "PDX"
-    ],
+    "memberOf": ["TAROT", "PDX"],
     "published": "2010-11-23T16:47:41.000Z",
     "embargo": "2017-12-31T23:59:59.000Z",
     "author": "Copyright 2010-2018 James A. Hinds: St. John's Jim -- King of Cascadia",
@@ -100,11 +90,7 @@
     "headlines": [],
     "tags": [],
     "snippets": "{\"first name\":\"first name\"}",
-    "memberOf": [
-      "GUNAS",
-      "TAROT",
-      "PDX"
-    ],
+    "memberOf": ["GUNAS", "TAROT", "PDX"],
     "published": "2010-10-20T14:34:10.000Z",
     "embargo": "2017-12-31T23:59:59.000Z",
     "author": "Copyright 2010-2018 James A. Hinds: St. John's Jim -- King of Cascadia",
@@ -119,15 +105,10 @@
     "site": "stjohnsjim",
     "accepted": true,
     "index": false,
-    "headlines": [
-      "Strange, but unlikely",
-      "What evil lurks in the minds of headline writers?"
-    ],
+    "headlines": ["Strange, but unlikely", "What evil lurks in the minds of headline writers?"],
     "tags": [],
     "snippets": "{}",
-    "memberOf": [
-      "TAROT"
-    ],
+    "memberOf": ["TAROT"],
     "published": "2012-04-03T15:30:27.000Z",
     "embargo": "2012-04-03T15:30:27.000Z",
     "author": "Copyright 2010-2018 James A. Hinds: St. John's Jim -- King of Cascadia",
@@ -150,9 +131,7 @@
     ],
     "tags": [],
     "snippets": "{\"first name\":\"first name\",\"author\":\"author\"}",
-    "memberOf": [
-      "GUNAS"
-    ],
+    "memberOf": ["GUNAS"],
     "published": "2011-06-13T18:41:08.000Z",
     "embargo": "2016-09-19T00:00:00.000Z",
     "author": "Copyright 2010-2018 James A. Hinds: St. John's Jim -- King of Cascadia",
@@ -170,10 +149,7 @@
     "headlines": [],
     "tags": [],
     "snippets": "{}",
-    "memberOf": [
-      "TAROT",
-      "PDX"
-    ],
+    "memberOf": ["TAROT", "PDX"],
     "published": "2011-04-17T12:38:45.000Z",
     "embargo": "2017-12-31T23:59:59.000Z",
     "author": "Copyright 2010-2018 James A. Hinds: St. John's Jim -- King of Cascadia",
@@ -195,11 +171,7 @@
     ],
     "tags": [],
     "snippets": "{\"first name\":\"first name\",\"sms,soto\":\"sms,soto\",\"sms,voce\":\"sms,voce\"}",
-    "memberOf": [
-      "GUNAS",
-      "TAROT",
-      "PDX"
-    ],
+    "memberOf": ["GUNAS", "TAROT", "PDX"],
     "published": "2010-12-16T18:01:51.000Z",
     "embargo": "2017-12-31T23:59:59.000Z",
     "author": "Copyright 2010-2018 James A. Hinds: St. John's Jim -- King of Cascadia",
@@ -221,11 +193,7 @@
     ],
     "tags": [],
     "snippets": "{}",
-    "memberOf": [
-      "GUNAS",
-      "TAROT",
-      "PDX"
-    ],
+    "memberOf": ["GUNAS", "TAROT", "PDX"],
     "published": "2010-11-17T17:07:09.000Z",
     "embargo": "2016-12-22T00:00:00.000Z",
     "author": "Copyright 2010-2018 James A. Hinds: St. John's Jim -- King of Cascadia",
@@ -240,16 +208,10 @@
     "site": "stjohnsjim",
     "accepted": true,
     "index": false,
-    "headlines": [
-      "Pier Park at 3AM?",
-      "PNW Hookers Lament the Late Liz Taylor"
-    ],
+    "headlines": ["Pier Park at 3AM?", "PNW Hookers Lament the Late Liz Taylor"],
     "tags": [],
     "snippets": "{\"wheelwho\":\"wheelwho\"}",
-    "memberOf": [
-      "GUNAS",
-      "TAROT"
-    ],
+    "memberOf": ["GUNAS", "TAROT"],
     "published": "2011-03-23T18:04:24.000Z",
     "embargo": "2017-12-31T23:59:59.000Z",
     "author": "Copyright 2010-2018 James A. Hinds: St. John's Jim -- King of Cascadia",
@@ -267,11 +229,7 @@
     "headlines": [],
     "tags": [],
     "snippets": "{\"first name\":\"first name\"}",
-    "memberOf": [
-      "GUNAS",
-      "TAROT",
-      "PDX"
-    ],
+    "memberOf": ["GUNAS", "TAROT", "PDX"],
     "published": "2010-12-23T17:10:49.000Z",
     "embargo": "2017-12-31T23:59:59.000Z",
     "author": "Copyright 2010-2018 James A. Hinds: St. John's Jim -- King of Cascadia",
@@ -289,9 +247,7 @@
     "headlines": [],
     "tags": [],
     "snippets": "{}",
-    "memberOf": [
-      "TAROT"
-    ],
+    "memberOf": ["TAROT"],
     "published": "2011-05-30T21:03:21.000Z",
     "embargo": "2017-12-31T23:59:59.000Z",
     "author": "Copyright 2010-2018 James A. Hinds: St. John's Jim -- King of Cascadia",
@@ -309,10 +265,7 @@
     "headlines": [],
     "tags": [],
     "snippets": "{}",
-    "memberOf": [
-      "GUNAS",
-      "TAROT"
-    ],
+    "memberOf": ["GUNAS", "TAROT"],
     "published": "2010-12-27T12:02:34.000Z",
     "embargo": "2017-12-31T23:59:59.000Z",
     "author": "Copyright 2010-2018 James A. Hinds: St. John's Jim -- King of Cascadia",
@@ -330,11 +283,7 @@
     "headlines": [],
     "tags": [],
     "snippets": "{}",
-    "memberOf": [
-      "GUNAS",
-      "TAROT",
-      "PDX"
-    ],
+    "memberOf": ["GUNAS", "TAROT", "PDX"],
     "published": "2010-11-21T17:12:25.000Z",
     "embargo": "2017-12-31T23:59:59.000Z",
     "author": "Copyright 2010-2018 James A. Hinds: St. John's Jim -- King of Cascadia",
@@ -349,15 +298,10 @@
     "site": "stjohnsjim",
     "accepted": true,
     "index": false,
-    "headlines": [
-      "Wherin We Meet Bambi Brew"
-    ],
+    "headlines": ["Wherin We Meet Bambi Brew"],
     "tags": [],
     "snippets": "{}",
-    "memberOf": [
-      "GUNAS",
-      "PDX"
-    ],
+    "memberOf": ["GUNAS", "PDX"],
     "published": "2010-10-03T17:41:29.000Z",
     "embargo": "2010-10-03T17:41:29.000Z",
     "author": "Copyright 2010-2018 James A. Hinds: St. John's Jim -- King of Cascadia",
@@ -375,11 +319,7 @@
     "headlines": [],
     "tags": [],
     "snippets": "{\"first name\":\"first name\",\"axii\":\"axii\"}",
-    "memberOf": [
-      "GUNAS",
-      "TAROT",
-      "PDX"
-    ],
+    "memberOf": ["GUNAS", "TAROT", "PDX"],
     "published": "2010-11-06T17:49:03.000Z",
     "embargo": "2017-12-31T23:59:59.000Z",
     "author": "Copyright 2010-2018 James A. Hinds: St. John's Jim -- King of Cascadia",
@@ -394,16 +334,10 @@
     "site": "stjohnsjim",
     "accepted": true,
     "index": false,
-    "headlines": [
-      "Confrontations with Sea Deamons!",
-      "Cats Adrift!",
-      "Dead Cat Tells All!"
-    ],
+    "headlines": ["Confrontations with Sea Deamons!", "Cats Adrift!", "Dead Cat Tells All!"],
     "tags": [],
     "snippets": "{}",
-    "memberOf": [
-      "GUNAS"
-    ],
+    "memberOf": ["GUNAS"],
     "published": "2011-06-07T17:17:07.000Z",
     "embargo": "2011-06-07T17:17:07.000Z",
     "author": "Copyright 2010-2018 James A. Hinds: St. John's Jim -- King of Cascadia",
@@ -421,9 +355,7 @@
     "headlines": [],
     "tags": [],
     "snippets": "{}",
-    "memberOf": [
-      "TAROT"
-    ],
+    "memberOf": ["TAROT"],
     "published": "2011-08-30T14:26:13.000Z",
     "embargo": "2017-12-31T23:59:59.000Z",
     "author": "Copyright 2010-2018 James A. Hinds: St. John's Jim -- King of Cascadia",
@@ -446,9 +378,7 @@
     ],
     "tags": [],
     "snippets": "{}",
-    "memberOf": [
-      "TAROT"
-    ],
+    "memberOf": ["TAROT"],
     "published": "2010-12-01T18:04:05.000Z",
     "embargo": "2010-12-01T18:04:05.000Z",
     "author": "Copyright 2010-2018 James A. Hinds: St. John's Jim -- King of Cascadia",
@@ -466,11 +396,7 @@
     "headlines": [],
     "tags": [],
     "snippets": "{\"first name\":\"first name\"}",
-    "memberOf": [
-      "GUNAS",
-      "TAROT",
-      "PDX"
-    ],
+    "memberOf": ["GUNAS", "TAROT", "PDX"],
     "published": "2010-10-19T14:17:58.000Z",
     "embargo": "2017-12-31T23:59:59.000Z",
     "author": "Copyright 2010-2018 James A. Hinds: St. John's Jim -- King of Cascadia",
@@ -488,11 +414,7 @@
     "headlines": [],
     "tags": [],
     "snippets": "{}",
-    "memberOf": [
-      "GUNAS",
-      "TAROT",
-      "PDX"
-    ],
+    "memberOf": ["GUNAS", "TAROT", "PDX"],
     "published": "2012-05-17T15:20:15.000Z",
     "embargo": "2017-12-31T23:59:59.000Z",
     "author": "Copyright 2010-2018 James A. Hinds: St. John's Jim -- King of Cascadia",
@@ -510,9 +432,7 @@
     "headlines": [],
     "tags": [],
     "snippets": "{\"first name\":\"first name\"}",
-    "memberOf": [
-      "TAROT"
-    ],
+    "memberOf": ["TAROT"],
     "published": "2010-11-24T16:48:34.000Z",
     "embargo": "2017-12-31T23:59:59.000Z",
     "author": "Copyright 2010-2018 James A. Hinds: St. John's Jim -- King of Cascadia",
@@ -527,10 +447,7 @@
     "site": "stjohnsjim",
     "accepted": true,
     "index": false,
-    "headlines": [
-      "The Scout and The Colonel",
-      "Legend of the Old West"
-    ],
+    "headlines": ["The Scout and The Colonel", "Legend of the Old West"],
     "tags": [],
     "snippets": "{}",
     "memberOf": [],
@@ -551,9 +468,7 @@
     "headlines": [],
     "tags": [],
     "snippets": "{}",
-    "memberOf": [
-      "TAROT"
-    ],
+    "memberOf": ["TAROT"],
     "published": "2011-09-03T09:47:20.000Z",
     "embargo": "2017-12-31T23:59:59.000Z",
     "author": "Copyright 2010-2018 James A. Hinds: St. John's Jim -- King of Cascadia",
@@ -571,11 +486,7 @@
     "headlines": [],
     "tags": [],
     "snippets": "{\"first name\":\"first name\"}",
-    "memberOf": [
-      "GUNAS",
-      "TAROT",
-      "PDX"
-    ],
+    "memberOf": ["GUNAS", "TAROT", "PDX"],
     "published": "2010-10-14T15:02:49.000Z",
     "embargo": "2017-12-31T23:59:59.000Z",
     "author": "Copyright 2010-2018 James A. Hinds: St. John's Jim -- King of Cascadia",
@@ -593,11 +504,7 @@
     "headlines": [],
     "tags": [],
     "snippets": "{\"first name\":\"first name\"}",
-    "memberOf": [
-      "GUNAS",
-      "TAROT",
-      "PDX"
-    ],
+    "memberOf": ["GUNAS", "TAROT", "PDX"],
     "published": "2010-10-09T14:58:44.000Z",
     "embargo": "2017-12-31T23:59:59.000Z",
     "author": "Copyright 2010-2018 James A. Hinds: St. John's Jim -- King of Cascadia",
@@ -615,11 +522,7 @@
     "headlines": [],
     "tags": [],
     "snippets": "{\"first name\":\"first name\"}",
-    "memberOf": [
-      "GUNAS",
-      "TAROT",
-      "PDX"
-    ],
+    "memberOf": ["GUNAS", "TAROT", "PDX"],
     "published": "2010-11-11T17:34:53.000Z",
     "embargo": "2017-12-31T23:59:59.000Z",
     "author": "Copyright 2010-2018 James A. Hinds: St. John's Jim -- King of Cascadia",
@@ -637,9 +540,7 @@
     "headlines": [],
     "tags": [],
     "snippets": "{}",
-    "memberOf": [
-      "TAROT"
-    ],
+    "memberOf": ["TAROT"],
     "published": "2011-08-30T14:53:12.000Z",
     "embargo": "2017-12-31T23:59:59.000Z",
     "author": "Copyright 2010-2018 James A. Hinds: St. John's Jim -- King of Cascadia",
@@ -657,11 +558,7 @@
     "headlines": [],
     "tags": [],
     "snippets": "{\"first name\":\"first name\"}",
-    "memberOf": [
-      "GUNAS",
-      "TAROT",
-      "PDX"
-    ],
+    "memberOf": ["GUNAS", "TAROT", "PDX"],
     "published": "2010-11-01T18:01:14.000Z",
     "embargo": "2017-12-31T23:59:59.000Z",
     "author": "Copyright 2010-2018 James A. Hinds: St. John's Jim -- King of Cascadia",
@@ -679,9 +576,7 @@
     "headlines": [],
     "tags": [],
     "snippets": "{}",
-    "memberOf": [
-      "TAROT"
-    ],
+    "memberOf": ["TAROT"],
     "published": "2011-04-30T16:51:45.000Z",
     "embargo": "2017-12-31T23:59:59.000Z",
     "author": "Copyright 2010-2018 James A. Hinds: St. John's Jim -- King of Cascadia",
@@ -699,11 +594,7 @@
     "headlines": [],
     "tags": [],
     "snippets": "{}",
-    "memberOf": [
-      "GUNAS",
-      "TAROT",
-      "PDX"
-    ],
+    "memberOf": ["GUNAS", "TAROT", "PDX"],
     "published": "2011-04-25T22:38:53.000Z",
     "embargo": "2017-12-31T23:59:59.000Z",
     "author": "Copyright 2010-2018 James A. Hinds: St. John's Jim -- King of Cascadia",
@@ -721,9 +612,7 @@
     "headlines": [],
     "tags": [],
     "snippets": "{\"author\":\"author\",\"comment,soto\":\"comment,soto\",\"comment,voce\":\"comment,voce\"}",
-    "memberOf": [
-      "GUNAS"
-    ],
+    "memberOf": ["GUNAS"],
     "published": "2010-12-30T21:24:34.000Z",
     "embargo": "2017-12-31T23:59:59.000Z",
     "author": "Copyright 2010-2018 James A. Hinds: St. John's Jim -- King of Cascadia",
@@ -741,10 +630,7 @@
     "headlines": [],
     "tags": [],
     "snippets": "{\"first name\":\"first name\"}",
-    "memberOf": [
-      "GUNAS",
-      "TAROT"
-    ],
+    "memberOf": ["GUNAS", "TAROT"],
     "published": "2010-11-26T18:19:55.000Z",
     "embargo": "2017-12-31T23:59:59.000Z",
     "author": "Copyright 2010-2018 James A. Hinds: St. John's Jim -- King of Cascadia",
@@ -762,10 +648,7 @@
     "headlines": [],
     "tags": [],
     "snippets": "{\"first name\":\"first name\"}",
-    "memberOf": [
-      "TAROT",
-      "PDX"
-    ],
+    "memberOf": ["TAROT", "PDX"],
     "published": "2011-03-27T11:14:43.000Z",
     "embargo": "2017-12-31T23:59:59.000Z",
     "author": "Copyright 2010-2018 James A. Hinds: St. John's Jim -- King of Cascadia",
@@ -801,10 +684,7 @@
     "headlines": [],
     "tags": [],
     "snippets": "{\"first name\":\"first name\"}",
-    "memberOf": [
-      "GUNAS",
-      "TAROT"
-    ],
+    "memberOf": ["GUNAS", "TAROT"],
     "published": "2010-12-21T17:57:09.000Z",
     "embargo": "2017-12-31T23:59:59.000Z",
     "author": "Copyright 2010-2018 James A. Hinds: St. John's Jim -- King of Cascadia",
@@ -822,10 +702,7 @@
     "headlines": [],
     "tags": [],
     "snippets": "{}",
-    "memberOf": [
-      "GUNAS",
-      "TAROT"
-    ],
+    "memberOf": ["GUNAS", "TAROT"],
     "published": "2010-12-03T17:43:38.000Z",
     "embargo": "2017-12-31T23:59:59.000Z",
     "author": "Copyright 2010-2018 James A. Hinds: St. John's Jim -- King of Cascadia",
@@ -843,10 +720,7 @@
     "headlines": [],
     "tags": [],
     "snippets": "{}",
-    "memberOf": [
-      "GUNAS",
-      "TAROT"
-    ],
+    "memberOf": ["GUNAS", "TAROT"],
     "published": "2011-07-23T16:47:06.000Z",
     "embargo": "2017-12-31T23:59:59.000Z",
     "author": "Copyright 2010-2018 James A. Hinds: St. John's Jim -- King of Cascadia",
@@ -861,14 +735,10 @@
     "site": "stjohnsjim",
     "accepted": true,
     "index": false,
-    "headlines": [
-      "From the Casebook of St. John&rsquo;s Jim: Psychic Bodyguard"
-    ],
+    "headlines": ["From the Casebook of St. John&rsquo;s Jim: Psychic Bodyguard"],
     "tags": [],
     "snippets": "{}",
-    "memberOf": [
-      "TAROT"
-    ],
+    "memberOf": ["TAROT"],
     "published": "2017-07-26T05:40:05.000Z",
     "embargo": "2017-07-26T05:40:07.000Z",
     "author": "Copyright 2010-2018 James A. Hinds: St. John's Jim -- King of Cascadia",
@@ -886,9 +756,7 @@
     "headlines": [],
     "tags": [],
     "snippets": "{}",
-    "memberOf": [
-      "TAROT"
-    ],
+    "memberOf": ["TAROT"],
     "published": "2010-12-20T18:49:49.000Z",
     "embargo": "2017-12-31T23:59:59.000Z",
     "author": "Copyright 2010-2018 James A. Hinds: St. John's Jim -- King of Cascadia",
@@ -924,10 +792,7 @@
     "headlines": [],
     "tags": [],
     "snippets": "{\"first name\":\"first name\"}",
-    "memberOf": [
-      "TAROT",
-      "PDX"
-    ],
+    "memberOf": ["TAROT", "PDX"],
     "published": "2010-10-23T16:56:07.000Z",
     "embargo": "2017-12-31T23:59:59.000Z",
     "author": "Copyright 2010-2018 James A. Hinds: St. John's Jim -- King of Cascadia",
@@ -945,11 +810,7 @@
     "headlines": [],
     "tags": [],
     "snippets": "{}",
-    "memberOf": [
-      "GUNAS",
-      "TAROT",
-      "PDX"
-    ],
+    "memberOf": ["GUNAS", "TAROT", "PDX"],
     "published": "2010-11-22T18:05:40.000Z",
     "embargo": "2017-12-31T23:59:59.000Z",
     "author": "Copyright 2010-2018 James A. Hinds: St. John's Jim -- King of Cascadia",
@@ -990,10 +851,7 @@
     "headlines": [],
     "tags": [],
     "snippets": "{\"first name\":\"first name\"}",
-    "memberOf": [
-      "GUNAS",
-      "TAROT"
-    ],
+    "memberOf": ["GUNAS", "TAROT"],
     "published": "2010-12-08T18:42:10.000Z",
     "embargo": "2017-12-31T23:59:59.000Z",
     "author": "Copyright 2010-2018 James A. Hinds: St. John's Jim -- King of Cascadia",
@@ -1011,11 +869,7 @@
     "headlines": [],
     "tags": [],
     "snippets": "{\"halloend\":\"halloend\"}",
-    "memberOf": [
-      "TAO",
-      "GUNAS",
-      "TAROT"
-    ],
+    "memberOf": ["TAO", "GUNAS", "TAROT"],
     "published": "2011-10-31T13:20:01.000Z",
     "embargo": "2017-12-31T23:59:59.000Z",
     "author": "Copyright 2010-2018 James A. Hinds: St. John's Jim -- King of Cascadia",
@@ -1033,10 +887,7 @@
     "headlines": [],
     "tags": [],
     "snippets": "{\"halloeve\":\"halloeve\"}",
-    "memberOf": [
-      "GUNAS",
-      "TAROT"
-    ],
+    "memberOf": ["GUNAS", "TAROT"],
     "published": "2011-10-31T18:39:00.000Z",
     "embargo": "2017-12-31T23:59:59.000Z",
     "author": "Copyright 2010-2018 James A. Hinds: St. John's Jim -- King of Cascadia",
@@ -1054,11 +905,7 @@
     "headlines": [],
     "tags": [],
     "snippets": "{}",
-    "memberOf": [
-      "GUNAS",
-      "TAROT",
-      "PDX"
-    ],
+    "memberOf": ["GUNAS", "TAROT", "PDX"],
     "published": "2010-12-22T17:05:50.000Z",
     "embargo": "2017-12-31T23:59:59.000Z",
     "author": "Copyright 2010-2018 James A. Hinds: St. John's Jim -- King of Cascadia",
@@ -1076,10 +923,7 @@
     "headlines": [],
     "tags": [],
     "snippets": "{}",
-    "memberOf": [
-      "GUNAS",
-      "TAROT"
-    ],
+    "memberOf": ["GUNAS", "TAROT"],
     "published": "2011-02-10T20:43:39.000Z",
     "embargo": "2017-12-31T23:59:59.000Z",
     "author": "Copyright 2010-2018 James A. Hinds: St. John's Jim -- King of Cascadia",
@@ -1097,9 +941,7 @@
     "headlines": [],
     "tags": [],
     "snippets": "{\"first name\":\"first name\"}",
-    "memberOf": [
-      "TAROT"
-    ],
+    "memberOf": ["TAROT"],
     "published": "2010-10-30T17:18:41.000Z",
     "embargo": "2017-12-31T23:59:59.000Z",
     "author": "Copyright 2010-2018 James A. Hinds: St. John's Jim -- King of Cascadia",
@@ -1135,9 +977,7 @@
     "headlines": [],
     "tags": [],
     "snippets": "{\"first name\":\"first name\"}",
-    "memberOf": [
-      "TAROT"
-    ],
+    "memberOf": ["TAROT"],
     "published": "2010-12-17T17:41:43.000Z",
     "embargo": "2017-12-31T23:59:59.000Z",
     "author": "Copyright 2010-2018 James A. Hinds: St. John's Jim -- King of Cascadia",
@@ -1155,10 +995,7 @@
     "headlines": [],
     "tags": [],
     "snippets": "{\"first name\":\"first name\"}",
-    "memberOf": [
-      "GUNAS",
-      "TAROT"
-    ],
+    "memberOf": ["GUNAS", "TAROT"],
     "published": "2010-11-29T18:57:02.000Z",
     "embargo": "2017-12-31T23:59:59.000Z",
     "author": "Copyright 2010-2018 James A. Hinds: St. John's Jim -- King of Cascadia",
@@ -1176,10 +1013,7 @@
     "headlines": [],
     "tags": [],
     "snippets": "{\"first name\":\"first name\"}",
-    "memberOf": [
-      "TAROT",
-      "PDX"
-    ],
+    "memberOf": ["TAROT", "PDX"],
     "published": "2010-11-03T15:13:34.000Z",
     "embargo": "2017-12-31T23:59:59.000Z",
     "author": "Copyright 2010-2018 James A. Hinds: St. John's Jim -- King of Cascadia",
@@ -1197,9 +1031,7 @@
     "headlines": [],
     "tags": [],
     "snippets": "{\"first name\":\"first name\"}",
-    "memberOf": [
-      "TAROT"
-    ],
+    "memberOf": ["TAROT"],
     "published": "2011-01-24T17:54:18.000Z",
     "embargo": "2017-12-31T23:59:59.000Z",
     "author": "Copyright 2010-2018 James A. Hinds: St. John's Jim -- King of Cascadia",
@@ -1235,9 +1067,7 @@
     "headlines": [],
     "tags": [],
     "snippets": "{}",
-    "memberOf": [
-      "TAROT"
-    ],
+    "memberOf": ["TAROT"],
     "published": "2010-10-23T16:55:21.000Z",
     "embargo": "2017-12-31T23:59:59.000Z",
     "author": "Copyright 2010-2018 James A. Hinds: St. John's Jim -- King of Cascadia",
@@ -1255,9 +1085,7 @@
     "headlines": [],
     "tags": [],
     "snippets": "{}",
-    "memberOf": [
-      "TAROT"
-    ],
+    "memberOf": ["TAROT"],
     "published": "2010-11-05T15:27:33.000Z",
     "embargo": "2017-12-31T23:59:59.000Z",
     "author": "Copyright 2010-2018 James A. Hinds: St. John's Jim -- King of Cascadia",
@@ -1275,9 +1103,7 @@
     "headlines": [],
     "tags": [],
     "snippets": "{\"first name\":\"first name\"}",
-    "memberOf": [
-      "TAROT"
-    ],
+    "memberOf": ["TAROT"],
     "published": "2010-11-04T18:46:00.000Z",
     "embargo": "2017-12-31T23:59:59.000Z",
     "author": "Copyright 2010-2018 James A. Hinds: St. John's Jim -- King of Cascadia",
@@ -1295,9 +1121,7 @@
     "headlines": [],
     "tags": [],
     "snippets": "{}",
-    "memberOf": [
-      "TAROT"
-    ],
+    "memberOf": ["TAROT"],
     "published": "2010-12-14T21:38:35.000Z",
     "embargo": "2017-12-31T23:59:59.000Z",
     "author": "Copyright 2010-2018 James A. Hinds: St. John's Jim -- King of Cascadia",
@@ -1315,9 +1139,7 @@
     "headlines": [],
     "tags": [],
     "snippets": "{\"first name\":\"first name\"}",
-    "memberOf": [
-      "GUNAS"
-    ],
+    "memberOf": ["GUNAS"],
     "published": "2010-10-05T19:12:04.000Z",
     "embargo": "2017-12-31T23:59:59.000Z",
     "author": "Copyright 2010-2018 James A. Hinds: St. John's Jim -- King of Cascadia",
@@ -1335,11 +1157,7 @@
     "headlines": [],
     "tags": [],
     "snippets": "{}",
-    "memberOf": [
-      "TAO",
-      "TAROT",
-      "PDX"
-    ],
+    "memberOf": ["TAO", "TAROT", "PDX"],
     "published": "2011-06-12T18:26:28.000Z",
     "embargo": "2017-12-31T23:59:59.000Z",
     "author": "Copyright 2010-2018 James A. Hinds: St. John's Jim -- King of Cascadia",
@@ -1357,11 +1175,7 @@
     "headlines": [],
     "tags": [],
     "snippets": "{\"first name\":\"first name\"}",
-    "memberOf": [
-      "GUNAS",
-      "TAROT",
-      "PDX"
-    ],
+    "memberOf": ["GUNAS", "TAROT", "PDX"],
     "published": "2011-01-14T17:22:28.000Z",
     "embargo": "2017-12-31T23:59:59.000Z",
     "author": "Copyright 2010-2018 James A. Hinds: St. John's Jim -- King of Cascadia",
@@ -1379,9 +1193,7 @@
     "headlines": [],
     "tags": [],
     "snippets": "{\"sw#k\":\"sw#k\",\"sw#1\":\"sw#1\",\"sw#2\":\"sw#2\",\"sw#3\":\"sw#3\",\"sw#4\":\"sw#4\",\"sw#5\":\"sw#5\",\"sw#6\":\"sw#6\",\"sw#7\":\"sw#7\",\"sw#8\":\"sw#8\",\"sw#9\":\"sw#9\",\"sw#10\":\"sw#10\",\"kp\":\"kp\"}",
-    "memberOf": [
-      "TAROT"
-    ],
+    "memberOf": ["TAROT"],
     "published": "2011-11-12T12:20:40.000Z",
     "embargo": "2017-12-31T23:59:59.000Z",
     "author": "Copyright 2010-2018 James A. Hinds: St. John's Jim -- King of Cascadia",
@@ -1399,9 +1211,7 @@
     "headlines": [],
     "tags": [],
     "snippets": "{}",
-    "memberOf": [
-      "GUNAS"
-    ],
+    "memberOf": ["GUNAS"],
     "published": "2011-02-11T20:22:04.000Z",
     "embargo": "2017-12-31T23:59:59.000Z",
     "author": "Copyright 2010-2018 James A. Hinds: St. John's Jim -- King of Cascadia",
@@ -1419,9 +1229,7 @@
     "headlines": [],
     "tags": [],
     "snippets": "{}",
-    "memberOf": [
-      "TAROT"
-    ],
+    "memberOf": ["TAROT"],
     "published": "2010-12-18T19:03:40.000Z",
     "embargo": "2017-12-31T23:59:59.000Z",
     "author": "Copyright 2010-2018 James A. Hinds: St. John's Jim -- King of Cascadia",
@@ -1439,10 +1247,7 @@
     "headlines": [],
     "tags": [],
     "snippets": "{}",
-    "memberOf": [
-      "GUNAS",
-      "TAROT"
-    ],
+    "memberOf": ["GUNAS", "TAROT"],
     "published": "2010-12-05T17:00:57.000Z",
     "embargo": "2017-12-31T23:59:59.000Z",
     "author": "Copyright 2010-2018 James A. Hinds: St. John's Jim -- King of Cascadia",
@@ -1460,11 +1265,7 @@
     "headlines": [],
     "tags": [],
     "snippets": "{\"first name\":\"first name\"}",
-    "memberOf": [
-      "GUNAS",
-      "TAROT",
-      "PDX"
-    ],
+    "memberOf": ["GUNAS", "TAROT", "PDX"],
     "published": "2011-05-09T14:46:45.000Z",
     "embargo": "2017-12-31T23:59:59.000Z",
     "author": "Copyright 2010-2018 James A. Hinds: St. John's Jim -- King of Cascadia",
@@ -1482,9 +1283,7 @@
     "headlines": [],
     "tags": [],
     "snippets": "{}",
-    "memberOf": [
-      "TAROT"
-    ],
+    "memberOf": ["TAROT"],
     "published": "2011-04-29T17:14:22.000Z",
     "embargo": "2017-12-31T23:59:59.000Z",
     "author": "Copyright 2010-2018 James A. Hinds: St. John's Jim -- King of Cascadia",
@@ -1502,9 +1301,7 @@
     "headlines": [],
     "tags": [],
     "snippets": "{\"first name\":\"first name\"}",
-    "memberOf": [
-      "TAROT"
-    ],
+    "memberOf": ["TAROT"],
     "published": "2010-12-24T16:17:49.000Z",
     "embargo": "2017-12-31T23:59:59.000Z",
     "author": "Copyright 2010-2018 James A. Hinds: St. John's Jim -- King of Cascadia",
@@ -1522,10 +1319,7 @@
     "headlines": [],
     "tags": [],
     "snippets": "{}",
-    "memberOf": [
-      "GUNAS",
-      "TAROT"
-    ],
+    "memberOf": ["GUNAS", "TAROT"],
     "published": "2010-12-04T17:53:07.000Z",
     "embargo": "2017-12-31T23:59:59.000Z",
     "author": "Copyright 2010-2018 James A. Hinds: St. John's Jim -- King of Cascadia",
@@ -1543,10 +1337,7 @@
     "headlines": [],
     "tags": [],
     "snippets": "{}",
-    "memberOf": [
-      "TAROT",
-      "PDX"
-    ],
+    "memberOf": ["TAROT", "PDX"],
     "published": "2011-07-10T15:33:31.000Z",
     "embargo": "2017-12-31T23:59:59.000Z",
     "author": "Copyright 2010-2018 James A. Hinds: St. John's Jim -- King of Cascadia",
@@ -1564,11 +1355,7 @@
     "headlines": [],
     "tags": [],
     "snippets": "{\"first name\":\"first name\",\"roger\":\"roger\"}",
-    "memberOf": [
-      "GUNAS",
-      "TAROT",
-      "PDX"
-    ],
+    "memberOf": ["GUNAS", "TAROT", "PDX"],
     "published": "2010-10-02T16:19:46.000Z",
     "embargo": "2017-12-31T23:59:59.000Z",
     "author": "Copyright 2010-2018 James A. Hinds: St. John's Jim -- King of Cascadia",
@@ -1586,11 +1373,7 @@
     "headlines": [],
     "tags": [],
     "snippets": "{\"first name\":\"first name\"}",
-    "memberOf": [
-      "GUNAS",
-      "TAROT",
-      "PDX"
-    ],
+    "memberOf": ["GUNAS", "TAROT", "PDX"],
     "published": "2010-11-20T18:57:43.000Z",
     "embargo": "2017-12-31T23:59:59.000Z",
     "author": "Copyright 2010-2018 James A. Hinds: St. John's Jim -- King of Cascadia",
@@ -1608,11 +1391,7 @@
     "headlines": [],
     "tags": [],
     "snippets": "{\"first name\":\"first name\"}",
-    "memberOf": [
-      "GUNAS",
-      "TAROT",
-      "PDX"
-    ],
+    "memberOf": ["GUNAS", "TAROT", "PDX"],
     "published": "2010-10-31T16:39:16.000Z",
     "embargo": "2017-12-31T23:59:59.000Z",
     "author": "Copyright 2010-2018 James A. Hinds: St. John's Jim -- King of Cascadia",
@@ -1648,11 +1427,7 @@
     "headlines": [],
     "tags": [],
     "snippets": "{\"first name\":\"first name\"}",
-    "memberOf": [
-      "GUNAS",
-      "TAROT",
-      "PDX"
-    ],
+    "memberOf": ["GUNAS", "TAROT", "PDX"],
     "published": "2010-11-16T17:10:37.000Z",
     "embargo": "2017-12-31T23:59:59.000Z",
     "author": "Copyright 2010-2018 James A. Hinds: St. John's Jim -- King of Cascadia",
@@ -1670,11 +1445,7 @@
     "headlines": [],
     "tags": [],
     "snippets": "{\"first name\":\"first name\"}",
-    "memberOf": [
-      "TAO",
-      "GUNAS",
-      "TAROT"
-    ],
+    "memberOf": ["TAO", "GUNAS", "TAROT"],
     "published": "2011-06-19T22:08:58.000Z",
     "embargo": "2017-12-31T23:59:59.000Z",
     "author": "Copyright 2010-2018 James A. Hinds: St. John's Jim -- King of Cascadia",
@@ -1692,11 +1463,7 @@
     "headlines": [],
     "tags": [],
     "snippets": "{\"first name\":\"first name\"}",
-    "memberOf": [
-      "TAO",
-      "GUNAS",
-      "TAROT"
-    ],
+    "memberOf": ["TAO", "GUNAS", "TAROT"],
     "published": "2011-03-02T17:02:11.000Z",
     "embargo": "2017-12-31T23:59:59.000Z",
     "author": "Copyright 2010-2018 James A. Hinds: St. John's Jim -- King of Cascadia",
@@ -1714,9 +1481,7 @@
     "headlines": [],
     "tags": [],
     "snippets": "{}",
-    "memberOf": [
-      "TAROT"
-    ],
+    "memberOf": ["TAROT"],
     "published": "2011-11-13T13:33:34.000Z",
     "embargo": "2017-12-31T23:59:59.000Z",
     "author": "Copyright 2010-2018 James A. Hinds: St. John's Jim -- King of Cascadia",
@@ -1734,9 +1499,7 @@
     "headlines": [],
     "tags": [],
     "snippets": "{\"first name\":\"first name\",\"sms,soto\":\"sms,soto\",\"sms,voce\":\"sms,voce\"}",
-    "memberOf": [
-      "TAROT"
-    ],
+    "memberOf": ["TAROT"],
     "published": "2010-12-12T18:03:03.000Z",
     "embargo": "2017-12-31T23:59:59.000Z",
     "author": "Copyright 2010-2018 James A. Hinds: St. John's Jim -- King of Cascadia",
@@ -1754,9 +1517,7 @@
     "headlines": [],
     "tags": [],
     "snippets": "{\"first name\":\"first name\"}",
-    "memberOf": [
-      "PDX"
-    ],
+    "memberOf": ["PDX"],
     "published": "2011-09-08T14:42:00.000Z",
     "embargo": "2017-12-31T23:59:59.000Z",
     "author": "Copyright 2010-2018 James A. Hinds: St. John's Jim -- King of Cascadia",
@@ -1774,11 +1535,7 @@
     "headlines": [],
     "tags": [],
     "snippets": "{\"first name\":\"first name\"}",
-    "memberOf": [
-      "GUNAS",
-      "TAROT",
-      "PDX"
-    ],
+    "memberOf": ["GUNAS", "TAROT", "PDX"],
     "published": "2010-10-22T12:53:09.000Z",
     "embargo": "2017-12-31T23:59:59.000Z",
     "author": "Copyright 2010-2018 James A. Hinds: St. John's Jim -- King of Cascadia",
@@ -1796,10 +1553,7 @@
     "headlines": [],
     "tags": [],
     "snippets": "{}",
-    "memberOf": [
-      "GUNAS",
-      "TAROT"
-    ],
+    "memberOf": ["GUNAS", "TAROT"],
     "published": "2010-10-24T10:47:53.000Z",
     "embargo": "2017-12-31T23:59:59.000Z",
     "author": "Copyright 2010-2018 James A. Hinds: St. John's Jim -- King of Cascadia",
@@ -1817,9 +1571,7 @@
     "headlines": [],
     "tags": [],
     "snippets": "{}",
-    "memberOf": [
-      "GUNAS"
-    ],
+    "memberOf": ["GUNAS"],
     "published": "2011-10-03T11:38:43.000Z",
     "embargo": "2017-12-31T23:59:59.000Z",
     "author": "Copyright 2010-2018 James A. Hinds: St. John's Jim -- King of Cascadia",
@@ -1837,9 +1589,7 @@
     "headlines": [],
     "tags": [],
     "snippets": "{\"rogerobt\":\"rogerobt\"}",
-    "memberOf": [
-      "GUNAS"
-    ],
+    "memberOf": ["GUNAS"],
     "published": "2011-09-03T15:37:17.000Z",
     "embargo": "2017-12-31T23:59:59.000Z",
     "author": "Copyright 2010-2018 James A. Hinds: St. John's Jim -- King of Cascadia",
@@ -1857,9 +1607,7 @@
     "headlines": [],
     "tags": [],
     "snippets": "{\"first name\":\"first name\",\"rogerobt\":\"rogerobt\",\"death\":\"death\"}",
-    "memberOf": [
-      "GUNAS"
-    ],
+    "memberOf": ["GUNAS"],
     "published": "2011-09-03T15:39:25.000Z",
     "embargo": "2017-12-31T23:59:59.000Z",
     "author": "Copyright 2010-2018 James A. Hinds: St. John's Jim -- King of Cascadia",
@@ -1877,9 +1625,7 @@
     "headlines": [],
     "tags": [],
     "snippets": "{\"first name\":\"first name\"}",
-    "memberOf": [
-      "GUNAS"
-    ],
+    "memberOf": ["GUNAS"],
     "published": "2011-04-13T18:24:09.000Z",
     "embargo": "2017-12-31T23:59:59.000Z",
     "author": "Copyright 2010-2018 James A. Hinds: St. John's Jim -- King of Cascadia",
@@ -1915,10 +1661,7 @@
     "headlines": [],
     "tags": [],
     "snippets": "{}",
-    "memberOf": [
-      "GUNAS",
-      "TAROT"
-    ],
+    "memberOf": ["GUNAS", "TAROT"],
     "published": "2010-12-13T19:59:57.000Z",
     "embargo": "2017-12-31T23:59:59.000Z",
     "author": "Copyright 2010-2018 James A. Hinds: St. John's Jim -- King of Cascadia",
@@ -1936,10 +1679,7 @@
     "headlines": [],
     "tags": [],
     "snippets": "{\"first name\":\"first name\"}",
-    "memberOf": [
-      "GUNAS",
-      "TAROT"
-    ],
+    "memberOf": ["GUNAS", "TAROT"],
     "published": "2010-12-06T16:56:56.000Z",
     "embargo": "2017-12-31T23:59:59.000Z",
     "author": "Copyright 2010-2018 James A. Hinds: St. John's Jim -- King of Cascadia",
@@ -1957,12 +1697,7 @@
     "headlines": [],
     "tags": [],
     "snippets": "{}",
-    "memberOf": [
-      "TAO",
-      "GUNAS",
-      "TAROT",
-      "PDX"
-    ],
+    "memberOf": ["TAO", "GUNAS", "TAROT", "PDX"],
     "published": "2010-10-24T15:14:07.000Z",
     "embargo": "2017-12-31T23:59:59.000Z",
     "author": "Copyright 2010-2018 James A. Hinds: St. John's Jim -- King of Cascadia",
@@ -1980,11 +1715,7 @@
     "headlines": [],
     "tags": [],
     "snippets": "{}",
-    "memberOf": [
-      "GUNAS",
-      "TAROT",
-      "PDX"
-    ],
+    "memberOf": ["GUNAS", "TAROT", "PDX"],
     "published": "2011-07-01T17:59:43.000Z",
     "embargo": "2017-12-31T23:59:59.000Z",
     "author": "Copyright 2010-2018 James A. Hinds: St. John's Jim -- King of Cascadia",
@@ -2002,10 +1733,7 @@
     "headlines": [],
     "tags": [],
     "snippets": "{}",
-    "memberOf": [
-      "GUNAS",
-      "TAROT"
-    ],
+    "memberOf": ["GUNAS", "TAROT"],
     "published": "2011-07-04T15:29:40.000Z",
     "embargo": "2017-12-31T23:59:59.000Z",
     "author": "Copyright 2010-2018 James A. Hinds: St. John's Jim -- King of Cascadia",
@@ -2023,12 +1751,7 @@
     "headlines": [],
     "tags": [],
     "snippets": "{}",
-    "memberOf": [
-      "TAO",
-      "GUNAS",
-      "TAROT",
-      "PDX"
-    ],
+    "memberOf": ["TAO", "GUNAS", "TAROT", "PDX"],
     "published": "2011-06-11T14:27:21.000Z",
     "embargo": "2017-12-31T23:59:59.000Z",
     "author": "Copyright 2010-2018 James A. Hinds: St. John's Jim -- King of Cascadia",
@@ -2046,11 +1769,7 @@
     "headlines": [],
     "tags": [],
     "snippets": "{\"first name\":\"first name\"}",
-    "memberOf": [
-      "GUNAS",
-      "TAROT",
-      "PDX"
-    ],
+    "memberOf": ["GUNAS", "TAROT", "PDX"],
     "published": "2010-10-13T12:40:30.000Z",
     "embargo": "2017-12-31T23:59:59.000Z",
     "author": "Copyright 2010-2018 James A. Hinds: St. John's Jim -- King of Cascadia",
@@ -2068,9 +1787,7 @@
     "headlines": [],
     "tags": [],
     "snippets": "{}",
-    "memberOf": [
-      "TAROT"
-    ],
+    "memberOf": ["TAROT"],
     "published": "2010-12-02T17:56:03.000Z",
     "embargo": "2017-12-31T23:59:59.000Z",
     "author": "Copyright 2010-2018 James A. Hinds: St. John's Jim -- King of Cascadia",
@@ -2088,10 +1805,7 @@
     "headlines": [],
     "tags": [],
     "snippets": "{\"first name\":\"first name\"}",
-    "memberOf": [
-      "GUNAS",
-      "TAROT"
-    ],
+    "memberOf": ["GUNAS", "TAROT"],
     "published": "2010-11-30T17:40:19.000Z",
     "embargo": "2017-12-31T23:59:59.000Z",
     "author": "Copyright 2010-2018 James A. Hinds: St. John's Jim -- King of Cascadia",
@@ -2109,11 +1823,7 @@
     "headlines": [],
     "tags": [],
     "snippets": "{}",
-    "memberOf": [
-      "GUNAS",
-      "TAROT",
-      "PDX"
-    ],
+    "memberOf": ["GUNAS", "TAROT", "PDX"],
     "published": "2010-10-28T18:51:44.000Z",
     "embargo": "2017-12-31T23:59:59.000Z",
     "author": "Copyright 2010-2018 James A. Hinds: St. John's Jim -- King of Cascadia",
@@ -2131,10 +1841,7 @@
     "headlines": [],
     "tags": [],
     "snippets": "{}",
-    "memberOf": [
-      "GUNAS",
-      "TAROT"
-    ],
+    "memberOf": ["GUNAS", "TAROT"],
     "published": "2011-04-06T15:02:53.000Z",
     "embargo": "2017-12-31T23:59:59.000Z",
     "author": "Copyright 2010-2018 James A. Hinds: St. John's Jim -- King of Cascadia",
@@ -2152,11 +1859,7 @@
     "headlines": [],
     "tags": [],
     "snippets": "{\"first name\":\"first name\"}",
-    "memberOf": [
-      "GUNAS",
-      "TAROT",
-      "PDX"
-    ],
+    "memberOf": ["GUNAS", "TAROT", "PDX"],
     "published": "2011-01-27T21:28:28.000Z",
     "embargo": "2017-12-31T23:59:59.000Z",
     "author": "Copyright 2010-2018 James A. Hinds: St. John's Jim -- King of Cascadia",
@@ -2174,10 +1877,7 @@
     "headlines": [],
     "tags": [],
     "snippets": "{}",
-    "memberOf": [
-      "GUNAS",
-      "TAROT"
-    ],
+    "memberOf": ["GUNAS", "TAROT"],
     "published": "2010-11-13T18:15:27.000Z",
     "embargo": "2017-12-31T23:59:59.000Z",
     "author": "Copyright 2010-2018 James A. Hinds: St. John's Jim -- King of Cascadia",
@@ -2195,11 +1895,7 @@
     "headlines": [],
     "tags": [],
     "snippets": "{\"first name\":\"first name\"}",
-    "memberOf": [
-      "GUNAS",
-      "TAROT",
-      "PDX"
-    ],
+    "memberOf": ["GUNAS", "TAROT", "PDX"],
     "published": "2010-10-08T12:37:00.000Z",
     "embargo": "2017-12-31T23:59:59.000Z",
     "author": "Copyright 2010-2018 James A. Hinds: St. John's Jim -- King of Cascadia",
@@ -2217,9 +1913,7 @@
     "headlines": [],
     "tags": [],
     "snippets": "{}",
-    "memberOf": [
-      "TAROT"
-    ],
+    "memberOf": ["TAROT"],
     "published": "2011-06-05T21:26:04.000Z",
     "embargo": "2017-12-31T23:59:59.000Z",
     "author": "Copyright 2010-2018 James A. Hinds: St. John's Jim -- King of Cascadia",
@@ -2237,9 +1931,7 @@
     "headlines": [],
     "tags": [],
     "snippets": "{\"first name\":\"first name\"}",
-    "memberOf": [
-      "TAROT"
-    ],
+    "memberOf": ["TAROT"],
     "published": "2010-11-08T11:41:53.000Z",
     "embargo": "2017-12-31T23:59:59.000Z",
     "author": "Copyright 2010-2018 James A. Hinds: St. John's Jim -- King of Cascadia",
@@ -2257,9 +1949,7 @@
     "headlines": [],
     "tags": [],
     "snippets": "{}",
-    "memberOf": [
-      "PDX"
-    ],
+    "memberOf": ["PDX"],
     "published": "2010-10-27T23:55:34.000Z",
     "embargo": "2017-12-31T23:59:59.000Z",
     "author": "Copyright 2010-2018 James A. Hinds: St. John's Jim -- King of Cascadia",
@@ -2277,9 +1967,7 @@
     "headlines": [],
     "tags": [],
     "snippets": "{}",
-    "memberOf": [
-      "PDX"
-    ],
+    "memberOf": ["PDX"],
     "published": "2011-01-02T12:25:56.000Z",
     "embargo": "2017-12-31T23:59:59.000Z",
     "author": "Copyright 2010-2018 James A. Hinds: St. John's Jim -- King of Cascadia",
@@ -2297,9 +1985,7 @@
     "headlines": [],
     "tags": [],
     "snippets": "{\"first name\":\"first name\"}",
-    "memberOf": [
-      "TAROT"
-    ],
+    "memberOf": ["TAROT"],
     "published": "2011-03-10T21:52:38.000Z",
     "embargo": "2017-12-31T23:59:59.000Z",
     "author": "Copyright 2010-2018 James A. Hinds: St. John's Jim -- King of Cascadia",
@@ -2317,10 +2003,7 @@
     "headlines": [],
     "tags": [],
     "snippets": "{}",
-    "memberOf": [
-      "TAROT",
-      "PDX"
-    ],
+    "memberOf": ["TAROT", "PDX"],
     "published": "2010-10-07T16:08:50.000Z",
     "embargo": "2017-12-31T23:59:59.000Z",
     "author": "Copyright 2010-2018 James A. Hinds: St. John's Jim -- King of Cascadia",
@@ -2338,9 +2021,7 @@
     "headlines": [],
     "tags": [],
     "snippets": "{}",
-    "memberOf": [
-      "TAROT"
-    ],
+    "memberOf": ["TAROT"],
     "published": "2011-10-16T12:11:34.000Z",
     "embargo": "2017-12-31T23:59:59.000Z",
     "author": "Copyright 2010-2018 James A. Hinds: St. John's Jim -- King of Cascadia",
@@ -2358,10 +2039,7 @@
     "headlines": [],
     "tags": [],
     "snippets": "{\"tmyweb\":\"tmyweb\"}",
-    "memberOf": [
-      "GUNAS",
-      "TAROT"
-    ],
+    "memberOf": ["GUNAS", "TAROT"],
     "published": "2011-10-17T17:27:04.000Z",
     "embargo": "2017-12-31T23:59:59.000Z",
     "author": "Copyright 2010-2018 James A. Hinds: St. John's Jim -- King of Cascadia",
@@ -2379,11 +2057,7 @@
     "headlines": [],
     "tags": [],
     "snippets": "{\"first name\":\"first name\"}",
-    "memberOf": [
-      "GUNAS",
-      "TAROT",
-      "PDX"
-    ],
+    "memberOf": ["GUNAS", "TAROT", "PDX"],
     "published": "2011-01-04T21:45:14.000Z",
     "embargo": "2017-12-31T23:59:59.000Z",
     "author": "Copyright 2010-2018 James A. Hinds: St. John's Jim -- King of Cascadia",
@@ -2398,9 +2072,7 @@
     "site": "stjohnsjim",
     "accepted": true,
     "index": false,
-    "headlines": [
-      "Girl Power!"
-    ],
+    "headlines": ["Girl Power!"],
     "tags": [],
     "snippets": "{}",
     "memberOf": [],
@@ -2421,9 +2093,7 @@
     "headlines": [],
     "tags": [],
     "snippets": "{}",
-    "memberOf": [
-      "TAROT"
-    ],
+    "memberOf": ["TAROT"],
     "published": "2011-11-13T12:24:20.000Z",
     "embargo": "2017-12-31T23:59:59.000Z",
     "author": "Copyright 2010-2018 James A. Hinds: St. John's Jim -- King of Cascadia",
@@ -2441,10 +2111,7 @@
     "headlines": [],
     "tags": [],
     "snippets": "{}",
-    "memberOf": [
-      "GUNAS",
-      "TAROT"
-    ],
+    "memberOf": ["GUNAS", "TAROT"],
     "published": "2010-12-11T20:04:34.000Z",
     "embargo": "2017-12-31T23:59:59.000Z",
     "author": "Copyright 2010-2018 James A. Hinds: St. John's Jim -- King of Cascadia",
@@ -2462,11 +2129,7 @@
     "headlines": [],
     "tags": [],
     "snippets": "{}",
-    "memberOf": [
-      "GUNAS",
-      "TAROT",
-      "PDX"
-    ],
+    "memberOf": ["GUNAS", "TAROT", "PDX"],
     "published": "2010-11-25T17:11:21.000Z",
     "embargo": "2017-12-31T23:59:59.000Z",
     "author": "Copyright 2010-2018 James A. Hinds: St. John's Jim -- King of Cascadia",
@@ -2484,9 +2147,7 @@
     "headlines": [],
     "tags": [],
     "snippets": "{\"first name\":\"first name\"}",
-    "memberOf": [
-      "TAROT"
-    ],
+    "memberOf": ["TAROT"],
     "published": "2011-05-25T18:26:37.000Z",
     "embargo": "2017-12-31T23:59:59.000Z",
     "author": "Copyright 2010-2018 James A. Hinds: St. John's Jim -- King of Cascadia",
@@ -2522,11 +2183,7 @@
     "headlines": [],
     "tags": [],
     "snippets": "{\"first name\":\"first name\"}",
-    "memberOf": [
-      "GUNAS",
-      "TAROT",
-      "PDX"
-    ],
+    "memberOf": ["GUNAS", "TAROT", "PDX"],
     "published": "2010-11-02T17:29:19.000Z",
     "embargo": "2017-12-31T23:59:59.000Z",
     "author": "Copyright 2010-2018 James A. Hinds: St. John's Jim -- King of Cascadia",
@@ -2544,10 +2201,7 @@
     "headlines": [],
     "tags": [],
     "snippets": "{\"first name\":\"first name\"}",
-    "memberOf": [
-      "TAROT",
-      "PDX"
-    ],
+    "memberOf": ["TAROT", "PDX"],
     "published": "2011-08-20T17:19:30.000Z",
     "embargo": "2017-12-31T23:59:59.000Z",
     "author": "Copyright 2010-2018 James A. Hinds: St. John's Jim -- King of Cascadia",
@@ -2565,9 +2219,7 @@
     "headlines": [],
     "tags": [],
     "snippets": "{}",
-    "memberOf": [
-      "TAROT"
-    ],
+    "memberOf": ["TAROT"],
     "published": "2011-10-11T16:04:31.000Z",
     "embargo": "2017-12-31T23:59:59.000Z",
     "author": "Copyright 2010-2018 James A. Hinds: St. John's Jim -- King of Cascadia",
@@ -2585,9 +2237,7 @@
     "headlines": [],
     "tags": [],
     "snippets": "{\"first name\":\"first name\",\"fbgender\":\"fbgender\",\"tcreturn\":\"tcreturn\"}",
-    "memberOf": [
-      "TAROT"
-    ],
+    "memberOf": ["TAROT"],
     "published": "2011-10-10T13:47:35.000Z",
     "embargo": "2017-12-31T23:59:59.000Z",
     "author": "Copyright 2010-2018 James A. Hinds: St. John's Jim -- King of Cascadia",
@@ -2605,10 +2255,7 @@
     "headlines": [],
     "tags": [],
     "snippets": "{\"first name\":\"first name\"}",
-    "memberOf": [
-      "TAO",
-      "TAROT"
-    ],
+    "memberOf": ["TAO", "TAROT"],
     "published": "2011-02-04T16:38:58.000Z",
     "embargo": "2017-12-31T23:59:59.000Z",
     "author": "Copyright 2010-2018 James A. Hinds: St. John's Jim -- King of Cascadia",
@@ -2626,9 +2273,7 @@
     "headlines": [],
     "tags": [],
     "snippets": "{}",
-    "memberOf": [
-      "TAROT"
-    ],
+    "memberOf": ["TAROT"],
     "published": "2011-12-25T15:25:49.000Z",
     "embargo": "2017-12-31T23:59:59.000Z",
     "author": "Copyright 2010-2018 James A. Hinds: St. John's Jim -- King of Cascadia",
@@ -2646,9 +2291,7 @@
     "headlines": [],
     "tags": [],
     "snippets": "{}",
-    "memberOf": [
-      "TAROT"
-    ],
+    "memberOf": ["TAROT"],
     "published": "2010-11-16T17:10:37.000Z",
     "embargo": "2017-12-31T23:59:59.000Z",
     "author": "Copyright 2010-2018 James A. Hinds: St. John's Jim -- King of Cascadia",
@@ -2666,9 +2309,7 @@
     "headlines": [],
     "tags": [],
     "snippets": "{\"dizzy\":\"dizzy\",\"contact\":\"contact\"}",
-    "memberOf": [
-      "TAROT"
-    ],
+    "memberOf": ["TAROT"],
     "published": "2011-08-30T14:55:31.000Z",
     "embargo": "2017-12-31T23:59:59.000Z",
     "author": "Copyright 2010-2018 James A. Hinds: St. John's Jim -- King of Cascadia",
@@ -2704,9 +2345,7 @@
     "headlines": [],
     "tags": [],
     "snippets": "{}",
-    "memberOf": [
-      "TAROT"
-    ],
+    "memberOf": ["TAROT"],
     "published": "2011-05-29T16:52:37.000Z",
     "embargo": "2017-12-31T23:59:59.000Z",
     "author": "Copyright 2010-2018 James A. Hinds: St. John's Jim -- King of Cascadia",
@@ -2727,9 +2366,7 @@
     ],
     "tags": [],
     "snippets": "{}",
-    "memberOf": [
-      "TAO"
-    ],
+    "memberOf": ["TAO"],
     "published": "2011-08-05T18:54:38.000Z",
     "embargo": "2016-04-15T00:00:00.000Z",
     "author": "Copyright 2010-2018 James A. Hinds: St. John's Jim -- King of Cascadia",
@@ -2747,11 +2384,7 @@
     "headlines": [],
     "tags": [],
     "snippets": "{\"first name\":\"first name\"}",
-    "memberOf": [
-      "GUNAS",
-      "TAROT",
-      "PDX"
-    ],
+    "memberOf": ["GUNAS", "TAROT", "PDX"],
     "published": "2010-11-21T11:17:20.000Z",
     "embargo": "2017-12-31T23:59:59.000Z",
     "author": "Copyright 2010-2018 James A. Hinds: St. John's Jim -- King of Cascadia",
@@ -2769,11 +2402,7 @@
     "headlines": [],
     "tags": [],
     "snippets": "{\"first name\":\"first name\"}",
-    "memberOf": [
-      "GUNAS",
-      "TAROT",
-      "PDX"
-    ],
+    "memberOf": ["GUNAS", "TAROT", "PDX"],
     "published": "2010-11-21T11:17:30.000Z",
     "embargo": "2017-12-31T23:59:59.000Z",
     "author": "Copyright 2010-2018 James A. Hinds: St. John's Jim -- King of Cascadia",
@@ -2791,11 +2420,7 @@
     "headlines": [],
     "tags": [],
     "snippets": "{\"first name\":\"first name\"}",
-    "memberOf": [
-      "GUNAS",
-      "TAROT",
-      "PDX"
-    ],
+    "memberOf": ["GUNAS", "TAROT", "PDX"],
     "published": "2010-11-21T11:17:38.000Z",
     "embargo": "2017-12-31T23:59:59.000Z",
     "author": "Copyright 2010-2018 James A. Hinds: St. John's Jim -- King of Cascadia",
@@ -2835,9 +2460,7 @@
     "headlines": [],
     "tags": [],
     "snippets": "{}",
-    "memberOf": [
-      "TAROT"
-    ],
+    "memberOf": ["TAROT"],
     "published": "2011-08-24T13:59:37.000Z",
     "embargo": "2017-12-31T23:59:59.000Z",
     "author": "Copyright 2010-2018 James A. Hinds: St. John's Jim -- King of Cascadia",
@@ -2855,9 +2478,7 @@
     "headlines": [],
     "tags": [],
     "snippets": "{}",
-    "memberOf": [
-      "PDX"
-    ],
+    "memberOf": ["PDX"],
     "published": "2010-10-16T16:47:35.000Z",
     "embargo": "2017-12-31T23:59:59.000Z",
     "author": "Copyright 2010-2018 James A. Hinds: St. John's Jim -- King of Cascadia",
@@ -2875,9 +2496,7 @@
     "headlines": [],
     "tags": [],
     "snippets": "{}",
-    "memberOf": [
-      "TAROT"
-    ],
+    "memberOf": ["TAROT"],
     "published": "2010-11-16T20:26:40.000Z",
     "embargo": "2017-12-31T23:59:59.000Z",
     "author": "Copyright 2010-2018 James A. Hinds: St. John's Jim -- King of Cascadia",
@@ -2895,9 +2514,7 @@
     "headlines": [],
     "tags": [],
     "snippets": "{}",
-    "memberOf": [
-      "TAROT"
-    ],
+    "memberOf": ["TAROT"],
     "published": "2012-12-12T21:00:20.000Z",
     "embargo": "2017-12-31T23:59:59.000Z",
     "author": "Copyright 2010-2018 James A. Hinds: St. John's Jim -- King of Cascadia",
@@ -2915,10 +2532,7 @@
     "headlines": [],
     "tags": [],
     "snippets": "{\"first name\":\"first name\"}",
-    "memberOf": [
-      "TAROT",
-      "PDX"
-    ],
+    "memberOf": ["TAROT", "PDX"],
     "published": "2010-10-15T12:01:45.000Z",
     "embargo": "2017-12-31T23:59:59.000Z",
     "author": "Copyright 2010-2018 James A. Hinds: St. John's Jim -- King of Cascadia",
@@ -2936,11 +2550,7 @@
     "headlines": [],
     "tags": [],
     "snippets": "{}",
-    "memberOf": [
-      "TAO",
-      "GUNAS",
-      "TAROT"
-    ],
+    "memberOf": ["TAO", "GUNAS", "TAROT"],
     "published": "2010-11-27T17:49:49.000Z",
     "embargo": "2017-12-31T23:59:59.000Z",
     "author": "Copyright 2010-2018 James A. Hinds: St. John's Jim -- King of Cascadia",
@@ -2958,10 +2568,7 @@
     "headlines": [],
     "tags": [],
     "snippets": "{}",
-    "memberOf": [
-      "GUNAS",
-      "TAROT"
-    ],
+    "memberOf": ["GUNAS", "TAROT"],
     "published": "2010-11-19T17:37:39.000Z",
     "embargo": "2017-12-31T23:59:59.000Z",
     "author": "Copyright 2010-2018 James A. Hinds: St. John's Jim -- King of Cascadia",
@@ -2983,9 +2590,7 @@
     ],
     "tags": [],
     "snippets": "{}",
-    "memberOf": [
-      "TAROT"
-    ],
+    "memberOf": ["TAROT"],
     "published": "2010-12-28T22:08:13.000Z",
     "embargo": "2010-12-28T22:08:13.000Z",
     "author": "Copyright 2010-2018 James A. Hinds: St. John's Jim -- King of Cascadia",
@@ -3021,10 +2626,7 @@
     "headlines": [],
     "tags": [],
     "snippets": "{\"author\":\"author\",\"comment,soto\":\"comment,soto\",\"comment,voce\":\"comment,voce\"}",
-    "memberOf": [
-      "GUNAS",
-      "TAROT"
-    ],
+    "memberOf": ["GUNAS", "TAROT"],
     "published": "2011-01-06T21:24:57.000Z",
     "embargo": "2017-12-31T23:59:59.000Z",
     "author": "Copyright 2010-2018 James A. Hinds: St. John's Jim -- King of Cascadia",
@@ -3042,11 +2644,7 @@
     "headlines": [],
     "tags": [],
     "snippets": "{\"first name\":\"first name\",\"rogerobt\":\"rogerobt\",\"comment,soto\":\"comment,soto\",\"comment,voce\":\"comment,voce\",\"author\":\"author\"}",
-    "memberOf": [
-      "TAO",
-      "GUNAS",
-      "TAROT"
-    ],
+    "memberOf": ["TAO", "GUNAS", "TAROT"],
     "published": "2011-04-12T18:26:36.000Z",
     "embargo": "2017-12-31T23:59:59.000Z",
     "author": "Copyright 2010-2018 James A. Hinds: St. John's Jim -- King of Cascadia",
@@ -3064,10 +2662,7 @@
     "headlines": [],
     "tags": [],
     "snippets": "{\"first name\":\"first name\"}",
-    "memberOf": [
-      "TAROT",
-      "PDX"
-    ],
+    "memberOf": ["TAROT", "PDX"],
     "published": "2010-10-15T14:19:46.000Z",
     "embargo": "2017-12-31T23:59:59.000Z",
     "author": "Copyright 2010-2018 James A. Hinds: St. John's Jim -- King of Cascadia",
@@ -3085,11 +2680,7 @@
     "headlines": [],
     "tags": [],
     "snippets": "{\"first name\":\"first name\"}",
-    "memberOf": [
-      "GUNAS",
-      "TAROT",
-      "PDX"
-    ],
+    "memberOf": ["GUNAS", "TAROT", "PDX"],
     "published": "2010-11-28T17:00:47.000Z",
     "embargo": "2017-12-31T23:59:59.000Z",
     "author": "Copyright 2010-2018 James A. Hinds: St. John's Jim -- King of Cascadia",
@@ -3107,11 +2698,7 @@
     "headlines": [],
     "tags": [],
     "snippets": "{\"First Name\":\"First Name\"}",
-    "memberOf": [
-      "GUNAS",
-      "TAROT",
-      "PDX"
-    ],
+    "memberOf": ["GUNAS", "TAROT", "PDX"],
     "published": "2010-10-07T16:38:29.000Z",
     "embargo": "2017-12-31T23:59:59.000Z",
     "author": "Copyright 2010-2018 James A. Hinds: St. John's Jim -- King of Cascadia",
@@ -3129,11 +2716,7 @@
     "headlines": [],
     "tags": [],
     "snippets": "{\"first name\":\"first name\"}",
-    "memberOf": [
-      "GUNAS",
-      "TAROT",
-      "PDX"
-    ],
+    "memberOf": ["GUNAS", "TAROT", "PDX"],
     "published": "2010-10-24T10:47:55.000Z",
     "embargo": "2017-12-31T23:59:59.000Z",
     "author": "Copyright 2010-2018 James A. Hinds: St. John's Jim -- King of Cascadia",
@@ -3151,9 +2734,7 @@
     "headlines": [],
     "tags": [],
     "snippets": "{}",
-    "memberOf": [
-      "TAROT"
-    ],
+    "memberOf": ["TAROT"],
     "published": "2011-02-02T14:10:42.000Z",
     "embargo": "2017-12-31T23:59:59.000Z",
     "author": "Copyright 2010-2018 James A. Hinds: St. John's Jim -- King of Cascadia",
@@ -3171,10 +2752,7 @@
     "headlines": [],
     "tags": [],
     "snippets": "{}",
-    "memberOf": [
-      "GUNAS",
-      "TAROT"
-    ],
+    "memberOf": ["GUNAS", "TAROT"],
     "published": "2010-11-07T17:36:36.000Z",
     "embargo": "2017-12-31T23:59:59.000Z",
     "author": "Copyright 2010-2018 James A. Hinds: St. John's Jim -- King of Cascadia",
@@ -3192,9 +2770,7 @@
     "headlines": [],
     "tags": [],
     "snippets": "{\"3gunas\":\"3gunas\"}",
-    "memberOf": [
-      "GUNAS"
-    ],
+    "memberOf": ["GUNAS"],
     "published": "2011-10-03T11:53:50.000Z",
     "embargo": "2017-12-31T23:59:59.000Z",
     "author": "Copyright 2010-2018 James A. Hinds: St. John's Jim -- King of Cascadia",
@@ -3212,10 +2788,7 @@
     "headlines": [],
     "tags": [],
     "snippets": "{\"first name\":\"first name\"}",
-    "memberOf": [
-      "GUNAS",
-      "TAROT"
-    ],
+    "memberOf": ["GUNAS", "TAROT"],
     "published": "2010-12-09T17:20:23.000Z",
     "embargo": "2017-12-31T23:59:59.000Z",
     "author": "Copyright 2010-2018 James A. Hinds: St. John's Jim -- King of Cascadia",
@@ -3233,9 +2806,7 @@
     "headlines": [],
     "tags": [],
     "snippets": "{\"3gunas\":\"3gunas\"}",
-    "memberOf": [
-      "GUNAS"
-    ],
+    "memberOf": ["GUNAS"],
     "published": "2011-10-02T12:40:04.000Z",
     "embargo": "2017-12-31T23:59:59.000Z",
     "author": "Copyright 2010-2018 James A. Hinds: St. John's Jim -- King of Cascadia",
@@ -3253,9 +2824,7 @@
     "headlines": [],
     "tags": [],
     "snippets": "{\"first name\":\"first name\"}",
-    "memberOf": [
-      "GUNAS"
-    ],
+    "memberOf": ["GUNAS"],
     "published": "2011-10-19T13:12:27.000Z",
     "embargo": "2017-12-31T23:59:59.000Z",
     "author": "Copyright 2010-2018 James A. Hinds: St. John's Jim -- King of Cascadia",
@@ -3273,9 +2842,7 @@
     "headlines": [],
     "tags": [],
     "snippets": "{}",
-    "memberOf": [
-      "GUNAS"
-    ],
+    "memberOf": ["GUNAS"],
     "published": "2010-10-30T17:18:40.000Z",
     "embargo": "2017-12-31T23:59:59.000Z",
     "author": "Copyright 2010-2018 James A. Hinds: St. John's Jim -- King of Cascadia",
@@ -3311,12 +2878,7 @@
     "headlines": [],
     "tags": [],
     "snippets": "{}",
-    "memberOf": [
-      "TAO",
-      "GUNAS",
-      "TAROT",
-      "PDX"
-    ],
+    "memberOf": ["TAO", "GUNAS", "TAROT", "PDX"],
     "published": "2012-06-01T17:33:14.000Z",
     "embargo": "2017-12-31T23:59:59.000Z",
     "author": "Copyright 2010-2018 James A. Hinds: St. John's Jim -- King of Cascadia",
@@ -3352,9 +2914,7 @@
     "headlines": [],
     "tags": [],
     "snippets": "{\"svtower\":\"svtower\"}",
-    "memberOf": [
-      "TAROT"
-    ],
+    "memberOf": ["TAROT"],
     "published": "2011-10-17T14:00:24.000Z",
     "embargo": "2017-12-31T23:59:59.000Z",
     "author": "Copyright 2010-2018 James A. Hinds: St. John's Jim -- King of Cascadia",
@@ -3377,9 +2937,7 @@
     ],
     "tags": [],
     "snippets": "{}",
-    "memberOf": [
-      "TAROT"
-    ],
+    "memberOf": ["TAROT"],
     "published": "2016-09-19T00:00:00.000Z",
     "embargo": "2016-09-19T00:00:00.000Z",
     "author": "Copyright 2010-2018 James A. Hinds: St. John's Jim -- King of Cascadia",
@@ -3397,9 +2955,7 @@
     "headlines": [],
     "tags": [],
     "snippets": "{}",
-    "memberOf": [
-      "TAROT"
-    ],
+    "memberOf": ["TAROT"],
     "published": "2011-11-13T13:59:28.000Z",
     "embargo": "2017-12-31T23:59:59.000Z",
     "author": "Copyright 2010-2018 James A. Hinds: St. John's Jim -- King of Cascadia",
@@ -3417,10 +2973,7 @@
     "headlines": [],
     "tags": [],
     "snippets": "{}",
-    "memberOf": [
-      "GUNAS",
-      "TAROT"
-    ],
+    "memberOf": ["GUNAS", "TAROT"],
     "published": "2010-11-18T17:25:20.000Z",
     "embargo": "2017-12-31T23:59:59.000Z",
     "author": "Copyright 2010-2018 James A. Hinds: St. John's Jim -- King of Cascadia",
@@ -3456,9 +3009,7 @@
     "headlines": [],
     "tags": [],
     "snippets": "{}",
-    "memberOf": [
-      "TAROT"
-    ],
+    "memberOf": ["TAROT"],
     "published": "2011-05-17T17:48:19.000Z",
     "embargo": "2017-12-31T23:59:59.000Z",
     "author": "Copyright 2010-2018 James A. Hinds: St. John's Jim -- King of Cascadia",
@@ -3476,9 +3027,7 @@
     "headlines": [],
     "tags": [],
     "snippets": "{}",
-    "memberOf": [
-      "TAROT"
-    ],
+    "memberOf": ["TAROT"],
     "published": "2010-12-10T17:54:37.000Z",
     "embargo": "2017-12-31T23:59:59.000Z",
     "author": "Copyright 2010-2018 James A. Hinds: St. John's Jim -- King of Cascadia",
@@ -3496,10 +3045,7 @@
     "headlines": [],
     "tags": [],
     "snippets": "{\"first name\":\"first name\"}",
-    "memberOf": [
-      "TAO",
-      "TAROT"
-    ],
+    "memberOf": ["TAO", "TAROT"],
     "published": "2011-02-09T20:54:29.000Z",
     "embargo": "2017-12-31T23:59:59.000Z",
     "author": "Copyright 2010-2018 James A. Hinds: St. John's Jim -- King of Cascadia",
@@ -3517,10 +3063,7 @@
     "headlines": [],
     "tags": [],
     "snippets": "{\"first name\":\"first name\"}",
-    "memberOf": [
-      "GUNAS",
-      "TAROT"
-    ],
+    "memberOf": ["GUNAS", "TAROT"],
     "published": "2010-12-07T19:56:49.000Z",
     "embargo": "2017-12-31T23:59:59.000Z",
     "author": "Copyright 2010-2018 James A. Hinds: St. John's Jim -- King of Cascadia",
@@ -3538,9 +3081,7 @@
     "headlines": [],
     "tags": [],
     "snippets": "{}",
-    "memberOf": [
-      "TAROT"
-    ],
+    "memberOf": ["TAROT"],
     "published": "2011-08-18T13:43:58.000Z",
     "embargo": "2017-12-31T23:59:59.000Z",
     "author": "Copyright 2010-2018 James A. Hinds: St. John's Jim -- King of Cascadia",
@@ -3558,11 +3099,7 @@
     "headlines": [],
     "tags": [],
     "snippets": "{\"first name\":\"first name\"}",
-    "memberOf": [
-      "GUNAS",
-      "TAROT",
-      "PDX"
-    ],
+    "memberOf": ["GUNAS", "TAROT", "PDX"],
     "published": "2010-11-16T17:10:36.000Z",
     "embargo": "2017-12-31T23:59:59.000Z",
     "author": "Copyright 2010-2018 James A. Hinds: St. John's Jim -- King of Cascadia",

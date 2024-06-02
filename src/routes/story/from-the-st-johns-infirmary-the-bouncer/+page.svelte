@@ -1,7 +1,7 @@
 <script>
-//story/from-the-st-johns-infirmary-the-bouncer
-import Card from '$lib/Card.svelte';
-import storyMeta from './+page.json';
+  //story/from-the-st-johns-infirmary-the-bouncer
+  import Card from '$lib/Card.svelte';
+  import storyMeta from './+page.json';
 </script>
 
 <template lang="pug">

@@ -1,7 +1,7 @@
 <script>
-//story/shanghai-squirrels-poisons-poses-and-the-pioneer
-import Card from '$lib/Card.svelte';
-import storyMeta from './+page.json';
+  //story/shanghai-squirrels-poisons-poses-and-the-pioneer
+  import Card from '$lib/Card.svelte';
+  import storyMeta from './+page.json';
 </script>
 
 <template lang="pug">

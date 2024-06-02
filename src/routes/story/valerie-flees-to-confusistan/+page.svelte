@@ -1,7 +1,7 @@
 <script>
-//story/valerie-flees-to-confusistan
-import Card from '$lib/Card.svelte';
-import storyMeta from './+page.json';
+  //story/valerie-flees-to-confusistan
+  import Card from '$lib/Card.svelte';
+  import storyMeta from './+page.json';
 </script>
 
 <template lang="pug">

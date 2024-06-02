@@ -1,6 +1,7 @@
 <script>
-export let props = {no: "no"};
+  export let props = { no: 'no' };
 </script>
+
 <template lang="pug">
 article
   .card-header
@@ -14,17 +15,17 @@ article
       #bloviation.article-entry.contents(dangerously-set-inner-h-t-m-l='[object Object]')
         slot
 </template>
-<style>
-h2 {
-  margin-bottom: 2px;
-}
-h4 {
-   margin-left:4em;
-}
-article {
-  margin:1em;
-  padding: 2em;
-  background: rgba(100,100,100,.4);
-}
 
+<style>
+  h2 {
+    margin-bottom: 2px;
+  }
+  h4 {
+    margin-left: 4em;
+  }
+  article {
+    margin: 1em;
+    padding: 2em;
+    background: rgba(100, 100, 100, 0.4);
+  }
 </style>

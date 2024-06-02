@@ -1,6 +1,6 @@
 <script>
-  export const identifier = "BambooCanDo";
-  import footerText from "./footerText.txt?raw";
+  export const identifier = 'BambooCanDo';
+  import footerText from './footerText.txt?raw';
 </script>
 
 <template lang="pug">
@@ -29,4 +29,3 @@ footer(class="footer")
     bottom: 0px;
   }
 </style>
-

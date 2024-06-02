@@ -1,7 +1,7 @@
 <script>
-//story/the-ghost-of-gbs-walks-st-johns
-import Card from '$lib/Card.svelte';
-import storyMeta from './+page.json';
+  //story/the-ghost-of-gbs-walks-st-johns
+  import Card from '$lib/Card.svelte';
+  import storyMeta from './+page.json';
 </script>
 
 <template lang="pug">

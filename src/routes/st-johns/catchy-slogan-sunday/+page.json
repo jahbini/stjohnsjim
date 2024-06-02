@@ -8,15 +8,10 @@
     "site": "stjohnsjim",
     "accepted": true,
     "index": false,
-    "headlines": [
-      "Wherin We Meet Bambi Brew"
-    ],
+    "headlines": ["Wherin We Meet Bambi Brew"],
     "tags": [],
     "snippets": "{}",
-    "memberOf": [
-      "GUNAS",
-      "PDX"
-    ],
+    "memberOf": ["GUNAS", "PDX"],
     "published": "2010-10-03T17:41:29.000Z",
     "embargo": "2010-10-03T17:41:29.000Z",
     "author": "Copyright 2010-2018 James A. Hinds: St. John's Jim -- King of Cascadia",

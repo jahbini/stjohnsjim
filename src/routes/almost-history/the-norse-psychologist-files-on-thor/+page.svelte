@@ -1,7 +1,7 @@
 <script>
-//almost-history/the-norse-psychologist-files-on-thor
-import Card from '$lib/Card.svelte';
-import storyMeta from './+page.json';
+  //almost-history/the-norse-psychologist-files-on-thor
+  import Card from '$lib/Card.svelte';
+  import storyMeta from './+page.json';
 </script>
 
 <template lang="pug">

@@ -1,7 +1,7 @@
 <script>
-//pier-park/big-doins-at-the-hooker-derby
-import Card from '$lib/Card.svelte';
-import storyMeta from './+page.json';
+  //pier-park/big-doins-at-the-hooker-derby
+  import Card from '$lib/Card.svelte';
+  import storyMeta from './+page.json';
 </script>
 
 <template lang="pug">

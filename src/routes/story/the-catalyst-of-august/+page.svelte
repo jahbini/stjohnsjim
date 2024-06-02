@@ -1,7 +1,7 @@
 <script>
-//story/the-catalyst-of-august
-import Card from '$lib/Card.svelte';
-import storyMeta from './+page.json';
+  //story/the-catalyst-of-august
+  import Card from '$lib/Card.svelte';
+  import storyMeta from './+page.json';
 </script>
 
 <template lang="pug">

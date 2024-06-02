@@ -11,10 +11,7 @@
     "headlines": [],
     "tags": [],
     "snippets": "{\"first name\":\"first name\"}",
-    "memberOf": [
-      "GUNAS",
-      "TAROT"
-    ],
+    "memberOf": ["GUNAS", "TAROT"],
     "published": "2010-11-30T17:40:19.000Z",
     "embargo": "2017-12-31T23:59:59.000Z",
     "author": "Copyright 2010-2018 James A. Hinds: St. John's Jim -- King of Cascadia",

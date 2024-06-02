@@ -1,7 +1,7 @@
 <script>
-//story/neither-forest-nor-trees-and-sigh-mentors
-import Card from '$lib/Card.svelte';
-import storyMeta from './+page.json';
+  //story/neither-forest-nor-trees-and-sigh-mentors
+  import Card from '$lib/Card.svelte';
+  import storyMeta from './+page.json';
 </script>
 
 <template lang="pug">

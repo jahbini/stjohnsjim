@@ -1,7 +1,7 @@
 <script>
-//party/hearty-boyz
-import Card from '$lib/Card.svelte';
-import storyMeta from './+page.json';
+  //party/hearty-boyz
+  import Card from '$lib/Card.svelte';
+  import storyMeta from './+page.json';
 </script>
 
 <template lang="pug">

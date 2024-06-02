@@ -1,7 +1,7 @@
 <script>
-//story/you-cant-always-get-what-you-want
-import Card from '$lib/Card.svelte';
-import storyMeta from './+page.json';
+  //story/you-cant-always-get-what-you-want
+  import Card from '$lib/Card.svelte';
+  import storyMeta from './+page.json';
 </script>
 
 <template lang="pug">

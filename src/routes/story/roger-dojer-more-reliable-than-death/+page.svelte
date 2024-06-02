@@ -1,7 +1,7 @@
 <script>
-//story/roger-dojer-more-reliable-than-death
-import Card from '$lib/Card.svelte';
-import storyMeta from './+page.json';
+  //story/roger-dojer-more-reliable-than-death
+  import Card from '$lib/Card.svelte';
+  import storyMeta from './+page.json';
 </script>
 
 <template lang="pug">

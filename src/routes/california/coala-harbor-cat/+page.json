@@ -8,16 +8,10 @@
     "site": "stjohnsjim",
     "accepted": true,
     "index": false,
-    "headlines": [
-      "Confrontations with Sea Deamons!",
-      "Cats Adrift!",
-      "Dead Cat Tells All!"
-    ],
+    "headlines": ["Confrontations with Sea Deamons!", "Cats Adrift!", "Dead Cat Tells All!"],
     "tags": [],
     "snippets": "{}",
-    "memberOf": [
-      "GUNAS"
-    ],
+    "memberOf": ["GUNAS"],
     "published": "2011-06-07T17:17:07.000Z",
     "embargo": "2011-06-07T17:17:07.000Z",
     "author": "Copyright 2010-2018 James A. Hinds: St. John's Jim -- King of Cascadia",

@@ -1,7 +1,7 @@
 <script>
-//backstory/tommy-county-or
-import Card from '$lib/Card.svelte';
-import storyMeta from './+page.json';
+  //backstory/tommy-county-or
+  import Card from '$lib/Card.svelte';
+  import storyMeta from './+page.json';
 </script>
 
 <template lang="pug">

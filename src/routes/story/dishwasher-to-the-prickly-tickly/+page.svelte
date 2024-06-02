@@ -1,7 +1,7 @@
 <script>
-//story/dishwasher-to-the-prickly-tickly
-import Card from '$lib/Card.svelte';
-import storyMeta from './+page.json';
+  //story/dishwasher-to-the-prickly-tickly
+  import Card from '$lib/Card.svelte';
+  import storyMeta from './+page.json';
 </script>
 
 <template lang="pug">

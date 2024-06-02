@@ -1,7 +1,7 @@
 <script>
-//story/the-worst-of-plans-the-best-of-plans
-import Card from '$lib/Card.svelte';
-import storyMeta from './+page.json';
+  //story/the-worst-of-plans-the-best-of-plans
+  import Card from '$lib/Card.svelte';
+  import storyMeta from './+page.json';
 </script>
 
 <template lang="pug">

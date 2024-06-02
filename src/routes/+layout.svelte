@@ -1,13 +1,12 @@
 <script>
-// src/routes/+layout.svelte
-let styling = {"palx":"#03c","black":"#000","white":"#fff"};
-import allStories from './allstories.json';
-import stories from './mystories.json?raw';
-const siteHandle = 'stjohnsjim';
-const topDomain = 'stjohnsjim.com';
-import Header from './Header.svelte'
-import Footer from './Footer.svelte'
-import Aside from './Aside.svelte'
+  // src/routes/+layout.svelte
+  let styling = { palx: '#03c', black: '#000', white: '#fff' };
+  import stories from './mystories.json?raw';
+  const siteHandle = 'stjohnsjim';
+  const topDomain = 'stjohnsjim.com';
+  import Header from './Header.svelte';
+  import Footer from './Footer.svelte';
+  import Aside from './Aside.svelte';
 </script>
 
 <template lang="pug">
@@ -21,20 +20,21 @@ svelte:head
   meta(name='keywords', content='Pier Park, Cathedral Park, fiction, North Portland,St. John\'s, st johns')
   meta(property='fb:admins', content='187314157994069')
   link(rel='apple-touch-icon', sizes='76x76', href='/assets/icons/apple-icon-76x76.png')
-  link(rel='apple-touch-icon', sizes='114x114', href='/assets/icons/apple-icon-114x114.png')
-  link(rel='apple-touch-icon', sizes='120x120', href='/assets/icons/apple-icon-120x120.png')
-  link(rel='apple-touch-icon', sizes='144x144', href='/assets/icons/apple-icon-144x144.png')
-  link(rel='apple-touch-icon', sizes='152x152', href='/assets/icons/apple-icon-152x152.png')
-  link(rel='apple-touch-icon', sizes='180x180', href='/assets/icons/apple-icon-180x180.png')
-  link(rel='icon', type='image/png', sizes='192x192', href='/assets/icons/android-icon-192x192.png')
-  link(rel='icon', type='image/png', sizes='32x32', href='/assets/icons/favicon-32x32.png')
-  link(rel='icon', type='image/png', sizes='96x96', href='/assets/icons/favicon-96x96.png')
-  link(rel='icon', type='image/png', sizes='16x16', href='/assets/icons/favicon-16x16.png')
+  link(rel='apple-touch-icon', sizes='114x114', href='/icons/apple-icon-114x114.png')
+  link(rel='apple-touch-icon', sizes='120x120', href='/icons/apple-icon-120x120.png')
+  link(rel='apple-touch-icon', sizes='144x144', href='/icons/apple-icon-144x144.png')
+  link(rel='apple-touch-icon', sizes='152x152', href='/icons/apple-icon-152x152.png')
+  link(rel='apple-touch-icon', sizes='180x180', href='/icons/apple-icon-180x180.png')
+  link(rel='icon', type='image/png', sizes='192x192', href='/icons/android-icon-192x192.png')
+  link(rel='icon', type='image/png', sizes='32x32', href='/icons/favicon-32x32.png')
+  link(rel='icon', type='image/png', sizes='96x96', href='/icons/favicon-96x96.png')
+  link(rel='icon', type='image/png', sizes='16x16', href='/icons/favicon-16x16.png')
   meta(name='msapplication-TileColor', content='#ffffff')
-  meta(name='msapplication-TileImage', content='/assets/icons/ms-icon-144x144.png')
+  meta(name='msapplication-TileImage', content='/icons/ms-icon-144x144.png')
   meta(name='theme-color', content='#ffffff')
   link(rel='shortcut icon', href='assets/icons/favicon.ico', type='image/x-icon')
   link(rel='icon', href='assets/icons/favicon.ico', type='image/x-icon')
+  link(rel="alternate" type="application/rss+xml" title="stjohnsjim" href="http://stjohnsjim.com/api/rss.xml")
 
 #stjohnsjim-body
   div.sitecontainer
@@ -48,7 +48,7 @@ svelte:head
 </template>
 
 <style>
-  @import "@picocss/pico";
+  @import '@picocss/pico';
   .sitecontainer {
     padding: 0.1in;
     display: flex;
@@ -64,10 +64,10 @@ svelte:head
     display: grid;
     gap: 5em 0em;
     grid-template-columns: 1fr 5fr 2fr;
-    grid-template-areas: "None Main Aside";
+    grid-template-areas: 'None Main Aside';
     min-height: 100vh;
   }
-#stjohnsjim-body {
-  background:#cce6ff;
-}
+  #stjohnsjim-body {
+    background: #cce6ff;
+  }
 </style>

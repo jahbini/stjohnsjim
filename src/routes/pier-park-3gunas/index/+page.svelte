@@ -1,7 +1,7 @@
 <script>
-//pier-park-3gunas/index
-import Card from '$lib/Card.svelte';
-import storyMeta from './+page.json';
+  //pier-park-3gunas/index
+  import Card from '$lib/Card.svelte';
+  import storyMeta from './+page.json';
 </script>
 
 <template lang="pug">

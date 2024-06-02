@@ -1,7 +1,7 @@
 <script>
-//story/jim-reads-tarot
-import Card from '$lib/Card.svelte';
-import storyMeta from './+page.json';
+  //story/jim-reads-tarot
+  import Card from '$lib/Card.svelte';
+  import storyMeta from './+page.json';
 </script>
 
 <template lang="pug">

@@ -1,7 +1,7 @@
 <script>
-//story/lonesome-al-and-the-space-door
-import Card from '$lib/Card.svelte';
-import storyMeta from './+page.json';
+  //story/lonesome-al-and-the-space-door
+  import Card from '$lib/Card.svelte';
+  import storyMeta from './+page.json';
 </script>
 
 <template lang="pug">

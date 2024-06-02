@@ -15,27 +15,26 @@
 </template>
 
 <style>
-.center {
-  text-align: center;
-}
-.vibrant-text {
-  color: #fff;
-  text-shadow: 1px 2px 3px #762;
-  
-}
-#header {
-  background: #eee;
-  min-height:30px;
-  background:center 32% no-repeat url(/images/banner.jpg);
-  padding: 1rem;
-  place-items: center;
-  grid-area: Header;
-  grid-template-columns: 1fr 2fr 1fr;
-  align-content: center;
-  grid-auto-flow: column;
+  .center {
+    text-align: center;
+  }
+  .vibrant-text {
+    color: #fff;
+    text-shadow: 1px 2px 3px #762;
+  }
+  #header {
+    background: #eee;
+    min-height: 30px;
+    background: center 32% no-repeat url(/images/banner.jpg);
+    padding: 1rem;
+    place-items: center;
+    grid-area: Header;
+    grid-template-columns: 1fr 2fr 1fr;
+    align-content: center;
+    grid-auto-flow: column;
   }
 
-.circle {
-border-radius:45%;
-}
+  .circle {
+    border-radius: 45%;
+  }
 </style>

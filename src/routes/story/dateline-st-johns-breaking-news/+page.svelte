@@ -1,7 +1,7 @@
 <script>
-//story/dateline-st-johns-breaking-news
-import Card from '$lib/Card.svelte';
-import storyMeta from './+page.json';
+  //story/dateline-st-johns-breaking-news
+  import Card from '$lib/Card.svelte';
+  import storyMeta from './+page.json';
 </script>
 
 <template lang="pug">

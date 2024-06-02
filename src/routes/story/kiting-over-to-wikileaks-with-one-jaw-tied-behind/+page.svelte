@@ -1,7 +1,7 @@
 <script>
-//story/kiting-over-to-wikileaks-with-one-jaw-tied-behind
-import Card from '$lib/Card.svelte';
-import storyMeta from './+page.json';
+  //story/kiting-over-to-wikileaks-with-one-jaw-tied-behind
+  import Card from '$lib/Card.svelte';
+  import storyMeta from './+page.json';
 </script>
 
 <template lang="pug">

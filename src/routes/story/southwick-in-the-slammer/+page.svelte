@@ -1,7 +1,7 @@
 <script>
-//story/southwick-in-the-slammer
-import Card from '$lib/Card.svelte';
-import storyMeta from './+page.json';
+  //story/southwick-in-the-slammer
+  import Card from '$lib/Card.svelte';
+  import storyMeta from './+page.json';
 </script>
 
 <template lang="pug">

@@ -1,7 +1,7 @@
 <script>
-//story/the-great-harvest-moon-part-3-cleaning-up-the
-import Card from '$lib/Card.svelte';
-import storyMeta from './+page.json';
+  //story/the-great-harvest-moon-part-3-cleaning-up-the
+  import Card from '$lib/Card.svelte';
+  import storyMeta from './+page.json';
 </script>
 
 <template lang="pug">

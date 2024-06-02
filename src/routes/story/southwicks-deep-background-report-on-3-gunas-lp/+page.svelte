@@ -1,7 +1,7 @@
 <script>
-//story/southwicks-deep-background-report-on-3-gunas-lp
-import Card from '$lib/Card.svelte';
-import storyMeta from './+page.json';
+  //story/southwicks-deep-background-report-on-3-gunas-lp
+  import Card from '$lib/Card.svelte';
+  import storyMeta from './+page.json';
 </script>
 
 <template lang="pug">

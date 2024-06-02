@@ -1,7 +1,7 @@
 <script>
-//story/tommy-believes-in-magic
-import Card from '$lib/Card.svelte';
-import storyMeta from './+page.json';
+  //story/tommy-believes-in-magic
+  import Card from '$lib/Card.svelte';
+  import storyMeta from './+page.json';
 </script>
 
 <template lang="pug">

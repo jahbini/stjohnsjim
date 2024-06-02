@@ -1,7 +1,7 @@
 <script>
-//california/coala-harbor-cat
-import Card from '$lib/Card.svelte';
-import storyMeta from './+page.json';
+  //california/coala-harbor-cat
+  import Card from '$lib/Card.svelte';
+  import storyMeta from './+page.json';
 </script>
 
 <template lang="pug">

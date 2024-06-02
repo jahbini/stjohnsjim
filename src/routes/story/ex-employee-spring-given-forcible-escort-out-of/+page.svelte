@@ -1,7 +1,7 @@
 <script>
-//story/ex-employee-spring-given-forcible-escort-out-of
-import Card from '$lib/Card.svelte';
-import storyMeta from './+page.json';
+  //story/ex-employee-spring-given-forcible-escort-out-of
+  import Card from '$lib/Card.svelte';
+  import storyMeta from './+page.json';
 </script>
 
 <template lang="pug">

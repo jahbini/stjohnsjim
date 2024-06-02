@@ -1,7 +1,7 @@
 <script>
-//california/anna-played-piana
-import Card from '$lib/Card.svelte';
-import storyMeta from './+page.json';
+  //california/anna-played-piana
+  import Card from '$lib/Card.svelte';
+  import storyMeta from './+page.json';
 </script>
 
 <template lang="pug">

@@ -1,7 +1,7 @@
 <script>
-//story/give-him-what-he-needs
-import Card from '$lib/Card.svelte';
-import storyMeta from './+page.json';
+  //story/give-him-what-he-needs
+  import Card from '$lib/Card.svelte';
+  import storyMeta from './+page.json';
 </script>
 
 <template lang="pug">

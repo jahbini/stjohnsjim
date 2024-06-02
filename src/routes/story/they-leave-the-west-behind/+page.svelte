@@ -1,7 +1,7 @@
 <script>
-//story/they-leave-the-west-behind
-import Card from '$lib/Card.svelte';
-import storyMeta from './+page.json';
+  //story/they-leave-the-west-behind
+  import Card from '$lib/Card.svelte';
+  import storyMeta from './+page.json';
 </script>
 
 <template lang="pug">

@@ -1,7 +1,7 @@
 <script>
-//story/seasonsgreetingsfest-2010
-import Card from '$lib/Card.svelte';
-import storyMeta from './+page.json';
+  //story/seasonsgreetingsfest-2010
+  import Card from '$lib/Card.svelte';
+  import storyMeta from './+page.json';
 </script>
 
 <template lang="pug">

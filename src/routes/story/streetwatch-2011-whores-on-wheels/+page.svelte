@@ -1,7 +1,7 @@
 <script>
-//story/streetwatch-2011-whores-on-wheels
-import Card from '$lib/Card.svelte';
-import storyMeta from './+page.json';
+  //story/streetwatch-2011-whores-on-wheels
+  import Card from '$lib/Card.svelte';
+  import storyMeta from './+page.json';
 </script>
 
 <template lang="pug">

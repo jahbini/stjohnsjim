@@ -1,7 +1,7 @@
 <script>
-//almost-history/deadwood
-import Card from '$lib/Card.svelte';
-import storyMeta from './+page.json';
+  //almost-history/deadwood
+  import Card from '$lib/Card.svelte';
+  import storyMeta from './+page.json';
 </script>
 
 <template lang="pug">

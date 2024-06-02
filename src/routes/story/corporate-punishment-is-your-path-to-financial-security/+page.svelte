@@ -1,7 +1,7 @@
 <script>
-//story/corporate-punishment-is-your-path-to-financial-security
-import Card from '$lib/Card.svelte';
-import storyMeta from './+page.json';
+  //story/corporate-punishment-is-your-path-to-financial-security
+  import Card from '$lib/Card.svelte';
+  import storyMeta from './+page.json';
 </script>
 
 <template lang="pug">

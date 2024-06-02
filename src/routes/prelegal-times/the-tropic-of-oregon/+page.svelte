@@ -1,7 +1,7 @@
 <script>
-//prelegal-times/the-tropic-of-oregon
-import Card from '$lib/Card.svelte';
-import storyMeta from './+page.json';
+  //prelegal-times/the-tropic-of-oregon
+  import Card from '$lib/Card.svelte';
+  import storyMeta from './+page.json';
 </script>
 
 <template lang="pug">

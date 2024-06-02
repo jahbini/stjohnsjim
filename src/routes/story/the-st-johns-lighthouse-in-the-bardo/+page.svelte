@@ -1,7 +1,7 @@
 <script>
-//story/the-st-johns-lighthouse-in-the-bardo
-import Card from '$lib/Card.svelte';
-import storyMeta from './+page.json';
+  //story/the-st-johns-lighthouse-in-the-bardo
+  import Card from '$lib/Card.svelte';
+  import storyMeta from './+page.json';
 </script>
 
 <template lang="pug">

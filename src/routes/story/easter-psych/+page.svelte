@@ -1,7 +1,7 @@
 <script>
-//story/easter-psych
-import Card from '$lib/Card.svelte';
-import storyMeta from './+page.json';
+  //story/easter-psych
+  import Card from '$lib/Card.svelte';
+  import storyMeta from './+page.json';
 </script>
 
 <template lang="pug">

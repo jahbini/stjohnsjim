@@ -1,7 +1,7 @@
 <script>
-//tarot/swords
-import Card from '$lib/Card.svelte';
-import storyMeta from './+page.json';
+  //tarot/swords
+  import Card from '$lib/Card.svelte';
+  import storyMeta from './+page.json';
 </script>
 
 <template lang="pug">

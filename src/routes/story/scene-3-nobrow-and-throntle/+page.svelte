@@ -1,7 +1,7 @@
 <script>
-//story/scene-3-nobrow-and-throntle
-import Card from '$lib/Card.svelte';
-import storyMeta from './+page.json';
+  //story/scene-3-nobrow-and-throntle
+  import Card from '$lib/Card.svelte';
+  import storyMeta from './+page.json';
 </script>
 
 <template lang="pug">

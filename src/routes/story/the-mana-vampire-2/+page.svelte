@@ -1,7 +1,7 @@
 <script>
-//story/the-mana-vampire-2
-import Card from '$lib/Card.svelte';
-import storyMeta from './+page.json';
+  //story/the-mana-vampire-2
+  import Card from '$lib/Card.svelte';
+  import storyMeta from './+page.json';
 </script>
 
 <template lang="pug">

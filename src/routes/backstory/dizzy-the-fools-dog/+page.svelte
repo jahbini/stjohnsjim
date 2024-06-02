@@ -1,7 +1,7 @@
 <script>
-//backstory/dizzy-the-fools-dog
-import Card from '$lib/Card.svelte';
-import storyMeta from './+page.json';
+  //backstory/dizzy-the-fools-dog
+  import Card from '$lib/Card.svelte';
+  import storyMeta from './+page.json';
 </script>
 
 <template lang="pug">

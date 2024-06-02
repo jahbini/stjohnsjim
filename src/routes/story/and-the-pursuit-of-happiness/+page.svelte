@@ -1,7 +1,7 @@
 <script>
-//story/and-the-pursuit-of-happiness
-import Card from '$lib/Card.svelte';
-import storyMeta from './+page.json';
+  //story/and-the-pursuit-of-happiness
+  import Card from '$lib/Card.svelte';
+  import storyMeta from './+page.json';
 </script>
 
 <template lang="pug">
