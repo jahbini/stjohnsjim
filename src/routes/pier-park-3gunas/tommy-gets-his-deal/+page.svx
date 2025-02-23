@@ -1,0 +1,54 @@
+---
+id: stjohnsjim/pier-park-3gunas/tommy-gets-his-deal
+name: Tommy gets his deal
+fields:
+  title: Tommy gets his deal
+  slug: tommy-gets-his-deal
+  category: pier-park-3gunas
+  site: stjohnsjim
+  accepted: true
+  index: false
+  headlines: []
+  tags: []
+  snippets: '{"3gunas":"3gunas"}'
+  memberOf:
+    - GUNAS
+  published: "2011-10-02T12:40:04.000Z"
+  embargo: "2017-12-31T23:59:59.000Z"
+  author: 'Copyright 2010-2018 James A. Hinds: St. John''s Jim -- King of Cascadia'
+  debug: ""
+  created: "2011-10-02T12:40:04.000Z"
+  lastEdited: "2011-10-03T14:20:28.000Z"
+  captureDate: "2017-07-26T05:10:34.000Z"
+  TimeStamp: "1501045834000"
+---
+<script>
+  //pier-park-3gunas/tommy-gets-his-deal
+  import Card from '$lib/Card.svelte';
+  let storyMeta={fields:fields};
+</script>
+
+<template lang="pug">
+  Card(props="{storyMeta}" )
+        p
+          | The word on the street is that there is a huge marijuana grow over at Pier Park, St. John’s, Portland, OR, USA, land of the brave or the free (
+          em bravery not related to freedom, offer extended only until 2033
+          | ).
+        p
+          | We Are Shocked! Marijuana is a
+          a(href='http://www.huffingtonpost.com/2011/09/21/los-angeles-crime-rise-pot-clinics_n_973632.html') menace to society
+          | that is akin to
+          a(href='http://www.google.com/search?rls=en&q=pornography+crime+statistics&ie=UTF-8&oe=UTF-8') pornography
+          | or
+          a(href='http://articles.nydailynews.com/2011-09-10/news/30162428_1_prostitution-cops-priestess') sexual healing! Tantra indeed!
+          | A blight, a blight on our virtues! Let me say in no uncertain terms, that we need to take these things very, very seriously. When society tells you you have a vice, just say no. We must stay brave, or free. Whatever.
+        p I went straightaway to Southwick’s Tag:3gunas:place}}}. I thought Tommy would know something. When I got there, Tommy was ranting on the phone.
+        p "Yeah, Bambi, I got the guy to fix it all up! You won’t have anything to worry about. My guy knows all about spiders and bugs. A little 3-4-D-megalith-nonSanto-3-4-Dow-Chemical is the thing… Yeah, I can drop some off… Cash… $100? … Yeah, I’ll call you when I get there."
+        p He hangs up the phone. "Southwick? Yeah, he’s around here someplace. Most likely doing his laundry. He washes too fucking much."
+        p I go down to the basement, and Southwick talking with someone over his small ranch of Green Elephants. "Do you think the tusks are forming fast enough?" "Enough space to run and play?"
+  footer.card-footer
+    p.text-muted that's all--
+</template>
+
+<style>
+</style>

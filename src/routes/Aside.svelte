@@ -1,23 +1,25 @@
 <script>
   export const identifier = 'aside';
-  let stories = import.meta.glob('/src/routes/**/+page.json', { eager: true, import: 'fields' });
+  let stories = (import.meta.glob('/src/routes/**/+page.svx', { eager: true, import: 'metadata' }));
   import _ from 'underscore';
-  _.map(stories, (value, key) => {
-    value.location = key.slice(12, key.length - 11);
-    return value;
+  let myStories = _.map(stories, (value, key) => {
+    let result = value.fields || value;
+    result.location = key.slice(12, key.length - 10);
+    return result;
   });
-  stories = _.groupBy(stories, 'category');
-  delete stories['-'];
-  stories = _.toArray(stories);
+  myStories = _.groupBy(myStories, 'category');
+  delete myStories['-'];
+  debugger;
+  myStories = _.toArray(myStories);
 </script>
 
 <div class="aside">
-  {#each stories as category, indexx}
+  {#each myStories as category, indexx}
     <details role="list">
-      <summary aria-haspopup="listbox">{stories[indexx][0].category}</summary>
+      <summary aria-haspopup="listbox">{myStories[indexx][0].category}</summary>
       <ul role="listbox">
-        {#each stories[indexx] as story}
-          <li><a href="{story.category}/{story.slug}.html">{story.title}</a></li>
+        {#each myStories[indexx] as story}
+          <li><a href="{story.category}/{story.slug}">{story.title}</a></li>
         {/each}
         <ul />
       </ul>

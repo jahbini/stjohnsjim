@@ -1,0 +1,53 @@
+---
+id: stjohnsjim/story/national-exhale-week
+name: National Exhale Week
+fields:
+  title: National Exhale Week
+  slug: national-exhale-week
+  category: story
+  site: stjohnsjim
+  accepted: true
+  index: false
+  headlines: []
+  tags: []
+  snippets: '{"first name":"first name"}'
+  memberOf:
+    - TAROT
+  published: "2010-12-24T16:17:49.000Z"
+  embargo: "2017-12-31T23:59:59.000Z"
+  author: 'Copyright 2010-2018 James A. Hinds: St. John''s Jim -- King of Cascadia'
+  debug: ""
+  created: "2010-12-24T15:55:10.000Z"
+  lastEdited: "2010-12-24T16:17:49.000Z"
+  captureDate: "2017-07-26T05:10:33.158Z"
+  TimeStamp: "1501045833158"
+---
+<script>
+  //story/national-exhale-week
+  import Card from '$lib/Card.svelte';
+  let storyMeta={fields:fields};
+</script>
+
+<template lang="pug">
+  Card(props="{storyMeta}" )
+        p  By the time you read this, the nation is exhaling the Christmas of 2010. Right now, though, it is a mad dash to Christmas Eve.
+        p The many merchants of St. John’s are frantic in the last moments of seasonal buying. Established Cafes and Bars are at ‘cruise control,’ retailers can be a bit more frantic, and the biggest struggles hit the very most seasonal retailers: Christmas Tree Lots.
+        p The foot traffic didn’t come, even though you spent $500 on a sandwich board and had Joe Schlump walk around town with it. Come to think of it, where is Joe?  Nobody’s seen him for two weeks. D’ya think he’s not walking around with the sign? And sitting around waiting for a customer is driving you nuts.  Even your dog can tell.
+        p
+          em "The rain washed away my great chalk candy-cane on the sidewalk. Oh, crap, where did that customer go? What were they looking at? is everything still here?"
+        p If you are on the customer side of the counter, you have been belted by the national hype machine to inhale the “Spirit of the Season,” until your credit bursts in the manner of foie gras.
+        p It is natural that geese adapt to fall by developing large and tasty livers; It is natural that humans responded by overstuffing the poor goose. It is natural that we respond to harvest and preparation for winter by wanting to share the bounties of our lives. It’s called the “Spirit of the Season.”
+        p Don’t bust a lung.
+        p We have inhaled to the max. For most it’s a yearly exhale. For those of us who are exploring new chapters, it is more than that. It may be the exhale to remember. Savor it.
+        p Know this. The breath tide has turned, and you exhale the big exhale this special day.  National Exhale Day.
+        p And you can savor the moment: We will not need to do anything: National Exhale Week lasts until National Inhale Day: Monday, January 3, 2011. You will have that time to listen for still small voices.
+        p
+          | Listen and savor,
+          span.FBname Friend
+          | , National Inhale day will also come.
+  footer.card-footer
+    p.text-muted that's all--
+</template>
+
+<style>
+</style>

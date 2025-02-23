@@ -1,0 +1,40 @@
+---
+id: stjohnsjim/story/the-cougars-secret-identity
+name: The Cougar's Secret Identity
+fields:
+  title: The Cougar's Secret Identity
+  slug: the-cougars-secret-identity
+  category: story
+  site: stjohnsjim
+  accepted: true
+  index: false
+  headlines: []
+  tags: []
+  snippets: '{"first name":"first name","fbgender":"fbgender","tcreturn":"tcreturn"}'
+  memberOf:
+    - TAROT
+  published: "2011-10-10T13:47:35.000Z"
+  embargo: "2017-12-31T23:59:59.000Z"
+  author: 'Copyright 2010-2018 James A. Hinds: St. John''s Jim -- King of Cascadia'
+  debug: ""
+  created: "2011-10-10T13:47:35.000Z"
+  lastEdited: "2011-10-11T15:59:52.000Z"
+  captureDate: "2017-07-26T05:10:33.000Z"
+  TimeStamp: "1501045833000"
+---
+<script>
+  //story/the-cougars-secret-identity
+  import Card from '$lib/Card.svelte';
+  let storyMeta={fields:fields};
+</script>
+
+<template lang="pug">
+  Card(props="{storyMeta}" )
+        div
+          div This Page may not exist: As they say on Saipan, "No Nawthing Thursday"
+  footer.card-footer
+    p.text-muted that's all--
+</template>
+
+<style>
+</style>

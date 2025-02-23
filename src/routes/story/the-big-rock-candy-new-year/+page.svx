@@ -1,0 +1,70 @@
+---
+id: stjohnsjim/story/the-big-rock-candy-new-year
+name: The Big Rock Candy New Year
+fields:
+  title: The Big Rock Candy New Year
+  slug: the-big-rock-candy-new-year
+  category: story
+  site: stjohnsjim
+  accepted: true
+  index: false
+  headlines: []
+  tags: []
+  snippets: '{}'
+  memberOf: []
+  published: "2011-01-01T18:35:30.000Z"
+  embargo: "2017-12-31T23:59:59.000Z"
+  author: 'Copyright 2010-2018 James A. Hinds: St. John''s Jim -- King of Cascadia'
+  debug: ""
+  created: "2011-01-01T18:16:10.000Z"
+  lastEdited: "2011-01-01T18:35:30.000Z"
+  captureDate: "2017-07-26T05:10:33.165Z"
+  TimeStamp: "1501045833165"
+---
+<script>
+  //story/the-big-rock-candy-new-year
+  import Card from '$lib/Card.svelte';
+  let storyMeta={fields:fields};
+</script>
+
+<template lang="pug">
+  Card(props="{storyMeta}" )
+        p I’m starting this year as if everything will be fabulous. Screw the resolutions, Let’s go for end-times perfection. Hey, let’s plan big in 2011.
+        p Try these rhymes to the tune of Big Rock Candy Mountain.  You know: where the flying pigs wear lipstick.
+        blockquote
+          p
+            | in the Year of Twenty ‘leven, Our congress finall- y sane
+            br
+            | the gas-bags learn humility, and we keep them on a chain
+            br
+            | The red states want to kiss the blue and the world will link up, too
+            br
+            | and the Taxes paid when peace is made
+            br
+            | and the laws make sense and not offense
+            br
+            | in the Year of Twenty ‘leven
+          p
+            | in the Year of Twenty ‘leven, old terrors lose their wrath
+            br
+            | the babies all are wanted too and helped along their path
+            br
+            | All parents are the perfect ones for the daughters and the sons
+            br
+            | the sins of the past are gone at last
+            br
+            | and all we miss will return as bliss
+            br
+            | in the Year of Twenty ‘leven
+            br
+            |  
+        p and if not in 2011, then maybe in 3011.
+        p What did I learn from all this? Aligning syllables, accents and meter is a royal pain!
+        p
+          em Happy New Year!
+  footer.card-footer
+    p.text-muted that's all--
+</template>
+
+<style>
+</style>
